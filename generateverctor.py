@@ -49,4 +49,4 @@ if __name__ == '__main__':
     # contants, labels = readfile("testpath.txt")
     # print(contants[1], labels[1])
     vectors, labels, features = tfidf("allfiles.txt")
-    print(vectors[1])
+    print(vectors.shape, len(labels))
