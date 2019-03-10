@@ -1,15 +1,17 @@
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import numpy as np
+from os import path
 
 def readfile(filepath):
     contants = []
     labels = []
-    with open(filepath) as fp:
+    uni = []
+    with open(path.abspath(filepath)) as fp:
         for line in fp.readlines():
             line = "processed/" + line.strip() + ".txt"
             #read contants of each file
             try:
-                with open(line) as file:
+                with open(path.abspath(line)) as file:
                     data = file.read().replace("\n", " ")
                     contants.append(data)
             except:
@@ -30,23 +32,34 @@ def readfile(filepath):
                 labels.append('5')
             elif tags[1] == 'student':
                 labels.append('6')
-    return contants, labels
+            # add university for each file
+            if tags[2] == 'cornell':
+                uni.append('cornell')
+            elif tags[2] == 'misc':
+                uni.append('misc')
+            elif tags[2] == "texas":
+                uni.append("texas")
+            elif tags[2] == "washington":
+                uni.append("washington")
+            elif tags[2] == "wisconsin":
+                uni.append("wisconsin")
+    return contants, labels, uni
 
 def tfidf(filepath):
-    contants, labels = readfile(filepath)
+    contants, labels, uni = readfile(filepath)
     tfidf = TfidfVectorizer(stop_words="english")
     vectors = tfidf.fit_transform(contants)
-    return vectors, labels, tfidf.get_feature_names()
+    return vectors, labels, uni, tfidf.get_feature_names() # uni = university
 
 def bow(filepath):
-    contants, labels = readfile(filepath)
+    contants, labels, uni = readfile(filepath)
     bow = CountVectorizer(stop_words="english")
     vectors = bow.fit_transform(contants)
-    return vectors, labels, bow.get_feature_names()
+    return vectors, labels, uni, bow.get_feature_names()
 
 # test
 if __name__ == '__main__':
     # contants, labels = readfile("testpath.txt")
     # print(contants[1], labels[1])
-    vectors, labels, features = tfidf("allfiles.txt")
-    print(vectors.shape, len(labels))
+    vectors, labels, uni, features = tfidf("allfiles.txt")
+    print(vectors.shape, len(labels), len(uni))
