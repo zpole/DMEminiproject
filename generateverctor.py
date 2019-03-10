@@ -49,7 +49,7 @@ def tfidf(filepath):
     contants, labels, uni = readfile(filepath)
     tfidf = TfidfVectorizer(stop_words="english")
     vectors = tfidf.fit_transform(contants)
-    return vectors, labels, uni, tfidf.get_feature_names() # uni = university
+    return vectors, labels, uni, tfidf.get_feature_names()  # uni = university
 
 def bow(filepath):
     contants, labels, uni = readfile(filepath)
