@@ -1,6 +1,0 @@
-MIME-Version: 1.0
-Server: CERN/3.0
-Date: Monday, 25-Nov-96 00:40:26 GMT
-Content-Type: text/html
-Content-Length: 3108
-Last-Modified: Thursday, 12-Oct-95 19:59:53 GMT

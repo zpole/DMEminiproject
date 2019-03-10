@@ -1,9 +1,0 @@
-Server: Netscape-Communications/1.1
-Date: Wednesday, 20-Nov-96 22:29:05 GMT
-Last-modified: Tuesday, 12-Nov-96 22:57:22 GMT
-Content-length: 2008
-Content-type: text/html
-
-
-Laurian M Chirica
-
