@@ -1,0 +1,64 @@
+Date: Tue, 26 Nov 1996 17:55:06 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 09 Oct 1996 13:42:52 GMT
+Content-length: 1557
+
+Rastislav Bodik
+
+
+
+Rastislav Bodík
+
+
+I am a graduate student in the
+Programming Languages
+Group
+in the
+Department of Computer Science
+at the
+University of Pittsburgh
+.
+My current research interest is
+program analysis and optimization
+.
+
+Before coming to
+Pitt
+,
+I spent five years at the
+Technical University
+in
+Kosice
+,
+Slovakia
+,
+my hometown.
+
+
+
+
+
+
+
+
+Address:
+
+302 MIB
+
+Department of Computer Science
+
+
+University of Pittsburgh
+
+Pittsburgh, PA 15260
+
+
+(412) 624-1267
+
+
+(412) 521-9177
+
+
+bodik@cs.pitt.edu
+

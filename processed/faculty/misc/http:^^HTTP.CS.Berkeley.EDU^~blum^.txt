@@ -1,0 +1,64 @@
+Date: Thu, 21 Nov 1996 19:59:23 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Tue, 30 Jan 1996 21:12:15 GMT
+Content-length: 1971
+Manuel Blum
+
+Manuel Blum
+B.S. in Electrical Engineering, Massachusetts Intitute of Technology, 1959
+M.S. in Electrical Engineering, Massachusetts Intitute of Technology, 1961
+Ph.D. in Mathematics, Massachusetts Institute of Technology, 1964
+
+Professor
+W: (510) 642-1662
+H: (510) 525-8730
+blum@cs.berkeley.edu
+
+
+Awards/Lectureships
+
+ACM's A. M. Turing Award, 1995
+Arthur J. Chick Chair, EECS, 1995
+Fellow, American Academy of Arts and Sciences, 1995
+Faculty Research Lecturer, UC Berkeley Academic Senate, 1994
+Sigma Xi's Monie A. Ferst Award, 1991
+Fellow, American Association for the Advancement of Science, 1988
+Fellow, IEEE, 1987
+Invited Lecturer, International Congress of Mathematicians, 1986
+Chair, Computer Science Division, 1977-1980
+Distinguished Teaching Award, Academic Senate of UC Berkeley, 1977
+Distinguished Lecturer: University of Washington, Princeton University,
+Massachusetts Institute of Technology, Carnegie Mellon University,
+Georgia Institute of Technology, Dartmouth University.
+
+
+
+Committees to Evaluate Computer Science Departments
+at Ph.D. Granting Institutions.
+
+Notes for CS170:  Introduction to Theoretical CS.
+
+Notes for CS174: Probability and Graph Theory in CS.
+
+Selected Publications.
+
+
+
+My current PhD students:
+*
+
+Mor Harchol-Balter
+
+*
+
+Troy Shahoumian
+
+*
+
+Hal Wasserman
+
+(click here for information on result-checking)
+
+
+

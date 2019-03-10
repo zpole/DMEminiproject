@@ -1,0 +1,13 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Mon, 24 Feb 1997 18:42:28 GMT
+Server: NCSA/1.5
+Location: http://www.tc.cornell.edu/Edu/VW/
+Content-type: text/html
+Document moved
+
+Document moved
+This document has permanently moved
+here
+.
+
+

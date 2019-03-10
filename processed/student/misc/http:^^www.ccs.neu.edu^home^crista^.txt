@@ -1,0 +1,133 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:36:48 GMT
+Content-Type: text/html
+Content-Length: 4168
+Last-Modified: Thursday, 23-May-96 21:31:10 GMT
+
+
+
+
+Cristina Videira Lopes's WWW Home Page
+
+
+
+Welcome the World Wide Web page of
+
+
+_______ Cristina Videira Lopes
+
+
+crista@ccs.neu.edu
+
+
+
+
+Hello! I'm a Ph.D. candidate in the
+College of Computer Science
+(CCS) at
+Northeastern University
+, under the Fulbright Program.
+My advisor is
+Prof. Karl Lieberherr
+, and I'm
+currently a member of the
+Demeter
+development team.
+
+I also colaborate with the
+Xerox PARC
+'s
+Open Implementation Project
+, lead by
+Gregor Kiczales
+.
+My research interests include distributed object-oriented systems and
+applications. For my thesis, I'm developing a meta-language for distributed
+OO applications. On the technical side, you can check out my
+papers and publications
+,
+my
+favorite conferences
+and the
+OOPSLA'95 workshop on Adaptable and Adaptive Software
+. You may also want
+to take a look at the latest and most exciting project I'm working on: the
+AOP
+Project.
+
+I'm from
+Portugal
+and I have an Engineering and a Master degrees in
+Electrical and Computer Engineering from
+Instituto Superior Técnico
+.
+While I was in Portugal, I worked at
+INESC
+, in the
+research group on Distributed
+Systems
+, and I was a Teaching Assistant at IST.
+
+
+
+If you really need to contact me, my physical persona is
+currently at
+
+
+
+
+Here are some links:
+
+
+My private collection of
+portuguese expressions
+, literally translated into english.
+
+Some
+portuguese restaurants
+around the world.
+
+The
+PT-NET
+connection.
+
+
+Lusófilos
+in the Bay Area.
+
+
+
+Portuguese Usenet Newsgroup
+
+
+
+Other interesting places on the Web
+.
+
+
+
+
+
+
+
+Here's the californian version of
+me
+.
+
+
+
+
+Finger me to see if I am currently logged in.
+
+
+
+
+Cristina Videira Lopes
+College of Computer Science, Northeastern University
+360 Huntington Avenue #237CN, Boston, MA 02115, USA
+Phone: +1 617 373 2077 | Fax: +1 617 373 5121
+
+
+Last update: 3/25/96
+

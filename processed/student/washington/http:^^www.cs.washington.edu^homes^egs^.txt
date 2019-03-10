@@ -1,0 +1,179 @@
+Date: Thu, 21 Nov 1996 22:51:12 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 19 Nov 1996 04:57:24 GMT
+Content-length: 6389
+
+
+Emin Gun Sirer
+
+
+
+
+Emin Gün Sirer
+
+egs@cs.washington.edu
+
+
+
+Department of Computer Science & Engineering,
+
+
+University of Washington,
+Box 352350,
+
+Seattle, WA
+98195-2350 USA
+
+
+
+Background
+
+I'm currently a third year graduate student at the
+University of Washington.
+I grew up in Istanbul,
+Turkey
+, received my B.S.E in Computer Science from
+Princeton University
+in 1993 and am currently working towards a Ph.D. on the
+SPIN
+project with
+Prof. Brian Bershad
+.
+I spent the summer of '93 at
+AT&T Bell Labs
+working on the
+Plan 9
+operating system. I helped build a prototype 3-D display during the
+summer of '91 at the
+NEC Research Center
+in Princeton, New Jersey.
+Most recently, during the summer of '96, I worked at
+DEC SRC
+on the
+Vesta 2
+project.
+Projects
+
+My goal is to develop safe, adaptable and extensible operating systems.
+I developed the threads, scheduling, synchronization, IPC, dynamic linking and
+protection domain subsystems in SPIN. I also wrote the machine specific
+aspects of the SPIN kernel, such as the system call and interrupt paths, and
+some miscellaneous interfaces, such as alarms and mach compatibility support.
+The novel
+aspects of SPIN threads and scheduling are that they provide the means of
+extending a kernel with arbitrary thread implementations and scheduling
+policies. Dynamically linking the extensions into the kernel allows
+us to achieve high-performance. The interface, called strands, is
+designed to be safe and provide fault-isolation.
+The novel aspect of the
+SPIN protection domain interface
+is that it allows
+isolation and safe fine-grain sharing at the same time. Extensions with
+conflicting symbols can be simultaneously active in our system. Further,
+extensions can hide some of their code and data such that they can be
+assured that no one can possibly access them. The clincher is that extensions
+that want to share code and data can do so with no dynamic protection
+enforcement overhead.
+I also implemented a high-performance
+web server
+on top of the SPIN networking
+stack. The main objectives in its design are reduced http latency and
+minimal load.
+I wrote a MIPS instruction set simulator a couple of years ago, called
+MIPSI
+,
+that was robust enough to simulate all the SPEC benchmarks and Standard ML of
+New Jersey. It has been used both as an educational tool and as a research
+platform. This page describes MIPSI's
+features
+and availability.
+
+Papers
+
+
+
+Safe Dynamic Linking in an Extensible Operating System
+
+WCSSS 1996.
+Describes the SPIN protection and namespace management mechanism.
+
+Writing an Operating System Using Modula-3
+
+WCSSS 1996.
+Describes our experience with using Modula-3 to implement SPIN.
+
+
+Extensibility, Safety and
+Performance in the
+SPIN
+Operating System
+
+SOSP 1995.
+A design, implementation and performance paper.
+
+
+Protection is a Software Issue
+
+HotOS 1995. A position paper comparing software and
+hardware protection mechanisms.
+
+
+
+SPIN
+- An Extensible Microkernel for Application-specific
+Operating System Services
+
+SIGOPS European Workshop 1994.
+Operating Systems Review
+version.
+
+
+
+SPIN
+- An Extensible Microkernel for Application-specific
+Operating System Services
+
+University of Washington Technical Report UW-CSE-94-03-03, March 1994.
+
+Measuring Limits of Fine-grained Parallelism
+Senior independent work, Princeton University, June 1993.
+
+Talks
+
+
+Language Support for Extensible Operating Systems
+
+Slides from the presentation at the first Workshop for Compiler Support for Systems Software.
+WCSSS 1996
+, in Tucson, Arizona.
+
+Interests
+
+Whenever I can find time and opportunity, I do some of the following:
+
+
+
+
+
+sailing ~~~~~~     windsurfing
+
+
+
+
+diving
+~~~~~~~     skiing
+
+
+biking
+making outdoor clothing and
+hiking.
+
+
+I'm a big Bob Dylan fan.
+
+
+egs@cs.washington.edu
+
+
+

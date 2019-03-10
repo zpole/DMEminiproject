@@ -1,0 +1,77 @@
+Date: Thu, 21 Nov 1996 20:27:34 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 27 Sep 1996 23:51:57 GMT
+Content-length: 1867
+
+Richard Anderson's Home Page
+
+
+
+Richard Anderson
+, Associate Professor, graduated with a B.A. in
+Mathematics from
+Reed College
+in 1981,
+and a Ph.D. in Computer Science from Stanford
+in 1985.  He joined the University of Washington in 1986, after a
+one-year Postdoc at the
+Mathematical Science
+Research Institute
+in
+Berkeley, CA.  In 1987 he received an NSF Presidential Young
+Investigator award.  He spent the 1993-1994 academic year
+as a visiting professor at the
+Indian Institute of Science
+, in Bangalore, India.
+Richard Anderson's main research interests are in the theory and implementation
+of algorithms, including parallel algorithms, computational geometry, and
+scientific applications.
+
+Work:
+
+Computer Science & Engineering Department,
+
+University of Washington,
+Box 352350,
+
+Seattle, WA
+98195, USA
+
++1 (206) 543-1695
+FAX (206) 543-2969
+
+
+
+Teaching
+
+
+Some papers and work in progress
+
+
+Research Projects
+
+
+Qualifying Evaluation Projects
+
+
+Travel
+:  notes from my year visiting the
+Indian Institute of Science.
+
+Resume
+
+
+Travelling Tourist Project
+
+
+Pictures
+
+
+Recent Talks
+
+
+
+anderson@cs.washington.edu
+
+

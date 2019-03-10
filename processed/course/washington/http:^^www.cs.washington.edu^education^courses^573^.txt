@@ -1,0 +1,67 @@
+Date: Thu, 21 Nov 1996 22:18:29 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+CSE 573 Index Page
+
+
+CSE 573 - Artificial Intelligence
+
+Fall Quarter, 1996
+
+
+
+Artificial intelligence (AI) poses two of the most fundamental and
+challenging questions in computer science: can we build intelligent
+machines?  How? This course addresses these questions by providing an
+in-depth introduction to selected topics in AI including agent
+architectures, knowledge representation, search, planning, machine
+learning, reasoning about uncertainty, and AI methodology.
+
+
+
+
+Staff:
+
+Dan Weld
+weld@cs
+
+Sieg 408
+543-9196
+Hours, TBA
+
+Marc Friedman
+friedman@cs
+
+Sieg 429
+543-5129
+Hours, TBA
+
+Nick Kushmerick
+nick@cs
+
+Sieg 428
+685-2723
+Hours, TBA
+
+
+
+Outline of Topics
+
+Reading Assignments
+
+Assignments & Exams
+
+Grading
+
+Resources
+
+The
+Class Mailing
+List
+; see also the
+archive
+of past messages
+
+
+

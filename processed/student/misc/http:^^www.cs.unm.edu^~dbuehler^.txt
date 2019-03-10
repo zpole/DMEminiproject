@@ -1,0 +1,43 @@
+Date: Tue, 26 Nov 1996 17:50:36 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 19 Nov 1996 04:11:33 GMT
+Content-length: 1098
+
+
+DMB - a new Home Page
+
+
+
+
+CS 602 stuff
+
+
+
+
+Me
+|
+Past
+|
+Present
+|
+Contact
+|
+Hotlist
+|
+Pictures
+|
+Misc
+
+
+Daily web stops:
+INTC quote
+--
+Security APL
+--
+Dilbert Zone
+
+
+
+
+

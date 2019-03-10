@@ -1,0 +1,65 @@
+Server: Dienst v4-1-6
+MIME-version: 1.0
+Content-type: text/html
+Incorporating System Resource Information into Flow Control
+
+Incorporating System Resource Information into Flow Control
+Takako M. Hickey and  Robbert Van Renesse
+TR95-1489
+February 27, 1995
+
+Upcall-based distributed systems have become widespread in recent years. While upcall-based systems provide some obvious advantages, experiences with these systems have exposed unanticipated problems of unpredictability and inefficiency. Incorporating system resources information into flow control is essential in solving these problems. Variants of window-based flow control suitable for distributed systems are investigated. Next, message packing, which improves network bandwidth usage efficiency, and, consequently, message throughput, is presented. Finally, a back pressure mechanism which controls admission of messages into the system by blocking applications at high load is presented. The combination of the window mechanism and the back pressure mechanism provides end-to-end management of system resources. The former manages network resources, while the latter manages operating system resources. The combination maintains good throughput even under high load.
+
+
+How to view this document
+
+
+Display an
+overview
+of the document in one of the following formats.
+
+Overview of thumbnail pages
+
+
+Display a
+selected page
+in one of the following formats (document has 14 pages).
+
+
+raw OCR output
+inline gif image
+
+
+
+
+Display the
+whole
+document in one of the following formats.
+
+PostScript
+265293 bytes.
+
+
+
+Print or download all or selected pages.
+
+
+
+You are granted permission for the non-commercial reproduction, distribution,
+display, and performance of this technical report in any format, BUT this
+permission is only for a period of 45 (forty-five) days from the most recent
+time that you verified that this technical report is still available from
+the Computer Science Department of Cornell University under terms that
+include this permission.  All other rights are reserved by the author(s).
+[
+Search
+|
+Home page
+]
+
+NCSTRL
+This server operates at Cornell University.
+
+Send email to
+tech-reports@cs.cornell.edu
+

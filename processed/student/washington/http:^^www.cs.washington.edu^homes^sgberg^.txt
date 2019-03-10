@@ -1,0 +1,202 @@
+Date: Thu, 21 Nov 1996 23:04:58 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 04 Nov 1996 04:20:46 GMT
+Content-length: 6002
+
+
+
+Stefan G. Berg
+
+
+
+
+Stefan G. Berg
+
+
+
+
+
+
+
+
+Work
+Home
+
+427 Sieg Hall
+University of Washington
+Box 352350
+Seattle, WA 98195-2350
+U.S.A.
+
+5212 University Way NE
+Apt. 203
+Seattle, WA 98105-3532
+U.S.A.
+
+Phone: +1 206 543 5118
+Fax:   +1 206 543 2969
+
+Phone: +1 206 525 2147
+Fax:   +1 206 524 7725
+
+
+
+
+
+
+Email
+
+sgberg@cs.washington.edu
+
+
+
+
+
+Contents
+
+
+
+
+Address Information
+
+
+About Me
+
+
+Past Projects and Activities
+
+
+Current Projects and Activities
+
+
+Some Interesting Pages
+
+
+My Finger Information.
+
+
+
+
+
+
+
+
+About Me:
+
+Stefan was born in
+Cologne
+,
+Germany
+in Spring of 1973. In 1989, he completed his Mittlere Reife (10th
+grade) at the Schillergymnasium in Cologne before coming to the United States
+to receive a high school diploma from Bloomington High School North (Indiana)
+in 1991. Stefan received his Bachelor of Science with honors and distinction
+in the field of
+computer science
+from
+Indiana University
+in 1994. At the moment
+he is working towards a PhD at the
+University of Washington
+with an expected completion date sometime this
+century.
+
+
+
+Past Projects and Activities:
+
+
+
+
+CSE505
+Project
+: Implementation of an SK Reduction Machine.
+Teaching Assistant for
+CSE471
+.
+
+CSE548 Project
+: Comparison of Hardware and Software Solutions to
+False Sharing.
+Teaching Assistant for
+CSE142
+.
+
+CSE521
+Project
+: A Study of Linear-Time Sorting Algorithms.
+Teaching Assistant for
+CSE370
+.
+
+
+
+
+
+Current Projects and Activities:
+
+
+
+
+
+Quals Project
+: Comparison of Hardware and Software Solutions to
+False Sharing.
+
+
+
+
+Some Interesting Pages:
+
+
+
+A few
+pictures
+about me and the people around me.
+My rafting
+pictures
+.
+My
+bookmarks
+. Exciting!
+The
+Red Square
+at the University of Washington, this moment.
+The
+weather
+in Seattle.
+
+
+
+
+Print Yourself
+Something crazy I did. I didn't even come up with this particular
+solution myself, but the implementation was done by me. It's
+all on one line and shouldn't contain a trailing carriage return
+(384 bytes). Compiles without warning with gcc. If you run it,
+this program will print it's exact source code. If you can do it
+in fewer bytes in C, I'd like to see it!
+v(c){putchar(c);}u(char*x){for(;*x;x++)if(*x-92)if(*x-34
+)v(*x);else{v(92);v(34);}else{v(92);v(92);}v(92);v(48);}
+char x[]={37,115,0};main(){char*b="v(c){putchar(c);}u(ch
+ar*x){for(;*x;x++)if(*x-92)if(*x-34)v(*x);else{v(92);v(3
+4);}else{v(92);v(92);}v(92);v(48);}char x[]={37,115,0};m
+ain(){char*b=\"\0\";printf(x,b);u(b);u(b+=148);printf(x,
+b);}\0";printf(x,b);u(b);u(b+=148);printf(x,b);}
+
+Stefan's resume is available in
+postscript
+,
+dvi
+, and
+TeX
+format.
+
+
+
+
+
+
+
+

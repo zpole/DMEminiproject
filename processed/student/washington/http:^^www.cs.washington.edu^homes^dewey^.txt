@@ -1,0 +1,110 @@
+Date: Thu, 21 Nov 1996 23:02:30 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 02 Oct 1996 16:17:11 GMT
+Content-length: 3865
+
+
+Brian Dewey's Home Page
+
+
+
+Brian K. Dewey
+
+
+About me
+I'm a first-year Ph.D. student in the department of Computer Science
+and Engineering at the University of Washington.  What do
+you need to know about me?  I like
+music
+and
+books
+.  I
+love to play games, ride my bike, write letters, and drink tea.  My
+favorite color is blue, my favorite ocean is the Atlantic, and my old
+roommate thinks I'm more like an owl than any other animal.
+
+(PGP public key available via finger.)
+
+
+
+
+
+Northern Ireland
+I returned from my trip to Belfast on June 8th, carrying sixty pages
+of notes from interviews in my carry-on luggage.  Now, I need to get
+those semi-chaotic notes into a readable and hopefully enlightening
+format.  As I work on this draft, feel free to read over my shoulder;
+I will periodically make my drafts available here in both
+html
+and
+PostScript
+formats.
+The goal is to encourage frequent feedback as soon as possible.
+Please read and then
+mail me.
+Please note as well that I have not had much time to work on this
+project lately.  Hopefully, we'll see some progress near the end of
+the summer.
+
+
+The
+images
+of Northern Ireland.
+
+
+Notes
+on the
+current draft...
+
+
+Sinn Fein
+information.
+
+
+Bibliography
+(postscript)
+
+
+Statistics
+on terrorist-related
+deaths in Northern Ireland.
+(Postscript)
+
+
+Statistics
+on terrorist-related
+injuries in Northern Ireland.
+(Postscript)
+
+
+
+
+Go
+I'm new to the game of Go, but I'm already addicted.  If you're
+curious about the game, check out these links:
+
+For a fascinating, thorough history of the development of the
+game in China, read
+Go
+in Ancient China
+.
+
+The Go page at imageek.york.cuny.edu.
+
+
+Ken's
+Go page
+provides many links to interesting Go sites.
+
+Jansteen's
+page
+is the most thorough I've seen.
+
+
+Brian K. Dewey <dewey@cs.washington.edu>
+
+Last modified: Tuesday, October 1 1996
+
+
+

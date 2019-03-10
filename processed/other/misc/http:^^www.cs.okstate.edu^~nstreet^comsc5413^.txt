@@ -1,0 +1,134 @@
+Date: Wed, 15 Jan 1997 00:21:15 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 04 Dec 1996 18:52:59 GMT
+Content-length: 2666
+
+
+
+COMSC 5413: Data & Storage Structures
+
+
+
+
+COMSC 5413: Data & Storage Structures
+
+Fall 1996
+
+Instructor: Nick Street
+
+
+Syllabus
+
+Lecture Slides
+
+
+Lecture 1 (8/21)
+
+Lecture 2 (8/23)
+
+Lecture 3 (8/26)
+
+Lecture 4 (8/28)
+
+Lecture 5 (8/30)
+
+Lecture 6 (9/4)
+
+Lecture 7 (9/6)
+
+Lecture 8 (9/9)
+
+Lecture 9 (9/11)
+
+Lecture 10 (9/13)
+
+Lecture 11 (9/16)
+
+Lecture 12 (9/18)
+
+Lecture 13 (9/20)
+
+Lecture 14 (9/23)
+
+Lecture 15 (9/25)
+
+Lecture 16 (9/30)
+
+Lecture 17 (10/2)
+
+Lecture 18 (10/4)
+
+Lecture 19 (10/21)
+
+Lecture 20 (10/23)
+
+Lecture 21 (10/25)
+
+Lecture 22 (10/28)
+
+Lecture 23 (11/1)
+
+Lecture 24 (11/4)
+
+Lecture 25 (11/6)
+
+Lecture 26 (11/8)
+
+Lecture 27 (11/11)
+
+Lecture 28 (11/13)
+
+Lecture 29 (11/15)
+
+Lecture 30 (11/18)
+
+Lecture 31 (11/20)
+
+Lecture 32 (11/22)
+
+Lecture 33 (11/25)
+
+Lecture 34 (11/27)
+
+Lecture 35 (12/2)
+
+Lecture 36 (12/4)
+
+
+
+Errata
+
+Assignments
+
+
+Assignment 1
+
+Assignment 2
+
+
+Note 1
+
+Note 2
+
+Note 3
+
+Note 4
+
+
+Assignment 3
+
+Assignment 4
+
+
+Note 1
+
+
+
+
+
+nstreet@a.cs.okstate.edu
+
+
+
+

@@ -1,0 +1,40 @@
+Date: Thursday, 21-Nov-96 23:39:46 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Wednesday, 19-Jun-96 21:48:32 GMT
+Content-length: 1030
+Bulent Murtezaoglu's URCS Home Page
+
+
+The picture is old, subtract some hair and innocence.
+
+Bülent Murtezaoglu, URCS Grad Student
+
+
+Contact info.
+
+
+Finger info.
+
+
+My most popular page.
+(First guess why it's so popular, then please
+go write a better web indexer.  Me?  I'm busy coming up with acronyms.)
+This page is presently under construction, you can check out other pages
+I maintain about my
+country
+, my
+advisor
+and my
+research group
+.  Or go to my
+department's home page
+.  I also have a hyper-text
+resume
+under construction you could check out.
+
+
+mucit@cs.rochester.edu
+
+Last modified: Wed Jun 19 17:48:31 1996

@@ -1,0 +1,64 @@
+Date: Thu, 21 Nov 1996 23:03:57 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 06 Sep 1996 00:01:05 GMT
+Content-length: 1840
+
+
+Andrew Certain's Home Page
+
+
+
+
+Andrew Certain
+
+certain@cs.washington.edu
+
+
+9/5/96 - Server is fixed!  Give it a try.
+
+Note:  This page is only interesting if you follow the directions, download the
+viewer and look at the models.
+I am currently working with
+Tony
+Derose
+,
+David Salesin
+,
+Werner Stuetzle
+,
+Tom DuChamp
+, and
+Jovan Popovic
+on the
+3D-Scanning
+project
+.  I am currently building a viewer which you can download
+here
+(requires SGI
+graphics workstation).
+Our paper is
+here
+.
+
+Once you have the viewer, you can use it to look at our
+models
+,
+once you have modified Netscape in
+this
+way. (It should
+also work with other browsers if you modify them in a similar way).
+
+
+
+Computer Science & Engineering Department,
+
+
+University of Washington,
+352350,
+
+Seattle, WA
+98195-2350 USA
+
+
+

@@ -1,0 +1,283 @@
+Date: Tue, 10 Dec 1996 03:37:16 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+SPIN Benchmarks
+
+
+
+SPIN
+Benchmarks (under contruction)
+This page is devoted to measurements of operating system performance
+for
+SPIN
+and other operating systems.  This page will be constantly
+evolving as new measurements are made and new benchmarks are added.
+Under each clickable benchmark item you should find an explanation of
+the test, the source code for the benchmark for each system (
+still not ready, sorry
+-Stefan
+), and possibly some discussion about the significance of
+the results.  Some pages have not yet been completed, please bear with us.
+
+Note
+: This page uses the table extension and may not be viewable
+with all viewers.
+
+Control Transfer
+
+
+Protected in-kernel call
+
+
+
+DEC OSF/1
+
+Mach 3.0
+SPIN extension
+
+
+
+n/a
+
+n/a
+
+.13 usecs
+
+
+
+
+
+System call
+
+
+
+DEC OSF/1
+
+Mach 3.0
+SPIN extension
+
+
+
+5 usecs
+
+7 usecs
+
+4 usecs
+
+
+
+
+
+Cross-address space call (IPC)
+
+
+
+DEC OSF/1
+Mach 3.0
+SPIN extension
+
+
+
+845 usecs
+
+104 usecs
+
+89 usecs
+
+
+
+124 usecs
+
+873 usecs
+
+117 usecs
+
+
+
+
+Thread Management
+
+
+Kernel Thread Interface
+
+
+
+DEC OSF/1
+Mach 3.0
+SPIN extension
+
+
+
+Fork-Join
+198 usecs
+101 usecs
+22 usecs
+
+
+
+Ping-Pong
+21 usecs
+71 usecs
+17 usecs
+
+
+
+
+
+User Thread Interface
+
+
+
+DEC OSF/1
+Mach 3.0
+SPIN layered
+SPIN integrated
+
+
+
+ForkJoin
+1230 usecs
+338 usecs
+262 usecs
+111 usecs
+
+
+
+Ping-Pong
+264 usecs
+115 usecs
+159 usecs
+85 usecs
+
+
+
+
+Memory Management
+
+
+Memory protection
+
+
+
+DEC OSF/1
+Mach 3.0
+SPIN extension
+
+
+
+Dirty
+n/a
+n/a
+2 usecs
+
+
+
+Fault
+329 usecs
+415 usecs
+29 usecs
+
+
+
+Trap
+200 usecs
+185 usecs
+7 usecs
+
+
+
+Prot1
+45 usecs
+106 usecs
+16 usecs
+
+
+
+Prot100
+1041 usecs
+1792 usecs
+213 usecs
+
+
+
+Unprot100
+1016 usecs
+302 usecs
+214 usecs
+
+
+
+Appel1
+382 usecs
+819 usecs
+39 usecs
+
+
+
+Appel2
+351 usecs
+608 usecs
+29 usecs
+
+
+
+
+Networking
+
+
+Latency
+
+
+
+Network
+DEC OSF/1
+SPIN extension
+
+
+
+Ethernet
+789 usecs
+565 usecs
+
+
+
+ATM
+631 usecs
+421 usecs
+
+
+
+
+
+Bandwidth
+
+
+
+Network
+DEC OSF/1
+SPIN extension
+
+
+
+Ethernet
+8.9 Mb/s
+8.9 Mb/s
+
+
+
+ATM
+27.9 Mb/s
+33.0 Mb/s
+
+
+
+
+This page maintained by Stefan Savage.
+
+savage@cs.washington.edu
+
+
+
+

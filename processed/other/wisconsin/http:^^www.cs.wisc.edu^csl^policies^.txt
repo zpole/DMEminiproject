@@ -1,0 +1,82 @@
+Date: Tue, 05 Nov 1996 00:27:00 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 18 Jul 1996 17:53:32 GMT
+Content-length: 1656
+
+
+CSL Policies
+
+
+
+Computer Systems Lab Policies
+
+
+
+Computer Account Policies
+
+
+Electronic Data Privacy Policies
+
+
+Facilties Chargeback Fee
+
+
+Graduate Student Account Policies
+
+
+Instructional Computing Policies
+
+
+Posting to Electronic Mailing Lists, Msgs and News
+
+
+Printer Use
+
+
+Privately Owned Computers
+
+
+Privileged Access Policy
+
+
+Repair and Replacement Policies
+
+
+Supported Graduate Students
+
+
+Undergraduate Computer Sciences Major Accounts
+
+
+UW Policy on Electronic Data Privacy
+
+
+World Wide Web Server and CGI Policy
+
+
+World Wide Web Server Log Access Policy
+
+
+Computer Systems Lab Procedures
+
+
+
+"Class" Accounts (csXXX-N)
+
+
+End of Semester Notes
+
+
+If you have any questions or comments on these policies and procedures,
+please contact the
+Computer Systems Lab
+.
+
+Last modified: Thu Jul 18 12:52:48 CDT 1996 by David W. Parter
+
+dparter@cs.wisc.edu
+
+
+
+

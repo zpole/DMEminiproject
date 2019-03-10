@@ -1,0 +1,136 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:36:02 GMT
+Content-Type: text/html
+Content-Length: 4610
+Last-Modified: Friday, 01-Nov-96 22:51:51 GMT
+
+
+Doug's Home Page
+
+
+
+
+Welcome.
+Hi!  My name's Doug.  This is my page.
+I am a grad student at
+Northeastern University
+.
+
+I hope to get a PhD in
+Computer Science
+before the next
+millenium.  I'm currently planning to study the technological
+aspects of
+muds
+.
+
+I'm currently taking two classes:
+
+
+Operating Systems
+(COM 3360) with
+Prof. John Casey
+
+
+Computer Architecture
+(COM 3200) with
+Prof. Gene Cooperman
+
+Textbook:
+Computer Architecture: A Quantitative Approach, Second Edition
+by
+David A. Patterson
+and
+John L. Hennessy
+.
+I'm also working as a research assistant for
+Prof. Karl Lieberherr
+;
+my current project is
+Demeter/Java
+.  We just submitted a
+research demonstration proposal
+for
+ICSE 97
+.
+If you're in the Boston area, you might want to come to one of
+several seminars that are held at Northeastern (in room 107 of
+Cullinane Hall
+):
+
+
+Programming Language Semantics
+, Wednesdays 9:30am-11:30am
+
+Cryptography
+, Thursdays 10:00am-11:45am
+
+Demeter
+, Fridays 10:00am-12noon
+
+Distributed Systems
+, Fridays 1:00pm-2:30pm
+
+I used to work at
+Pure Software
+.  I
+still work
+for
+them, from my apartment in
+Boston, Massachusetts
+,
+in my
+copious free time
+.
+I'm a little wary of the growing
+cult of
+Netscape
+.  But hey, I use it too, and
+Jamie
+Zawinski
+is a cool guy.  After all, he also wrote
+XEmacs
+.  Maybe if had written
+GNUscape
+too I would have better luck getting it to work...
+I conducted a poll of Chugchanga-L members for
+their
+favorite records of 1995
+.
+I've made some
+mix tapes
+of music I like.
+I drive a 1993
+Honda Civic
+.
+There are a bunch more links in my
+bookmarks
+file
+.
+
+
+
+(This is a cool logo that I did for my xface for the
+CSUA
+.
+Try standing on your head.)
+
+More
+Dougs
+
+Your visitor number is
+
+This page is a proud member of the
+
+
+
+Doug Orleans
+
+<dougo@ccs.neu.edu>
+
+
+Last modified: Fri Nov  1 17:49:59 EST
+
+
+

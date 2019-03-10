@@ -1,0 +1,132 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:44:41 GMT
+Content-Type: text/html
+Content-Length: 3589
+Last-Modified: Tuesday, 17-Sep-96 17:09:01 GMT
+
+
+
+Gordon S. Novak Jr.
+
+
+
+
+
+
+
+
+Gordon S. Novak Jr.
+
+
+
+Support Free Speech on the Internet!
+
+Associate Professor of
+Computer Sciences
+at
+The University of Texas at Austin
+.
+
+Director,
+Artificial Intelligence
+Laboratory.
+
+
+B.S.E.E., with highest honors, University of Texas at Austin, 1969.
+M.A., Computer Science, 1971.
+Ph.D., Computer Science, 1976.
+
+Research:
+
+
+Automatic Programming
+by reuse of generic
+algorithms
+Solving Physics Problems
+that are specified
+informally
+Artificial Intelligence
+
+Curriculum Vitae:
+
+
+Publications
+
+Employment
+
+Grants
+
+Professional Activities, Honors
+
+Curriculum Vitae
+
+
+Free Software:
+
+
+TMYCIN:
+an EMYCIN-like expert system shell.
+X Interface for Gnu Common Lisp
+
+Conversion of Units of Measurement
+
+
+Software Demos: Some (*) are Under Construction.
+
+
+Automatic Programming Server:
+(*)
+Create Programs in Lisp or C.
+VIP Demo:
+Write Programs and Do Physics by Connecting Diagrams.
+Unit Conversion Demo:
+Convert Units of Measurement.
+Isaac Demo:
+Solve Physics Problems stated in English.
+Lisp Server:
+Run Interactive Lisp.
+Lisp / X Demo:
+Interactive X Graphics from Lisp.
+Draw:
+Interactive Drawing using X Graphics from Lisp.
+
+Classes:
+
+
+CS 304P: Computer Science I using Scheme
+
+CS 375: Compilers
+
+CS 381K: Artificial Intelligence
+
+CS 395T: Automatic Programming
+
+
+Web Links
+
+Weather
+
+Addresses:
+
+Gordon S. Novak Jr.
+Computer Sciences
+C0500
+TAY 2.124,
+Univ. of Texas at Austin
+
+Austin
+
+Texas
+78712
+USA
++1 512.471.9569 (my office)
++1 512.471.7316 (CS office)
++1 512.471.8885 FAX
+
+
+novak@cs.utexas.edu
+
+
+
+

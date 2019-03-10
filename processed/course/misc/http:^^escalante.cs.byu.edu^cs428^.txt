@@ -1,0 +1,81 @@
+Date: Wed, 20 Nov 1996 21:46:23 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 15 Nov 1996 19:57:18 GMT
+Content-length: 2707
+
+
+CS428: Software Systems
+
+
+
+
+CS428: Software Systems Design and Implementation
+
+Fall, 1996
+
+11:00-11:50am MWF
+
+Text:
+"201 Principles of Software Development"
+, by Alan M. Davis
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+
+Schedule
+
+Lectures
+
+Assignments
+
+Grades
+
+News
+
+
+
+
+
+Problem Statement for Assignment 1 (11 Sep 1996)
+
+
+Help on cost estimation functions. (11 Sep 1996)
+
+
+Outline for the Project Plan. (16 Sep 1996)
+
+
+Explanation of a project management charts. (19 Sep 1996)
+
+
+Testing Slides (15 Nov, 1996)
+
+
+Java Quiz (due Wednesday, 13 Nov 1996)
+
+
+MIDTERM KEY (from student answers)
+
+
+Steering Group Meeting Minutes
+
+
+Last updated 15 Nov 1996 13:56:23 MDT
+
+Alan Whitehurst(
+whitehur@cs.byu.edu
+)
+
+
+

@@ -1,0 +1,14 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:29:16 GMT
+Content-Type: text/html
+Content-Length: 164
+Last-Modified: Monday, 11-Nov-96 19:23:49 GMT
+Zhao,Shuguang's homepage
+
+
+Welcome to Shuguang Zhao's homepage
+
+
+
+

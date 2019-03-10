@@ -1,0 +1,106 @@
+Date: Thu, 21 Nov 1996 19:54:09 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Sat, 10 Aug 1996 01:03:05 GMT
+Content-length: 3213
+
+
+
+Alistair Sinclair's Home Page
+
+
+
+Alistair Sinclair, Associate Professor
+
+Research Interests
+
+
+Design and analysis of algorithms, especially randomized ones
+Computational applications of stochastic processes and nonlinear
+dynamical systems
+Monte Carlo methods in Statistical Physics
+Combinatorial optimization
+
+Selected recent papers
+
+
+
+The Markov chain Monte Carlo method:
+an approach to approximate counting and integration
+
+Mark Jerrum and Alistair Sinclair, in "Approximation Algorithms for NP-hard Problems," D.S.Hochbaum ed.,
+PWS Publishing, Boston, 1996
+
+Biased random walks, Lyapunov functions, and stochastic analysis of Best Fit bin packing
+
+Claire Kenyon, Yuval Rabani and Alistair Sinclair, SODA 1996, pp. 351-358
+
+Approximating the number of monomer-dimer
+coverings of a lattice
+
+Claire Kenyon, Dana Randall and Alistair Sinclair, Journal of Statistical Physics 83 (1996), pp. 637-659
+
+Markov Chain Algorithms for Planar Lattice Structures
+
+Michael Luby, Dana Randall and Alistair Sinclair, FOCS 1995, pp. 150-159
+
+A computational view of population genetics
+
+Yuval Rabani, Yuri Rabinovich and Alistair Sinclair, STOC 1995, pp. 83-92
+
+Testable Algorithms for Self-Avoiding Walks
+
+Dana Randall and Alistair Sinclair, SODA 1994
+
+Polynomial-time Approximation Algorithms for the
+Ising Model
+
+Mark Jerrum and Alistair Sinclair, SIAM Journal on Computing 22 (1993), pp. 1087-1116
+
+Optimal Speedup of Las Vegas Algorithms
+
+Michael Luby, Alistair Sinclair and David Zuckerman, Information Processing Letters 47 (1993), pp. 173-180
+
+Improved Bounds for Mixing Rates of Markov Chains and Multicommodity Flow
+
+Alistair Sinclair, Combinatorics, Probability and Computing 1 (1992), pp. 351-370
+
+Quadratic Dynamical Systems
+
+Yuri Rabinovich, Alistair Sinclair and Avi Wigderson, FOCS 1992, pp. 304-313
+
+Teaching, Fall 1996
+
+
+CS174, Combinatorics, Probability and Graph Theory
+
+Theory seminars
+
+
+Current and Former Graduate Students
+
+
+Dana Randall
+
+Michael Mitzenmacher
+
+
+Ari Juels
+
+
+Lars Rasmussen
+
+
+Address
+
+Prof. Alistair Sinclair
+Computer Science Division
+Soda Hall
+University of California
+Berkeley, CA 94720-1776
+
+Phone: (510) 643-8144
+Email:
+sinclair@cs.berkeley.edu
+
+

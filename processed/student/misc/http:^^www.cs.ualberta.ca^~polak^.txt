@@ -1,0 +1,132 @@
+Date: Tue, 26 Nov 1996 16:50:54 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2854
+Last-modified: Tue, 24 Sep 1996 01:35:36 GMT
+Mark's Home Page
+
+
+
+
+Mark Polak
+
+
+
+
+Ph.D. Student
+
+
+Department of Computing Science
+
+
+University of Alberta
+
+
+My supervisor: Bill Armstrong
+
+
+
+
+E-mail:
+
+polak@cs.ualberta.ca
+
+
+
+Click here
+to send me email.
+
+
+Mailing Address
+
+
+Department of Computing Science
+
+University of Alberta
+615 General Services Building
+Edmonton, Alberta
+Canada  T6G 2H1
+
+
+Office
+
+Office Phone: (403) 492-5150
+Fax: (403) 492-1071
+Office Location: 301 Central Academic Building
+
+
+Lab
+
+Lab Phone: (403) 492-7235
+Fax: (403) 492-1626
+Lab Location: 359 Corbett Hall
+
+
+
+Courses I TA:
+
+
+
+
+CMPUT 280: Computer Organization and Architecture I
+
+
+CMPUT 285: Computer Organization and Architecture II
+
+
+
+Research Interests:
+
+
+
+Adaptive Logic
+Networks (ALNs)
+
+
+
+Computers in
+Cardiology
+
+
+
+Rehabilitation
+Medicine
+
+
+
+Medical
+Informatics TU-Graz, Neural Network-based EEG classification
+
+
+EEG
+signal classification using Neural Networks
+
+
+Other Research Related Links:
+
+
+
+Dendronic
+Decisions Limited
+
+
+
+Division of
+Cardiology, University of Alberta
+
+
+
+The Medical Research Council
+of Canada (MRC)
+
+
+
+Canadian NeuroScience Network
+
+
+
+
+
+
+
+

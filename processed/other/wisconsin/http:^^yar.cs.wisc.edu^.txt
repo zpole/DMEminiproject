@@ -1,0 +1,82 @@
+Date: Tue, 05 Nov 1996 00:37:39 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3746
+Last-modified: Wed, 23 Oct 1996 20:10:57 GMT
+
+
+Cold Soldered
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+Code
+|
+Graphics
+|
+Sound
+|
+Projects
+]
+[
+UPL
+|
+Comments
+|
+Web
+|
+Users
+]
+
+
+
+
+
+
+W
+hat is cold soldered?  It's
+not
+hot wired...  It is an expanse of web pages
+showcasing the projects of the UPL in code, music, and art. At the
+Undergraduate Projects Lab - the social hub of the UW-Madison Computer Science
+Department - we provide an environment for undergraduates
+to work on programming projects of their own devising.
+The pages here cannot do justice
+to the cornucopia of projects that are perpetually hatched out in the UPL,
+but serve as an attempt to showcase some of the more refined works that
+have been developed here.
+This page is perpetually updated.  Please bother us if your experience of our
+pages includes running across links to nowhere; eternal vigilance is the
+only solution.
+
+NOTE: Cold Soldered is Netscape Enhanced, which means that most of our pages
+contain Netscape extensions.  For those of you with netscape incompatible
+browsers, we've endeavored to build compatible and aesthetic pages. These
+pages are text-browser compatible.
+
+
+
+
+
+served since 12/24/95
+
+
+
+
+Click here anytime to return to this page
+
+This page last updated on:
+
+
+
+

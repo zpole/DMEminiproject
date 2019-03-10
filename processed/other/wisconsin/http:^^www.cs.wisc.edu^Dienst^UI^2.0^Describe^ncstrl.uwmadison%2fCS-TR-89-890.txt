@@ -1,0 +1,37 @@
+Server: Dienst V4-1-1
+MIME-version: 1.0
+Content-type: text/html
+The Multi-procedure Equivalence Theorem
+
+The Multi-procedure Equivalence Theorem
+David W. Binkley,  Susan Horwitz and  Thomas Reps
+CS-TR-89-890
+November 1989
+Program dependence graphs have been used in program optimization, vectorization, and parallelization. They have also been used as the internal representation for programs in programming environments, as well as for automatically merging program variants. This paper concerns the question of whether program dependence graphs are \*(lqadequate\*(rq as a program representation. Previous results on the adequacy of program dependence graphs have been limited to a language without procedures and procedure calls. Our main result is a theorem that extends previous results to a language with procedures and procedure calls. The theorem shows that if the program dependence graphs of two programs are isomorphic then the programs are strongly equivalent.
+
+
+How to view this document
+
+
+
+Display the
+whole
+document in one of the following formats.
+
+HTML
+1057 bytes.
+
+
+
+
+You are granted permission for the non-commercial reproduction, distribution,display, and performance of this technical report in any format, BUT thispermission is only for a period of 45 (forty-five) days from the most recenttime that you verified that this technical report is still available fromthe Computer Science Department of the University of Wisconsin - Madison underterms that include this permission.  All other rights are reserved by theauthor(s).
+[
+Search
+]
+
+NCSTRL
+This server operates at UW Madison Computer Sciences Technical Reports .
+
+Send email to
+www@cs.wisc.edu
+

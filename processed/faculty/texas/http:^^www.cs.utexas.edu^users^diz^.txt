@@ -1,0 +1,108 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:43:53 GMT
+Content-Type: text/html
+Content-Length: 3246
+Last-Modified: Monday, 21-Oct-96 17:28:48 GMT
+David Zuckerman
+
+David Zuckerman
+
+
+Assistant Professor of Computer Sciences, The University of Texas at Austin.
+Contact Information
+
+
+Office:
+Taylor Hall 3.126, (512) 471-9729
+
+Fax:
+(512) 471-8885
+Email address:
+diz@cs.utexas.edu
+Postal address:
+
+Department of Computer Sciences
+
+
+The University of Texas at Austin
+
+
+Austin
+,
+Texas
+78712-1188
+
+
+Finger.
+
+Course for Fall, 1996
+
+
+
+CS 378, Cryptography
+
+
+Research Interests
+The role of randomness in computation, complexity theory,
+expanders and their applications, random walks on graphs, cryptography.
+For a one paragraph description as well as other information,
+see my
+profile in the annual report.
+You can also look at my
+C.V.
+
+Some Recent Publications
+
+
+
+Asymptotically Good Codes Correcting Insertions, Deletions, and Transpositions
+(SODA 97)
+
+
+Randomness-Optimal Sampling, Extractors, and Constructive Leader Election
+(STOC 96)
+
+
+Multiple Cover Time
+(Random Structures and Algorithms, to appear.)
+
+
+Randomness is Linear in Space (JCSS, 1996)
+(Preliminary version called "More Deterministic Simulation in Logspace"
+from STOC 93)
+
+Simulating BPP Using a General Weak Random Source (Algorithmica,1996)
+(Preliminary version in FOCS 91)
+
+Tight Analyses of Two Local Load Balancing Algorithms (STOC 95)
+
+
+Derandomized Graph Products (Computational Complexity, 1995)
+
+
+Computing With Very Weak Random Sources (FOCS 94, revised 4/6/96)
+
+
+Expanders that Beat the Eigenvalue Bound: Explicit Construction
+and Applications (Combinatorica, to appear.  UTCS Technical report.)
+(Preliminary version in STOC 93)
+
+Efficient Construction of a Small Hitting Set
+for Combinatorial Rectangles in High Dimension
+(Combinatorica, to appear, revised 9/9/96)
+(Preliminary version in STOC 93)
+
+Lower Bounds for Randomized Mutual Exclusion (SICOMP, to appear)
+(Preliminary version in STOC 93)
+
+
+On Unapproximable Versions of NP-Complete Problems (SICOMP, to appear)
+(Preliminary version in Structures 93)
+Here is a
+complete list of publications and abstracts.
+
+
+Visits to this page since April 6, 1996:
+
+Last modified:  October 21, 1996.

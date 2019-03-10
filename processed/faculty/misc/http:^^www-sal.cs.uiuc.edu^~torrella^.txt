@@ -1,0 +1,64 @@
+Date: Thu, 21 Nov 1996 20:21:56 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Thu, 09 May 1996 05:35:36 GMT
+Content-length: 2083
+Torrellas, Josep
+
+Josep Torrellas
+
+Areas of research interest:
+
+
+
+Computer Architecture & Systems
+:  Multipro
+cessor Analysis & Design; Shared-Memory
+Multiprocessors; Memory Hierarchies; Performance Analysis;
+Multicomputers; Microprocessors
+Parallel Computing
+:   Computer Systems
+; Shared-Memory Multiprocessors; Memory
+Hierarchies;
+Operating Systems
+; Compiler
+s; Algorithms; Languages
+Operating Systems
+:  Distributed
+Programming Languages
+:  Compilers, Run-Tim
+e Support
+Databases & Information Systems
+:  Memo
+ry Performance
+
+
+
+
+Research Project:
+
+
+
+Illinois Aggressive COMA Multiprocessor (I-ACOMA).
+Design and implementation of a novel scalable shared-memory multiprocessor.
+
+
+
+Administrative help:
+
+
+
+Center for Supercomputing Research and Development
+
+406 Computer and Systems Research Laboratory
+1308 West Main Street, Urbana, IL 61801
+phone (217) 244-4148, fax 217-244-1351
+torrella@cs.uiuc.edu
+torrella@csrd.uiuc.edu
+Administrative Assistant: Sheila Clark 217-333-6223
+
+
+Go to the CSRD Home page
+
+Go back to Faculty Index
+

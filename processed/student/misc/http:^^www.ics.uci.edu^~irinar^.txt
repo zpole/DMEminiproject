@@ -1,0 +1,225 @@
+
+
+Irina Rish
+
+
+
+
+
+
+
+
+
+
+
+
+
+Irina Rish
+
+
+Information and Computer Science
+
+University of California, Irvine
+
+CA 92717-3425 U.S.A.
+Office Phone: (714) 824-1084
+Fax: (714) 824-4056
+E-mail:
+irinar@ics.uci.edu
+
+
+Position: Graduate Student
+Area:
+Artificial Intelligence
+(AI)
+Advisor:
+Rina Dechter
+
+
+Curriculum Vitae:
+postscript
+/
+text
+
+
+
+
+
+
+
+
+
+
+Research Interests
+
+
+Publications
+
+
+Scientific Web Sites
+
+
+Other Interesting Web Sites
+
+
+
+
+
+Research Interests
+
+
+
+
+
+Constraint Satisfaction and Optimization
+
+
+
+Propositional Satisfiability
+
+
+
+Planning Under Uncertainty and Markov Decision Processes
+
+
+
+Dynamic Programming and Graph-Based Heuristics
+
+
+
+
+Publications
+
+
+
+
+Propositional Satisfiability
+
+
+
+
+To Guess or to Think? Hybrid Algorithms for SAT,
+Irina Rish and Rina Dechter. Technical report.
+Directional Resolution: The Davis-Putnam Procedure, Revisited,
+Rina Dechter and Irina Rish,
+in Proceedings of KR-94, 1994.
+An
+extended version
+is also available.
+
+Empirical Evaluation of Two Versions of the Davis-Putnam Algorithm,
+Rina Dechter and Irina Rish,
+in Proceedings of AAAI-94 Workshop on Experimental Evaluation
+of Reasoning and Search Methods, Seattle, 1994.
+
+
+Planning Under Uncertainty and Markov Decision Processes
+
+
+
+
+Variable Independence in  Markov Decision Problems
+,  Irina Rish and Rina Dechter, in Working Notes for the AAAI-96
+Workshop on Structural Issues in Planning and Temporal Reasoning, Portland,
+Oregon, 1996.
+
+Value Iteration and Policy Iteration Algorithms for Markov Decision Problem
+, Elena Pashenkova, Irina Rish, and Rina Dechter. Technical Report, 1995.
+
+
+
+Scientific Web Sites
+
+
+
+
+Artificial Intelligence
+
+
+
+Constraint-Based Reasoning
+
+
+Linguistics
+
+
+
+Association for Computational
+Linguistics (ACL)
+
+Lycos Catalog on Computational Linguistics
+
+Journals and Publishers
+
+
+
+Number Theory
+
+
+Number Theory Web (USA)
+
+Things of
+Interest
+
+Journals
+
+Conferences
+
+Number Theory Centers
+
+Number Theorists' Home Pages
+
+
+
+Chemistry and Biology
+
+
+Department of Chemistry at UCI
+
+
+
+
+Other Interesting Web Sites
+
+
+
+
+Research Funding Agencies
+
+
+
+Russian Web Sites
+
+
+
+Cities
+(Marco Polo City Listing)
+
+
+Universities and Colleges
+
+
+
+
+Moscow State University
+
+
+
+Jobs
+
+
+
+"Know-how" for scientists
+
+
+
+WWW Search Tools
+
+
+Here are some pointers on
+how to learn HTML
+.
+
+
+Information last modified April 25, 1996
+

@@ -1,0 +1,78 @@
+Date: Thursday, 21-Nov-96 23:38:49 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Sunday, 10-Sep-95 22:19:06 GMT
+Content-length: 2164
+
+
+Ed Yampratoom's URCS Home Page
+
+
+
+Ed Yampratoom
+<edyamp@cs.rochester.edu>
+
+
+
+
+Who is Ed Yampratoom?
+
+
+Thailand
+
+
+
+
+Rochester's Thailand Web Server
+
+The most popular items on this site are
+ready-to-read
+Thai news in Thai
+and my
+multimedia Thai lessons
+.
+
+Anime
+
+
+
+Various Japanese Animations stuffs
+
+Namely,
+Kimagure Orange Road!
+
+I'll put other stuffs up soon now that I have my own scanner and the
+summer is upon us.  Watch this space for further development.
+
+
+Publications
+
+
+Ed Yampratoom,
+"Using Simulation-based Projection to Plan in an Uncertain and Temporally Complex World,"
+
+TR 531, Computer Science Dept., U. Rochester, September 1994.
+
+Ed Yampratoom and James F. Allen,
+"Performance of temporal reasoning systems,"
+
+TRAINS TN 93-1, Computer
+Science Dept., U. Rochester, March 1993; revised May 1993.
+Also in SIGART Bulletin 4 (3), July 1993.
+
+
+
+
+Back to Grad Student directory
+
+
+Back to URCS Home Page
+
+Last Change: 10 Sep 95 / Ed Yampratoom /
+edyamp@cs.rochester.edu
+
+
+
+
+

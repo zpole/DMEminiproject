@@ -1,0 +1,129 @@
+Date: Thu, 21 Nov 1996 22:17:38 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 590B: Graphics Seminar
+
+
+
+
+
+C S E
+5 9 0
+B :
+G
+R A P H I C S
+S
+E M I N A R
+Spring 1996
+Numerical Methods in Graphics
+
+
+
+
+
+
+
+April 3
+
+Matrix Computations I
+
+Intro: Definitions, Properties, Inversion
+(Brad C.)
+
+Solving Linear Systems
+(Eric)
+
+
+
+April 10
+
+Matrix Computations II
+
+Eigenvalues & Eigenvectors
+(Dan F.)
+
+Singular Value Decomposition
+(Joel)
+
+
+
+April 17
+
+Root Finding/Nonlinear Equations
+(Corey, Shuichi)
+
+
+
+April 24
+
+Optimization
+
+Intro and Unconstrained Optimization
+(Kari)
+
+Constrained and Global Optimization
+(Kevin)
+
+
+
+May 1
+
+Linear and Quadratic Programming
+
+Linear Programming
+(Chuck/Ronen)
+
+Linear & Quadratic Programming: Examples
+(Daniel)
+
+
+
+May 8
+
+Data Fitting
+
+Intro and Conclusion
+(Mike)
+
+Linear Regression and Calibration Example
+(Brad W.)
+
+
+
+May 15
+
+Ordinary Differential Equations
+Intro, Methods, Papers (Adam)
+
+More Methods & Papers
+(Joanna)
+
+
+
+May 22
+
+Discretization Methods
+
+Finite Elements & Radiosity
+(Fred)
+PDEs & Finite Differences (Jim)
+
+
+
+May 29
+
+Interval Arithmetic
+(Troy, Jonathan)
+
+
+
+
+
+
+Last modified: Wed Apr  3 18:08:02 PST 1996
+
+
+
+

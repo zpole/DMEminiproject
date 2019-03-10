@@ -1,0 +1,189 @@
+Server: Netscape-Commerce/1.12
+Date: Tuesday, 14-Jan-97 20:21:18 GMT
+Last-modified: Friday, 03-Jan-97 04:21:23 GMT
+Content-length: 3715
+Content-type: text/html
+Home Page for Sanjeev Kumar
+
+
+
+
+
+Graduate Student,
+
+Princeton University
+
+Department of Computer Science
+
+
+
+
+
+
+
+
+
+E-mail
+
+
+skumar@cs.princeton.edu
+
+
+
+Address
+
+
+35, Olden Street, Princeton, NJ 08544
+
+
+
+Office
+
+
+Room 314
+
+
+
+Phone No
+
+
+(609)-258-5135
+
+
+
+Home
+
+
+31, Edwards Place, Princeton, NJ 08544
+
+
+
+Phone No
+
+
+(609)-683-1314
+
+
+
+
+
+[
+About me
+|
+History
+|
+Schedule
+|
+Courses
+|
+Research
+|
+Teaching
+|
+Quotes
+|
+Web Links
+]
+
+
+
+
+
+
+History
+
+
+
+Graduate Student,
+Computer Science,
+Princeton University. 1995-????.
+
+
+Master of Science,
+Computer Science,
+Indiana University, Bloomington. 1993-1995.
+
+
+Bachelor of Technology,
+Computer Science and Engineering,
+Indian Institute of Technology, Madras, India. 1989-1993.
+
+
+Schedule
+
+
+Monday.
+
+01:00 PM - 04:50 PM ::
+Computer Security
+.
+
+Wednesday.
+
+12:30 PM - 01:30 PM ::
+Shrimp Software Meeting
+.
+
+Friday
+
+12:00 PM - 01:00 PM ::
+Shrimp Hardware Meeting
+.
+
+
+Courses
+This semester, I am doing the following courses
+
+
+Advanced Topics in Computer Science:  Computer Security (CS 597)
+
+In my previous semesters, I have done the following courses
+
+
+Computer Organization and Architecture (CS 471)
+Computer Graphics (CS 426)
+Some cool
+images
+from the course.
+Seminar in Computer Systems (CS 591)
+
+Theory of Algorithms(CS 423)
+
+Parallel Computer Architecture (CS 598A)
+
+Seminar in Computer Systems (CS 592)
+
+
+
+Research
+My
+research
+interests include Operating Systems and Programming Languages. Currently,
+I am working on a web server for
+SHRIMP
+Project.
+
+Teaching
+In the past, I have been the Associate Instructor for
+
+
+Fall'95
+:
+Introduction to Programming Systems (COS 217)
+
+
+Spring'96
+:
+Operating systems (COS 318)
+
+
+
+
+
+
+
+Sanjeev Kumar
+
+/
+skumar@cs.princeton.edu
+

@@ -1,0 +1,12 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 08-Jan-97 16:45:45 GMT
+Content-Type: text/html
+Content-Length: 176
+UTCS Visitor Schedule
+
+
+Department of Computer Sciences
+
+Visitor Schedule
+No schedules are online at this time.

@@ -1,0 +1,63 @@
+Date: Mon, 02 Dec 1996 15:42:32 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+Lecture notes
+
+
+
+CSE 557: Computer Graphics
+
+Winter Quarter 1995
+
+
+Lecture notes
+
+
+
+01-Introduction.ps
+
+
+02-LocalIllumination.ps
+
+
+02-Local_Illumination.ps
+
+
+03-GlobalIllumination1.ps
+
+
+03-Global_Illumination_1.ps
+
+
+04-Antialiasing.ps
+
+
+05-GlobalIllumination2.ps
+
+
+05-Global_Illumination_2.ps
+
+
+06-Wavelets.ps
+
+
+07-GeometricAlgebra.ps
+
+
+08-Curves.ps
+
+
+09-Surfaces.ps
+
+
+10-Animation_Principles.ps
+
+
+11-Kinematics.ps
+
+
+12-Natural_Phenomena.ps
+
+

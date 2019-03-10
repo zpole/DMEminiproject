@@ -1,0 +1,63 @@
+Date: Monday, 25-Nov-96 23:09:09 GMT
+Server: NCSA/1.2
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Friday, 06-Sep-96 13:26:33 GMT
+Content-length: 2003
+
+
+Elise H. Turner's Bio Sketch
+
+
+
+
+
+
+
+
+
+Elise H. Turner
+
+Elise H. Turner (Assistant Professor, Computer Science) began her appointment
+at the University of Maine in September, 1995.  Prior to that, she was a
+faculty member at the University of New Hampshire since 1989.  She received the
+Ph.D. degree from the
+Georgia Institute of
+Technology
+in 1989 (thesis area: artificial intelligence, natural language
+processing).
+Professor Turner's research interests and publication areas include:
+communication during multi-agent problem solving, discourse
+processing, planning in real-world domains, the interaction between
+communication and problem solving; distributed artificial intelligence, in
+particular cooperative
+distributed problem solving (CDPS); and cognitive science.  She is the
+director of the
+COLA
+project to develop a language for cooperating
+underwater vehicles and a project to develop methods for selecting information
+to include in problem solving dialogues (NSF
+Grant No. IRI-9309703).   She is also  co-founder of the UNH
+Cooperative Distributed Problem Solving
+research group, and collaborates with Northeastern University's Marine Systems
+Engineering Laboratory on problems related to conceptual communication between
+autonomous underwater vehicles (AUVs)
+.
+Professor Turner  is a member of the AAAI, ACM and IEEE.
+
+
+Elise Turner
+
+Assistant Professor
+
+Department of Computer Science
+
+5752 Neville Hall
+
+University of Maine
+
+Orono, ME 04469-5752
+
+eht@umcs.maine.edu
+
+

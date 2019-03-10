@@ -1,0 +1,160 @@
+Date: Thu, 21 Nov 1996 22:54:43 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 15 Oct 1996 00:06:33 GMT
+Content-length: 3358
+
+
+Sujay Parekh's Home Page
+
+
+
+
+
+
+Sujay Parekh
+
+
+
+
+
+Work
+
+
+
+Department of Computer Science & Engineering
+,
+Sieg Hall
+Chateau
+(a.k.a. Guggenheim Annex)
+109A
+,
+
+University of Washington,
+Box 352350,
+
+Seattle, WA
+98195
+USA
+
+(206) 616-1846
+
+
+Home
+
+
+5745 28th Ave NE,
+
+Seattle, WA
+98105-5517
+(206) 729-8515
+
+
+
+
+This Quarter
+
+
+
+CLASSES
+
+CSE 590Q AI seminar
+
+CSE 590S
+Systems seminar
+FRENCH 110 French
+
+RESEARCH
+
+
+Simultaneous
+Multithreading
+.  In particular, O/S issues related to
+multithreaded architectures.
+The
+Softbot
+project.  I evaluated
+Simon
+, a Softbot which employs a procedural search control
+system to control its actions. My
+report
+.
+The construction and design of a removable patio for conventional workspaces. (If you're interested in funding this project, please contact me!)
+
+SPORTS
+
+
+SPUDS Soccer
+
+
+
+
+
+
+Right now
+(sort of)
+
+
+
+My
+Bookmarks
+
+(Web pages I like to keep track of)
+
+
+
+My Interests
+
+
+
+ACADEMIC:
+AI/Cognitive Science, Distributed/Parallel Systems, Psychology, Philosophy
+FOR FUN:
+Tennis, Soccer, Sailing, Squash, Volleyball, Ballroom Dancing, Food
+
+
+
+Been there
+
+
+
+
+Cornell Computer Science
+
+
+Oracle Corporation
+
+
+Stottler-Henke Associates, Inc.
+
+
+
+
+Done That
+
+
+
+My
+resume
+
+
+
+
+
+Random personal info
+
+
+
+Favorite foods: Oondhiu, Mangoes, Phad Thai, Kung Pao Chicken
+Favorite beverages: OJ, Screwdriver, Scotch, Long island Iced Tea
+Favorite dances: Tango, Swing (East & West coast), Salsa
+Favorite (rock) music: Dire Straits, Pink Floyd, Phil Collins/Genesis, Peter Gabriel, Tom Petty
+
+
+
+
+sparekh@cs.washington.edu
+
+
+
+

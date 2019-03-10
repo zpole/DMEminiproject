@@ -1,0 +1,143 @@
+Date: Thu, 21 Nov 1996 20:28:34 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 5135
+Last-modified: Thu, 31 Oct 1996 14:35:15 GMT
+
+
+
+Bill Pugh
+
+
+
+
+Bill Pugh
+
+Email:
+pugh@cs.umd.edu
+
+Phone:
+(301) 405-2705
+
+Office:
+4127
+AV Williams
+
+
+Associate Professor,
+Dept. of Computer
+Science
+,
+Univ. of Maryland, College
+Park
+
+NSF Presidential Young Investigator (PYI), 1991-1996
+1991
+Packard Fellow
+
+Join Appointments:
+UMIACS
+
+Academic Degree:
+Ph.D.,
+Cornell
+,
+1988
+
+Scholarly Activities:
+SIGPLAN PLDI '91 Program committee, SIGPLAN
+PLDI '92 Tutorials Chair, POPL '93, '96 and '97 Programm committees,
+POPL
+'97 Webmaster
+
+Teaching
+
+This semester (Fall 1996) I'm teaching
+CMSC430
+- aka Compilers.
+In the Spring, I'm going to be teaching a new course:
+CMSC498P - Advanced Object Oriented Programming
+
+Web stuff
+
+
+Java stuff
+: I've compiled a
+list
+of Java resources
+, including information about a Java course I offered
+via ITV June 5th and 6th.
+
+Introductory WWW tutorial
+: I wrote an
+introductory
+WWW tutorial
+you are invited to read. I've written it to bring it up
+to date with HTML 2.0.
+
+POPL97 Web pages
+:
+I'm building and maintaining web pages for POPL97: the ACM conference on
+Principles of Programming Languages, to be held in Paris, 1997.
+
+Friday faculty lunch
+:
+I organize lunch orders and deliveries for Friday Faculty Lunches.
+As part of this, I've scanned in the menus for a number of
+restraurants in the College Park Area that deliver.
+
+RESEARCH INTERESTS:
+
+The design and analysis of practical algorithms and data structures,
+both in general and for problems that arise in the implementation of programming
+languages and environments are under investigation.
+
+I developed skip lists, a probabilistic data structure that can be used
+in place of balanced trees. Although a skip list may not be balanced, the
+probability of a skip list being substantially unbalanced is insignificant.
+Algorithms for insertion and deletion in skip lists are simpler and faster
+than equivalent algorithms for balanced trees.
+
+My current research focuses on compilation techniques for making effective
+use of massive parallelism for computationally intensive scientific problems.
+I am investigating algorithms for data dependence analysis in program,
+programming languages for scientific computations, and a framework for
+performing loop transformations of programs to improve their performance
+when executed on massively parallel computers.
+
+Most recently, my research has focused on the use of integer programming
+algorithms in array data dependence analysis. Although that integer programming
+is NP-complete, the Omega test, an algorithm I developed, is efficient
+for problems that arise in practice. In examining the question of array
+data dependence more closely, I have found that the queries that really
+need to be asked are more complicated than can be answered using integer
+programming and that we really need decision procedures for a subclass
+of Presburger arithmetic. I have been able to extend the Omega test so
+that it can answer these queries.
+
+A longer discussion
+of the Omega project can be found here.
+
+SELECTED PUBLICATIONS
+
+Skip Lists:
+A Probabilistic Alternative to Balanced Trees, Communications of the ACM,
+June 1990.
+
+Uniform Methods for Loop Optimization, International Conference on SuperComputing,
+Cologne, Germany, June 1991.
+
+The
+Omega Test: a fast and practical integer programming algorithm for dependence
+analysis, Communications of the ACM, August, 1992.
+
+An
+Exact Method for Analysis of Value-based Array Data Dependences, Proceedings
+of the Sixth Annual Workshop on Programming Languages and Compilers for
+Parallel Computing, June 1992 (with Dave Wonnacott).
+
+TECHNICAL
+REPORTS
+
+
+

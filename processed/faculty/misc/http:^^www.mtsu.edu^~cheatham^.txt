@@ -1,0 +1,197 @@
+Date: Mon, 25 Nov 1996 21:52:57 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 09 Jul 1996 18:34:00 GMT
+Content-length: 7960
+
+
+About Dr. Tom Cheatham
+
+
+
+
+Dr. Tom Cheatham
+
+Professor and Department Chair
+
+
+Educational Background
+Dr. Cheatham obtained his Bachelor of Science degree at Campbellsville College in 1966. He received his Masters degree in 1968 and Ph.D. in 1971 from the University of Kentucky.
+
+Dr. Cheatham taught mathematics and computer science at Samford University
+in Birmingham Alabama from 1971-1980.  In 1980, he accepted a position in
+the Computer Science Department at Western Kentucky University where he
+taught nearly every course in the BS and MS programs before leaving in
+1990 to become Chair of the Computer Science Department at MTSU.  In 1987,
+Dr. Cheatham was selected as Western Kentucky University's Outstanding
+Teacher, an honor which he still cherishes.  Even as department head,
+teaching is still very much a part of his life and an endeavor to
+which he commits much energy and time.  Dr. Cheatham also enjoys
+cooperative research and a game of racquetball with his students
+and friends.
+
+Publications
+
+"Stretched AVL-Trees," joint with Tamara Balac,
+Proceedings of
+the 34th Southeast ACM Conference
+, pp. 70-77, 1996.
+"How Much is an AVL-Tree Like a Full Tree?," joint with Tamara Balac,
+The Journal of Computing in Small Colleges
+, Vol. 11, Number 3, pp.
+49-52, 1995.
+"Testing Object-Oriented Software," joint with Gerry Gattis,
+Proceedings
+of the 33rd Southeast ACM Conference
+, pp. 285-286, 1995.
+"Software Testing:  A Machine Learning Experiment," joint with
+Nancy Wahl and Jungsoon Yoo,
+Proceedings of ACM Computer Science
+Conference'95
+, pp. 135-141, 1995.
+"An Intelligent Tutoring System for Software Testing," joint with
+Larry Lane,
+Proceedings of 32nd Southeast ACM Conference
+, pp.
+379-383, 1994.
+"Efficient Reordering of C-PROLOG," joint with Jian Wang and Jungsoon
+Yoo,
+Proceedings of ACM Computer Science Conference'93
+, pp. 151-
+155, 1993.
+"Non-Isomorphic AVL-Trees," joint with Judy Hankins,
+Journal of
+Computing in Small Colleges
+, Vol. 8, Number 3, pp. 98-105, 1993.
+"Object-Oriented Software Metrics," joint with Chris Coppick,
+Proceedings of the ACM Computer Science Conference'92
+, pp. 317-
+322, 1992.
+"Non-Isomorphic AVL-Trees," joint with Jian Wang,
+Journal of Computing in Small Colleges
+, Vol. 7, No. 3,
+pp. 41-45, 1992.
+"Command Line Recall and Editing in UNIX," joint
+with Thomas Vaught,
+Journal of Computing in Small Colleges
+,
+Vol. 6, No. 4, pp. 23-25, 1991.
+"Object-Oriented Versus Waterfall Software Development," joint
+with John Crenshaw,
+Proceedings of ACM Computer Science
+Conference'91
+, pp. 595-599, 1991.
+"Tesing Object-Oriented Software Systems," joint with Lee
+Mellinger,
+Proceedings of ACM Computer Science Conference'90
+,
+pp. 161-165, 1990.
+Published ten journal articles in Mathematics, 1971-1980.
+
+
+
+Presentations
+
+"Stretched AVL-Trees," joint with Tamara Balac, at the 34th Southeast
+ACM Conference, Tuskegee, Alabama, April 1996.
+"How Much is an AVL-Tree Like a Full Tree?," joint with Tamara Balac,
+at the Ninth Annual Southeastern Small College Computing Conference,
+Nashville, Tennessee, 1995.
+"Testing Object-Oriented Software," joint with Gerry Gattis,
+at the 33rd Southeast ACM Conference,Clemson, South Carolina,
+1995.
+"Software Testing:  A Machine Learning Experiment," joint with
+Nancy Wahl and Jungsoon Yoo, at the 24th Annual ACM Computer Science
+Conference, Nashville, Tennessee, 1995.
+"Object-Oriented Programming in CS 1 and CS 2," a panel discussion at
+the Mid Southeast ACM Conference, Gatlinburg, Tennessee, 1995.
+"PC UNIX," at the AEDC Computing Alliance Conference, Tullahoma,
+Tennessee, 1995.
+"Expert Advising System for Computer Science Majors," joint with
+Lisa Rogers, Tennessee Board of Regents Technology Conference,
+Nashville, Tennessee, 1995.
+"An Intelligent Tutoring System for Software Testing," joint with
+Larry Lane, at the 32nd Southeast ACM Conference, Tuscaloosa,
+Alabama, 1994.
+"Petri Nets and Ada," joint with Garry Estep, at the Tennessee
+Academy of Science Annual Meeting, Nashville, Tennessee, 1994.
+"Software Testing:  A Machine Learning Experiment," joint with
+Jungsoon Yoo and Nancy Wahl, at the AEDC Computing Alliance Conference,
+Tullahoma, Tennessee, 1994.
+"Efficient Reordering of C-PROLOG," joint with Jian Wang and Jungsoon
+Yoo, at the 21st Annual ACM Computer Science Conference, Inianapolis,
+Indiana, 1993.
+"Non-Isomorphic AVL-Trees," joint with Judy Hankins, at the
+Seventh Annual Southeastern Small College Computing Conference,
+Johnson City, Tennessee, 1993.
+"Object-Oriented Software Metrics," joint with Chris Coppick,
+at the ACM Computer Science Conference, Kansas City, Missouri,
+1992.
+"Non-Isomorphic AVL-Trees," joint with Jian Wang, at the
+Sixth Annual Southeastern Small College Computing Conference,
+Nashville, Tennessee, 1992.
+"Closed Laboratories in CS1 and CS 2," panel discussion, at the
+Twenty-Third SIGCSE Technical Symposium, Kansas City, 1992.
+"Object-Oriented Versus Waterfall Software Development," joint
+with John Crenshaw, at the 19th Annual ACM Computer Science Conference,
+San Antonio, Texas, 1991.
+"Tesing Object-Oriented Software Systems," joint with Lee
+Mellinger, at the 18th Annual ACM Computer Science Conference,
+Washington, DC, 1990.
+Presented papers at five National Conferences of the American
+Mathematical Society, 1971-80.
+
+
+
+Recent Masters Theses
+
+"Interactive Petrin Net Simulation," John Aitcheson, 1996.
+"Mathematica and Data Structures," Art Yarbrough, 1996.
+"Stretched AVL-Trees," Tamara Balac, 1995.
+"Intelligent Tutoring in Effective Software Testing Techniques,"
+Larry Lane, 1994.
+"Testing Object-Oritented Software," Gerry Gattis, 1993.
+"Tool for Advising Undergraduates," Lisa Rogers, 1993.
+"A Reordering Mechanism for C-Prolog," joint with Jungsoon Yoo,
+Jian Wang, 1992.
+
+
+Other Professional Activities
+
+"NSF ILI Grant:  A Software Testing Laboratory," joint with
+Alfred Cripps, Nancy Wahl, Jungsoon Yoo, Chrisila Pettey,1992.
+Session Chair and Student Paper Judge at numerous Computer Science
+conferences, 1981- present.
+Reviewer for National ACM/CSC Conferences.
+Reviewer for National ACM/SIGCSE, Conferences.
+Program Evaluator for CSAB/CSAC.
+
+
+
+
+How to Contact Dr. Cheatham
+
+
+By E-mail
+cheatham@knuth.mtsu.edu
+
+By Phone
+(615) 898-2397
+
+By FAX
+(615) 898-5567
+
+In Person:
+Kirksey Old Main, Room 306
+
+
+
+
+
+
+
+
+
+
+
+

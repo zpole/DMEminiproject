@@ -1,0 +1,131 @@
+Date: Tue, 10 Dec 1996 20:32:38 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+The RaPiD Project
+
+
+
+RaPiD: Reconfigurable Pipelined Datapath
+
+Adventures in Configurable Computing
+RaPiD is a coarse-grained FPGA architecture that allows deeply
+pipelined computational datapaths to be constructed dynamically from a
+mix of ALUs, multipliers, and other functional units along with
+registers and local memories.  The goal is to compile regular
+computations like those found in DSP applications into both an
+application-specific datapath and a program that provides control for
+that datapath.  The datapath control signals are divided into static
+and dynamic signals.  The static control signals determine the
+underlying structure of the datapath that remains constant for a
+particular application.  The dynamic control signals can change from
+cycle to cycle and specify the variable part of the computation, for
+example operations that change during the computation.
+
+The current definition of RaPiD is biased strongly towards linear
+pipelines constructed of linear arrays of functional units
+communicating in mostly a nearest-neighbor fashion.  Linear systolic
+arrays, for example, map very nicely into RaPiD datapaths, which allows
+the considerable amount of research on compiling to systolic arrays to
+be applied to compiling computations to RaPiD.  RaPiD is not limited
+to implementing systolic arrays, however.  For example, a pipeline can
+be constructed which comprises different computations at different
+stages and at different times.
+The concept of RaPiD can be extended to 2-D arrays of functional
+units.  However, dynamically configuring 2-D arrays is much more
+difficult and the underlying communication structure is much more
+costly.  Since most 2-D computations can be computed efficiently using
+a linear array, so a 2-D RaPiD may not be necessary.
+RaPiD is aimed at tasks that are highly structured and repetitive and
+whose control flow is very regular with little data dependency.
+Examples include most DSP applications and many scientific computing
+tasks.  It is expected that a RaPiD array will be integrated closely
+with a RISC processor, possibly on the same chip, with RISC
+controlling the overall computational flow and farming out the
+heavy-duty computation requiring brute force computing to RaPiD.
+The computational bandwidth provided by a RaPiD array is extremely
+high and scales with the size of the array.  The input and output data
+bandwidth, however, is limited to the data memory bandwidth which does
+not scale.  Thus the amount of computation performed per I/O operation
+bounds the amount of parallelism and thus the speedup an application
+can exhibit when implemented using RaPiD.  The RaPiD architecture
+assumes that at most three memory accesses are made per cycle which is
+about the limit high-performance memory architectures can provide.
+
+
+
+
+Rapidly working people
+
+Faculty
+
+
+
+Carl Ebeling
+
+
+Graduate students
+
+
+
+Darren Cronquist
+
+
+Paul Franklin
+
+
+Jason Secosky
+
+
+Undergraduate students
+
+
+
+Jeff Weener
+
+
+Kent Smith
+
+
+Staff
+
+
+
+Chris Fisher
+
+
+Larry McMurchie
+
+
+
+List of Papers
+
+Carl Ebeling, Darren C. Cronquist, Paul Franklin.
+
+"RaPiD - Reconfigurable
+Pipelined Datapath"
+, in
+The 6th International Workshop on
+Field-Programmable Logic and Applications, 1996
+.
+
+RaPiD sponsors
+
+
+ARPA under contract N00014-J-91-4041
+National Science Graduate Fellowship (Franklin)
+IBM Graduate Fellowship (Cronquist)
+
+UW LIS
+
+
+Department of Computer Science and Engineering
+
+
+University of Washington
+
+Last updated
+Thu July 11 12:34:47 PDT 1996
+
+

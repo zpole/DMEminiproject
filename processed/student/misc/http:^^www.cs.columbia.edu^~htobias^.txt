@@ -1,0 +1,74 @@
+Date: Tue, 26 Nov 1996 02:52:05 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1897
+Last-modified: Sun, 18 Aug 1996 21:17:59 GMT
+
+
+
+Tobias' Home Page
+
+
+
+
+
+... to go flashing from one end of the world to the other both in mind
+and body; to try the manners of different nations; to hear the chimes at
+midnight; to see sunrise in town and country; to be converted at a revival
+and to circumnavigate the metaphysics!
+
+So, tell me, why are you looking at my homepage instead ?
+
+
+
+Well, seeing you're actually reading this, I might as well tell you
+something about me:
+
+
+My name is
+Tobias Höllerer
+('tuh-
+bee
+-us
+hull
+erer'),
+I am a Ph.D. student at the
+Department
+of Computer Science
+at
+Columbia University
+.
+I work with the people in the
+Computer
+Graphics and User Interfaces Lab
+,
+my Advisor is
+Prof. Steven
+Feiner
+.
+
+How to reach me
+and my
+.plan
+.
+
+
+
+
+Here is some more information:
+
+
+Some personal stuff
+
+My research
+
+My WWW bookmarks
+
+
+
+
+htobias@cs.columbia.edu
+
+
+
+

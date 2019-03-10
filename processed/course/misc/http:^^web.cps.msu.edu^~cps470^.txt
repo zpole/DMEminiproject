@@ -1,0 +1,68 @@
+Date: Wed, 20 Nov 1996 22:40:01 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Last-modified: Tue, 22 Oct 1996 01:15:52 GMT
+Home Page: CPS470 Software Engineering, Fall 1996, MSU
+
+Computer Science Department
+Michigan State University
+Fall 1996
+
+
+Course: CPS470 - Software Engineering
+
+
+
+Instructor Information
+
+Instructor: Dr. David Chesney
+Office Hours: M: 8:20-9:00 p.m.; W: 6:00-7:00 p.m. or by appointment
+
+Email: chesney@cps.msu.edu
+
+
+Teaching Assistant:
+Barb Czerny
+
+Office Hours: T: 2:30-3:30pm (check 324EB first, then 326EB)
+Email (Lab and non-project questions): cps470@cps.msu.edu
+Email (My groups project questions): czerny@cps.msu.edu
+
+
+Course Information
+
+
+Announcements
+
+
+Homework Assignments
+
+
+Laboratory Assignments
+(Most labs are in 326 Eng. Bldg.)
+
+Projects
+
+
+
+Latex Info
+
+
+
+Other Interesting Places to Visit
+
+
+Good/Bad Traits
+for a Professor
+
+
+A Comparison of OO Development Methodologies
+
+Latex for PC information
+
+Deliverables from Projects from 1994
+
+
+
+CPS470 Home Page
+updated 8/26/96

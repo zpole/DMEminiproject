@@ -1,0 +1,83 @@
+Date: Tue, 26 Nov 1996 00:14:29 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 10 May 1996 17:20:08 GMT
+Content-length: 2204
+
+
+Mark Anderson's Home Page
+
+
+
+Mark Anderson
+
+
+
+Biographical Information
+Mark Anderson is a graduate student in the
+Department of Computer Science
+at
+Rice University
+
+Mr. Anderson received his B.S. in Physics from
+Harvey Mudd College
+in Claremont, California.
+His interests include performance debugging tools and improving
+support for current large scientific codes in data parallel languages.
+
+He is a student member of the ACM and Sigma Xi.
+Contact Information
+
+
+
+WWW
+:
+http://www.cs.rice.edu:80/~marka/
+
+E-Mail
+:
+marka@cs.rice.edu
+
+Phone
+: 713 527-8750 x2731
+Fax
+: 713 285-5136
+Office
+: STC 268
+US Mail
+: Rice University,
+CITI/CRPC - MS 41,
+6100 South Main Street,
+Houston, TX 77005-1892.
+
+
+
+Links
+
+
+My Hotlist (private)
+
+Links I find useful
+
+Computer Science Department
+home page
+The Center for Research on Parallel Computation
+
+Archived Files
+
+
+You can send me mail at
+
+marka@cs.rice.edu
+
+If you don't get a reply from me, check that your browser has
+your email address- I've gotten a number of messages from people with
+incorrect reply addresses.
+
+Maintained by
+marka@cs.rice.edu
+.
+This page has been accessed
+times since October 4, 1995.
+
+

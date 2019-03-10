@@ -1,0 +1,74 @@
+Date: Mon, 25 Nov 1996 23:29:16 GMT
+Server: NCSA/1.5.1
+Last-modified: Mon, 25 Nov 1996 16:28:24 GMT
+Content-type: text/html
+Content-length: 1449
+
+
+Brad Richards's Home Page
+
+
+
+
+
+
+Brad Richards
+
+(richards@cs.vassar.edu)
+
+Visiting Assistant Professor
+
+Department of Computer Science
+Vassar College
+Poughkeepsie, NY  12601
+
+
+
+
+Research Interests:
+Parallel and scientific computation, parallel architecture,
+programming languages, formal methods.
+
+
+Education:
+
+
+
+Ph.D., Computer Science, 8/96
+
+University of Wisconsin-Madison
+,
+M.S., Computer Science, 5/92
+
+University of Wisconsin-Madison
+,
+M.Sc., Computer Science, 4/90
+
+University of Victoria
+,
+Victoria B.C., Canada.
+B.A.s,
+Physics
+and
+Computer Science
+,
+5/88
+
+Gustavus Adolphus College
+,
+St. Peter, MN
+
+An abbreviated (and outdated)
+resume
+.
+
+I have a more complete web page at
+Wisconsin
+.
+
+
+Last Updated:  September 10th, 1996
+
+
+
+

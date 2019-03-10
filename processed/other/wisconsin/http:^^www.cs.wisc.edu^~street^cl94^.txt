@@ -1,0 +1,38 @@
+Date: Tue, 05 Nov 1996 21:01:23 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Index of /~street/cl94/
+
+Index of /~street/cl94/
+
+Name                   Last modified     Size  Description
+
+
+Parent Directory
+21-Sep-94 10:08      -
+
+cancer_let.ps
+08-Sep-94 16:25   158K
+
+figure1.gif
+08-Sep-94 16:42     2K
+
+figure2.gif
+08-Sep-94 16:46     6K
+
+figure3.gif
+08-Sep-94 16:47     5K
+
+figure4.gif
+08-Sep-94 16:48     7K
+
+figure5.gif
+09-Sep-94 10:46    27K
+
+The text of this manuscript was clumsily converted to postscript from
+a WordPerfect file but should be readable.  The figures are included
+in separate files.  If you have problems, please contact me.
+
+Nick Street
+street@cs.wisc.edu
+

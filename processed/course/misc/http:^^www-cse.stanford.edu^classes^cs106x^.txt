@@ -1,0 +1,66 @@
+MIME-Version: 1.0
+Server: WebSTAR/1.3.1 ID/1975
+Message-ID:
+Date: Wednesday, 20-Nov-96 22:58:07 GMT
+Last-Modified: Sunday, 22-Sep-96 08:53:52 GMT
+Content-type: text/html
+Content-length: 1743
+CS106X
+
+CS106X
+
+Programming Methodology And Abstractions (Accelerated)
+
+Description
+
+Covers most of the material in
+106A
+,
+B
+. Students are expected to have previous programming experience at a level that allows them to understand the concepts presented in
+106A
+, usually in a language other than C. First two weeks focus on understanding how the concepts are expressed in ANSI C.
+106B
+material is covered for the balance.
+
+Instructor
+
+
+Zelenski
+
+
+Autumn 1996/97
+Materials
+
+Other Information
+
+
+Quarters Offered (1996/97)
+
+Autumn (
+Zelenski
+) MWF 10
+Winter (
+Plummer
+) MWF 3:15
+Spring (
+Cain
+) MWF 10
+Summer (
+Clausing
+) MTWTh 10
+
+Units
+5*
+
+* May be taken for 3 units by graduate students.
+
+Last modified: Tuesday, June 25, 1996 5:07:33 AM
+Copyright © 1996, Stanford University
+WWW-CS-Education Webmaster
+
+www-cs-education@cs.stanford.edu
+
+
+
+

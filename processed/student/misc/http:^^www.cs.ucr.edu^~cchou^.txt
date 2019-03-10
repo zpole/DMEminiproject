@@ -1,0 +1,49 @@
+Date: Thu, 21 Nov 1996 22:57:09 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1032
+Last-modified: Fri, 04 Oct 1996 22:08:07 GMT
+Chih-Hua Chou Home Page
+
+Chih-Hua HOME PAGE
+
+
+EDUCATION
+
+
+BS in
+geography
+,
+National Taiwan University
+, Taiwan
+Current in master program in
+Computer Science
+, University of California, Riverside.
+Currnet in master program in
+Geography
+, UCR
+
+
+RESEARCH INTERESTS
+
+
+GIS(Geographic Information System)
+What's that?
+
+Geometric Optimization Problems in Geographic Information Systems
+
+
+Course Work
+
+
+CS182 Compiler Project
+:
+Pan Language
+
+
+
+Taiwan Study Association:
+tsa
+E-mail:
+cchou@cs.ucr.edu
+

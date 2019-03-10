@@ -1,0 +1,96 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 25-Nov-96 20:12:21 GMT
+Content-Type: text/html
+Content-Length: 2663
+Last-Modified: Wednesday, 20-Nov-96 03:32:53 GMT
+
+David R. McIntyre
+
+
+
+David R. McIntyre
+
+
+Dave McIntyre is Associate Professor of Computer and Information Science.
+His area of expertise is "Algorithm Design and Analysis" applied
+particularly to:
+Artificial Intelligence:
+Neural Networks, Genetic Algorithms, Genetic Programming
+Computational Geometry
+Data Compression Software
+Mathematical Software
+Approximation Algorithms
+Database Theory.
+
+
+
+
+Education
+
+B.Sc.
+
+Mathematics
+and
+
+Physics
+, University of
+Toronto
+
+
+M.Sc.
+
+Computer Science
+, University of
+Toronto
+
+
+Ph.D.
+
+Computer Science
+, University of
+Waterloo
+
+
+
+Courses Fall 96:
+CIS 650 Compiler Design
+For information, click here:
+
+Courses Sum 96:
+CIS 335 Language Processors
+For information, click here:
+
+CIS 500 Introduction to Programming in C
+For information, click here:
+
+Past Courses:
+CIS 335 Language Processors
+
+CIS 390 Foundations of Computing
+
+CIS 500 Introduction to Programming in C
+
+
+
+
+The
+Cleveland State University
+home page
+.
+
+The
+Computer & Information Science Department
+home page
+.
+
+
+David R. McIntyre
+
+mcintyre@cis.csuohio.edu
+
+216-687-4765 (office)
+216-932-1624 (home)
+216-687-5448 (FAX)
+
+

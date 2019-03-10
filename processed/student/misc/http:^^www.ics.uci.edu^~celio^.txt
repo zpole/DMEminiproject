@@ -1,0 +1,160 @@
+Date: Thu, 21 Nov 1996 22:54:44 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 4225
+Last-modified: Fri, 15 Nov 1996 20:27:16 GMT
+
+Celio Vinicius Neves de Albuquerque
+
+
+
+
+
+
+
+Célio Vinicius Neves de Albuquerque
+
+
+
+
+
+
+
+Information and Computer Science
+
+University of California, Irvine
+CA 92697-3425
+
+
+Office: CS/E 236
+Office Tel: +1(714) 824-3097 or 824-4105
+Office Fax: +1(714) 824-4056
+E-mail:
+celio@ics.uci.edu
+
+
+NetGroup
+- Computer Networks Research Group
+Advisor:
+Prof. Tatsuya Suda
+
+
+
+
+Hi! I'm glad you stopped by!
+At this page you'll read about me,  my home country Brasil
+, as well as
+several cool projects being developed by the Computer
+Networks Research Group - NetGroup - at UCI.
+
+
+
+[
+Resumé
+]
+[
+Papers
+]
+[
+Teaching Assistantships
+]
+[
+Netgroup
+]
+[
+Bookmarks
+]
+[
+Personal
+]
+[
+Brasil
+]
+
+
+Resumé
+
+I'm now a second year graduate student at UCI and my current research
+project deals with the issue of multicasting video over wireless
+networks. My advisor is
+Prof. Tatsuya Suda
+, head of
+Netgroup
+,
+the ICS Computer Network Research Group.
+
+
+General Information
+
+
+University of California, Irvine (UCI)
+
+Department of Information and
+Computer Science (ICS)
+
+Position: Graduate Student
+Area: Computer Systems Design (CSD)
+Advisor:
+Prof. Tatsuya Suda
+
+Office: CS/E 236
+Office Tel: +1(714) 824-3097 or 824-4105
+Office Fax: +1(714) 824-4056
+E-mail:
+celio@ics.uci.edu
+
+
+Education
+
+
+B.S. degree in Electronic Engineering in 1993 by
+Federal University of
+Rio de Janeiro (UFRJ)
+, Brasil.
+M.Sc. degree in
+Electrical Engineering
+in 1995 by
+COPPE/UFRJ
+, Brasil.
+
+Experience
+
+
+From 1992 to 1995, I participated on several research projects developed
+by the
+Computer Network Research Group at Federal University of Rio de Janeiro
+(
+GTA/UFRJ
+-
+Grupo de Teleinformática e Automação da UFRJ).
+On 1995, I worked as a Telecommunications Engineer
+at
+EMBRATEL
+-
+Brazilian Telecommunications Company (Empresa Brasileira
+de Telecomunicações)
+implanting the first commercial Internet Access/Service Provider in Brasil.
+
+Papers and Technical Reports
+
+Teaching Assistantships
+
+
+
+Fall '96 -
+ICS 153 - Computer Networks
+
+Spring '96 -
+ICS 22 - Introduction to Computer
+Science II
+
+
+Current Bookmarks
+
+Playing with Java...
+Here are some pointers on
+how to learn HTML
+.
+
+Last modified: 01 Oct 1996
+

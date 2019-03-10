@@ -1,0 +1,87 @@
+Date: Thu, 21 Nov 1996 23:05:01 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 27 Sep 1996 09:08:05 GMT
+Content-length: 2701
+Chris Rosin's Homepage
+
+
+Chris Rosin
+
+
+UCSD CSE 0114
+La Jolla, CA  92093-0114
+Office: 5402 AP&M
+E-Mail: crosin@cs.ucsd.edu
+
+
+Interests
+
+Genetic algorithms, coevolution, game learning, computational learning theory,
+neural networks, cellular automata, computational biology.
+
+Current Research
+
+For many problems, performance of candidate solutions needs to be measured
+on a suite of test cases.  The choice of test cases can be an important factor
+in the quality of solutions found.
+Adversarial problems
+are those for which
+it is possible to search for good test cases as well as good solutions.
+Examples include games (strategies must be tested against strong opponents),
+controller design (test against difficult plants), and grammar induction
+(test on strings that reveal unusual features of the language).  I am
+exploring theoretical aspects of adversarial problems, and heuristic methods
+for solving them.
+
+Papers
+
+
+Technical Report #CS96-491:
+"New methods for Competitive Coevolution"
+,
+Christopher D. Rosin and Richard K. Belew.
+ICGA 95 paper (submitted version): Two new methods are used to improve the
+performance of competitive co-evolution on several games, including Go.
+"Methods
+for Competitive Co-evolution: Finding
+Opponents Worth Beating"
+, Christopher D. Rosin and Richard
+K. Belew.  Final version in
+Proceedings of the Sixth International
+Conference on Genetic Algorithms
+. L.J. Eshelman, editor.
+COLT 96 paper (submitted version): A computational learning theoretic
+model of game learning is described, and sufficient conditions are given
+for polynomial-time learnability of perfect strategies.
+"A Competitive Approach to Game Learning"
+, Christopher
+D. Rosin and Richard K. Belew.  Final version in
+Proceedings of the Ninth
+Annual ACM Conference on Computational Learning Theory
+.
+An older unpublished extended abstract on
+Competitive Learning
+, a theoretical model of learning
+in a competitive environment.
+E. Niebur, C. Koch, and C. Rosin.  "An oscillation-based model for the
+neuronal basis of attention."
+Vision Research
+33:18 (1993).
+
+Links
+
+
+
+Machine
+Learning in Games
+
+
+Live Alife Page
+
+
+Computer Go
+
+Whozis?
+
+

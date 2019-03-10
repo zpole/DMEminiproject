@@ -1,0 +1,233 @@
+Date: Wed, 15 Jan 1997 01:02:23 GMT
+Server: Apache/1.1b3
+Content-type: text/html
+Content-length: 7862
+Last-modified: Tue, 07 Jan 1997 20:13:30 GMT
+U of M CS Faculty
+
+
+
+
+Computer Science Faculty
+
+
+
+Professors
+
+
+Name:
+Email Address:
+Phone:
+Specialties:
+David Hung-Chuang Du
+
+du@cs.umn.edu
+
+(612) 625-2560
+Computer-aided design for VLSI, computer networking, database design, parallel and distributed architectures and processing.
+Ding-Zhu Du
+
+dzd@cs.umn.edu
+
+(612) 624-7820
+Complexity theory, theory of computation, combinatorial optimization.
+David W. Fox
+
+fox@cs.umn.edu
+
+(612) 625-5072
+Applied Mathematics, eigenvalue problems.
+Vipin Kumar
+
+kumar@cs.umn.edu
+
+(612) 624-8023
+Parallel processing, artificial intelligence.
+Arthur Norberg
+
+norberg@cs.umn.edu
+
+(612) 625-1067
+History of science and technology.
+Linda Petzold
+
+petzold@cs.umn.edu
+
+(612) 625-2013
+Numerical methods, differential algebraic eqations, dynamical systems.
+J. Ben Rosen
+Professor Emeritus
+rosen@cs.umn.edu
+
+(612) 625-9022
+Numerical optimization, parallel computing.
+Yousef Saad
+
+saad@cs.umn.edu
+
+(612) 624-7804
+Sparse matrix computations, parallel computation, nonlinear equations, control theory, partial differential equations.
+Ahmed Sameh
+Department Head
+sameh@cs.umn.edu
+
+(612) 625-0726
+Parallel computations, numerical linear algebra.
+Eugene Shragowitz
+
+shragowi@cs.umn.edu
+
+(612) 625-3368
+Combinatorial optimization, CAD of VLSI and computers, parallel and learning
+algorithms, learning automata, nonlinear networks.
+James R. Slagle
+
+slagle@cs.umn.edu
+
+(612) 625-0329
+Artificial intelligence.
+Marvin L. Stein
+
+stein@cs.umn.edu
+
+(612) 624-8311
+Machine arithmetic, organization of programming systems.
+Wei-Tek Tsai
+
+tsai@cs.umn.edu
+
+(612) 625-6371
+Software engineering, computer systems.
+Pen-Chung Yew
+Associate Department Head
+yew@cs.umn.edu
+
+(612) 625-7387
+Computer architecture, optimizing compiler, parallel systems, performance evaluation.
+
+Associate Professors
+
+
+Daniel Boley
+
+boley@cs.umn.edu
+
+(612) 625-3887
+Numerical analysis, linear algebra, control theory.
+John Carlis
+
+carlis@cs.umn.edu
+
+(612) 625-6092
+Database systems, management information systems, systems analysis and design.
+Krzysztof Frankowski
+
+kfrankow@cs.umn.edu
+
+(612) 625-3464
+Compilers and assemblers, algebraic manipulations, mathematics of computations.
+Maria Gini
+
+gini@cs.umn.edu
+
+(612) 625-5582
+Artificial intelligence, robotics.
+Ravi Janardan
+
+janardan@cs.umn.edu
+
+(612) 625-7338
+Computational geometry, graph algorithms, data structures, distributed computation.
+Haesun Park
+
+hpark@cs.umn.edu
+
+(612) 625-0041
+Numerical analysis, parallel computing, signal processing algorithms.
+Nikolaos Papanikolopoulos
+
+npapas@cs.umn.edu
+
+(612) 625-0163
+Computer vision, robotics, computer engineering, computer integrated manufa
+cturing.
+John Riedl
+
+riedl@cs.umn.edu
+
+(612) 624-7372
+Collaborative systems, database systems, fault tolerance, computer networks,
+object-oriented systems.
+Shashi Shekhar
+
+shekhar@cs.umn.edu
+
+(612) 624-8307
+Neural networks, software engineering databases, and distributed artificial
+intelligence.
+Jaideep Srivastava
+Director of Graduate Studies
+srivasta@cs.umn.edu
+
+(612) 625-4012
+Databases, distributed and parallel processing.
+Anand Tripathi
+(on leave 1996-97 academic year)
+tripathi@cs.umn.edu
+
+(612) 625-9515
+Architecture, operating systems, distributed systems, parallel computing.
+
+Assistant Professors
+
+
+Mats Heimdahl
+
+heimdahl@cs.umn.edu
+
+(612) 625-2068
+Software engineering, requirements specification for embedded systems.
+Don E. Johnson
+
+djohnson@cs.umn.edu
+
+(612) 625-2384
+Reducing latencies and synchronization times in multi-processors systems.
+George Karypis
+
+karypis@cs.umn.edu
+
+(612) 626-7524
+Scientific computing, programming languages and communication libraries,
+and libraries for parallel applications.
+Joseph Konstan
+
+konstan@cs.umn.edu
+
+(612) 625-1831
+Human-computer interaction, user interface toolkits and frameworks, multimedia systems.
+Zhiyuan Li
+
+li@cs.umn.edu
+
+(612) 624-8306
+Compilers, parallel programming for high performance computation.
+Bamshad Mobasher
+
+mobasher@cs.umn.edu
+
+(612) 625-4002
+Logic programming, Human-Computer interaction, resoning support systems.
+Shang-Hua Teng
+
+teng@cs.umn.edu
+
+(612) 625-3543
+Parallel processing, scientific computing, computational geometry, cryptography.
+Zhi-Li Zhang
+
+zhzhang@cs.umn.edu
+
+(612) 625-8568
+Computer networks, real-time, distributed, multimedia systems.
+

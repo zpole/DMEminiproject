@@ -1,0 +1,145 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 23:56:07 GMT
+Content-Type: text/html
+Content-Length: 4783
+Last-Modified: Thursday, 19-Sep-96 20:33:53 GMT
+
+
+Department of Computer Science
+Undergraduate Handbook
+
+
+
+
+
+
+
+
+
+Undergraduate Home Page,
+Department of Computer Science
+,
+Cornell University
+
+
+
+
+General Undergraduate Information
+
+
+
+Program Overview
+and the
+Undergraduate Guide
+.
+
+Degree Requirements:
+Engineering
+--
+Arts and Sciences
+.
+
+
+Course Information
+,
+Textbooks
+,
+Exam Schedules
+.
+
+
+People
+:
+
+Dan Jenkins
+,
+
+Laurie Buck
+,
+
+Kathe Grant
+
+
+Frequently Asked Questions (FAQ)
+.
+
+
+
+Special Interest
+
+
+
+Special Programs
+
+(including dual degree, internships, and accelerated
+masters programs).
+
+
+
+A.C.S.U. !!
+
+(Association of Computer Science Undergraduates)
+an affiliated chapter of the
+A.C.M.
+
+
+
+Policy on Academic Integrity
+
+
+Departmental Computing Facilities
+
+
+
+University Information
+
+
+
+CUINFO
+(Cornell's main Web site).
+
+Student Life at Cornell
+
+Computing at Cornell
+
+
+
+Hotlist of Other Resources
+
+
+
+CS Dept. Home Page
+
+CS at other schools
+
+ACM
+
+The Association of Computing Machinery.  ACM (founded 1947) is an
+international scientific and educational organization dedicated to
+advancing the art, science, engineering, and application of information
+technology, serving both professional and public interests by fostering
+the open interchange of information and by promoting the highest
+professional and ethical standards.
+
+
+I.E.E.E.
+at Cornell
+
+
+
+We hope that you find this resource helpful, but you may want to read our
+disclaimers
+if you have questions about the accuracy of any information found in these pages.
+If you notice any areas that beg for improvement, PLEASE let us know.
+We can be reached at:
+ugrad@cs.cornell.edu
+
+
+
+
+Undergraduate pages designed and edited by Dan Jenkins.
+This page last updated:  May 7, 1996.
+
+
+

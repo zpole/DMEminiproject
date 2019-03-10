@@ -1,0 +1,79 @@
+Date: Thu, 21 Nov 1996 19:58:13 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Mon, 28 Oct 1996 00:41:16 GMT
+Content-length: 1954
+
+Homepage for Paul N. Hilfinger
+
+Paul N. Hilfinger
+
+
+Office:
+
+787 SODA HALL #1776
+Computer Science Division, EECS
+UC Berkeley
+Berkeley  CA  94720-1776
+
+(510) 642-8401
+FAX: (510) 642-5775
+
+My links
+
+
+
+EECS Undergraduate Notes for 1996-1997.
+
+
+The Annual Berkeley and ACM Programming Contests.
+
+
+Assorted Files for Distribution.
+
+
+Teaching-related links
+
+
+
+Guidelines for undergraduate course grading.
+
+
+
+Guidelines for graduate course grading.
+
+
+
+CS264, Fall 1996.
+
+
+Other interesting links I've encountered
+
+
+
+STL: The C++ Standard Template Library
+
+
+Results obtained from Argonne Labs theorem provers
+
+
+National Resource Centre for Adult Educ. & Comm. Learning, Aotearoa, NZ
+
+
+Tech Corps
+
+
+General Berkeley links
+
+
+
+The Berkeley Computer Science Division Home Page
+
+
+Directions to campus and Soda Hall
+
+
+Paul N. Hilfinger
+Hilfinger@CS.Berkeley.EDU
+
+

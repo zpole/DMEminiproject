@@ -1,0 +1,57 @@
+Date: Thu, 21 Nov 1996 20:09:52 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 30 Jan 1996 20:21:48 GMT
+Content-length: 1527
+
+
+file:///Untitled
+
+
+
+
+
+T. C. Hu
+
+
+Professor of Computer Science and Engineering
+
+University of California, San Diego
+
+San Diego, CA 92093-0114
+
+
+
+Office: 4260, Applied Physics and Mathematics Building
+
+Tel: (619) 534-3854
+
+email: hu@cs.ucsd.edu
+
+
+
+Dr. T. C. Hu received a B.S. in engineering from National Taiwan University
+in 1953, a M.S. in engineering from the University of Illinois in 1956,
+and a Ph.D. in applied mathematics from Brown University in 1960.
+
+Presently, he is a Professor of Computer Science and Engineering at
+the University of California, San Diego, in La Jolla, CA.
+
+Dr. Hu is the author of the books
+Integer Programming and Network
+Flows
+(translated into German, Russian, and Japanese) and
+Combinatorial
+Algorithms,
+both published by Addison-Wesley. He is co-editor of
+Mathematical
+Programming
+with S. M. Robinson (Academic Press) and
+Theory and
+Concepts of Circuit Layout
+with E. S. Kuh (IEEE Press), and over eighty
+technical papers. His current interests are computer-aided design and combinatorial
+algorithms.
+
+
+

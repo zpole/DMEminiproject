@@ -1,0 +1,173 @@
+Date: Tue, 26 Nov 1996 03:45:12 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 13 Nov 1996 16:35:31 GMT
+Content-type: text/html
+Content-length: 6069
+
+
+
+
+
+Java, KQML, Agents and CORBA Pointers
+Hi, I am
+AJ
+. I am a graduate student in the
+Department of Computer Science
+, at
+North Carolina
+State University
+.  I am currently working with
+Dr. Munindar P. Singh
+in
+Database Laboratory
+as a research assistant.
+My research interest areas include
+development of workflow technology in heterogenous environment,
+database management, and networking.
+If you would like to know more about maintaining database
+consistency in heterogenous environemnt, please send me an
+email
+.  I am in the process of developing a software for my research.
+Since there is no clear victor in the area of workflow technology,
+such as, Sagas, ConTract, DOM and ACTA to name a few, the
+area is wide open. Placed in this situation the industry
+and scientific community is trying to solve this problem
+for many years.  Here, at NC State, Dr. Singh and I are
+hoping to make a significant contribution to the workflow
+problem solution and trying to come up with a software that
+would address many challenging problems unaddressed so far.
+
+
+
+Java, KQML, Agents and CORBA Pointers
+
+
+
+
+
+Table of Contents
+
+
+
+
+My Research
+
+Wireless Networking
+November 13, 1996
+Sphere of Control Report #2
+November 04, 1996
+Use of Xerox ORB
+October 29, 1996
+Sphere of Control Report #1
+October 02, 1996
+Sphere of Control Report #0.1
+September, 1996
+Presentation on Workflow
+August 1996
+Presentation on Spheres of Control
+July 1996
+
+General
+
+
+Guidelines for project
+
+Workflow, CGI, Sybase, Perl and Unix Pointers
+
+
+News and Announcements
+June 29, 1996
+
+Workflow Vendors
+
+
+Java Stuff
+
+A very good slide show (class presentation) on Java
+
+Java API documentation
+
+The Java tutorial (most comprehensive one)
+
+Concurrent programming in Java
+
+Recommended books for learning Java
+(May 30, 1996)
+
+Persistent Java and Mobile Web Agents
+(June 9, 1996)
+How to create Java Packages
+(June 14, 1996)
+
+A list of used Port numbers
+(June 14, 1996)
+
+
+OMG, CORBA Stuff
+
+A very good slide show on
+Objects and CORBA
+
+IDL and Java
+
+Mapping IDL to Java
+
+
+Distributed Computing: Java, CORBA, and DCE
+
+
+
+KQML Stuff
+
+What is KQML?
+
+A paper discussing
+design and implementation of KQML
+
+A paper discussing evaluation of KQML as an agent communication language
+
+
+
+Spider and Agents Stuff
+
+World Wide Web Robots, Wanderers, and Spiders
+
+Robots, Spiders and other web crawlers
+
+Info on MUDs and related topics
+
+A paper discussing software agents using Java
+
+Software Agents Related Web Pages
+
+
+
+Ontology Stuff
+
+
+What is Ontology?
+
+
+
+
+
+Last updated - October 24, 1996
+
+Contact:
+A. K. Jain,
+E-mail:
+akjain@eos.ncsu.edu
+,
+Tel: 919-515-3271, Research Assistant,
+Department of Computer Science, Box 8206,
+North Carolina State University, Raleigh, NC 27695, USA
+
+
+Version 1.0 - Copyright © by
+A. K. Jain
+, All rights Reserved
+
+
+
+
+

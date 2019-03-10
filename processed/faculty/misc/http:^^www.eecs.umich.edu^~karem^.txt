@@ -1,0 +1,150 @@
+Date: Mon, 25 Nov 1996 23:10:32 GMT
+Server: Apache/1.1-dev
+Content-type: text/html
+Set-Cookie: Apache=gs355833848963432137; path=/
+
+
+Karem A. Sakallah
+
+
+
+
+Karem A. Sakallah
+
+Associate Professor of Electrical Engineering and Computer Science
+(EECS)
+
+
+
+
+
+My Contact Info
+
+
+
+
+Electrical Engineering and Computer Science Department
+Advanced Computer Architecture Laboratory
+(ACAL)
+
+The University of Michigan
+
+2213 EECS Building
+1301 Beal Avenue
+Ann Arbor, Michigan 48109-2122
+
+
+
+313-936-1350 [V]
+313-763-4617 [F]
+
+
+
+http://www.eecs.umich.edu/~karem
+
+karem@eecs.umich.edu
+
+
+
+
+Secretary:
+Michell
+e Chapman
+
+chapman@eecs.umich.edu
+
+
+
+My Research Interests
+
+
+None at the moment (
+just kidding
+)
+
+
+My Professional Activities
+
+
+Associate Editor,
+IEEE
+Transcations on
+Computer-Aided Design of Very Large Scale Integrated Circuits and Systems
+Conference Chair,
+TAU'95: 1995 ACM International Workshop on Timing Issues
+in the Specification and Synthesis of Digital Systems
+
+Member, Technical Program Committe,
+Design Automation Conference
+
+
+
+My Research Projects
+
+
+
+
+
+Sponsor
+Title
+
+ARPA
+Design Optimization of a GaAs RISC Microprocessor with Area-Int
+erconnect MCM Packaging
+The University of Michi
+gan High-Performance Microprocessor Project (PUMA)
+
+
+NSF
+Timing Issues in the Design of Di
+gital Systems
+
+
+SRC
+CAD Tools for System-Level Timing
+
+Intel
+Switching Noise in Printed Circuit Boards
+
+
+
+
+My Graduate Students
+
+
+Jeffery Bell
+
+V. Chandramouli
+
+Joonyoung Kim
+
+Victor Kravets
+
+Michael Riepe
+
+Jesse Whittemore
+
+
+
+Recent Publications
+
+
+The Courses I Teach
+
+
+EECS 270: Introduction to Logic
+Design
+
+EECS 426: Fundamentals of Electronic Computer-Aided Design
+
+EECS 478: Switching and Seque
+ntial Systems
+
+EECS 527: Computer-Aided Design f
+or VLSI System
+
+EECS 579: Digital System Testing
+
+
+
+

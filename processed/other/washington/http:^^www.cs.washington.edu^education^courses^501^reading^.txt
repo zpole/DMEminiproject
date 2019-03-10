@@ -1,0 +1,30 @@
+Date: Mon, 02 Dec 1996 15:56:04 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+CSE501 Reading Assignments Archive
+
+
+CSE501 Reading Assignments Archive
+
+reading.01-03.ps
+
+reading.01-05.ps
+
+reading.01-12.ps
+
+reading.01-19.ps
+
+reading.01-26.ps
+
+reading.02-02.ps
+
+reading.02-09.ps
+
+reading.02-16.ps
+
+reading.02-26.ps
+
+
+chambers@cs.washington.edu
+

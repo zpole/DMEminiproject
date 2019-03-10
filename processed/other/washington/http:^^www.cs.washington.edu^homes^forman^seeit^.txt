@@ -1,0 +1,219 @@
+Date: Tue, 10 Dec 1996 03:36:31 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 02 Oct 1996 18:18:37 GMT
+Content-length: 11310
+
+
+
+
+George Forman: Dissertation Research
+
+
+
+
+
+
+George Forman: Dissertation Research
+
+
+
+
+Overview
+The current focus of my work is on constructing tools to aid in writing
+applications that provide good interactive responsiveness even in
+environments where resource availability is hard to predict or is highly
+dynamic.  Applications that depend on networking (even indirectly, such as
+through a networked file system) may encounter several orders of magnitude of
+bandwidth variability in a mobile computing environment where the interface
+can switch between wireless and wired connections.  Operating systems can not
+effectively hide such great network variation; instead, applications need to
+be flexible about their resource demands if they are to remain usable through
+periods of degraded service.
+
+
+Towards this end, my dissertation research develops an application framework
+and runtime system to express and manage logical units of resource demand
+(concurrency and progressive-quality results), gaining responsiveness at the
+user interface principally by trading off the short-term quality of the
+response.
+
+For further introductory material, please read the
+abstract to my dissertation
+.  The technical details are not yet
+available online.
+
+
+
+
+These pages are no longer maintained
+
+
+Try out these demos yourself
+(if you're running X Windows)
+
+I have implemented a prototype system to test my ideas.  It consists of
+a set of language extensions to C++, a pre-processor to convert these into
+multi-threaded C++ code, and a runtime system to manage the dynamic task graph.
+I have written three interactive applications using this prototype system:
+a library catalog database browser,
+a Mandelbrot fractal generator, and
+a Web browser for photo albums in an incremental-resolution .
+The latter two are available here for demonstration.
+When system resources are plentiful, it's easy to get good response time.
+It's when resources are scarce that responsiveness support begins to help.
+So, each of these demos is designed to exceed the capacity of our local
+resources.
+
+
+Which program would you like to run?
+
+
+Fractal Explorer:
+generates multiple Mandelbrot fractals incrementally
+and concurrently, with the mouse position controlling priority among windows.
+
+
+
+
+
+
+Photo Album Browser:
+downloads a collection of photographs with
+progressively improving quality & prioritization among pictures.
+
+
+
+
+
+
+To permit the application to connect to your display, execute the UNIX command
+
+xhost +trouble.cs.washington.edu
+
+
+
+Enter your display name (e.g. xterminal.u.washington.edu:0) or IP address
+(e.g. 12.34.56.78:0):
+
+
+
+TVTWM users: this demo tickles a fatal bug in tvtwm compiled for DEC Alphas.
+Note:
+(1) These applications were meant to run near the user.  If the delay
+between your X server and the application is large, you'll experience delayed
+responsive performance, meaning that you can still control priority, etc.,
+but only slowly.
+(2) Other students sometime run large simulations on our departmental
+hosts, bringing them to their knees.  You'll know.
+
+
+
+Things to notice and try...
+
+
+Fractal Explorer Demo:
+
+
+First, after reading the directions for operating the program, notice
+that you can zoom in on a fractal while it is still refining.  This ability
+to proceed with only an incomplete result becomes more important as
+variability in system response time increases.  Today, such a feature is only
+implemented for those tasks that are expected to take a long time, but as
+system service time increases in variability this feature needs to be
+implemented for more and more tasks.
+Try zooming in on two fractal windows in rapid succession so that they
+are simultaneously refining their images, then move the mouse over one of
+them.  Notice that the application concentrates its resources on the selected
+fractal.  The other fractal may get some CPU attention when the primary is
+blocked for I/O or thread synchronization.
+Now try the same, but point the mouse outside both windows.  Observe
+that the two fractals improve in resolution at roughly the same rate,
+roughly half as fast as before.
+To try the color enhancement feature, first zoom in on a part of the
+fractal
+that has little variation in color, then quickly type 'c' to re-color
+it.  This runs the entire image through a histogram equalization function
+(it's slow).  Notice that this function is run on the successive images
+produced by the fractal generator.
+To illustrate what is going on inside the application, do the following
+in rapid succession: zoom on an area, set the toggle button to open a new
+window when zooming, then type 'c'.  A new window will display the re-colored
+version of the first window.
+
+
+This diagram illustrates the task graph that was generated by this
+sequence of user events; the green tasks were added when you typed 'c'.  The
+output from the fractal image generator is consumed both by a display task
+for the first window and by a re-coloring task whose output goes to a second
+display task for the other window.  A series of refined images passes through
+this data-flow graph.
+When a portion of the task graph becomes disconnected from a useful
+output (such as the display or an internal program variable), the runtime
+system prunes it from the graph and garbage collects its associated storage.
+This happens when you zoom in on a fractal that is still refining.  You can't
+witness this at the user interface, except that the resource savings improve
+the performance of the tasks that you care about.
+
+
+Photo Album Browser Demo:
+Suppose you want to show a friend at lunch a particular photograph of your
+baby, so you pull out your mobile computer and access your home photo album
+via the wireless network.  Given that downloading all your baby pictures
+would take a long time, you want a photo album browser that downloads and
+displays images incrementally, and that prioritizes bandwidth consumption
+among the photos as you search for the picture.  Imagine this scenario as you
+use the browser- try to find the sunset photograph quickly.  Keep in mind
+that the Internet provides higher bandwidth than a wireless network.  Also,
+the effect of prioritization becomes much more pronounced when the desired
+priorities for the various network connections are communicated to the
+wireless base station.  This has been implemented in an experimental setup,
+but is not available for demo on the Web.
+
+To observe the effect of priority, press return in the URL window to
+restart the downloads, then quickly open two pictures and move the mouse
+over the later one.  Observe that the selected picture gets refined faster
+than the other; this is more obvious in later refinements when the resolution
+is finer.   Each refinement quadruples the number of pixels in the image.
+The application pre-fetches one picture off the edge of the strip.  To
+observe this, restart the downloads, wait for a few resolution improvements
+& note which picture is rightmost on the strip, then scroll to the right
+a few pictures.  Notice the difference in resolution of the first picture to
+the right vs. the others.
+
+
+
+
+
+
+George H. Forman, gforman@hpl.hp.com
+
+home page
+
+
+
+mail
+
+
+
+finger
+
+
+
+map
+
+
+
+weather
+
+
+
+CS Dept.
+
+
+
+UW (live picture)
+
+Generated: Wed Oct  2 11:18:37 PDT 1996
+
+

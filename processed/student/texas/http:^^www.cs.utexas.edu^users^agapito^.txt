@@ -1,0 +1,52 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:29:42 GMT
+Content-Type: text/html
+Content-Length: 1053
+Last-Modified: Monday, 11-Nov-96 21:28:28 GMT
+Agapito Sustaita
+
+Agapito Sustaita
+
+The University of Texas at Austin
+
+
+Cognitive Science Interests
+
+- Machine Learning in Language Acquisition (CHILL, specifically)
+- Connectionism
+- Commonsense reasoning
+
+
+Schooling
+
+Ph.D. Computer Science,
+University of Texas at Austin.
+(hopefully)
+M.S. Computer Science,
+Texas A&M University, College Station.
+B.S. Computer Science,
+University of California, Santa Barbara.
+
+
+Miscellaneous
+
+
+
+Postal Address
+The University of Texas at Austin
+Department of Computer Sciences, TAY 2.124
+
+Austin
+,
+TX
+78712-1188
+
+
+
+
+e-mail:
+agapito@cs.utexas.edu
+phone: 479-1370
+
+

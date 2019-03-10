@@ -1,0 +1,143 @@
+Date: Thursday, 21-Nov-96 23:22:07 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Sunday, 30-Jun-96 19:27:02 GMT
+Content-length: 5199
+
+
+Anton Leouski's Desktop
+
+
+
+
+
+
+A
+NTON'S
+D
+ESKTOP
+
+
+
+Welcome to the Anton's Desktop. The damn thing is still
+under construction
+(where it's gonna be for a while, I guess), so, don't be too fussy about the content. BTW, any comments and suggestions will be appreciated at
+leouski@cs.umass.edu
+.
+
+
+New:
+
+Some Russian Art
+
+Matshkol'niki
+
+"Your Majesty, There Is No Second."
+Take a look on American Cup'95. This year the Kiwis got it!
+
+Directory
+
+
+Surf Folder
+
+Tools Folder
+
+Library Folder
+
+
+
+Surf Folder
+Here go several links that I picked up so far. These were my bookmarks for a while already. Happy surfing!
+
+Alma Mater:
+Moscow State University
+.
+Alma Mater II:
+Computer Science Department, UMASS, Amherst
+.
+Hey! Check out this! Yet Another WWW Worm (WWWW)!
+INQUERY Information Retrieval System
+. Actually, it is slightly more complex than just a WWWW, but I am taking part in this project, and this my page, so, why not to put it here?
+UMich Mac Archive:
+SearchIt...
+
+These are my techical subsection.
+
+The coolest Macintosh Developing Environment:
+Code Warrior
+. It's fast and very well-supported.
+Another technical reference to the >32K TextEngine for Macintosh:
+WASTE
+. You don't know what it is? Don't bother...
+
+The ultimate Iternet directory
+Yahoo
+!
+A good starting point to surf the Russian space.
+The World-Wide Web Virtual Library: Russia and East Europe
+
+LISTSERV TOP 40 LISTS
+
+The Fun subsection
+
+The Guide To The Game of Othello
+
+Warlords II:
+Rules Of Engagement
+
+Civilization
+
+Ski America Home Page
+
+rec.skiing FAQ
+
+mtv.com Main Menu
+
+The ultimate band list
+.
+There is something the last one lacks:
+Aquarium
+.
+
+
+
+Tools Folder
+
+Check out the
+Netscape
+.
+I assure you, it is the coolest WWW navigator, yet!
+
+Now, as far as I'm bothering to create my own WWW page, here goes the list of the useful tools to do the chore. Please, note, that these tools are for Macintosh only! Sorry...
+
+
+
+HTML Editor.
+To read more about this program check out its
+documentation page
+. Or if you feel lucky, go ahead and
+download the beast
+from wherever it lives.
+
+Arachnid.
+This one lives
+here
+. I, personally, like the former one better; probably because it shows you the underline structure of the page. But, what I know?
+... and if you really want to become an HTML hacker read
+this
+.
+
+
+Library Folder
+
+
+
+CS technical report sites lists and search services
+
+Inside Macintosh
+
+Clock Chipping
+
+
+

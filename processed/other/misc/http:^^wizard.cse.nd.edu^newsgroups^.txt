@@ -1,0 +1,70 @@
+Date: Tue, 14 Jan 1997 19:49:18 GMT
+Server: NCSA/1.5
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Thu, 01 Feb 1996 16:06:42 GMT
+Content-length: 2483
+Notre Dame Computer Science and Engineering
+
+
+
+ND CSE Newsgroups
+
+
+
+Departmental newsgroups
+
+
+
+
+General news
+
+
+
+Hacker's corner
+
+
+
+Artificial intelligence topics
+
+
+Class newsgroups
+
+
+
+
+EG 120
+: Engineering Concepts
+
+
+CSE 210
+: Discrete Math
+
+
+CSE 233
+: Functional Programming
+
+
+CSE 322
+: Computer Hardware (undergraduate)
+
+
+CSE 443
+: Compilers
+
+
+CSE 521
+: Computer Hardware (graduate)
+
+
+
+
+
+
+
+
+
+
+www@www.cse.nd.edu
+
+

@@ -1,0 +1,132 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:20:19 GMT
+Content-Type: text/html
+Content-Length: 7875
+Last-Modified: Sunday, 12-May-96 22:05:29 GMT
+
+CS516 Home Page
+
+
+High-Performance Computer Systems
+
+Thorsten von Eicken
+
+Spring, 1996
+
+
+
+Projects
+
+Project reports
+
+Project proposals
+
+Initial project ideas
+
+Course Materials
+
+
+Homework 1
+
+
+Homework 2
+
+Please check out the
+CUCS SP-2 page
+before starting to use Split-C on the machine.
+You might also check out a
+sample program
+.
+
+Homework 3
+
+
+Homework 4
+
+
+cs516-01 intro
+
+
+cs516-02 now case
+
+
+cs516-03 technology
+
+
+cs516-04 caches
+
+
+cs516-05 mpp nets
+
+
+cs516-06 sp2
+
+
+cs516-07 split-c
+
+You can find more information on Split-C in the paper
+``
+Parallel Programming
+in Split-C
+''.
+
+cs516-08 em3d
+
+
+cs516-09 sorting
+
+
+cs516-10 sp2am
+
+
+cs516-11 msgpass
+
+
+cs516-12 mpi
+
+
+cs516-13 cachecoh
+
+
+cs516-14 locks
+
+
+cs516-15 threads
+
+
+cs516-16 atm
+
+
+cs516-17 u-net
+
+
+cs516-2%
+
+
+cs516-20 r4000
+
+
+cs516-21 scoreboard
+
+
+cs516-22 tomasulo
+
+
+cs516-23 br pred
+
+
+cs516-24 superscalar
+
+
+cs516-25 io buses
+
+
+cs516-26 pentium
+
+
+
+Maintained by
+Thorsten von Eicken
+
+

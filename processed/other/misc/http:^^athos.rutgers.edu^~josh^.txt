@@ -1,0 +1,27 @@
+Date: Tue, 14 Jan 1997 22:09:14 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 19 Jul 1995 20:23:22 GMT
+Content-type: text/html
+Content-length: 661
+JoSH
+
+J. Storrs Hall (JoSH)
+
+
+
+I am co-PI of the
+Rutgers CAM Project
+,
+an ARPA-sponsored effort to design a cost-effective general-purpose
+associative memory architecture.
+I am moderator of
+sci.nanotech
+, and the
+nanotechnology editor for Extropy.
+I'm a consultant as "subject matter expert" in computer architecture to
+the
+Rutgers HPCD Project
+.
+My research interests also include reversible computing for low-power
+architecture.
+josh@cs.rutgers.edu

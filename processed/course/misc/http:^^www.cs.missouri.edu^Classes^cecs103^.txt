@@ -1,0 +1,79 @@
+Date: Tue, 26 Nov 1996 19:15:02 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=gs3510855849035702193; path=/
+Content-length: 1505
+Last-modified: Sun, 06 Oct 1996 18:01:52 GMT
+
+
+CECS103 - Intro to Algorithm Design & Programming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CECS103
+Introduction to Algorithm Design & Programming
+
+
+
+
+
+
+Welcome to the CECS103 Web Page
+
+
+
+
+
+
+This page is provided for the students enrolled in the
+CECS 103
+course at the University of Missouri - Columbia.
+
+
+
+Some pertinent material about the course.
+
+
+Course Syllabus
+
+
+
+
+
+
+Course Specific Material
+
+
+
+Reference Manuals for C
+
+
+
+
+
+
+To contact the course coordinator, select:
+
+
+HERE
+
+
+
+(Updated: 10/96)
+
+
+
+
+

@@ -1,0 +1,102 @@
+Date: Thursday, 21-Nov-96 21:33:31 GMT
+Server: NCSA/1.1
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Saturday, 22-Jun-96 15:41:25 GMT
+
+Dan Dougherty's WWW Plan File
+
+
+
+Dan Dougherty
+Associate Professor of Computer Science
+Wesleyan University
+Middletown, CT 06459
+[203] 685-2185
+
+
+ddougherty@wesleyan.edu
+
+
+
+Research Interests
+
+Computational logic, especially term rewriting, unification, and
+lambda calculus
+
+Recent papers, available from site
+ftp.cs.wesleyan.edu
+:
+
+
+"Equality between functionals in the presence of coproducts"
+dvi file
+, or
+ps file.
+
+
+Some independence results for equational unification
+dvi file
+, or
+ps file.
+
+
+"Some lambda-calculi with categorical sums and products"
+dvi file
+, or
+ps file
+
+
+"Higher-order unification via combinators"
+dvi file
+, or
+ps file
+
+
+"Adding algebra to the untyped lambda calculus"
+dvi file
+, or
+
+ps file
+
+"A combinatory logic approach to higher-order E-unification
+(with P. Johann)"
+dvi file
+, or
+ps file
+
+
+"An improved general E-unification method (with P. Johann)"
+dvi file
+, or
+ps file
+
+
+"Closed categories and categorial grammar"
+dvi file
+, or
+ps file
+
+
+Teaching (Fall 1995)
+
+
+"Introduction to Computer Science"
+
+
+Other links
+
+
+
+Wesleyan computer science group
+
+
+
+
+
+
+Wesleyan university
+
+
+
+

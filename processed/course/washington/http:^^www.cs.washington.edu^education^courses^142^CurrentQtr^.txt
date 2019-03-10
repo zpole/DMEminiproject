@@ -1,0 +1,133 @@
+Date: Thu, 21 Nov 1996 22:24:46 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE/ENGR 142 Home Page (Autumn 1996)
+
+
+
+
+
+
+
+
+CSE/ENGR 142:
+Computer Programming I
+
+Martin Dickey
+&
+Richard Ladner
+,
+Autumn 1996
+
+
+
+Welcome to the 142 Home Page!
+
+
+This is the World Wide Web ("the Web" for short) hypermedia
+document for CSE/ENGR 142 and will contain a bounty of information
+about the class. You can click on any highlighted item for more
+information.
+
+
+
+Class Messages
+- check frequently!
+Course Syllabus
+
+All sorts of
+schedules
+
+The week at a glance
+
+Week-by-week
+activity schedule
+
+Computing labs
+(including
+lab hours). Watch for lab hour changes!
+The Staff
+(including instructor and
+TA office hours)
+Lecture slides
+
+Lecture slides with audio
+from Summer 1996
+Homework
+.
+Examinations:
+Midterm
+and
+Final
+(not at originally
+scheduled place and time!).  Study guides, old tests, place and
+time, etc.
+All kinds of
+tips
+on using
+the compiler, for both PC and Macintosh users.
+Computing at Home
+
+Textbook Code
+
+References
+
+Tutorials and special demos
+
+
+
+Course webs from earlier quarters should be more or less intact
+and you are invited to browse them. (If you notice problems, for
+instance links that don't work, please send mail the Webmaster
+(see below). You might like to look at assignments, tests, and
+the like that were used previously.
+
+
+
+Autumn 1995
+
+
+Winter 1996
+
+Spring 1996
+
+Summer 1996
+
+
+
+
+
+Other information
+
+is available about
+
+the
+University of Washington,
+
+the
+Computer Science and Engineering Department,
+
+the
+Computer Science degree program
+(College of Arts and Sciences),
+the
+Computer Engineering degree program
+(College of Engineering), and
+related courses,
+for both majors and nonmajors.
+
+
+Comments to:
+
+cse142-webmaster@cs.washington.edu
+
+(Last Update:
+11/19/96
+)
+
+
+
+

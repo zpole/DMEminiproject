@@ -1,0 +1,36 @@
+Date: Tue, 26 Nov 1996 16:49:04 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1024
+Last-modified: Sat, 12 Oct 1996 23:05:47 GMT
+Home Page for Lisa Streit
+
+
+
+Lisa Streit BSc.
+
+
+
+
+e-mail:
+streit@cs.ualberta.ca
+
+
+Okay, Okay I have finally got around to making myself a homepage.  This is not because I have resorted to geek-ville (as you can see it is not all that fancy), but mostly because I have been harassed so much by the geeks I work with, I thought I better appease them.  So here it is...
+
+
+About Me
+
+TA Stuff...
+
+My Course Stuff...
+
+My Photos...
+
+
+So that is all I hope you enjoyed it....
+
+
+Last update: October 12th, 1996
+
+

@@ -1,0 +1,67 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:24:16 GMT
+Content-Type: text/html
+Content-Length: 1247
+Last-Modified: Friday, 13-Sep-96 22:28:16 GMT
+
+CS372 Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CS372
+Introduction to Operating Systems
+
+
+
+
+
+Class Information
+
+
+
+Handouts
+
+
+
+Assignments
+
+
+
+Readings
+
+
+
+Project Information
+
+
+
+Groups
+
+
+Send Mail to the Prof
+
+
+
+Send Mail to the TA
+
+
+
+Newsgroup
+
+
+
+
+
+

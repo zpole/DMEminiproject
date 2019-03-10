@@ -1,0 +1,91 @@
+Date: Tue, 26 Nov 1996 02:47:05 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2469
+Last-modified: Mon, 18 Dec 1995 15:02:13 GMT
+Michael Oren
+
+
+
+finger
+oren@cs.columbia.edu
+
+
+
+
+Office:                          Home:
+CBCL, E25-213a, MIT              1170 Massachusetts Ave., Apt #6
+Cambridge, MA 02139              Cambridge, MA 02138
+Tel: (617)-253-6357 (office)     Tel: (617)-492-6604
+FAX: (617)-253-2964
+
+At Columbia: 720 Schapiro (CEPSR).
+
+
+To send mail
+(oren@ai.mit.edu)
+click here
+
+
+
+
+Recent Publications
+
+
+M. Oren and S. Nayar,
+A Theory of Specular Surface Geometry,
+
+The Int. J. Computer Vision
+(1.1Mb), (To  appear in 1996).
+
+M. Oren and S. Nayar,
+A Theory of Specular Surface Geometry,
+(0.5Mb),
+The Proceedings of the Fifth Int. Conf. om Computer Vision
+(ICCV 95), Boston, June 1995 .
+
+
+
+M. Oren and S. Nayar,
+Generalization of the Lambertian Model and Implications for Machine Vision,
+(1.3Mb),
+The Int. J. Computer Vision, Vol. 14:3
+.
+
+
+S. Nayar and M. Oren,
+Visual Appearance of Matte Surfaces,
+(0.7Mb),
+Science, Vol. 267, 24 February 1995.
+
+
+M. Oren and S. Nayar,
+Generalization of  Lambert's Reflectance Model,
+(1.1Mb),
+ACM Computer Graphics Proceedings (SIGGRAPH 94).
+
+
+
+
+To see more: click for the following pages:
+
+
+Generalization of the Lambertian Model
+
+
+
+Graphics page: Generalization of the Lambertian Model
+
+
+
+My other (and similar) home page at MIT.
+Other home pages
+
+CS people
+
+Department of
+Computer Science, Columbia University
+
+Columbia University
+
+

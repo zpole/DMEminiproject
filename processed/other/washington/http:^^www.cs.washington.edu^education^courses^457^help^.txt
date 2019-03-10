@@ -1,0 +1,127 @@
+Date: Mon, 02 Dec 1996 16:03:14 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+CSE 457 Help
+
+
+
+
+
+
+
+
+1996 Autumn Quarter
+
+
+
+
+
+Help
+
+
+Basic help
+Why does the page look so weird?
+Mosaic, Netscape, Lynx -- what's the difference?
+
+More info on Mosaic
+More info on Netscape
+More info on Lynx
+
+Using Netscape on the Indys
+
+
+
+Basic help
+Point.  Click.  Repeat until sufficiently bored.
+You'll find more
+in-depth help on the
+Help
+menu of your browser
+.
+
+Why does the page look so weird?
+The CSE/457 home page uses tables, a feature that is best supported by
+Netscape.  Mosaic tends to completely leave out any table entries containing
+links, and occasionally even seg-faults.  If you are unable to use tables,
+there is a version of the home page done in traditional HTML style:
+
+http://www.cs.washington.edu/education/courses/457/notables.html
+
+
+
+Mosaic, Netscape, Lynx -- what's the difference?
+
+Mosaic
+was the original graphical web browser, created by Marc Andreesen
+and others at University of Illinois at Urbana-Champaigne.  After graduating,
+though, most of the team that created Mosaic created the company that is
+now
+Netscape Communications
+.
+So what's the difference between the two?  Well, Mosaic is still being
+(slowly) worked on at UIUC.  Netscape, on the other hand, has been screaming
+ahead in technology.  Universities tend to support Mosaic, because it is
+free, and the source is distributed, so it can compile on obscure and
+obsolete operating systems (eg Ultrix).  Netscape gives their products away
+to educational institutions for free, but usually users have to install
+and support it themselves.
+
+Netscape
+is considered "faster" because it displays a page as it loads.
+With Mosaic, you have to wait until the entire page is loaded.  Netscape
+also supports a larger set of formatting tags, and its next version will
+include enhanced email and newsgroup reading, as well as extensions to
+support advanced technologies such as Macromedia Director, Adobe Acrobat,
+Sun's Java, and more.
+Netscape also works better with color.  It uses 24-bit color if available,
+whereas Mosaic is limited to 8-bit color.  This is one of the main reasons
+we suggest you use Netscape for CSE/457
+.
+What about
+Lynx
+?  Lynx is a text-based web browser.  It isn't very exciting,
+but it can be useful if you can't support graphics -- like if you are
+dialing in from home and not using a SLIP/PPP connection.
+More information on all three can be found on these pages:
+
+Department info on Mosaic
+
+NCSA Mosaic
+
+Netscape Communications
+
+About Lynx
+
+
+
+Using Netscape on the Indys
+Though Netscape isn't officially supported in the IndyLab, we have a copy
+for you to use.  This can be found at
+/cse/courses/cse457/bin/netscape
+.  You might want to make an
+alias, or include
+/cse/courses/cse457/bin/
+in your path list.
+You'll need to set up one thing in Netscape so that you can use helper
+applications (eg sound-players, movie-players, installer-scripts, etc.).
+Under the
+Options
+menu select
+Preferences
+.  Change the
+options-menu to
+Helper Applications
+.  Then simply change the word
+netscape
+(after Global Types File and Global Mailcap File)
+to
+mosaic
+.
+More help
+If you need any additional help, try the help menu on your browser.  Or,
+ask one of the
+TAs
+for help.
+
+

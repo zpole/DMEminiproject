@@ -1,0 +1,37 @@
+Date: Mon, 02 Dec 1996 16:11:03 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+CSE 457 Homework
+
+
+
+
+
+
+
+
+1996 Autumn Quarter
+
+
+
+
+
+Homework Assignments
+
+
+
+Homework #0: Questionnaire
+
+
+Homework #1: Drawing Pixels
+
+
+Homework #2: Compositing, lines, polygons, and curves
+
+
+Homework #3: 3D graphics
+
+
+
+

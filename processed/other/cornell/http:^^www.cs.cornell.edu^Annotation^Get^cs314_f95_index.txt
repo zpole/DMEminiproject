@@ -1,0 +1,21 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 22:06:39 GMT
+Content-Type: text/html
+Content-Length: 555
+Authentication required
+If you don't have a password set up on this system and you want
+to use it anyway, just use space as your password.  This will get you
+into those groups which accept anonymous users.
+
+Please enter your name and password.
+
+Name:
+Password:
+
+
+Why you must log in
+
+
+
+

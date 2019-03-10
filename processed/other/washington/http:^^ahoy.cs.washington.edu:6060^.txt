@@ -1,0 +1,133 @@
+Date: Tue, 10 Dec 1996 03:32:24 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3741
+Last-modified: Fri, 04 Oct 1996 00:14:09 GMT
+
+
+Ahoy! The Homepage Finder
+
+
+
+
+
+
+
+
+Search for a personal Homepage
+
+
+
+Given Name
+(REQUIRED)
+Family Name
+(REQUIRED)
+
+
+Organization
+(HIGHLY RECOMMENDED)
+
+
+
+Email address
+(HELPFUL)
+Country
+(OPTIONAL)
+
+
+This is
+beta
+software!
+Please
+report problems to
+ahoy@cs.washington.edu
+
+
+
+
+
+
+by
+Jonathan
+Shakes
+,
+Marc
+Langheinrich
+, and
+Professor Oren
+Etzioni
+
+
+
+
+
+
+Ahoy! recommends using
+Netscape
+Navigator
+for immediate progress updating during the search.
+Ahoy! uses the
+Metacrawler
+as a search engine.
+Email-lookups courtesy of
+OKRA
+,
+WhoWhere?
+, and
+IAF
+.
+Institutional Database courtesy of
+Yahoo!
+.
+
+
+
+
+
+
+Ahoy! is an academic research project at the
+
+University of Washington
+,
+Department of Computer
+Science
+
+
+
+
+
+
+Note: Ahoy! is an academic research prototype which is currently under
+development and may crash unexpectedly.  Please report problems from the
+Bugs
+page.
+
+[
+About Ahoy!
+|
+Help
+|
+Bugs
+|
+Register
+|
+Search
+]
+
+ahoy@cs.washington.edu
+
+
+
+
+
+
+
+
+Can't handle tables? Use our
+Non-Table Search
+Form
+instead!
+
+
+
+

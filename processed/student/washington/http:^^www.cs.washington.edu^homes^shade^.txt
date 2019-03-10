@@ -1,0 +1,96 @@
+Date: Thu, 16 Jan 1997 02:40:21 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 07 Jan 1997 22:36:34 GMT
+Content-length: 2641
+
+
+j ward shade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Greetings and salutations. I'm a third year grad student here
+at u-dub
+cse
+. Interactive rendering
+of complex 3D scenes is currently my thing. If it is your thing too,
+then follow the
+Projects
+link to the
+Walkthru
+project. There, among
+lots of pictures and animations, you'll find the SIGGRAPH 96 paper
+describing some recent work. ( As a shortcut, you can click on the
+picture of the island in the lower left corner of this page.)
+
+There is lots of interesting work going on in many different aspects
+of computer graphics here. The
+Graphics and Imaging Laboratory
+is where most of it gets done.
+
+
+
+
+
+
+
+
+Contact Info
+,
+Daily Schedule
+,
+Travel Plans
+.
+
+
+
+
+Projects
+
+
+
+
+
+Publications
+
+
+
+
+
+Pictures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hey! If this page looks scrunched, make your browser at least 750 pixels wide.
+
+

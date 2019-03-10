@@ -1,0 +1,20 @@
+nl-ilp-data directory
+nl-ilp-data
+Up to mooney
+
+
+alphabetic-past-data
+
+geoqueries
+
+mk-control-xs
+
+mk-sentences
+
+past-background-defn
+
+phonetic-past-data
+
+README
+
+regular-phonetic-past-data

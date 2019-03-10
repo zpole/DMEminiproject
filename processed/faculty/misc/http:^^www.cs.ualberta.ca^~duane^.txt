@@ -1,0 +1,158 @@
+Date: Mon, 25 Nov 1996 22:54:31 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 5809
+Last-modified: Mon, 28 Oct 1996 16:47:29 GMT
+
+
+Duane Szafron Home Page
+
+
+
+
+Duane Szafron
+
+Associate Professor
+
+Department of Computing Science
+
+University of Alberta
+
+Edmonton
+, AB T6G 2H1
+
+CANADA
+
+
+
+(403) 492-5468
+
+(403) 492-1071
+
+(403) 481-2674
+
+
+
+Research Areas
+My current research interests are: object-oriented programming languages,
+object-oriented design, objectbases, multimedia and distributed computing.
+The latter three interests are reflected in three collaborative research
+projects:
+TIGUKAT
+Objectbase Management System
+,
+Multimedia
+Data Management
+and
+Enterprise
+Parallel Programming System
+.
+
+Tigukat is an objectbase management system with a novel object model whose
+identifying characteristics include a purely behavioral semantics and a
+uniform approach to objects. Everything in the system is a first class object
+with well defined behavior. The computational model is one of applying behaviors
+to objects.
+
+The multimedia project addresses the issue of providing data management
+support for multimedia applications. The general approach incorporates an
+object-oriented type system and distributed objectbase functionality.
+
+Enterprise is a programming environment for designing, coding, debugging,
+testing, monitoring, profiling and executing programs in a distributed hardware
+environment. Enterprise code looks like familiar sequential code since the
+parallelism is expressed graphically and is independent of the code. The
+system automatically inserts the code necessary to correctly handle communication
+and synchronization, allowing the rapid construction of distributed programs.
+This helps bridge the complexity gap between distributed and sequential
+software.
+
+
+Research Laboratories
+
+
+Laboratory for
+Database Systems Research
+
+Parallel Programming
+Systems Research Laboratory
+
+
+
+Courses Taught
+
+
+CMPUT 114 Introduction to
+Computing Science
+
+CMPUT 115 Programming with
+Data Structures
+
+CMPUT 325 Non-Procedural
+Programming Languages
+
+CMPUT 425 Object-Oriented
+Programming Languages
+
+
+
+Faculty Research Collaborators
+
+
+Tamer Özsu
+
+Jonathan Schaeffer
+
+Ron Unrau
+
+Ajit
+Singh
+(
+University of Waterloo
+)
+
+
+Current Graduate Students
+
+Ph.D. Program:
+
+
+Iqbal Goralwalla
+
+Wade Holst
+
+Yuri Leontiev
+
+John Li
+
+Steven MacDonald
+
+Ian Parsons
+
+
+M.Sc. Program:
+
+
+William Hui
+
+Nicholas Kazouris
+
+
+
+Former
+Graduate Students
+
+Refereed Publications
+
+Non-Refereed
+Publications
+
+Current Grants and
+Contracts
+
+Test Link
+
+
+
+
+

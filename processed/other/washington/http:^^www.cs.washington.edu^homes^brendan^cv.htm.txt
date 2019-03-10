@@ -1,0 +1,251 @@
+Date: Tue, 10 Dec 1996 21:22:25 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sun, 17 Nov 1996 06:15:06 GMT
+Content-length: 6657
+
+
+
+
+Untitled
+
+
+
+
+Curriculum Vitae
+
+
+
+Brendan Marshall Mumey
+
+
+
+
+I am currently a Ph.D. candidate
+in the Department of Computer Science at the University of Washington.
+I entered in the fall of 1992 and expect to graduate by the
+fall of 1996. I am 28 years old.  I have dual US and Canadian
+citizenship.
+
+
+
+Contact Information
+
+
+
+Department of Computer Science
+
+
+University of Washington
+
+
+Seattle, WA, 98195-2350
+
+
+
+Voice: (206) 685-4087 (day) or (206)
+322-2099 (evening)
+
+
+Fax:  (206) 543-2969
+
+
+E-mail: brendan@cs.washington.edu
+
+
+WWW: http://www.cs.washington.edu/homes/brendan/
+
+
+
+Research
+
+
+
+My general interests run to applying
+theoretical techniques to solve problems which have practical
+motivation. My current work is in computational biology.  Specifically,
+I have worked on the problem of comparing DNA clones based on
+their "multiple complete digest" fingerprint. This fingerprint
+is gathered by digesting each clone with several different restriction
+enzymes and measuring (using gel electrophoresis) the lengths
+into which each clone is divided. Using a stochastic model of
+this process, I developed an estimator of the a posteriori probability
+that two clones overlap given their measured fingerprints. An
+overlap test based on this approach is provably powerful in the
+sense of achieving nearly the lowest rate of false negatives for
+a given rate of false positives. Using this overlap test, I have
+implemented a clone ordering algorithm which is crucial to finishing
+the map.
+
+
+
+More recently, I have been working
+on a clustering problem which arises in the context of classifying
+prostate cancer cells. The raw data consists of quantized hybridization
+levels for several hundred cell lines against perhaps 25,000 cDNA
+oligos. The problem is to discover the important features which
+determine the general type and lethality of a particular cell
+line.  This is joint with work with Dick Karp and Leroy Hood's
+lab in the molecular biotechnology department at the University
+of Washington.
+
+
+
+I have also done some work in computational
+astrophysics; my contribution being a new parallel algorithm and
+implementation for detecting clusters in points sets. With Maria
+Klawe I developed new upper and lower bounds for computing the
+optimal alphabetic tree data structure.
+
+
+
+
+
+Education
+
+
+
+Ph.D. (expected fall 1996), Computer
+Science, University of Washington. Advisor: Dr. Larry Ruzzo.
+
+
+
+M.Sc., Computer Science, University
+of British Columbia, August, 1992. Advisor: Dr. Maria Klawe. Thesis
+title: Some New Results on Constructing Optimal Alphabetic Binary
+Trees.
+
+
+
+B.Sc. (Honors First Class), Mathematics,
+University of Alberta, May, 1990.
+
+
+
+Academic Experience
+
+
+
+University of Washington. Pre-doctoral
+fellowship in genomic sciences. Awarded September, 1995.
+
+
+
+University of Washington. Teaching
+assistant for CSE321, an introductory discrete mathematics course.
+September-December, 1994. Received very good to excellent evaluations.
+
+
+
+University of Washington. Research
+assistant. September, 1992 until present.
+
+
+
+UCSD Supercomputer Center. Participant
+in the 1993 Metacenter Computational Science Institute in Parallel
+Computing. August, 1993.
+
+
+
+University of British Columbia. NSERC
+Postgraduate fellow. September, 1990 to August, 1992.
+
+
+
+Other Achievements
+
+
+
+Several undergraduate prizes in Mathematics.
+Placed in the top 3% in 1990 Putnam undergraduate mathematics
+competition. Accepted to the doctoral program in computer science
+at MIT.
+
+
+
+Publications
+
+
+
+B. Mumey, A powerful clone overlap
+test. Submitted to the ISMB'96 conference.
+
+
+
+M. Klawe and B. Mumey, Upper and
+Lower Bounds on Constructing
+
+
+Optimal Alphabetic Trees. Proceedings
+of the 1993 ACM/SIAM Symposium on
+
+
+Discrete Algorithms. January, 1993.
+The SIAM Journal on Discrete Math. November, 1995.
+
+
+
+B. Mumey, Fast Cluster Detection
+in Point Sets. Presented at the 1994 DIMACS Challenge.
+
+
+
+My papers are available on-line at:
+http://www.cs.washington.edu/homes/brendan/
+
+
+
+References
+
+
+
+Dr. Larry Ruzzo
+
+
+Department of Computer Science
+
+
+University of Washington
+
+
+(206) 543-6298
+
+
+ruzzo@cs.washington.edu
+
+
+
+Dr. Richard Karp
+
+
+Department of Computer Science
+
+
+University of Washington
+
+
+(206) 543-1695
+
+
+karp@cs.washington.edu
+
+
+
+Dr. Maria Klawe
+
+
+Department of Computer Science
+
+
+University of British Columbia
+
+
+(604) 822-3064
+
+
+klawe@cs.ubc.ca
+
+
+
+

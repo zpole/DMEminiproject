@@ -1,0 +1,110 @@
+Server: Netscape-Commerce/1.12
+Date: Wednesday, 20-Nov-96 22:46:25 GMT
+Last-modified: Tuesday, 08-Oct-96 00:36:53 GMT
+Content-length: 1740
+Content-type: text/html
+
+
+CS495: Computational Biology
+
+
+
+CS495: Computational Biology
+
+Fall 1996
+
+Last updated 10/7/96
+
+
+Essentials
+
+When:
+T/TH, 3:00-4:20pm
+
+Where:
+Room 102, Computer Science Building
+
+Text:
+
+Introduction to Computational Biology: Maps, Sequences, and Genomes
+by
+Michael S. Waterman
+(Chapman and Hall, 1995)
+
+Instructor:
+
+Professor Richard Lipton
+-- rjl@cs.princeton.edu
+
+Teaching Assistant:
+
+Chris Dunworth
+-- ctd@cs.princeton.edu -- Office Hours TBA.
+
+
+Readings
+
+
+Waterman, Ch. 2 (by
+TUE
+9/24)
+
+Waterman, Ch. 3-4 (by
+TUE
+10/1)
+
+Waterman, Ch. 5-6 (by
+THU
+10/10)
+
+
+
+Handouts
+
+
+Course outline
+(
+THU
+9/12)
+
+"What is PCR?".
+Not available online.
+(
+TUE
+9/24)
+
+"Open Combinatorial Problems in Computational Molecular Biology", Chapter 1, Proceedings of ISTCS 1995.
+Not available online.
+(
+THU
+10/3)
+
+
+
+
+Homework
+
+
+Problem Set 1
+(due
+THU
+10/3)
+
+Problem Set 2
+(due
+TUE
+10/15)
+
+
+
+
+
+Department of Computer Science
+
+
+Princeton University
+
+
+
+
+

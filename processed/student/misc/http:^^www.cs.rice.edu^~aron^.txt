@@ -1,0 +1,63 @@
+Date: Tue, 26 Nov 1996 00:20:39 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 20 Aug 1996 21:43:01 GMT
+Content-length: 1243
+
+
+Home Page of Mohit Aron
+
+
+
+
+
+
+Home Page of Mohit Aron
+
+
+
+
+
+
+I am a Graduate Student in the
+Computer Science Department
+at
+Rice University
+.
+My research interests are in Operating Systems and Networks. My advisor
+is
+Peter Druschel
+from
+the
+Systems Group
+at
+Rice.
+
+
+
+
+
+My Research
+
+
+Courses I've taken in Rice
+
+
+Pages related to my academic interests
+
+
+Before I came to Rice...
+
+
+Fun links
+
+
+
+
+
+Mohit Aron / Department of Computer Science / Rice University /
+aron@cs.rice.edu
+
+
+
+

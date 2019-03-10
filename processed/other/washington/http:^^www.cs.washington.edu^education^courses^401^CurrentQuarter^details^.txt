@@ -1,0 +1,79 @@
+Date: Mon, 02 Dec 1996 14:40:11 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE 401 / Details
+
+
+
+
+
+
+
+
+CSE 401 Compilers Class
+
+
+
+
+
+
+Details
+
+
+
+
+
+
+Lecture Notes
+(in postscript)
+
+(from Fall 95)
+
+
+
+
+Assignments
+
+(Updated 11/06/96)
+
+
+
+
+Project Description
+
+
+
+
+Original lexical structure
+
+
+
+
+Extended Lexical Structure
+
+
+
+
+Original BNF
+
+
+
+
+Extended BNF
+
+
+
+
+
+
+401admin@cs.washington.edu
+(Last modified: 11/12/96)
+
+
+
+
+
+

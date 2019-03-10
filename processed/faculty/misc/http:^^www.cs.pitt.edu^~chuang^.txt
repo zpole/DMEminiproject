@@ -1,0 +1,67 @@
+Date: Mon, 25 Nov 1996 23:22:16 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 02 Oct 1996 20:24:10 GMT
+Content-length: 1606
+
+Home Page for Henry Chuang
+
+
+
+
+Henry Chuang
+
+
+
+
+Dept of Computer Science
+Email: chuang@cs.pitt.edu
+316 Alumni Hall                Phone: 412/624-8424
+Univ. of Pittsburgh            FAX: 412/624-8854
+Pittsburgh, PA  15260
+
+
+
+Research Areas
+
+
+
+
+Parallel Architectures
+.
+
+
+Parallel Algorithms
+
+
+
+Publications
+
+
+
+Teaching
+
+
+
+
+CS 2541
+Computer Architecture
+
+
+CS 2542
+Advanced Computer Architecture
+
+
+CS 1550
+Introduction to Operating Systems
+
+
+CS 0447
+Computer Organization and Assembly Language
+
+
+
+
+To send email click on the mailbox.
+
+

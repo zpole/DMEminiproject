@@ -1,0 +1,186 @@
+Date: Thu, 21 Nov 1996 20:12:03 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 23 Oct 1996 21:37:05 GMT
+Content-length: 5246
+
+
+Homepage for Scott B. Baden
+
+
+
+
+Scott B. Baden
+
+
+Associate Professor
+of
+Computer Science and Engineering
+
+
+Address
+
+
+
+Department of Computer Science and Engineering
+
+University of California, San Diego
+9500 Gilman Drive
+La Jolla  CA  92093-0114 USA
+Phone: (619) 534-8861
+FAX: (619) 534-7029
+Email: baden@cs.ucsd.edu
+
+Office hours for SQ '96 (5101 APM): Wed 2 PM - 4 PM
+Secretary: Michele Foley (mfoley@cs), tel 619-534-5288
+
+
+
+
+Research Interests
+
+
+Software support for parallel scientific programming, load balancing,
+applications, including
+ab-initio
+molecular dynamics.
+For more information, click
+here
+
+For recent publications, click
+HERE
+
+
+Research opportunities
+
+
+
+
+
+Scientific Computation Group
+
+
+
+
+
+Stephen Fink
+
+Abdul Tabbara
+
+Sarah Wustner
+
+
+Scott Kohn
+
+
+
+
+
+
+
+Courses I Teach
+
+
+
+
+
+
+CSE 160: Introduction to Parallel Computation
+
+
+
+CSE 241:   Advanced Computer Architecture (SQ '97)
+
+
+
+CSE 262:   System Support for Parallel Scientific Computation
+
+
+
+CSE 100:   Data Structures (WQ '97)
+
+
+
+CSE 268a:   Topics in Parallel Computation
+
+
+
+CSE 164b:   Advanced Scientific Computation
+
+
+
+
+
+
+
+
+Other items of interest
+
+
+
+
+
+UCES Awards Programs
+
+
+
+Interesting Links
+
+
+
+Scott Baden's Insider's Guide to San Diego
+
+
+
+
+
+
+Biographical Sketch:
+
+
+
+Scott B.  Baden received his BS in Electrical Engineering from
+Duke University
+in 1978 and his
+Ph.D. in
+Computer Science
+from
+UC Berkeley
+in 1987. After spending two
+years as a post-doc at
+Lawrence Berkeley Laboratry
+, and a year traveling the Globe,
+he joined the
+Department of
+Computer Science and Engineering
+at
+UCSD
+in 1990.  He is also
+Senior Fellow at the
+San Diego Supercomputer Center.
+
+
+
+
+
+
+Quotation from ``Tropic of Capricorn''
+(Henry Miller)
+
+From the beginning it was never anything but chaos:
+it was a fluid which enveloped me, which I breathed
+in through the gills.
+
+
+
+
+
+
+
+
+
+Wed Oct 23 14:37:02 PDT 1996
+Scott B. Baden / UCSD / baden@cs.ucsd.edu
+
+
+

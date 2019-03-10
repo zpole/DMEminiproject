@@ -1,0 +1,82 @@
+Date: Thu, 21 Nov 1996 22:20:53 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+CSE 490 Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to the CSE 490 course web, containing a bevy of information relating
+to the course.  As usual, these documents will frequently
+change.  Send mail to
+bswest@cs
+if you encounter any problems.
+
+
+
+About the class
+
+
+Personnel
+
+Syllabus
+
+Lecture schedule
+
+Guest lecture schedule
+
+Office hours
+
+
+
+
+
+Projects
+
+
+Project handouts/schedule
+
+Project help sessions
+
+Final project
+
+
+
+
+
+Other information
+
+
+About LA2
+
+Bugs and errata
+
+Reference pages
+
+Midterm questionnaire
+
+
+
+
+
+
+
+
+bswest@cs.washington.edu
+
+
+31 March 1996
+
+
+

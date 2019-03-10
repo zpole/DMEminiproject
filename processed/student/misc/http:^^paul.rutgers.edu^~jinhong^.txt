@@ -1,0 +1,85 @@
+Date: Tue, 26 Nov 1996 03:56:30 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1869
+Last-modified: Tue, 05 Nov 1996 06:27:18 GMT
+Jin Hong
+
+
+
+
+
+Jin Hong
+
+
+
+103 Hill Center
+Department of Computer Science
+Rutgers University
+Piscataway, NJ 08854
+Office: (908) 445-0050
+Home: (609) 683-5729
+Email:
+jinhong@paul.rutgers.edu
+
+
+
+
+Am I logged on?
+
+
+
+
+
+
+
+I am a second year graduate student in
+Rutgers University
+,
+Computer Science Department
+,
+currently involved in
+DATAMAN Research Group
+, which deals with Mobile Wireless Computing.
+
+
+
+
+Want to know
+
+more about me
+?
+
+Current research frequently used URL
+
+
+
+Java API
+
+
+Java FAQ
+
+
+Linux
+
+
+Linux documentation
+
+
+ALTA VISTA:LARGEST WEB INDEX
+
+
+Daleks:a Java game
+
+
+Java thread
+
+
+Check out my practice or project:
+
+Go board (Java applet)
+
+
+Parallel Internet search engine test
+
+

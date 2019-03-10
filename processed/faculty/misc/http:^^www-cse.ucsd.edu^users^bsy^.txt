@@ -1,0 +1,119 @@
+Date: Thu, 21 Nov 1996 20:07:32 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 21 Oct 1996 22:41:08 GMT
+Content-length: 4691
+
+Home Sweet Home (bsy's home page)
+Home Sweet Home (bsy's home page)
+
+Bennet Yee
+'s research focuses on issues in
+computer security.  There are many inter-related areas that impact the
+security of systems: user-interfaces, software systems design, theorem
+proving, and cryptography all play important roles.
+One particular area that Bennet has been working on is the
+secure
+coprocessor model
+, where physically secure
+(tamper-detecting/-proof) hardware is added to conventional computing
+systems.  We perform security-critical operations such as the
+execution of cryptographic protocols and access control decisions only
+within secure coprocessors, where both privacy of key material and
+integrity of security databases are axiomatic -- thereby bootstrapping
+security properties from the secure coprocessor to the entire system
+as a whole.  This work includes some (minimal) hardware design,
+operating system implementation (porting
+Mach
+3.0 microkernel to the prototype hardware), and cryptographic protocol
+design.  Much of this work was done jointly with
+Doug Tygar
+at
+Carnegie Mellon
+and
+IBM
+'s
+Embedded
+Cryptographic Systems group
+.
+More recently, Bennet has been examining the design of practical
+cryptographic protocols for efficient and yet secure Internet-based
+transactions, secure-coprocessor-based applications, and electronic
+commerce.  He was one of the coauthors of the
+PCT
+protocol from
+Microsoft
+, and more recently he's
+been working with
+Netscape
+,
+Microsoft
+, and others within the
+framework of the
+Internet
+Engineering Task Force
+to come up with a merged protocol
+satisfactory to all parties.
+Bennet maintains
+a list of Web resources relating to
+computer security
+, ranging from cryptography resources, system
+security testing tools, to word compilations useful in eliminating
+easy-to-guess passwords.  In addition to looking at the World Wide Web
+from the security and internet commerce point of view, Bennet also
+indulges plain old
+fun hacks and Web-based link
+collecting
+.  (See also
+his web links page
+).
+His web pages here are still being worked on.  You may be interested
+in
+bsy's web pages at CMU
+.
+
+Some of Bennet's papers are online
+.  His
+PGP public key is available
+.
+Bennet is teaching
+CSE 30
+and
+CSE 291
+this quarter.
+Bennet taught CSE 80 in spring 1996; the archived web pages from the
+course is
+still available
+.
+[
+CSE home
+|
+CSE talks calendar
+|
+bsy's home page
+|
+webster i/f
+|
+thesaurus i/f
+|
+yahoo
+|
+lycos
+|
+altavista
+]
+
+bsy
+@
+cse
+.
+ucsd
+.edu, last updated
+Mon Oct 21 15:41:08 PDT 1996
+.
+email bsy
+Join the
+On-Line Privacy Campaign,
+and the
+Anti-Censorship Campaign!
+

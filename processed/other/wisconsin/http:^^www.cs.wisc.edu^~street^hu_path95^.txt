@@ -1,0 +1,27 @@
+Date: Tue, 05 Nov 1996 00:26:01 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Index of /~street/hu_path95/
+
+Index of /~street/hu_path95/
+
+Name                   Last modified     Size  Description
+
+
+Parent Directory
+20-Oct-96 00:38      -
+
+fndig_fe.ps
+01-Mar-95 13:18   126K
+
+plane.ps
+01-Mar-95 15:51    57K
+
+The text of this manuscript was converted to postscript from
+a WordPerfect file but should be readable.  The figure is included
+in a separate file.  If you have any questions or comments, please
+contact me.
+
+Nick Street
+street@cs.wisc.edu
+

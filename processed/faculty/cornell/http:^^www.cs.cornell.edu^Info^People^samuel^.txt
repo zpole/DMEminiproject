@@ -1,0 +1,82 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 18:55:46 GMT
+Content-Type: text/html
+Content-Length: 2808
+Last-Modified: Wednesday, 20-Mar-96 01:09:40 GMT
+
+Samuel Weber
+
+
+
+Samuel Weber
+
+
+Acting Assistant Professor
+308 Upson Hall
+Phone: 607-255-1051
+Fax: 607-255-4428
+Email:
+samuel@cs.cornell.edu
+
+Currently, I am an Acting Assistant Professor at Cornell University,
+and Assistant Director of the
+Master's of
+Engineering Program in Computer Science
+.
+Research Interests
+Software Design, Specification and Verification,
+Programming Language Design and Semantics, Distributed Systems
+Courses
+
+
+CS 401/501 "Software Engineering: Technology and Techniques"
+(Fall 95)
+CS 100 "Introduction to Computer Programming"
+(Spring 96)
+
+Publications
+
+
+
+Weber and Bloom, "Metatheory of the Pi-Calculus",
+Technical Report 96-1564,
+Cornell University (submitted for conference publication).
+
+
+Weber, Bloom and Brown,
+"Compiling Joy Into Silicon: a Formally Verified Compiler for
+Delay-Insensitive Circuits", Technical Report 96-1566, Cornell
+University (submitted for journal publication).
+
+
+Weber, "Process Algebras and Meta-algebras: Theory and Practice".
+Ph.D. Thesis, Cornell University, August 1995
+
+Weber, Bloom and Brown,
+"Compiling Joy Into Silicon:  An Exercise
+in Applied Structural Operational Semantics,"
+REX Workshop on Semantics: Foundations and Applications 1992,
+Bakker, Roever and Rozenberg, editors, Lecture Notes in
+Computer Science vol. 666, Springer-Verlag, pages 639-659. 1993.
+Weber, Bloom and Brown,
+"Compiling Joy into Silicon: A Verified Silicon Compilation Scheme," In
+T. Knight and J. Savage, editors,
+Proceedings of the Advanced Research in VLSI and Parallel
+Systems Conference, pages 79-98. 1992.
+Amdur, Weber and Hadzilacos,
+"On the Message Complexity of Binary Byzantine Agreement Under
+Crash Failures," Distributed Computing 5, pages 175-186, 1992.
+
+Weber, "Bounds on the Message Complexity of Byzantine Agreement"
+Masters Thesis, University of Toronto, September 1989.
+
+Seshadri, Wortman, Weber, Yu and Small,
+"Semantic Analysis in a Concurrent Compiler,"
+Proceedings of the ACM SIGPLAN '88
+Conference on Programming Language Design and Implementation,
+pages 233-240. 1988.
+
+Samuel Weber (samuel@cs.cornell.edu)
+
+

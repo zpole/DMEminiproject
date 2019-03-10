@@ -1,0 +1,59 @@
+Date: Mon, 25 Nov 1996 23:21:56 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 09 Sep 1996 20:44:24 GMT
+Content-length: 1530
+
+Home Page for Rami Melhem
+
+
+
+Rami Melhem
+
+
+
+
+Professor,
+Dept of Computer Science
+Phone: 412/624-8426	FAX: 412/624-5249
+
+
+
+Research Publications
+
+
+Optical Interconnections for parallel systems
+
+Fault Tolerance in Parallel and Distributed Systems
+
+Parallel and Distributed computing
+
+
+
+Teaching
+
+
+CS2170:
+Fault Tolerance and Coding Theory
+CS0445:
+Introduction to Information Structures
+CS1550:
+Introduction to Operating Systems
+
+
+
+Ongoing Funded Research Projects
+
+
+
+
+Professional Activities
+
+
+
+
+click here
+
+
+to send me mail.
+

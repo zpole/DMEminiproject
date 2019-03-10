@@ -1,0 +1,193 @@
+Date: Tuesday, 26-Nov-96 03:12:44 GMT
+Server: NCSA/1.1
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Tuesday, 01-Oct-96 16:22:36 GMT
+
+
+
+
+
+Vanishree K. Mahesh
+
+
+
+
+
+3000 Majestic Ridget Apt#5
+Las Cruces NM 88011
+(505) 522-7009
+
+Computing Research Laboratory
+New Mexico State University
+Las Cruces, NM 88003-8001
+email: vani@crl.nmsu.edu
+(505) 646-4143
+Fax: (505) 646-6218
+
+
+
+
+Objective
+A challenging career in software design and development, especially
+the applations involving object-oriented paradigm and multimedia
+development.
+
+
+
+Education:
+
+MS
+computer science, New Mexico State University (Graduation: Fall
+1996)
+GPA 3.7
+
+
+BS
+Electronics and Communication engineering, Mysore University, India
+(1993)
+First Class
+
+
+
+
+Skills
+
+Programming Languages
+:
+C, C++, Java, lex and yacc, Lisp, SQL, Tcl.
+
+GUI and Hypermedia:
+X-Windows/Motif, Visual Basic, HTML/CGI, Tcl/Tk, Uimx
+
+Networks:
+HTTP, TCP/IP.
+
+Platforms:
+UNIX and DOS.
+
+Software:
+ILU, OMG IDL, rcs, cvs, Berkeley-Db, Unicode.
+
+Special skills:
+object-oriented design and programming (OOD, OOP),
+software documentation,
+proven competence in software delivery.
+
+
+
+Experience (Sept. 94 -- present)
+
+Computing Research Laboratory, New Mexico State University (1/95 -
+present)
+
+Portable, object-oriented Document Management system, using Java,
+C++ and HTTP
+(5/96 - present):
+
+Developed an object-oriented design for the system using OMG IDL.
+Documented the design.
+Implementing the system using Java.
+Developing a client-server model for the system using HTTP
+protocol.
+
+
+Editor for multilingual dictionary and glossary
+using C and
+X/Motif (1/96 - 5/96)
+
+Fully responsible for the
+design, coding, testing and maintenance
+of the extensive editor.
+Delivered software is currently in use at the Department of Defence.
+
+
+Parsers and loaders for multilingual dictionaries and glossaries,
+using C, lex, and yacc (8/95 - 12/95):
+
+Developed robust libraries for parsing the glossaries and
+dictionaries in text processing applications.
+Built "user_friendly" routines and APIs for conversions between
+database and ascii formats of dictionaries and glossaries to help
+other developers in text processing applications.
+
+
+Word Segmentor for Thai language, using C and Berkeley
+Database(5/95 - 8/95):
+
+Developed an efficient algirithm for detecting word boundaries
+in Thai texts.
+Designed the data structures, implemented and tested the system.
+
+
+Glossary based machine translation engine in C
+(1/95 - 5/95):
+
+
+Designed data structures for efficient storage and retrieval of
+phrases from the glossary.
+Developed algorithms for pattern matching between the text to be
+translated and the glossary phrases.
+
+
+
+Micro Electronics Research Center, Georgia Tech (9/94 - 12/94)
+
+WWW development
+:
+Developed a multimedia presentation in html on the world wide web
+for a neural network simulation of semiconductor
+fabrication.
+
+
+Relevant Graduate Courses:
+
+
+Database management systems, computer networks, operating systems,
+analysis of algorithms,
+automata and formal languages, computer
+architecture, programming languages.
+
+
+
+
+
+
+References
+
+
+
+
+
+Dr. Remi Zajac
+
+Project manager
+Computing Research laboratory
+New Mexico State University
+Box 30001 / Dept. 3CRL
+Las Cruces, NM 88003-8001
+Phone: (505) 646-5782
+email: rzajac@crl.nmsu.edu
+
+Dr. William Ogden
+
+Project manager
+Computing Research laboratory
+New Mexico State University
+Box 30001 / Dept. 3CRL
+Las Cruces, NM 88003-8001
+Phone: (505) 646-6222
+email: ogden@crl.nmsu.edu
+
+Dr. Mikhail Auguston
+
+Associate proffessor
+Computer Science Department
+New Mexico State University
+Las Cruces, NM 88003-8001
+Phone: (505)- 646-5286
+email: mikau@cs.nmsu.edu
+
+
+
+

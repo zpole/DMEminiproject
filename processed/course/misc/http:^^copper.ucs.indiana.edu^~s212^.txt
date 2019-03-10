@@ -1,0 +1,391 @@
+Date: Wed, 20 Nov 1996 22:32:53 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 18 Apr 1996 18:13:03 GMT
+Content-length: 10774
+
+
+
+S212 Home Page
+
+
+
+CSci S212:  Introduction to Software Systems (Honors), Spring 1995
+
+
+Contents
+
+
+
+Useful Links
+
+
+
+General Information
+
+
+Office Hours
+
+
+Communication
+
+
+Course Content
+
+
+Textbooks
+
+
+Participation
+
+
+Quizzes and Exams
+
+
+Programming Projects
+
+
+Grading
+
+
+Course Evaluation
+
+
+Miscellaneous
+
+
+
+General Information
+
+Instructor:
+
+
+David S. Wise
+,
+dswise@cs.indiana.edu
+
+
+Associate Instructor
+
+
+Jeremy Frens
+,
+jfrens@cs.indiana.edu
+
+
+Prerequisite
+
+CSci S211:  Introduction to Computer Science
+
+Lecture
+
+Section 2122, MWF, 9:05 - 9:55 a.m., LH 019
+
+Discussion section
+
+Section 2123, F, 10:10 - 11:00 a.m., LH 019
+
+Local newsgroup
+
+
+ac.csci.s212
+
+
+
+Office Hours
+David Wise in LH 330H
+
+M 3:30pm - 4:30pm
+TW 1:00pm - 2:00pm
+Jeremy Frens in LH 330I
+
+MT 2:30pm - 3:30pm
+W 10am - 12noon
+R 2pm - 4pm (s212 priority)
+
+
+Communication
+The course newsgroup,
+ac.csci.s212
+, will be
+used to post announcements and important information.  Please feel
+free to post questions related to the course, answer the questions of
+others, and share related information with the class.  Do not post
+anonomously. Make a habit of looking for new notes every day.
+On individual or immediate matters, contact your instructor or
+associate instructor via email. You might also want to regularly read
+cs.students
+for postings pertinent to
+students in our CS department.
+
+
+Course Content
+This course is an introduction to application development in the Unix
+environment using the C++ language.
+We will cover the following topics:
+
+basic Unix
+
+control structures, functions, arrays, structs
+
+I/O streams, strings, pointers, references, bits
+
+OO concepts, objects, classes, methods, messages
+
+function overloading, constructors, destructors
+
+dynamic memory allocations, recursive data structures
+
+inheritance, polymorphism, templates
+
+linking external libraries, makefile
+
+shell programming, processes, signals, pipes
+
+A
+detailed course outline
+, with
+week-by-week course schedule, is also abuilding.
+
+
+Textbooks
+
+
+Required
+
+Deitel, H.M. and Deitel, P.J.,
+C++ How to Program
+,
+Prentice Hall, 1994.
+
+Sobel, M.G.,
+UNIX System V: A Practical Guide
+3rd ed.,
+Benjamin/Cummings (1995).
+
+
+
+Reference
+
+Cline, Marshall P. and Lomow, Greg A.,
+C++ FAQs
+,
+Addison-Wesley, 1995.
+
+
+
+Glass, Graham,
+Unix for Programmers and Users, A Complete
+Guide
+, Prentice Hall, 1993.
+
+
+
+Participation
+Participation
+in the class can take many forms: attendence at lectures and
+discussions, asking and answering questions posed in class and on the
+newsgroup, and participating in group activities during lecture.  In
+addition, there will be homework problems assigned in lecture that
+will be due the following lecture.  These problem sets will be short,
+hand-written and may not always be collected.
+
+
+Quizzes and Exams
+There will two 30-minute quizzes early on, and
+two 50-minute quizzes given at four week intervals:
+
+
+January 24
+
+February 14
+
+February 26 (midterm)
+
+March 29
+
+
+The final exam will be held in the regular classroom.  The exam is on
+
+Friday, May 3 at 8 - 10 a.m.
+
+
+
+Grading
+Grades are calculated as follows:
+
+Quizzes 25%
+
+Participation 10%
+
+Projects 40%
+
+Final 25%
+
+Note: You must pass the final exam to pass the course!
+The
+course
+gradebook
+will be updated regularly.
+
+
+Programming Projects
+This is the most important component to the course.  There will be a
+project due every week.  Most projects will entail writing several
+small programs.
+You will submit your source code electronically using the S212
+handin
+program.  This
+handin
+program does not compile, run, debug, or test your
+code (that's your job); it merely saves your file in a convenient
+location so your AI can grade it later.  Submit ASCII source code
+files only!  Never submit object or executable code, please!  You may
+submit a program as many times as you want up to the deadline. Only
+your last submission will be graded.
+All programs must run under g++.  It is recommended that you use the
+UCS machine named
+copper
+.  Programs will be judged on
+correctness, completeness, efficiency, generality, and aesthetics.
+Programs that do not compile will earn zero points.
+Project descriptions will appear below as they are assigned.  In
+general, solutions to the programming projects will
+not
+be
+supplied.
+Projects are due by 11:59 p.m., according to the system clock, on the
+specified date. There is no grace period following this deadline.
+Programs submitted late, even just one second, will not be accepted.
+
+
+Project 1, Due 1/11
+and
+solutions
+.
+Project 2, Due 1/18
+and
+solutions
+.
+Project 3, Due 1/25
+and
+solutions
+.
+Project 4, Due 2/1
+and
+solutions
+.
+Project 5, Due 2/8
+and
+solutions
+.
+Project 6, Due 2/15
+and
+solutions
+.
+Project 7, Due 2/22
+and
+solutions
+.
+Project 8, Due 2/29
+and
+solutions
+.
+Project 9, Due 3/7
+
+Project 10, Due 3/27
+
+Project 11, Due 4/4
+
+Project 12, Due 4/11
+
+Project 13, Due 4/18
+
+
+
+
+Course Evaluations
+Course evaluations will be performed electronically.  At some point
+you should receive an email message containing your individual
+password, which you'll need to gain entry into the system.  As the end
+of the semester approaches, we'll provide a link into the evaluation
+system.
+
+
+
+Instructor Wise
+
+
+Associate
+Instructor Frens
+
+
+
+
+Useful Links
+
+
+
+The C211 Tutorial
+
+
+The 212 Handin Program
+
+
+Course Gradebook
+
+
+ac.csci.s212
+
+
+Number Representations
+
+
+Floating Point Representations
+
+
+General
+programming tips from Jeremy
+(including information on gdb, coding
+tips, and (coming soon) makefiles)
+
+IU Address Book
+
+
+The ACM Homepage
+
+
+
+Miscellaneous
+
+
+`Incompletes' are given only because of an unforeseen emergency
+that is preceded by diligent work, not for a pattern of weak performance.
+No student will be allowed to do ``extra work'' to raise his final
+grade or to make up missing work.  The last day (until 4 p.m.) to
+withdraw with an automatic W is Wednesday, March 6, 1996.
+
+Programs are due on the announced date, because solutions
+may be discussed immediately thereafter;  late assignments would
+be accepted
+only under the conditions similar to what could justify an Incomplete.
+All grades become final one week after the material is returned
+to you. No claims, however justifiable, will be considered after this
+deadline.  If there is a medical or personal reason requiring you to miss a
+quiz you must present your excuse in advance and in writing.  In all
+cases, we require some physical proof of your claim.
+
+You are expected to complete all work independently.  Joint work
+of any type is simply not permitted.  Read the Computer Science
+Department's
+
+Statement on Academic Integrity
+to be sure you understand
+the rules under which CS courses operate.  Cases of academic
+dishonesty will be reported to the Office of Student Ethics, a branch
+of the Office of the Dean of Students.
+
+
+
+
+

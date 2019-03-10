@@ -1,0 +1,280 @@
+Date: Tuesday, 26-Nov-96 17:06:30 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+
+
+Matt Levy's Home Page
+
+
+
+
+
+
+
+
+
+
+
+Welcome! I'm a PhD student in Computer Science here at UK.  This page
+contains exciting (and fascinating) details about my research, my
+personal interests, and also contains some links to pages I think are
+pretty cool.
+
+
+
+To contact me.
+
+
+About my research.
+
+
+My personal life.
+
+
+The standard links list.
+
+
+
+
+Check out the new CS activities page!
+
+
+Visitors since January 16, 1996:
+
+
+
+Contacting me
+Office: Mining Lab/or (more likely) ASTeCC 141
+Phone: 257-9348
+
+
+
+Matt Levy (mattlevy@cs.engr.uky.edu)
+
+
+Back up
+
+
+
+Research interests
+Currently, I'm working in
+structural complexity
+with
+Judy Goldsmith
+.
+We're currently researching the complexity of various kinds of
+Markov Decision Processes.
+I'm also looking at a kind of resource-bounded Kolmogorov complexity.
+
+Current papers
+
+Lance Fortnow
+,
+Judy Goldsmith
+,
+Steve Mahaney
+, and
+Matthew A. Levy
+.
+L-printable sets (Journal version)
+. Extended abstract in the Proceedings
+of the 1996 IEEE Conference on Computational Complexity.  To appear in the
+SIAM Journal of Computing.
+
+Judy Goldsmith
+,
+Matthew A. Levy
+, and
+Martin Mundhenk
+.
+Limited Nondeterminism
+.  Survey article appeared in June, 1996
+SIGACT news.  This is an extended version, with appendices on finite automata
+and the classes LogNP and LogSNP.
+
+Back up
+
+
+
+Personal Details
+
+My wife is
+Amy Levy
+
+,
+the tragically hip RA.
+Here
+is a
+picture of us.
+I have two children, John and Alex.  They're 9 and 7, respectively.  I
+hope to have a page for them soon, but you can see
+a picture
+if you like.  Aren't they cute?
+Unfortunately, our last two fish died, and I never did get pictures of
+any of them.  So, in addition to our kids, our family contains our
+attack guinea pig, Storm, our cat Sebastian, and our dog, Gypsy.
+We just moved last month, so Sebastian is still adjusting.  Gypsy, however,
+loves having a backyard, and has now figured out how to open the
+gate!  It is wonderful having a smart dog most of the time, but sometimes
+I think maybe she's too clever for our own good...
+
+
+
+
+
+
+
+
+
+Here are two pictures of Gypsy.
+
+
+
+Interests
+My major activity, outside of family life and school, is music.  I've
+been playing guitar for around 16 years, mostly blues.
+
+Here, you can see one of my heroes,
+Buddy Guy.
+Recently, I've started studying Tai Chi.  I'm still looking for a good
+Tai Chi link.
+I also love old movies and good standup comedy.
+
+
+Back up
+
+
+
+Links
+
+
+
+Search engines
+
+
+Music sites
+
+
+The funnies
+
+
+Cuddly wuddlies
+
+
+Hail Alma Mater!
+
+
+Various cool stuff
+
+
+
+Don't push this!
+
+
+Back up
+
+
+
+Where to search the net
+
+
+
+Yahoo
+
+
+Starting Point
+
+
+Back up
+
+
+Guitar and music stuff
+
+
+
+Guitar resources on the Web
+
+
+Paul Reed Smith
+
+
+Fender World
+
+
+Harmony Central
+
+
+Back up
+
+
+Cartoons
+
+
+
+
+
+
+
+Back up
+
+
+Pets
+
+
+
+A page devoted to guinea pigs!
+
+
+FINS - a page for tropical fish lovers
+
+
+The NetVet Cat page
+
+
+The NetVet Dog page
+
+
+Back up
+
+
+My Alma Mater (USM)
+
+
+
+University of Southern Maine CS Dept
+
+
+My buddy Steve D.
+
+
+My former advisor, Steve Fenner
+
+
+The Monstrously Cool Dr. Bob
+
+
+Back up
+
+
+Other neat links
+
+
+
+
+
+The electronic newstand
+
+
+Back up
+
+
+
+Please send comments or suggestions to
+mattlevy@cs.engr.uky.edu
+.
+
+This page last updated 9/16/96.
+
+
+

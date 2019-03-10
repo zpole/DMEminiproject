@@ -1,0 +1,51 @@
+Date: Thu, 21 Nov 1996 20:06:51 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 22 Jul 1996 16:32:56 GMT
+Content-length: 1568
+
+
+Rich Wolski's Home Page
+
+
+
+Rich Wolski
+
+
+Department of Computer Science and Engineering, 0114
+University of California San Diego
+La Jolla, CA  92093  USA
+
+
+My origins, like those of most people born in North America during this
+century, are ambiguous and questionable.  I'm currently a research faculty
+member in the
+U.C. San Diego CS&E Department
+where I research CS and a little E (every now and then) in a decidedly
+pedagogical manner.  My current interests include
+heterogeneous computing
+for performance as well as research in
+parallel and distributed systems.  Consequently, I'm housed quite comfortably
+in the
+High Performance and Scientific Computing lab.
+
+My vita
+and some of my more recent
+publication efforts
+are here as are a bunch of
+related pointers
+to other Web locales.
+Of course, research is not possible without readily accessible
+coffee
+and
+music
+which luckly are available here in the San Diego area.  Occasionally,
+a
+movie
+is also necessary.
+
+
+rich@cs.ucsd.edu
+
+
+

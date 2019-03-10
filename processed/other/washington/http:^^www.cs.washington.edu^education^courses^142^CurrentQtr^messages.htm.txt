@@ -1,0 +1,862 @@
+Date: Tue, 10 Dec 1996 16:51:22 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sat, 07 Dec 1996 00:41:32 GMT
+Content-length: 32694
+
+
+
+CSE/ENGR 142 Class Messages
+
+
+
+
+CSE/ENGR 142
+Class Messages
+
+
+Autumn 1996
+
+
+Welcome to CSE/ENGR 142. We will use this page to make all sorts
+of announcements about the class, homework corrections and clarifications,
+etc. The newest messages are listed first. Check here often!
+
+12/6/96
+
+Old homework
+(through HW5) and the midterm exam should
+be picked up from your TA as soon as possible if you haven't done
+so already.  We will not entertain questions on old homework grading
+after classes end December 11 (it's already too late for midterm
+questions).  We'll announce later how we'll get HW6 back to you
+(it may be at the final exam).
+
+
+Audio in the IPL!
+Most of you have probably noticed the
+"
+Lecture Slides with Audio
+"
+link on our main page, and some of you report having used it at
+home.  Viewing the slides while listening to the complete recorded
+lectures from last quarter might strike you as a fabulous and
+painless way to study for the final exam.  We now have audio capability
+in the IPL.  You can bring your own headset (an ordinary Walkman-type
+headset should work) and ask the lab monitor exactly where to
+plug it in.   The Macs and some of the PCs in Suzallo Library
+are audio-ready, too.  If you want to listen at home, there's
+complete information on the audio page about what is needed.
+Enjoy!
+
+12/5/96
+
+Section Q
+in the course packet ("Libraries, File I/O")
+is incomplete; only one of the three original pages was reproduced.
+Sorry. The missing pages
+can be found on the Web
+.
+(Actually, it's likely we won't cover all of this material, anyway).
+
+
+H
+oliday
+H
+ours
+in the
+I
+P
+L
+.
+The IPL will remain open normal hours through December 16. December
+17 and 18 it may be partially closed for cleaning; after that
+it will close and not reopen until Monday, January 6. Consultants
+will be on full duty until 5:00 on Monday, December 9.
+
+12/4/96
+
+Computing survey results
+have been tabulated for the 145 people who have responded so far.
+Some of the comments are pretty fascinating (look for the one
+about "eating oreos and drinking wine" as an advantage
+of computing at home). If you haven't taken the survey yet, we
+would really like you to -- why not
+take it now
+,
+before reading your fellow students' responses, to keep from being
+influenced by them.
+
+11/27/96
+
+Thanksgiving holiday hours for the IPL
+: closing at 5:00
+pm Wednesday; closed all day Thursday and Friday; open 9-5 Saturday,
+noon-midnight Sunday. Consultants may not be working their regularly
+scheduled hours.
+
+A copy of the
+problems from the recent ACM regional programming
+contest
+has been thumbtacked to the bulletin board outside
+the IPL. If you borrow it to study or copy, please return it promptly.
+So far, that particular problem set doesn't seem to be on-line
+anywhere. You can look at lots of problems from previous competitions
+on the
+ACM contest archive page
+.
+Practically all of them are solvable (in principle) with what
+you now know about C programming, except that they take their
+input from a file rather than from the keyboard.
+11/26/96
+There's been a
+problem printing hw6orig.c
+from within MSVC
+-- the printing is cut off after about two pages. You can use
+another program to print from (such as Notepad), or bring up the
+"direct" copy of hw6orig.c from the HW6 page and print
+from Netscape. We're looking at the problem and will post a new
+archive if we can find a solution. Sorry once again for any inconvenience.
+
+11/26/96
+
+The PC archive for HW6 has been reenabled
+. The McAfee virus
+checker found no infection. Nevertheless, use caution as always
+when transferring files from one computer to another. If you have
+virus checking software on your home computer (strongly recommended
+anyway), you might wish to run it against your hard drive before
+and after loading and unpacking the HW6 archive. Please report
+any problems right away. And we are very sorry for the inconvenience.
+
+
+The PC archive has been temporarily disabled
+due to suspicion
+of a virus. We hope to have it back shortly. Meanwhile, remember
+that you can study the hw6orig.c program and the detailed instructions
+to help develop your design specification. The only thing you
+can't do is run the demo.
+
+11/26/96
+Two of the
+comments in the HW6orig.c
+program are reversed.
+In the function draw_world(), where it says /* draw horizontal
+grid lines */ it should say /* draw vertical grid lines */ and
+vice-versa.
+
+11/25/96
+Please help us by filling out a
+questionnaire on computing support
+.
+We would like to find out what we can do over the next quarter
+or so to improve computing support for this course, both for those
+using the programming lab and for those computing at home. The
+form is easy and fun to fill out and submit, so please do it now,
+or find a few minutes to do so sometime in the next few days.
+11/25/96
+As we announced in class this morning, the UW teams did spectacularly
+well in the
+ACM programming competition
+on Saturday. Thanks
+go to all of you for tolerating the loss of the IPL for the day.
+A special thanks to a couple of students in the course who worked
+as volunteers at the event. You can find their names, and lots
+more interesting information, at
+http://www.cs.washington.edu/homes/lazowska/acm/
+.
+11/22/96
+
+HW#6 is now available
+on the Web. Note that
+a piece
+of it is due next Wednesday
+, November 27 (the date on the
+in-class handout, November 21, was obviously wrong).
+
+11/20/96
+
+Clarification on HW#5
+: A comment buried in the code of
+HW5orig.c suggests that the user should be able to press 0-9 on
+the keyboard in order to change the message number. Please ignore
+this comment; it was left over from an early version of the demo
+program. You do not have provide this functionality in your program.
+If you've already done so, it's OK to leave it in, however. Apologies
+for any confusion.
+
+11/19/96
+
+HW#5 and Windows 3.1
+: In case you're running Windows 3.1
+at home, we have
+a 16-bit executable version of the demo
+which can be downloaded. However, it will probably run only if
+you have Borland C++ installed. If you're using Windows 95 or
+Windows NT, please don't even bother; if you are on Windows 3.1,
+try it out and let us know if you encounter any problems.
+
+11/19/96
+
+More statistics from the midterm exam
+. 424 students took
+the test. Perfect score was 72. Standard deviation was 12.7. There
+were 6 72's (100%) and 12 71's. 112 students scored 65 (90%) or
+above. The mean was 55.2 (77%). The median was 59 (82%); 210 students
+were below the median and 206 were above. There were 74 scores
+below 44 (60%).
+
+11/18/96
+
+The IPL will be unavailable
+on Saturday, November 23. It
+will probably also be unavailable for the final hour of normal
+open times on Friday, Nov. 22, i.e., unavailable from 5:00pm to
+6:00pm. This is because the IPL will be the venue for the
+ACM
+Programming Competition
+. If you're interesting in volunteering
+to help out with the competition, talk to one of the instructors
+or to professor Dan Weld (weld@cs.washington.edu). It would be
+a great way to meet students from other universities who are also
+interesting in computing. Other campus computing sites should
+be open normal hours on those days.
+
+
+HW#5 is now open for turn-in
+. Some changes have been made
+to the software which we hope will result in overall faster processing.
+If you notice any problems at all, please notify a consultant
+right away or send e-mail to an instructor.
+
+11/12/96
+
+Fallout from the HW#4 turn-in debacle
+: Over 350 people
+bravely overcame the obstacles and got HW#4 turned in by early
+Saturday afternoon. We're sorry it was such a frustrating experience.
+We've heard from a couple of people who because of holiday plans
+had to leave campus before being able to do a successful turn-in.
+If that was your situation
+, please send us a short e-mail
+to that effect (it does not have to have a lengthy justification,
+just a note as to your name, section, student number, and a brief
+reason) and we will set up a special period when turnin for HW#4
+will be open again. Meantime, the consultants will be asked not
+to give any further help on HW#4. If you had already sent us e-mail
+about the situation, please respond again anyway so that we're
+sure your name will appear on the list of authorized people.
+
+11/9/96
+Notes on HW#5: GP142 is a
+Windows program
+; it requires
+a GUI (graphical user interface) environment, and will not run
+under DOS. It should be OK on Macintosh, although we have not
+completed our testing there. The demo program currently in the
+archive will run on Windows 95 or Windows NT only.
+We are testing a
+Windows 3.1 version
+of the demo and will
+put that in the archive later; it might require some further set-up
+or helper files. Meanwhile, if you have Windows 3.1 at home, the
+hw5orig.c program will probably compile, but we're not sure if
+it will run properly unless you happen to have the Borland C++
+version 4.5 compiler installed; in any case, you will need to
+figure out how to create a project file or make file that pulls
+together all the required files.
+
+The
+turn-in form for HW#5
+will not be enabled until all
+the dust has cleared from HW#4.
+
+11/8/96
+A further reminder about the HW#4 lab report:
+please be sure
+it is in plain ASCII format
+(see message from
+11/6
+below.) There is increasing suspicion that files in .doc or other
+word processing formats may contribute to the slowdown problem.
+They are also apparently one cause of the "document has no
+data" error from Netscape.
+
+
+Homework #4 deadline has been extended to noon
+, Saturday
+November 9; there will be no late penalty for work received by
+that time. Please put the turn-in receipts, stapled, in an envelope
+with your name and section on the outside, in the wooden box outside
+Sieg 128. If you complete turn-in off-campus but are unable to
+get back to campus to give us the form, please bring it on Tuesday.
+We experienced several periods of web server outages or slowdowns
+on Friday. It may be that the large number of people trying simultaneously
+to turn in contributed to the problem -- investigation continues.
+The IPL closes at 6:30 pm on Friday and is supposed to open at
+8:30 am Saturday. You can also use Netscape at Suzallo or at the
+ACC lab (Brooklyn & Pacific, open 24 hours a day). ACC has
+the Microsoft compiler installed but Suzallo does not. Some students
+printed copies of their programs and lab reports and put those
+in the box; you
+still
+need to do the electronic turn-in
+and give us the printed turn-in receipt.
+Work turned in electronically after noon on Saturday will not
+be accepted (unless further network problems necessitate a further
+deadline extension, which would be announced on the Web.) It's
+been a frustrating time for many of you; we appreciate your patience.
+
+11/8/96
+
+Sample solutions (.c files) for homeworks 2 and 3
+are on
+the Web, reachable from the corresponding homework pages.
+
+Tabulations are not complete, but it appears the
+midterm exam
+average score
+was about 55 (out of 72), with a standard deviation
+of about 13.
+
+11/7/96
+Mac users have reported that the demo program does not behave
+as described in situation
+of lab report question #3
+. As
+noted a few days ago, we already know there are differences between
+Windows 3.1 and Windows 95 versions of the demo in this area.
+If you are using Macintosh or other platforms, differences are
+possible. Treat the lab report the way you would a report in an
+experimental science like biology or chemistry. That is, report
+what you actually observed; if it's not what you expected, then
+give a little background or context (such as the platform you
+are running on, etc.) for the benefit of anyone reading your report.
+
+11/6/96
+
+Turn-in problems.
+A number of people have
+reported problems with turn-in. (A typical symptom is a "Document
+contains no data" error.) In the cases diagnosed so far,
+the problem turned out to be caused by sending a Microsoft Word
+format (.doc file) as the lab report. Instead, please send a plain
+ASCII file(text file). Try the following -
+
+1. hit "save as" in the file menu of Word
+2. Change the file type to plain text.
+3. save - you should have a plain ASCII file.
+4. Turn in that file.
+
+
+The midterm exam
+(
+with
+and
+without
+answers) is now available.
+There were 72 points possible. We'll try to have some statistics
+for you by Friday.
+
+More about
+IPL hours
+: beginning this Sunday (November 10),
+the IPL will open at noon on Sundays rather than at 11:00 am.
+
+11/5/96
+
+The HW4 crunch is coming.
+The number of people who have
+turned in HW4 is running way behind the number who had HW3 finished
+at this point before the deadline. That means the IPL is going
+to be super crowded between now and Friday. "All the computers
+were busy" or "My computer had a problem that even the
+consultant couldn't solve" will not be accepted as an excuse
+for a late turn-in. So get in there now and avoid the last-minute
+panic.
+
+
+Veterans' Day Holiday IPL hours.
+We expect that the IPL
+will be open normal hours this weekend and on Monday (Veterans'
+Day), November 11. However, there may be limited technical and
+consultant support.
+
+10/30/96
+
+If you are in section AA (Brown) or BE (Hong)
+only: To
+relieve the crowding in our regular classroom, we have a small
+overflow room for each exam period on Friday. It is large enough
+to hold only the students in one section. If you are in
+section
+AA: report directly to Sieg 225
+for the 9:30 exam. If you
+are in
+section BE: report directly to MEB 248
+(Mechanical
+Engineering) for the 11:30 exam. (If this is a hardship for any
+reason, you can come to the regular room.)
+
+
+Regardless of your section
+: when you come to the exam,
+please know your section number and your student ID number; also
+please carry your ID card with you. Also, please be on time; we
+won't be able to give extra time to people who arrive late.
+
+10/29/96
+
+A new HW#4 PC archive
+is on the Web, and a new version
+of the detailed instructions. Here's what's different. We found
+on some systems, the demo program looped, and not on others. The
+archive now has two executable demos, called demo16.exe (for DOS
+and Windows 3.1), and demo32.exe (for Windows 95 and Windows NT).
+For most of your investigations, either version, or the original
+demo program called hw4demo.exe, will be the same. But for lab
+report question #3, on the the demo32.exe version exhibits the
+infinite loop behavior. So please use that version when you come
+to question #3. Otherwise, everything is the same. Thanks to several
+early-bird students for discovering this problem.
+
+10/29/96
+
+HW#4 lab report -- question #3
+. A couple of people have
+reported that the demo program does NOT loop forever under the
+conditions described in question #3. We're looking at this, and
+right now we think it might be because the .exe was created for
+Windows 3.1, whereas our own test version of it was compiled for
+Win95. In any case: for now,
+please ignore question #3
+;
+we'll come back to it another time. Question #4, on the other
+hand, should be OK to proceed with; please note that it refers
+to hw4orig.c, not the demo program.
+
+10/29/96
+Thanks for the
+comments on Homework #3
+. We read these comments
+separated from the rest of the turn-in form, so they are effectively
+anonymous. Naturally, we could find out who wrote what, but normally
+don't. So that means if you have a question that you want answered
+individually, as opposed to just a comment, please send it as
+an e-mail or talk to us in office hours; or you could include
+your e-mail address in the comment. In any case, the comments
+are really valuable to give a sense of how we are doing as well
+what some of your individual experiences and concerns are. Thanks
+for taking the time and trouble to type them in.
+
+10/29/96
+
+All of the tips
+that we have mentioned before have been
+collected into a single
+tips page
+.
+You can get to it from here or from the main Web page. In addition
+to previously announced tips on MSVC, there are some new tips
+for Macintosh users.
+
+10/28/96 (2:00 pm)
+The
+complete HW#4 archive
+(for PCs) is now on the Web.
+It is expected that the turn-in form for HW#4 will be enabled
+later today, shortly after turn-in for HW#3 is closed. Nevertheless,
+we encourage you to spend considerable time analyzing HW#4 before
+starting to program.
+
+10/28/96
+
+HW#4
+instructions and a skeletal .c program are now available
+on the Web.
+
+10/24/96
+
+Is the 3-letter redisplay required
+? Yes. A couple of you
+have pointed out that this enhancement was not listed as such
+in the Detailed Instructions. But it was mentioned in a comment
+in the program. So please go ahead and include it. What is the
+purpose of it (aside from getting you to reuse some functions)?
+The customer might have made several errors while typing in the
+letters. The redisplay serves as a reminder and summary of what
+has been ordered.
+
+10/23/96
+
+Vertical or horizontal?
+One of the enhancements in HW#3
+is to redisplay the three letters chosen. There isn't any way,
+using what we've studied so far, that you could display the three
+letters horizontally across the screen. So they have to be displayed
+vertically. On the other hand, you can and should find some (simple)
+way to keep them from immediately disappearing off the top of
+the screen.
+
+
+Reminder: Midterm exam
+is Friday, November 1. A
+study guide
+is now on the Web.
+
+10/20/96
+An
+error in a comment
+in the hw3orig.c program has been
+pointed out. The function "sales-slip" has the comment
+/*No calculations should be needed here, only printf's.*/
+It turns out you do need to do one simple calculation (which could
+in fact be embedded in a printf). In any case, don't repeat any
+calculations which have already been made.
+
+
+HW#3 is now open for turn-in
+.
+
+Another
+tips file on working with workspaces
+in
+MSVC++ is now available. If you have trouble with your disk filling
+up, or get mysterious messages about needing a workspace or about
+files not being in a workspace, take a few minutes and read through
+this file. It may or may not solve your immediate problem, but
+should give you some additional background for understanding the
+situation.
+
+10/18/96
+
+HW#3 is now available.
+Locate it via the Homework page
+from the course homepage.
+
+
+A sample solution for HW#2
+will be posted (on the HW#2
+page) within a couple of days.
+
+10/16/96
+There are some new
+tips
+about
+one method to
+keep your floppy disk from filling up
+. In
+general, the more you know about MSVC and about Windows 95, the
+more ways you can discover for yourself about ways to avoid problems
+like this. Meantime, read this and the
+previous tips
+as well.
+
+The
+quote from today's lecture
+:
+"As soon as we
+started programming, we found to our surprise that it wasn't as
+easy to get programs right as we had thought. Debugging had to
+be discovered. I can remember the exact instant when I realized
+that a large part of my life from then on was going to be spent
+in finding mistakes in my own programs."
+Maurice Wilkes,
+British computer pioneer, 1949; quoted in
+Expert C Programming:
+Deep C Secrets
+by Peter van der Linden (Prentice Hall, 1994),
+p.109.
+10/14/96
+
+HW#2 turn-in form
+is now available on the Web. The
+Mac
+version of HW#2
+is now available to download. Please report
+any problems with either via e-mail.
+
+As mentioned below (10/11/96), you are
+likely to fill up your
+diskette
+once you have created and run hw2b.c and hw2c.c.
+Aside from starting with a blank high-density disk (single density
+is definitely too small - ask for help if you are not sure if
+your disk is formatted at the correct density), there are some
+techniques for avoiding the problem. One is to copy your .c files
+to a directory on the hard drive, and create a default project
+there. The Windows Explorer can be used to create directories
+and copy files. If you do this, be sure to copy your updated .c
+files back to the floppy for safekeeping before restarting your
+computer; all changes to the hard drive are automatically erased
+when the machine restarts! We will try to post some details on
+these suggestions later.
+
+
+A different approach
+to the problem is to do what the .mdp
+and .mak files provided on the archive do: they have settings
+which instruct MSVC to
+place all the intermediate files on
+a temporary directory
+on the hard drive, while allowing your
+.c file to stay on the floppy. You could do this yourself by adjusting
+the Settings on the Build menu. In any case, all the intermediate
+files (.ilk, .pdb and many others) can safely be deleted from
+your floppy; they are automatically rebuilt when needed.
+
+
+How closely
+does your HW#2 solution have to follow the
+samples? Well, your version should always give a correct answer
+on valid, reasonable data. But if the input data types are wrong
+(for example, typing a character when an integer is expected),
+then the sample is not guaranteed to run correctly, and your program
+doesn't need to, either. If the data type is right, but the values
+are unexpected, then both programs should be able to handle it,
+and in pretty much the same way. The exact wording of output is
+not crucial as long as it is correct and appropriate. If you find
+cases where our program seems to be wrong, please send mail with
+particulars (i.e., give us the exact input values that produce
+the bad answers.) If you're sure our program is not right for
+a particular case, then you don't have to make yours do the same
+wrong thing.
+
+
+The final "hit any key to terminate the program"
+or "hit any key to continue" are not essential parts
+of the solution. They are only there to guarantee that the window
+stays on the screen so that it can be read. When running from
+within MSVC they aren't needed, but if you launch the program
+from the Explorer they may be.
+
+10/11/96
+We've put a
+new version of the HW#2 archive
+on the Web.
+If you're happy with the old one, there's no need to load the
+new one. The new version has so-called "16-bit" executable
+sample programs. These will run on Windows 3.1 as well as on Windows
+95. They look slightly different - the background color is white
+instead of black, and when the program finishes you have to close
+the window by clicking on the close "X" in the upper
+right-hand corner. We also corrected some minor details that various
+of you had pointed out (thanks - and a commendation for getting
+started so quickly!) None of these are important as far as how
+your program works and how it's graded. What counts is getting
+the right answers for good data and the right behavior for bad
+data.
+
+10/11/96
+With Homework #2, there are some situations that can lead to your
+A: disk being filled up
+. For one thing, using a fresh diskette
+will help. Also, when working on hw2a.c, open the project by double-clicking
+the .mdp file (as the instructions suggest), not the .c file.
+We'll try to assemble some other tips for dealing with this.
+
+10/11/96
+The
+Homework #2 assignment
+is ready now. You can find it
+on the Web. The distribution includes a couple of sample solutions,
+in executable (.EXE) form. These exe's will run only on Windows
+95 or Windows 95; they won't run on Windows 3.1.
+
+
+Homework #1 is due today!
+You must have completed electronic
+turn-in by 3:30. You must also turn in a (physical) copy of your
+"receipt,"
+stapled
+if it is more than one sheet.
+If you haven't given it to your TA already, please bring it to
+class today, or drop it in the box across the hall from Sieg 127.
+
+Some
+brand-new tips on using MSVC
+and the debugger are available. These were passed out during some
+of the tutorials and were also distributed in class on Oct. 9.
+
+10/9/96
+Some students have asked
+where the MSVC "tips" are
+.
+They are not in MSVC, but rather are files we created and posted
+on the course Web. You can find the tips from the 142 home page.
+
+10/8/96
+Don't forget there will be
+tutorials
+today
+(Tuesday) and Wednesday. Subject is MSVC.
+
+10/7/96
+The
+turn-in form for HW#1
+is now ready to use. If you notice
+problems, please let someone on the staff know as soon as possible.
+
+
+Dr. Ladner
+will not hold office hours this Thursday (Oct.
+10). You can still reach him via e-mail.
+
+The
+IPL schedule
+this week is still a little up in the
+air. We hope it will be open during the hours posted in the
+lab information
+page, but in case it's not, please leave room for recovery, that
+is, don't leave the homework until the last day. Do it
+now
+if you haven't already.
+
+10/4/96
+The
+turn-in form for HW#1
+has not been enabled yet. Apparently
+a number of you have already reached that point in the homework
+- that's great! We'll have the turn-in form enabled early next
+week (it will be announced here, or check the HW#1 page).
+
+10/3/96
+
+Homework #1
+is now on the Web. To do it, you'll need some
+time and lots of patience (and a little
+magic
+).
+It's due on Friday, October 11. Get started today! There will
+be
+tutorials
+next week on Tuesday and Wednesday,
+but don't wait until then.
+
+10/2/96
+
+Compiler discount
+. We have the final
+word on getting a further discounted version of MSVC++ 4.2, and
+the news is not good. We were
+not
+able to work out a special
+arrangment with Microsoft, other than what is already available
+in the bookstore: MSVC++ 4.0 at about $55.00 plus tax. (This is
+actually way cheaper than the official "street price"
+of the product).
+
+
+
+Answers or non-answers to some common questions: "What
+is the difference between 4.0 and 4.2." Answer: we're not
+quite sure, but we don't think it is at all significant for this
+course or for 143.
+
+
+"If I buy 4.0, can I upgrade to 4.2" or "can
+I get a subscription", etc. Answer: this is between you,
+the bookstore, and Microsoft (i.e. we don't know).
+
+
+Tutorials
+: At present, no more are scheduled for this week.
+There should be several next Wednesday; keep checking the
+tutorials and special demos
+page.
+
+
+Lab hours
+: Some tentative hours for this week are Thursday
+9-6; Fri 9-5, Sat 9-6; Sun 11-9. Also check the
+lab information
+page.
+
+10/1/96
+
+A new page has been set up with information about
+tutorials and special demos
+.
+Several more are planned for this week and next.
+
+
+Instructor office hours
+corrections and change. The office
+hours for Dickey & Ladner were switched on the original printed
+Syllabus handout. Dickey has also made a change in Friday office
+hours. Apologies to anyone who may have stopped by and not found
+one of us in our office at the announced times. The corrected
+times are now on the Syllabus page and on the Staff page. For
+reference, here they are again: Dickey: M & W, 1:30-2:30;
+F 2:30-3:30. Ladner: Tu & Th 10:30am-noon. TA times will be
+posted later this week on the Staff page.
+
+
+9/30/96
+
+
+IPL hours
+. The IPL has been open today, and things
+are working pretty well. For the rest of the week, probable hours
+are Tuesday (Oct. 1): 9am-8pm; Wednesday (Oct. 2): 9am-10pm; Thursday
+(Oct. 3): 9am-6pm; Friday (Oct. 4): 9am-5pm; Saturday (Oct. 5):
+9am-6pm; Sunday (oct 5): 11am-9pm). A
+detailed schedule
+will be posted when available.
+
+
+Netscape
+Tutorial. One tutorial is scheduled for Tuesday,
+October 1. David Hsu will present "Basics of Netscape"
+at 2:30 in the IPL (far room). This is intended for anyone who
+is new to Netscape. If you're already an experienced browser,
+better stay away so someone who needs it can use the seat. There's
+no sign-up, just show up a few minutes before the starting time
+of 2:30. There will probably be additional tutorials later in
+the week; watch the class messages.
+
+
+Homework #0
+: Two problems were noted so far (thanks
+to those who pointed them out). First, the homework Web page was
+inaccessible - this has been corrected. Second, it has been difficult
+to get into homer today. Keep trying.
+
+
+9/23/96
+
+
+
+Important: final exam time/room change.
+The final exam for 142 will be
+on Tuesday, December 17, in
+Kane 120
+, and will be 2 hours long. Times: for
+142A, 10:30-12:20
+;
+for
+142B, 12:30-2:20
+. Please mark your calendar now. Note
+that the times are different from what is printed in the Time
+Schedule, and the place is different from where the lectures are
+normally held.
+
+
+
+
+Printed copies of the slides.
+A course packet, containing
+printed copies of last quarter's lecture slides and sample exams
+from previous quarters, will be available after 9/28/96 from Professional
+Copy 'N Print at 4200 University Way NE for about $7.00. This
+information is available on the course Web, so purchasing the
+packet is not required. However, we expect to use most of these
+slides this quarter, and we strongly recommend the printed copies
+as the best way to take notes during lectures.
+
+
+cse142-webmaster@cs.washington.edu (Last Update:
+)
+
+
+

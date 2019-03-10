@@ -1,0 +1,97 @@
+Date: Tue, 14 Jan 1997 18:57:03 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 15 Nov 1996 21:52:40 GMT
+Content-length: 2834
+
+
+Geographic Data
+
+
+
+
+
+
+Geographic Data
+
+Berkeley Digital Library Project
+
+
+
+
+Northern California GIS Data
+This collection of Geographic Information System data includes
+digital ortho photographs, digital line graphs, GRASS produced
+area maps, and shaded relief maps.  The data is accessed through
+the GIS Viewer which is a Java applet that enables users to
+pan and zoom and select which data set to view.
+
+North Coast of California
+San Fransisco Bay Area
+
+About the GIS Viewer
+
+
+California Dams
+The information in this database comes from the Dept. of Water Resource's
+Bulletin 17, which provides extensive information about the 1395 dams
+within the jurisdiction of the State of California. Bulletin 17 was
+converted to a database using a document-specific image decoder
+developed by Gary Kopec of Xerox PARC.
+
+Search for Dams
+
+
+
+Map of California
+
+
+Database query form
+
+
+Lists of all dams
+by name and county
+
+
+About the Dams database
+
+
+Fish of the Sacramento River Delta
+This data comes from two sources: fish monitoring sensor data from the
+California Department of Fish and Game, and a technical report entitled
+Fishes of the Sacramento-San Joaquin Estuary
+and Adjacent Waters, California: A Guide to the
+Early Life Histories
+.
+
+Delta Fish Flow
+(a visualization that requires a Java-compliant browser)
+Fishes of the  Sacramento-San Joaquin Estuary
+
+
+About Fishes of the  Sacramento-San Joaquin Estuary
+
+About the Delta Fish Flow
+
+Water District Acts
+DWR Bulletin 155 summarize 157 California state water district acts in terms of 23 categories
+of information.
+
+
+
+
+Berkeley DL
+
+AccessMatrix
+
+
+
+Information
+
+
+Comments
+
+
+
+
+

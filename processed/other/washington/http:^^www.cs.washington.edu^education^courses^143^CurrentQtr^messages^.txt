@@ -1,0 +1,93 @@
+Date: Mon, 02 Dec 1996 14:25:48 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 143 Mail Archives
+
+
+
+CSE 143 Mail Archives
+
+
+This page contains links to archives for the various mailing lists
+maintained for this class.
+
+
+
+
+Class-wide lists
+
+
+
+
+cse143
+
+Everyone in this course, used for general discussion.  This is
+your
+mailing list.  (We will monitor this list, but it is
+primarily for student discussion.)
+
+cse143-announce
+
+Precious annoucements from instructors and TAs.  This is
+our
+mailing list.  Students should not mail to this list.
+
+
+
+
+Section-wide lists
+
+
+
+
+cse143-section-collins
+
+Postings from Andy Collins's sections.
+
+cse143-section-kaplan
+
+Postings from Craig Kaplan's sections.
+
+cse143-section-saia
+
+Postings from Jared Saia's sections.
+
+cse143-section-noth
+
+Postings from Michael Noth's sections.
+
+
+
+
+Platform-specific lists
+
+
+
+
+cse143-mac
+
+General information about Symantec C++ on the Mac.
+
+cse143-pc-borland
+
+General information about Borland C++ on the PC.
+
+cse143-pc-vc
+
+General information about Visual C++ on the PC.
+
+cse143-unix
+
+General information about the GNU C++ compiler for UNIX.
+
+
+
+
+
+cse143-webmaster@cs.washington.edu
+
+
+
+

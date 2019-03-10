@@ -1,0 +1,86 @@
+Date: Tue, 14 Jan 1997 23:39:02 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sun, 05 Jan 1997 23:10:40 GMT
+Content-length: 2167
+
+Daniela Rus
+
+
+Daniela Rus, Assistant Professor
+
+Ph.D.
+Cornell University,
+1993.
+
+
+Click here for a photograph
+
+
+What I did on my summer vacation
+
+
+Click here for a photograph of my buddies
+
+Research Interests:
+
+Professor Rus's research includes multimedia information capture
+and access, electronic libraries, robotics, and applications of
+geometric algorithms. Her work has proceeded along the line of finding the
+information requirements for tasks involving cooperation among multiple
+agents in complex environments. She has sudied the cooperative manipulation
+of objects with physical robots and capture and access of information
+with information agents in heterogeneous electronic corpora.
+
+tel. (603) 646-1691
+
+
+
+rus@cs.dartmouth.edu
+
+
+
+
+Research
+
+Recent Papers
+
+Transportable Agents
+
+Robotics
+
+Intelligent Desk
+
+ONR annual report
+
+
+
+
+
+Teaching
+
+Courses
+
+
+
+
+
+Other Links
+
+Modeling and Simulation Home Page
+
+CS version of my Online Tech Reports
+
+
+CS TR
+
+Design Research Institute
+
+
+
+
+Back to Dartmouth CS Home Page
+
+
+
+

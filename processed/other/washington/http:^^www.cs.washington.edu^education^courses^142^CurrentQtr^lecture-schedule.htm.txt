@@ -1,0 +1,110 @@
+Date: Tue, 10 Dec 1996 16:51:07 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 26 Nov 1996 01:54:43 GMT
+Content-length: 3221
+
+
+
+Week by week lecture schedule
+
+
+
+
+CSE/ENGR 142 Autumn 1996
+
+Week by Week Lecture Schedule
+
+(subject to revision)
+
+
+Week #
+Monday
+Wednesday
+Friday
+
+1
+Sept 30: Overview (Ch. 1)
+HW#0 out
+Oct 2: Variables, Types (Ch. 2)
+Oct 4: Expressions (Ch. 2)
+HW#1 out
+
+2
+Oct 7: Simple Input/Output (Ch. 2)
+Oct 9: Style (Ch. 2)
+Conditionals, part 1 (Ch. 4)
+Oct 11: Simple functions (Ch. 3)
+HW#1 due. HW#2 out
+
+3
+Oct 14: More about functions (Ch. 3)
+Oct 16: More about functions (Ch. 3)
+Conditionals, part 2 (Ch. 4)
+Oct 18: Conditionals (continued) (Ch. 4)
+HW#2 due. HW#3 out
+
+4
+Oct 21: Conditionals (conclusion) (Ch. 4)
+Oct 23: Iteration (Ch. 5)
+Oct 25: Iteration (continued) (Ch. 5)
+
+5
+Oct 28: Iteration (continued) (Ch. 5) HW#3 due. HW#4 out
+Oct 30: Functions (Ch. 6)
+Nov 1:
+
+MIDTERM EXAM
+
+
+6
+Nov 4: Functions with output parameters (continued) (Ch. 6)
+Nov 6: Functions with output parameters (continued) (Ch. 6)
+Nov 8: : Functions with output parameters (continued) (Ch. 6)
+HW#4 due. HW#5 out
+
+7
+Nov 11: NO CLASS (Veterans Day Holiday)
+Nov 13: Arrays (Ch. 8)
+Nov 15: Arrays (continued) (Ch. 8)
+
+8
+Nov 18: Arrays (continued) (Ch. 8)
+Nov 20: Two-dimensional arrays (Ch. 8)
+
+Nov 22: Structs (Ch. 11)
+HW#5 due. HW#6 out.
+
+9
+Nov 25: Structs (Ch. 11)
+Nov 27: Sorting (Ch. 8)
+Nov 29: NO CLASS (Thanksgiving recess)
+
+10
+Dec 2: Strings (Ch. 9)
+
+Dec 4: Arrays of structs (Ch. 11)
+Dec 6: File I/O (Ch. 12)
+
+11
+Dec 9: Recursion (Ch. 10)
+HW#6 due.
+Dec 11 (Last day of instruction): Special topics; review
+
+12
+FINAL EXAM
+(note
+change from published time and place
+):
+DATE: Tuesday, December 17
+LOCATION: Kane 120
+TIMES:
+142A: 10:30-12:20
+142B: 12:30-2:20
+
+
+(Original final exam times were: 142A: 8:30-10:20 Tuesday, December
+17; 142B: 2:30-4:20 Tuesday, December 17)
+
+
+

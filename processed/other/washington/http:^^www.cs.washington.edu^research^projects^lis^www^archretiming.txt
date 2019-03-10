@@ -1,0 +1,16 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Fri, 04 Apr 1997 23:28:25 GMT
+Server: Apache/1.2b7
+Location: http://www.cs.washington.edu/research/projects/lis/www/archretiming/
+Connection: close
+Content-type: text/html
+
+301 Moved Permanently
+
+
+Moved Permanently
+The document has moved
+here
+.
+
+

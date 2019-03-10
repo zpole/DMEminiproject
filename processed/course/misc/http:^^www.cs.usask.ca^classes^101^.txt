@@ -1,0 +1,98 @@
+Date: Tue, 26 Nov 1996 19:20:36 GMT
+Server: NCSA/1.5.1
+Last-modified: Thu, 28 Mar 1996 01:53:20 GMT
+Content-type: text/html
+Content-length: 2663
+
+
+Cmpt 101
+
+
+
+
+
+
+
+
+
+
+
+
+CMPT 101
+
+
+
+
+
+
+
+
+
+Lab Usage Policy -
+READ THIS!
+
+
+
+
+Course Outline
+
+
+
+FAQ
+
+
+
+
+Tutorials
+
+
+
+Class & Lab News
+
+
+
+
+
+
+Assignment #4 is available for everybody to get started on.  There
+are a few details and corrections which are still being worked out.  I
+will be available in the Alibaba lab on Friday, March 29th from 12:00
+until 1:00 for any 101 students who require assistance.  This
+assignment is much more demanding than the exercises and assignments
+in the past, so don't leave it until the last night.
+
+
+
+
+
+
+
+
+
+
+Who's responsible for these pages? Thanks to:
+
+
+Reid van Melle
+-design, text, maintenance
+
+Dr. Jim Carter
+- course outline, page reviews, comments
+
+Judi Thompson and Beth Millar (Web Gurus)
+- lots of WWW help
+
+Dep't of Computer Science System Administrators
+- making the space
+available to keep this massive collection of documents
+
+
+
+Please report any problems with this document to
+
+rav124@mail.usask.ca
+
+
+
+
+

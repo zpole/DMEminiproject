@@ -1,0 +1,97 @@
+Date: Thu, 21 Nov 1996 20:35:14 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 2103
+Last-modified: Thu, 21 Nov 1996 01:25:03 GMT
+
+
+
+Christos Faloutsos
+
+
+
+
+
+Christos Faloutsos
+
+
+U.S. mail address:
+
+Department of Computer Science
+University of Maryland
+College Park, MD 20742
+
+Office:
+3227 A.V. Williams Bldg.
+
+Phone:
+(301) 405-2695
+
+Fax:
+(301) 405-6707
+
+Email:
+
+christos@cs.umd.edu
+
+
+Current Position:
+Associate Professor of Computer Science.
+
+Join Appointment:
+Institute for Systems Research (ISR).
+
+Academic Degree:
+Ph.D., University of Toronto.
+
+Research Interests:
+
+
+Query by content in multimedia databases;
+
+searching in text and DNA databases;
+
+geographic information systems;
+
+fractals for clustering and spatial access methods;
+
+declustering;
+
+medical image databases.
+
+
+
+
+Publications:
+
+Click
+here
+for the most recent ones. Older ones are
+here
+
+
+Courses
+
+Current Course
+(Fall 96):
+CMSC
+424 - Database Design
+
+Older Course
+(Spring 96):
+CMSC
+724 - Database Management Systems
+
+
+
+Miscellaneous
+
+Other family members:
+Petros
+Faloutsos
+and
+Mihalis
+Faloutsos
+
+
+

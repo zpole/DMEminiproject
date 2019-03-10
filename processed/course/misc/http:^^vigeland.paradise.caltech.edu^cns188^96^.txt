@@ -1,0 +1,70 @@
+Date: Tue, 14 Jan 1997 22:51:14 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Fri, 15 Nov 1996 08:51:09 GMT
+Content-length: 1728
+
+CNS188 Home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CNS 188 Computation Theory and Neural Systems
+
+This is the home page of CNS188, a course offered by the
+Computation and Neural Systems Department
+at the
+California Institute of Technology
+.
+
+Professor :
+
+Jehoshua (Shuki) Bruck
+
+Teaching Assistant :
+
+Vasken (Vincent) Bohossian
+
+
+
+Course Description
+CNS188a	---------- CNS188b
+
+Handouts
+----------
+Handouts
+
+Homeworks
+----------
+Homeworks&Project
+
+Announcements
+----------
+Announcements
+
+Questions
+
+
+
+
+CNS188 / Vasken (Vincent) Bohossian / January 8 1996
+
+
+
+

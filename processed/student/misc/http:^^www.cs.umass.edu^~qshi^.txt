@@ -1,0 +1,128 @@
+Date: Thursday, 21-Nov-96 23:17:35 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Monday, 26-Aug-96 20:18:04 GMT
+Content-length: 3923
+
+
+Qing Shi's Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This page requires a Java powered browser
+
+
+
+
+
+Version 2.0
+still under construction
+!
+
+
+Qing Shi
+
+Graduate student at
+
+the Department of
+Computer Science
+
+University of Massachusetts
+at
+Amherst
+
+Research Assistant working for
+
+
+Center of Intelligent Information Retrieval
+
+
+
+
+
+
+Research Interests
+
+
+
+Information visualization on the WWW
+
+Java & Hot java
+
+
+
+
+
+
+
+Xsoft "Visual Recall"
+
+Language visualization and multilayer text analysis
+
+
+Tools in GUI
+--User interface of information retrieval systems
+
+Inquery
+
+
+
+
+
+
+
+Projects & Work Experience
+
+
+
+My Background and Accomplishment in Computer Science and Computer Engineering
+
+
+
+
+
+
+
+Education
+
+
+
+Master of Science Degree in
+Computer Science
+,
+University of Massachusetts
+at
+Amherst
+. 1994--1996.
+
+B.S. Degree in Computer Science, Peking University, China. 1990--1994.
+
+B.S. Degree in Scientific Information Management, Peking University, China. 1990--1994.
+
+
+
+
+
+
+
+qshi@cs.umass.edu
+.
+Copyright © 1996. All rights reserved.
+
+Last Update: 01/96
+
+
+

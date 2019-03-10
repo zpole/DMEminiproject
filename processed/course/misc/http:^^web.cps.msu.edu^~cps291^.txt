@@ -1,0 +1,209 @@
+Date: Wed, 20 Nov 1996 22:40:33 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+
+
+CPS291 Home Page
+
+
+
+
+Don't panic!
+
+Welcome to CPS 291, Introduction to the Internet.
+
+
+The purpose of this course is two-fold:
+
+
+Become familiar with Internet
+protocols
+and
+resources
+.
+
+Consider the potential social, political, and economic impact of the Internet.
+
+
+Course Information:
+
+
+
+
+Prerequisites:
+
+
+
+A
+pulse
+
+
+
+
+
+Credit hours:
+
+
+
+3
+
+
+
+
+
+Instructor:
+
+
+Arnold Patton
+
+
+
+
+
+Office hours:
+
+
+317 EB, Hours to be determined
+
+
+
+
+
+Lectures:
+
+
+M,T,W 10:20-12:10, 330 Engineering Building
+
+
+
+
+
+Required Text:
+
+
+Wiggins
+,
+The Internet for Everyone: a Guide for Users and Providers
+
+
+
+
+
+Student Information:
+Take a look at the results of our
+first web publishing assignment
+,
+our second web publishing assignment
+or catch our
+homepages
+.
+
+
+Outline:
+
+
+I. Introduction
+
+1.
+History: How was the Internet created?
+
+2.
+Communications: How does the Internet work?
+
+
+II. Socilogical Impacts
+
+4. Internationalization: Clashing cultures
+5. Legal: Who's in charge here?
+6. Privacy: Your rights on the internet
+7. Politics: Government vs. the web?  Who will win?
+8. Entertainment: On-line vs. face-to-face
+9. Cultural: The Internet virtual culture
+
+
+<
+<
+Midterm >>
+
+
+10. Bussiness: Buying & selling in the fast lane
+11. Bussiness: Free vs. for fee competing philsophies on the net
+12. Ethics: Why do we need security?
+
+
+III. Looking Ahead
+
+13. Java: Innoculating against viruses by design
+14. Virtual Reality: What is it?  Where is it?  When will it get here?
+15. Agents: Intelligent Artifacts on the Information Highway
+16. Coping with Information Overload
+17. Future of the Internet
+
+
+V. Conclusion
+
+18. Cost/Benefits of an INN
+
+
+<
+<
+Term Paper presentations (?) >>
+
+<
+<
+Final >>
+
+
+Notice: The instructor reserves the right to change the order and/or contents of the course outline at any time without prior notice.
+
+
+Grading:
+The course grade will consist of two exams, an undecided number of in class excercises and homeworks, and one term
+paper/project
+.  The contribution breakdown of these components will be as follows:
+
+
+
+
+Exercises/Homework
+
+
+
+20%
+
+
+
+
+
+Term Paper
+
+
+
+30%
+
+
+
+
+
+Midterm (7/23/96)
+
+
+
+20%
+
+
+
+
+
+Final (8/14/96)
+
+
+
+30%
+
+
+
+
+
+
+

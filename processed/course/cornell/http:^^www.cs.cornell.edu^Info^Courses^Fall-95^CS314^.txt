@@ -1,0 +1,83 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:54:13 GMT
+Content-Type: text/html
+Content-Length: 2711
+Last-Modified: Friday, 15-Sep-95 02:14:53 GMT
+
+CS314 Home Page
+
+
+Introduction to Digital Systems and Computer Organization
+
+Thorsten von Eicken
+
+Fall, 1995
+
+Tue/Thu 1:25pm-2:40pm, Kimball B11
+
+
+Topics include: representation
+of information; machine-assembly languages; processor organization;
+interrupts and I/O; memory hierarchies; combinatorial and sequential
+circuits; data path and control unit design; RTL; and
+microprogramming.
+
+HELP
+If you have a problem related to a lecture, a homework set, or a
+project,
+the best way to get help
+is to add an annotation at the
+appropriate point in the course materials.  This will allow you to get
+help not only from the course staff, but also from your class mates.
+Otherwise, you should send email to
+cs314@cs.cornell.edu
+or talk to
+one of the consultants.
+
+Course Information
+
+Course
+Materials and Announcements
+
+Announcements, lecture notes, lecture videos, and assignments.
+This part uses CoNotes to allow annotation of the Web documents.
+There's a small "
+getting started
+"
+document available in case you've never used CoNotes before.
+
+C Tutorials Online
+
+
+An Introduction to
+C
+, by
+Marshall Brain
+. This is a great introduction for
+people who know a procedural language like Pascal or Fortran.
+
+Learn
+C/C++ Today!
+is a guide to a lot of books, example programs
+and online tutorials. Each reference is very well annotated.
+
+The
+Yahoo C/C++ Page.
+If you wish to surf the web in search of
+more C material, this is the place to start!
+
+The C Frequently Asked Questions page
+. Should be useful in
+answering the common questions that come up while learning and using C.
+Also contains a link to several online tutorials.
+
+The C Newsgroup
+.
+
+
+This page is maintained by
+Thorsten von
+Eicken
+
+

@@ -1,0 +1,122 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 22:54:26 GMT
+Content-Type: text/html
+Content-Length: 3838
+Last-Modified: Sunday, 05-Jan-97 21:09:03 GMT
+
+
+Xingang Guo's Photo Page
+
+
+
+
+Photo Page
+
+
+
+
+Informative Links:
+
+
+
+Camera World of Oregon
+:
+A nice place to do mail-order, I've been dealing with them for several
+times, never give me a hesitation, the best combination of great
+price and reliable service.
+
+B&H Photo&Video
+:
+Bought the Sigma 24/2.8 from them, reliable.
+
+47th St. Photo
+:
+Used to be on the the few trustable source in NYC. Now people seem
+to have forgotten it, anyway.
+
+Kodak Digital Image Line
+:
+Digital image technology developped by Kodak, including PhotoCD and
+Digital camera.
+
+About Monitor Gamma
+, and
+Monitor Color Calibrations.
+
+
+Advanced Digital Imaging
+:
+A photo lab that scan your pictures (slides/negatives) onto PhotoCD.
+The photos in
+trip to California
+was scanned by them.
+
+Adobe PhotoShop Home Page
+:
+"Industory" standard of processing digital images. And its
+FAQ
+.
+
+PhotoShop Resources for Windows
+
+
+Philip Greenspun's page (photo.net)
+:
+Read them, like a book.
+
+A comprehensive list of Point&Shot cameras.
+: by Zhu Hai-Qing
+
+Travel Guide for Photographers
+
+
+
+
+Digital Photography - Experience Needed
+In a very limited perspective(from what I'm interested the most), this is about
+to put photo pictures on a computer screen, in another word, we're talking
+about digitalize photo pictures. The most straight forward way
+is to use a digital camera,
+Kodak DC-50
+is one of those pioneer products on the market, Shape, Casio also have similar
+products.
+I've been trying to do this in a simplfied/hobby like environment, ie.
+
+A conventional 35mm camera, my set is Canon Elan, with a Sigma 24/2.8,
+Canon 50/1.8II and Canon 70-210/3.5-4.5 USM.
+Digitalize by Kodak PhotoCD scanner, in CMS color space.
+No printer involved, don't print pictures on paper.
+Publish :-) on web pages.
+I'm experimenting a way to work between CMS and RGB color spaces, I don't
+have to worry about CYMK color space as used in color printers. By far, I've
+been using Adobe Photoshop as editing tool, everything is still under
+exploration, for some pictures I've done, here's a list, some of them were
+travel pictures, some were just random shots.
+
+
+California Again - Road Stories
+
+
+Yellowstone
+
+
+Yosemite
+
+
+Austin Foliage
+
+
+
+
+
+
+
+
+Return to XG's home page
+Last modified: Jan. 5 1997
+Wanna talk to me?
+eMail
+.
+
+

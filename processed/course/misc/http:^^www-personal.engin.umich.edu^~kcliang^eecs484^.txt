@@ -1,0 +1,143 @@
+Server: Netscape-Commerce/1.12
+Date: Tuesday, 26-Nov-96 19:11:12 GMT
+Last-modified: Thursday, 21-Nov-96 06:16:08 GMT
+Content-length: 2877
+Content-type: text/html
+EECS484 FALL 96
+
+
+EECS 484 - Database Management Systems
+
+Fall 1996
+
+
+Course Information
+
+
+
+
+Time & Place:
+
+Tuesday and Thursday, 3:30pm to 5:00pm, EECS
+
+
+
+
+Instructors:
+
+Professor Toby J. Teorey
+Kaichan Liang (TA)
+
+Office:
+3402 EECS (temporary)
+2420 EECS (TA Room)
+
+Phone:
+763-5216
+936-3536(TA
+Room)
+
+Office hours:
+MW 10-12
+MW 1-3
+
+Email:
+
+
+teorey@eecs.umich.edu
+
+
+
+kcliang@engin.umich.edu
+
+
+
+
+Professor Nandit Soparkar
+Malek Tayara (TA)
+
+Office:
+3215 EECS (temporary)
+2420 EECS (TA Room)
+
+Phone:
+647-4849
+936-3536(TA Room)
+663-4945(Home)
+
+Office hours:
+TTh 5-7
+TTh 10:45-12:30
+
+Email:
+
+
+soparkar@eecs.umich.edu
+
+
+malek@engin.umich.edu
+
+
+
+
+
+Course Outline
+
+
+
+Required & Recommended Reading
+
+
+
+Handouts
+
+
+Preliminary Description and Grading of Homework/Exams
+
+
+Oracle SQL*Plus - basic and complex queries (10%)
+
+Solutions
+
+Embedded SQL (Pro*C) transactions (10%)
+
+
+Solutions
+
+
+Database design: ER modeling, normalization (5%)
+
+
+Solutions
+
+
+1st Midterm (25%)
+
+Access methods and query processing (10%)
+
+(Postscript version)
+
+Implementation/experimental problems
+(15%)(postscript)
+
+2nd Midterm (25%)
+
+
+Administrative Policies
+
+
+Late homework: 2 late days will be forgiven for the term; then 20% off per
+weekday (linear rate)
+Drops: Will only be allowed according to the academic regulations of your
+college or school.
+Incompletes: An incomplete may be given for medical reasons.
+
+
+
+Last Update:
+
+Sept., 96
+by
+
+Kaichan Liang
+

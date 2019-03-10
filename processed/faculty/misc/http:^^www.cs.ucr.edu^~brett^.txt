@@ -1,0 +1,250 @@
+Date: Thu, 21 Nov 1996 20:03:23 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 9103
+Last-modified: Fri, 11 Oct 1996 16:59:04 GMT
+
+Brett Fleisch's Home Page
+
+Brett D. Fleisch
+
+
+Assistant Professor of Computer Science
+
+
+
+
+
+
+
+
+Department of Computer Science
+
+
+University of California, Riverside
+
+
+Bourns Hall
+, Room
+A259
+
+Riverside
+, CA 92521-0304
+email:
+brett@cs.ucr.edu
+
+
+Phone: (909)787-7206
+FAX: (909) 787-4643
+
+
+
+
+
+EDUCATION
+
+
+B.A. in
+Computer Science, University of Rochester
+
+M.S. in Computer Science, Columbia University
+Ph.D. in
+Computer Science, University of California, Los Angeles
+
+Member of ACM, IEEE Computer Society, and USENIX
+
+
+
+RESEARCH TOPICS
+
+
+Large memory sharing systems in loosely coupled workstation
+environments, focusing on Distributed Shared Memory Systems (
+DSM
+) and
+mobile computing  support using DSM.
+Distributed Computing
+Operating Systems
+Large scale computing systems
+Workstation environments
+Mobile computing
+Reliability and Availability
+
+
+RESEARCH PROJECTS
+
+
+
+The Mirage, Mirage+, and Oasis Project(s)
+
+
+
+"The Persistence of Memory - S. M. Dali"
+
+
+Mirage Development Team
+-
+a Loosely coupled Distributed Shared Memory system.
+
+
+LAB FACILITIES
+I currently direct two laboratories.  The Operating Systems
+research lab and the Distributed Systems research laboratory.  We house
+12 IBM PS/2 computers that run Mirage+, 9 Dec Alpha AXP computers,
+a Macintosh, and a Sun.  We also work with industry at a local and
+national level.  Specifically,
+Computer Marketplace Inc
+has provided 6 RS6000 machines for a research cluster we are
+designing. We also will obtain 5 PowerPC computers
+from
+IBM
+that will be
+used for research and instruction.  The PowerPCs run the
+new IBM microkernel and OS Workplace shell.  We also acknowledge
+Digital Equipment Corporation
+and their
+External Research program which helped us obtain
+the Alphas. Both Systems Laboratories are used
+to design, implement, and measure the performance of
+operating systems, distributed systems,and to study DSM.
+
+
+CORPORATE CONSULTING
+Explore the endless possibilities of working with the University of
+California students and faculty.  Please contact me via email
+brett@cs.ucr.edu
+for further
+information.  Our group works on UNIX, AIX, HP-UX, DEC UNIX, OSF/1,
+Windows 3.1, Windows for Workgroups, Windows-NT, Lynx, SunOS, and Solaris.
+
+web site network was set up by our students.
+
+
+
+VITAE
+Here is a copy of my
+Vitae
+(in postscript)
+
+PUBLICATIONS
+
+(As of 10/11/96 in Postscript)
+
+
+
+O. E. Theel, B. D. Fleisch, The Boundary-Restricted Coherence Protocol
+for Scalable and Highly Available Distributed Shared Memory Systems,
+accepted and to appear in The Computer Journal, Oxford Press,
+
+O. E. Theel, B. D. Fleisch, A
+Dynamic Coherence Protocol for Distributed Shared Memory Enforcing
+High Data Availability at Low Costs,
+IEEE Transactions on
+Parallel and Distributed Systems,
+Vol. 7, No. 9, September,
+1996.
+(this is a version prior to galley revisions)
+W. H. Schroeder, B. D. Fleisch, Architecture of the Oasis Mobile
+Shared Virtual Memory System, Technical Report UC-CS-96-4, April 24, 1996.
+
+D. Choweller, B D. Fleisch, Fault Resilient Distributed Locking,
+Technical Report UC-CS-96-3, April 25, 1996.
+
+R. L. Hyde, B. D. Fleisch, An Analysis
+of Degenerate Sharing and False Coherence,
+Journal
+of Parallel and Distributed Systems,
+Vol. 34, No. 2, June 1996,
+pp. 183-195.
+
+O. E. Theel, B. D. Fleisch,
+Analysis of a Fault-Tolerant Coherence Protocol for Distributed Shared
+Memory under Heavy Write Loads,
+Proceedings of the
+Pacific Rim Conference on Fault Tolerance,
+Newport Beach, CA,
+December, 1995
+
+O. E. Theel, B. D. Fleisch, Design and
+Analysis of Highly Available and Scalable Coherence Protocols for
+Distributed Shared Memory Systems based on Stochastic Modeling,
+Proceedings of the 24th International Conference on Parallel
+Processing
+, Oconomowoc, Wisconsin, August 1995.
+
+N. C. Juul, B. D. Fleisch, A Memory
+Approach to Consistent, Reliable DSM,
+Proceedings of the Fifth IEEE
+Workshop on Hot Topics in Operating Systems (HotOS-V),
+May 4-5, 1995
+
+O. E. Theel, B. D. Fleisch, Design and Analysis of Highly Available
+and Scalable Coherence Protocols for Distributed Shared Memory Systems
+bases on Stochastic Models, Technical Report THD-BS-1995-02,
+University of Darmstadt, Department of Computer Science, Institute for
+System Architecture, Germany, January 1995.  Also available as
+Technical Report UCR-CS-95-1, April 1995.
+
+B. D. Fleisch, N. C. Juul, R. L. Hyde,
+"Mirage+: A Kernel Implementation of Distributed Shared Memory for a
+Network of Personal Computers",
+Software Practice and Experience,
+Volume 23, No. 10, October, 1994.
+
+R. L. Hyde, B. D. Fleisch, Degenerate
+Sharing,
+Proceedings of the 23rd International Conference on
+Parallel Processing,
+Chicago, Illinois, August 15-19, 1994,
+pp. 267-270
+
+R. L. Hyde, B. D. Fleisch, An Analysis of Degenerate Sharing and False
+Coherence, Computer Science Department Technical Report UCR-CS-94-1,
+January 1994.
+
+B. D. Fleisch, The Future of
+Distributed Shared Memory Research, Invited Paper,
+Proceedings on
+the Fourth Symposium on Experiences with Distributed and
+Multiprocessor Systems,
+San Diego, Ca, pp. 273-278, September
+1993
+
+B. D. Fleisch, N. C. Juul, R. L. Hyde, "Moving Distributed Shared
+Memory to the Personal Computer: The Mirage+ experience," UCR
+Technical Report UCR-CS-93-6.
+
+
+
+STUDENT THESIS'
+Here are thesis' by students that I have supervised.
+
+Cheryl DeMatteis, The Design of Reliable Mirage+, M.S. Thesis,
+March 1996. 155 pages.
+
+Bill Schroeder, The Architecture of the Oasis Mobile Shared Virtual
+Memory System, M.S. Thesis, June 1996, 172 pages.
+
+David Choweller, Mechanisms for Distributed Synchronization, in
+progress, expected completion December 1996.
+
+
+
+COFFEE
+I drink alot of it.  I prefer the Sumatra Blue Linoting beans
+that Trader Joes sells or a brand called Dancing Goats that
+Batdorf Bronson roasters ships to me retail.  Basically a medium
+smooth roast is best for me.  Fine coffee should be savored
+and certainly no fake powdered milk should be used in it.  The
+Cafe San VIP Sanyo coffeemaker in my office has a built-in
+grinder that auto grinds and then drips the coffee.
+Unfortunately, like the Intel 432, this machine
+was too complex -- thus the vender has discontinued production
+of the machine. I am currently searching for a machine of equivalent
+functionality for the day my one remaining machine dies.
+
+
+
+Return to Faculty
+Home Page
+

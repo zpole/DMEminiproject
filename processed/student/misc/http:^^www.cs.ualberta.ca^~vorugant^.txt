@@ -1,0 +1,137 @@
+Date: Tue, 26 Nov 1996 16:47:57 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 4613
+Last-modified: Wed, 13 Nov 1996 23:39:40 GMT
+
+Kaladhar Voruganti
+
+
+
+
+
+
+
+
+
+
+Kaladhar Voruganti
+
+
+
+
+PhD Candidate
+
+
+Department of Computing Science
+
+
+
+University of Alberta
+
+
+
+
+E-mail:
+
+vorugant@cs.ualberta.ca
+
+
+
+Phone: 403-492-7591
+
+(403) 492-5150
+
+
+
+
+
+Research Areas
+
+
+
+
+
+Database Systems
+
+
+
+
+Research Interests
+
+I am interested in the following research areas:
+
+Database Support For Mobile Systems
+Database Support For Multimedia Systems
+OO Database Benchmarking (OO7,OO1,HyperModel)
+Repository technology (control and data integration strategies)
+Applied Systems Performance Evaluation (simulations)
+Heterogeneous distributed database integration using CORBA/OLE technologies (used ORBIX)
+Software Engineering (Process design and tool integration strategies)
+Parallel Processing (PVM, PAMS,Enterprise, Petri-Net Modeling)
+Web technologies (Distribution Architecture using JAVA)
+
+PhD Details
+
+
+I am currently designing and implementing the data distribution architecture for an
+object-oriented database. The interesting problems have been
+identified (passed candidacy exam) and I am now formulating solutions to these problems.
+I am working on low-level DBMS system issues.
+Due to the
+confidential nature of this information, I cannot divulge it on the net.
+Basically, I am simulating some new algorithms in order to evaluate their characteristics, and
+am also implementing them as part of distributed TIGUKAT OODBMS. I love
+building systems.
+
+
+Education
+
+
+
+B.Sc. Computer Engineering, University of Alberta, Sept 1985 - April 1989.
+M.Sc. Computing Science, University of Alberta,  Sept 1992 - Dec 1993.
+Ph.D. Computing Science, University of Alberta,  Jan 1994 - 19xx.
+
+
+Professional Experience
+
+
+
+Worked at IBM Lab Canada in Toronto from July 1989 till July 1992.
+This job lead to the acquiring of skills in the following areas:
+
+Entity-Relationship,
+hierarchical and relational data modeling technologies.
+Coarse-grained and fine-grained control and data integration
+technologies.
+Hierarchical versioning technology.
+
+Worked  from May 1988 till September 1988 on an image processing
+project for Atomic Energy Canada at Chalk River, Ontario.
+
+
+Hobbies
+
+I am interested in the following:
+
+Reading Spiritual Books
+Playing Indian drums called Tabla
+Singing
+Sprinting
+Playing Cricket, Soccer, VolleyBall, Table-Tennis, Tennis and Chess
+Weightlifting
+Acting in skits and plays
+
+
+
+
+
+Last Modified on:
+
+
+Feb 1st, 1995
+
+
+
+

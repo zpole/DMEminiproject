@@ -1,0 +1,140 @@
+Date: Mon, 25 Nov 1996 22:56:18 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 4546
+Last-modified: Mon, 04 Nov 1996 07:28:13 GMT
+
+
+
+Mark W. Green
+
+
+
+
+Mark W. Green
+
+Professor and Associate Chair (Graduate Affairs)
+
+Department of Computing
+Science
+
+University of
+Alberta
+
+Edmonton, Alberta
+
+Canada T6G 2H1
+
+e-mail:mark@cs.ualberta.ca phone: (403)492-4584 FAX: (403)492-1071
+
+
+
+This site is best viewed with Netscape Navigator 3.0.
+Download Netscape Now!
+
+
+
+Best experienced
+with
+
+Click here to start.
+
+
+
+CMPUT 301/499 Information
+
+
+The Cmput 301/499 Course Outline
+
+
+
+VRAIS'97 Information
+
+Follow this link for
+information on VRAIS'97
+
+
+
+VRST'96 Information
+
+Follow this link
+to receive more information on VRST'96
+
+
+
+Travel Plans for Fall 1996
+
+I will be restricting my travel for the fall due to family health problems.
+Our daughter was born in early July with a serious lung problem. She seems
+to be okay now, but I would like to stay close to home until we are sure
+that she will be okay.
+
+
+
+Recent Presentations and Trips (1995/96)
+
+
+September 18-22: Invited presentation at VSMM'95 (Virtual Systems and
+Multimedia), Gifu Japan. Title of presentation:
+Interactive 3D Geometrical
+Modelers for Virtual Reality and Design
+. Hotel arrangements for VRST'96
+in Hong Kong.
+
+November 20-24: Attend VRST'95 in Japan.
+
+December 2-10: Inivited presentation at Images de Synthese et Applications
+at St. Etienne France. Title of presentation:
+The Hard Reality of Virtual
+Reality
+.
+
+March 30-April 3: VRAIS'96
+
+May 22-25: Multimedia'96, Toronto, Canada
+
+June 1-14: Computer Animation'96 and DigiMedia, Switzerland
+
+July 1-4 VRST'96
+
+
+
+
+Research Areas
+
+
+Virtual Reality
+:
+The main theme of this research area is the investigation of software tools
+for the cost effective production of VR applications. At least some of
+these tools should be usesable by non-programmers, enabling a wide range
+of designers to create interesting VR applications.
+
+The
+MR Toolkit
+: The MR Toolkit is a set of software tools for the production
+of VR applications that has been under development for the past 5 years.
+This toolkit is freely distributed to non-commercial organizations, and
+there are currently over 340 sites.
+
+ATM Protocol
+Visualization
+: Testing and evaluating ATM networks can be a challenging
+problem due to the large volume of data that can flow over a network connection.
+It is possible to collect the data flowing over a network connection, but
+analyzing this large volume of data requires visualization techniques that
+allow engineers to view a significant portion of this data at various level
+of detail.
+
+Computer Graphics
+Research Laboratory
+
+: The general Web page for the computer graphics
+laboratory in the Department of Computing Science at the University of
+Alberta.
+
+
+
+
+
+

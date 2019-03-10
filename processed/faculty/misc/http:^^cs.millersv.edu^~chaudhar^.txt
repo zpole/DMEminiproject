@@ -1,0 +1,118 @@
+Server: Netscape-Communications/1.1
+Date: Monday, 25-Nov-96 20:39:53 GMT
+Content-type: text/html
+
+Muhammad Chaudhary's Home Page
+
+
+
+
+*****                  #####       #####    ####        ####
+****** ***                 #####     #####      ###        ###
+************ ***              ### ### ### ###      ###        ###
+*** ******** *****             ###  ## ##  ###      ###        ###
+********************            ###   ###   ###      ####       ###
+**  ** * \||/  *** ***           ###         ###       #############
+||                    #####       #####        ######### ##
+-----------------------------     ======================================
+||                  Computer Science Department
+~~ ~~ ~  /||\  ~~~ ~~~        Millersville  University
+~~~~~~~~~~~~~~~~~~~~~
+~~~ ~~~~~~~~~ ~~~~~         Dr. Muhammad H Chaudhary
+~~~~~~~~~~~~~ ~~~
+~~~~~~~~~ ~~~~            E-mail: chaudhar@cs.millersv.edu
+~~~~~~~~~
+~~~~                 Homepage: http://cs.millersv.edu/~chaudhar/
+
+
+
+Programming Contest Information
+
+
+30
+randomly generated colors with their numbers
+
+
+You may get new colors every time you click!
+
+
+
+
+Course Title
+Course Outline
+
+
+Computer Literacy
+CSCI101
+
+
+Discrete Structures I
+CSCI151
+
+
+Introduction to Programming I
+
+CSCI161
+
+
+
+
+Assembly Language Programming
+
+CSCI226
+
+
+
+Discrete Structures II
+CSCI351
+
+
+Computer Organization
+CSCI370
+
+
+Parallel Programming
+CSCI476
+
+
+Database Management Systems
+CSCI445
+
+
+
+Lisp Programming
+
+CS406L
+
+
+
+
+
+
+
+Current Research Interests
+
+
+
+
+
+Introduction to CS161 Using Java
+
+
+Parallel Programing Using MPI
+
+
+Teaching Disceret Structure I Using Software Packages
+
+
+
+
+Muhammad Chaudhary
+(chaudhar@cs.millersv.edu)
+
+
+
+Back to CS Homepage
+
+
+

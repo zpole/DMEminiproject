@@ -1,0 +1,55 @@
+Date: Thu, 21 Nov 1996 22:23:49 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 341 Home Page
+
+
+
+CSE 341: Programming Languages
+
+Fall Quarter, 1996
+
+
+
+Current Offering Home Page (Autumn 96)
+
+Other information
+
+
+The Language List
+Info about just about every programming language.
+Programming Language Research Page
+
+
+Home page for Spring1996 offering of
+CSE 341
+
+Home page for Winter 1996 offering of
+CSE 341
+
+Home page for Autumn 1995 offering of
+CSE 341
+
+Home page for Spring 1995 offering of
+CSE 341
+
+Home page for Winter 1995 offering of
+CSE 341
+
+
+Home page for the Department of Computer
+Science and Engineering
+
+
+
+Portions of the CSE 341 Web may be reprinted or adapted for academic
+nonprofit purposes, providing the source is accurately quoted and duly
+credited.  The CSE 341 Web: Copyright 1995-96, Department of Computer Science
+and Engineering, University of Washington.
+
+cse341-webmaster@cs.washington.edu
+
+
+

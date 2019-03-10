@@ -1,0 +1,72 @@
+Date: Thu, 21 Nov 1996 22:23:39 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE373 Course Web Page
+
+
+
+CSE 373: DATA STRUCTURES AND ALGORITHMS
+
+Autumn 1996
+
+Basic Information:
+
+Instructor:            Dr. Steve Tanimoto
+tanimoto@cs.washington.edu
+Sieg Hall Room 312
+Office hours: WF1:30-2:20 or by appointment.
+
+Teaching Assistant:    Mr. Anhai Doan
+Office hours: To be announced.
+
+Place, Days and Time:  Smith 304, MWF, 12:30-1:20
+
+Computing Facilities:
+1. Unix accounts at the MSCC.
+2. (optional) Students' own PCs.
+
+Languages:             C++ (required), Lisp (optional)
+
+Textbook:              Shaffer: "A Practical Introduction to
+Data Structures and Algorithm Analysis"
+(published in the Summer of 1996 by Prentice-Hall).
+
+Grading breakdown:
+(tentative)
+Assignments 1-3 (20%)
+Assignment 4    (20%)
+Midterm         (20%)
+Project         (20%)
+Final           (20%)
+
+Late policy:           To keep grading manageable and encourage punctual
+work, points will be deducted for late assignments.
+Each assignment will have its own penalty schedule.
+
+
+Here is updated information about
+the project.
+
+Topics to study for the midterm exam
+
+Information about the final exam
+
+Basic information on C, C++, and on using the g++ compiler
+
+Assignments
+
+Solutions to Assignments
+
+Teaching assistant information
+
+Schedule
+
+Webs for previous offerings of CSE 373:
+Winter 96
+
+Autumn 95
+
+
+

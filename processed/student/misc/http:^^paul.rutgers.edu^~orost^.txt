@@ -1,0 +1,86 @@
+Date: Tue, 26 Nov 1996 03:53:24 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2862
+Last-modified: Wed, 13 Mar 1996 14:35:20 GMT
+
+
+Joe Orost's University Home Page
+
+
+
+
+
+Joe Orost's University Home Page
+
+
+
+Welcome to
+
+Joe Orost's
+University Home Page.
+
+
+
+
+AT&T
+
+
+
+FlashPort Services
+
+
+Department of Computer Science
+
+
+
+Desk References
+
+
+The Library
+
+
+The News
+
+
+
+WWW Searches
+
+
+WWW Information
+
+
+Interesting WWW Sites
+
+
+
+Computer Vendor Information
+
+
+NCSA Mosaic Home Page
+
+
+
+My Course
+Info
+
+
+Bench++
+
+Feel free to explore and send me your
+comments
+!
+
+joe
+
+
+
+I wrote these pages in 3/94 as the basis of my
+FlashPort Services Web
+Site inside AT&T
+.  I ported them here on 2/12/95.  This was difficult
+because I had used so many links that would only work inside the AT&T
+firewall.
+
+
+

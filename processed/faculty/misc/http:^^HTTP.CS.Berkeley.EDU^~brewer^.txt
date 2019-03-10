@@ -1,0 +1,128 @@
+Date: Thu, 21 Nov 1996 19:59:14 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Tue, 27 Aug 1996 07:01:42 GMT
+Content-length: 3567
+Prof. Eric A. Brewer
+
+
+
+
+
+Professor Eric A. Brewer
+623 Soda Hall
+University of California at Berkeley
+Berkeley, CA 94720-1776
+(510) 642-8143
+FAX: (510) 642-5775
+brewer@cs.berkeley.edu
+Assistant Professor, University of California at Berkeley
+
+UCB Computer Science Division
+
+
+Security Post:
+Basic Flaws in Internet Security and Commerce
+
+
+
+HotBot Search Engine
+
+
+Classes
+Fall 1996:
+CS262: Advanced Topics in Operating Systems
+
+Spring 1996:
+CS169: Software Engineering
+Fall 1995:
+CS262: Advanced Topics in Operating Systems
+
+Spring 1995:
+CS169: Software Engineering
+Fall 1994:
+CS294-5: Multiprocessor Networks
+
+
+
+Research
+My primary research interests include parallel systems, networks,
+network software, security, and mobile computing.
+Check out
+Inktomi
+, the fastest
+and one of the largest full-text search engines for the Web.
+
+Randy Katz
+and I have started a mobile computing project,
+Daedalus
+, to look at
+handoff across overlaid networks and
+applications that can adapt
+to changing network conditions.  This project includes the
+Bay Area Research Wireless Access Network (BARWAN)
+.
+
+We have also formed a new group to study and improve internet security, called
+ISAAC
+.
+I also work with the
+Berkeley NOW Project
+and the
+InfoPad
+group.
+
+
+Graduate Students:
+
+
+
+Yatin Chawathe
+
+
+Armando Fox
+
+
+Paul Gauthier
+
+
+Ian Goldberg
+
+
+Steve Gribble
+
+
+Spencer Kimball
+
+
+David Wagner
+
+
+
+Documents:
+
+
+
+Publications
+
+
+
+Strata FTP Directory
+
+
+
+Proteus FTP Directory
+
+
+
+InfoPad Library White Paper
+
+
+
+My PGP Public Key
+
+
+
+
+brewer@cs.berkeley.edu
+

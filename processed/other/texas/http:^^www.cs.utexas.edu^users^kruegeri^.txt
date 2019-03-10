@@ -1,0 +1,81 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:47:03 GMT
+Content-Type: text/html
+Content-Length: 2356
+Last-Modified: Monday, 22-Jul-96 15:57:03 GMT
+
+
+
+Home Page for Ingolf Krüger
+
+
+
+
+Ingolf Krüger
+
+
+
+Hi there! This page has just recently been set up, so please bear with
+me until the dust settles...
+About Me
+Welcome to my home page. I am a graduate student in
+the Master's Degree program of the
+Department of Computer Sciences
+at the
+University of Texas at Austin
+. My
+main interests in computer sciences are programming methodology and
+the design, implementation and verification of distributed systems. I
+will graduate in August 1996. My stay in the US is supported by the
+Fulbright exchange program.
+
+Research
+Currently I am a member of
+Prof. Misra
+'s
+PSP Research Group
+. As
+part of my
+Master's Thesis
+I am working on a
+compiler for the new
+Seuss
+programming language.
+Before I came to Austin, I was studying at the
+Department of Computer Science
+of the
+Technical
+University of Munich
+, Germany. There I have been involved in the
+design and implementation of an interpreter for a concurrent, object
+oriented programming language, called
+DGOS
+.
+
+To Contact Me
+
+EMAIL   kruegeri@cs.utexas.edu
+POSTAL	Computer Sciences C0500
+TAY 2.124, U.T. Austin
+Austin TX 78712 USA
+
+VOICE	+1 512.471.7316 (main office)
++1 512.471.9548 (office)
+
+FAX	+1 512.471.8885
+
+
+
+
+
+kruegeri@cs.utexas.edu
+
+First version: 07/16/1996
+
+Last update: 07/22/1996
+
+
+
+
+

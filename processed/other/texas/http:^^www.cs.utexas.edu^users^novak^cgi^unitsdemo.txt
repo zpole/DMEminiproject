@@ -1,0 +1,62 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:25:58 GMT
+Content-Type: text/html
+Content-Length: 1778
+Unit Conversion Demo
+
+Conversion of Units of Measurement
+This is a demonstration of a program that converts between different units
+of measurement, or combinations of units.  It can also simplify
+expressions of units.
+A units expression is a unit name, such as
+meter
+,
+a number such as
+2.5
+, a product of two or more unit expressions
+(* expr1 ... exprn)
+,
+or a quotient of two unit expressions
+(/ expr1 expr2)
+.
+Common abbreviations such as
+ft
+are allowed.
+An example is
+(/ (* atto parsec) (* micro fortnight))
+.
+When the program is started, a window is created containing a command menu
+and input and output areas.  Click the appropriate menu items to run
+the demo.
+
+
+FTP directory for software and documentation
+.
+Conversion of Units of Measurement''
+paper.
+
+
+Instructions
+
+
+
+You must be logged in to a host running X windows.
+Type
+xhost + www.cs.utexas.edu
+(exactly as shown
+at left) in a window on that host
+to allow this server to write to your display.
+Enter your X display name here if needed; you may need to change
+what is shown in the box to your X display name.  For example,
+myterminal.cs.utexas.edu:0.0
+
+
+
+Click
+to start the demo.
+
+
+Gordon S. Novak Jr.
+
+

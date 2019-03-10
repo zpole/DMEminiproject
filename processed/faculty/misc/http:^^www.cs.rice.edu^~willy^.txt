@@ -1,0 +1,69 @@
+Date: Tue, 26 Nov 1996 00:21:02 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 25 Oct 1996 16:52:26 GMT
+Content-length: 2203
+
+
+Willy Zwaenepoel
+
+
+Willy Zwaenepoel
+
+Professor, Department of Computer Science
+
+
+
+Willy Zwaenepoel received his B.S. from the
+University of Ghent
+, Belgium in 1979,
+and his M.S. and Ph.D.
+from
+Stanford University
+in 1980 and 1984,
+respectively.
+Since 1984, he has been on the faculty at
+Rice University
+, where he is presently a
+Professor of
+Computer Science
+and Associate Director of the
+Computer and Information Technology
+Institute
+, an interdisciplinary group of over 30 faculty members
+with shared interests in computers and computation.
+
+His interests are in all aspects of workstation cluster computing.
+While at Stanford, he was involved in the design and implementation of
+the V-System.
+At Rice, he has worked on two distributed shared memory systems, Munin and
+TreadMarks
+,
+on checkpoint/restart through coordinated checkpointing and message
+logging in the Manetho system, and on the
+eNVy
+memory-based permanent storage system.
+He has also worked with Alejandro Schaffer on
+FASTLINK
+,
+a project to provide fast sequential and parallel genetic linkage analysis
+software.
+Willy Zwaenepoel is also co-chair of the program committee for the
+Operating Systems
+Design and Implementation (OSDI-2)
+conference, and vice-chair of the
+program committee for the
+International Conference on Distributed Computing Systems (ICDCS-17)
+Students
+
+Former Students and Postdocs
+
+Publications
+
+
+
+E-Mail:
+willy@rice.edu, Phone: 713-285-5402, Fax: 713-285-5930
+
+
+

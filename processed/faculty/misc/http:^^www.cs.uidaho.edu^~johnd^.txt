@@ -1,0 +1,65 @@
+Date: Mon, 25 Nov 1996 23:05:58 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Thu, 05 Sep 1996 01:12:17 GMT
+Content-length: 1922
+
+John Dickinson Faculty Page
+
+
+
+Department of Computer Science
+
+
+University of Idaho
+
+
+John Dickinson
+
+
+John Dickinson has been the Chair of the Department of Computer
+Science since 1981. He is an associate professor of computer science
+and has been at the University of Idaho since 1973.  His wife,
+Kari
+, works in Computer Services.
+He has
+three children
+.
+In addition to this "Work Page" you might like to visit my
+"
+Home Page
+."
+
+He teaches classes in introductory computer science, computer operating
+systems, and genetic algorithms.
+
+His research interests are:
+
+Genetic algorithms
+Computer networks
+Management of computer networks
+
+
+During the Fall 1996 semester I will be teaching three courses:
+
+CS 101 -- Introduction to Computer Science
+(section 1).  MWF 8:30am, McCl 209
+CS 310 -- Computing Languages
+(section 1).  MWF 12:30pm, Niccolls 6
+CS 400 -- Senior Seminar (section 1).  Th 3:30pm, JEB 221
+
+
+
+
+To email me a note
+
+
+
+Link back to the CS department
+Home Page
+
+
+johnd@cs.uidaho.edu
+
+
+

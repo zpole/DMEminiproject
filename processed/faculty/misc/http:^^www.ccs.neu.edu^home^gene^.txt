@@ -1,0 +1,151 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 19:22:16 GMT
+Content-Type: text/html
+Content-Length: 4579
+Last-Modified: Wednesday, 13-Nov-96 23:01:42 GMT
+
+
+Gene Cooperman's CCS Home Page
+
+
+
+
+Gene Cooperman
+A few of my selected papers are available
+by ftp
+.
+I also have a description
+of a
+task-oriented parallel abstraction
+,
+along with software, related papers, abstract, and large computations
+carried out using that abstraction.
+Among recent and current projects,
+I was involved (with G. Michler) in organizing a workshop on
+High Performance Computing and Gigabit Local Area Networks
+in Essen from April 29 to May 3, 1996
+(also see European copy)
+.  I am organizing
+East Coast Computer Algebra Day (ECCAD-97) in Spring, 1997.
+I am on the program committee for
+HPDC-6
+(High Performance and Distributed Computing, Aug. 5 - 8, 1997;
+cf. also
+HPDC-5 program (1996)
+).
+This fall quarter three of us are leading a
+seminar
+in distributed systems.  This fall, I am also teaching a graduate course
+on
+computer architecture
+.
+Other random pointers of interest to me follow.
+
+
+
+College of Computer Science
+(including
+ftp
+,
+research
+,
+and
+graduate school
+)
+
+Northeastern University home page
+(URL's change often)
+
+
+Table of Contents
+
+
+Academic Calendar
+
+
+Northeastern University phone book
+
+
+Academic programs
+
+
+Div. of Research Management
+
+
+
+
+Boston University CS Colloquium Series
+
+
+
+Boston University Scientific Computing
+
+
+
+mit.lcs.seminar
+
+
+Harvard CS Colloquium Series
+
+
+MIT Applied Math Colloquia
+
+
+
+ACM (Association for Computing Machinery)
+
+
+SIGSAM archive
+(Symbolic & Algebraic Manipulation)
+
+sci.math.symbolic
+
+
+List of Symbolic Algebra Software Packages
+
+
+GAP
+(Groups, Algorithms, and Programming)
+
+Computing Research Association
+
+
+
+Presenting Papers ...: A Guide for Students
+(or
+here
+),
+by
+Ian Parberry.
+
+
+Grants
+
+
+Reference
+
+
+
+Computer Science Info
+
+
+Tongue Twister Info
+
+
+General Info
+(non-C.S., non-tongue twister)
+
+
+
+The Blue Ribbon Anti-Censorship Campaign!
+
+
+Gene Cooperman
+College of Computer Science, 215CN
+Northeastern University
+Boston, MA 02115
+e-mail: gene@ccs.neu.edu
+Phone: (617) 373-8686
+Fax:   (617) 373-5121
+

@@ -1,0 +1,87 @@
+Date: Tue, 26 Nov 1996 16:51:00 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3721
+Last-modified: Fri, 25 Oct 1996 18:04:19 GMT
+Ian Parsons
+
+
+Ian Parsons
+ian@cs.ualberta.ca
+
+
+
+
+
+
+
+
+
+
+
+I'm a PhD candidate at the department of
+Computing Science
+here at the
+University of Alberta
+.  The cartoon, done by one of the
+members
+of our
+asylum
+,
+will give you an idea of my
+work environment.  I won't say if it is a good or bad idea :)  Click on
+the image to get a larger version of the cartoon. BTW, I'm the one on
+the couch.
+My supervisors are:
+Jonathan Schaeffer
+and
+Duane Szafron
+
+I started the PhD program in January of 1993.  My topic is
+parallel I/O templates in a distributed memory programming environment.
+To contact me, use the letter icon to email me.  Otherwise,
+here's my
+address
+.
+As part of my research program, I am involved in the
+Enterprise
+project which is part of the
+Parallel Programming Systems Laboratory.
+
+I am also working for
+CNS
+(Computing and Network Services) in the Research Computing Support Group.
+My duties include system administration, support and consulting for the
+supercomputing users in campus. Our systems include an IBM
+SP2
+parallel computer, a
+workstation farm
+for numeric intensive problems and several RS/6000 boxes used in
+distributed applications.
+I was the 1995-1996 Computing Science Graduate Student Association
+(CSGSA)
+President.  Here is the
+Graduate Student Association
+home page.
+Click
+here
+for an interesting historical review of the roads around where I grew up.
+Some
+photos
+
+
+
+Publications
+
+Research
+Resume
+
+
+
+
+
+
+
+ian@cs.ualberta.ca October 1996
+
+

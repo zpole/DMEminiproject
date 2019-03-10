@@ -1,0 +1,106 @@
+Date: Thu, 21 Nov 1996 23:04:45 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 31 Oct 1996 06:48:25 GMT
+Content-length: 2857
+
+AJ's Page
+
+
+A.J. Bernheim
+
+ajb@cs.washington.edu
+
+
+
+I've just started computer science graduate school at the
+University of Washington
+, so this page is still under construction.
+I just graduated from
+Williams College
+with a BA in
+computer science
+and
+math
+.
+
+
+
+
+When I'm not in front of a computer I'm playing
+ultimate frisbee
+.
+Autumn Quarter Classes
+
+505
+Programming
+Languages
+
+531
+Automata
+
+567
+Principles of
+Digital Systems Design
+
+590B
+Computer Graphics Seminar
+
+590O
+Parallel Programming Environments
+
+
+
+
+
+Outdoor Related Links
+
+The
+National Parks
+
+
+the WOC Home Page
+
+
+GORP
+a guide
+to outdoor recreation
+
+Fun Links
+
+Christian's and Scott's
+Interactive Top Ten List
+
+
+Dr. Fun
+
+
+a
+big ole pile of Cool Links
+
+A blast from the past with
+Scooby-Doo
+
+
+
+Educational Links
+
+A great reference for
+Women Undergrads in Computer Science
+
+
+Peterson's Education Center
+,
+a source of information about graduate schools and other educational
+opportunities!
+Information about the
+CRA Distributed Mentorship Project
+.
+The CRA Mentorship Project allows women undergraduates to spend a summer
+working on research with a female mentor.  I had a great experience and highly
+recommend this program!
+
+
+Back to the UW CS Home Page
+
+Last modified 9/27/96

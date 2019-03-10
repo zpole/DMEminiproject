@@ -1,0 +1,101 @@
+Date: Thu, 21 Nov 1996 19:58:48 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Tue, 13 Feb 1996 22:14:01 GMT
+Content-length: 2520
+
+Jerry Feldman's Personal Home Page at ICSI
+
+
+Jerry Feldman
+
+Personal Home Page at
+ICSI
+Jerry Feldman is a Professor in Computer Science at
+UC Berkeley
+and is the director of the
+International
+Computer Science Institute
+
+
+
+
+
+ICSI Office:
+
+635 ICSI
+1947 Center St. Suite 600
+Berkeley, CA 94704-1198
+(510) 643-9153
+fax: (510) 643-7684
+
+jfeldman@icsi.berkeley.edu
+
+
+
+
+Campus Office:
+
+home page
+
+University of California at Berkeley
+Computer Science Division
+731 Soda Hall
+Berkeley, CA 94720-1176
+(510) 643-6187
+fax: (510) 643-7684
+
+jfeldman@cs.berkeley.edu
+
+
+
+
+Current Research Projects
+
+
+One major project is the
+Sather
+language, compiler, libraries and system. My personal work is focusing
+on the parallel extension which we call pSather.
+
+The other major current project is the
+L0
+effort in natural
+language learning.
+
+
+Students
+
+
+
+David
+Bailey
+is working on a computational model of the acquisition and
+interpretation of verb phrases describing simple hand actions.
+
+
+Chris Bregler
+is a grad. student in computer science interested in
+computer vision, speech recognition, and the relation of both.
+
+Ben Gomes
+
+Srinivas Narayanan
+
+Jonathan Segal
+
+
+David Stoutamire
+maintains the
+Sather
+and pSather language spec and compiler.  His thesis topic is exploiting
+garbage collection to implement dynamic object-based locality
+maintenance.
+
+Boris Vaysman
+
+
+
+
+Return
+to the ICSI home page.

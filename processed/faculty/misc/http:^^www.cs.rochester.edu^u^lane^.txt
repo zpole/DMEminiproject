@@ -1,0 +1,58 @@
+Date: Thursday, 21-Nov-96 21:01:50 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Wednesday, 13-Nov-96 17:48:40 GMT
+Content-length: 2216
+
+
+Lane A. Hemaspaandra's Home Page
+
+
+
+
+
+
+Lane A. Hemaspaandra, URCS Faculty Member
+
+Note: Pre-marriage name = Lane A. Hemachandra.
+b. 1960. Ph.D. (1987) Cornell University. Assistant Professor (87-88),
+Columbia University. Assistant Professor (89-92), Associate Professor
+(92-present); University of Rochester. Presidential Young Investigator
+(89-95).
+Professor Lane Hemaspaandra's research area is computational
+complexity theory. In computational complexity theory, the various
+tasks with which computers may be faced are divided into groups --
+known as complexity classes -- according to the types of computational
+power and the computational models they use. The relative power of
+those classes is then studied, with the goal of discovering the
+weakest level of computational power that suffices to solve the
+crucial problems posed to computers today.
+Professor Hemaspaandra's particular interests include the power of
+counting-based computation, the power of probabilistic computation,
+the power of unambiguous computation, the importance of query order
+when accessing databases, the study of efficient algorithms for
+complex sets, and complexity-theoretic aspects of security,
+fault-tolerance, data compression, and political science.
+
+Journal/Book Publications
+
+Editorial Board Member, IPL
+
+Editorial Board Member, JCI
+
+Editorial Board Member, JUCS
+
+Complexity Theory Columnist, SIGACT News
+
+Go to UR CS technical reports archive
+
+
+
+Back to URCS Faculty directory
+
+
+Back to URCS Home Page
+last modified:  September 14, 1995.
+
+

@@ -1,0 +1,66 @@
+Server: Dienst v4-1-6
+MIME-version: 1.0
+Content-type: text/html
+Protocol Composition in Horus
+
+Protocol Composition in Horus
+Robbert Van Renesse and  Kenneth P. Birman
+TR95-1505
+March 29, 1995
+
+Horus is a communication architecture that treats a protocol as an abstract data type. Protocol layers can be stacked on top of each other in a variety of ways, at run-time. This paper starts out with describing the many classes of protocols that can be supported this way. Next, we describe the Horus object model that we designed for this technology, and the interface between the layers that makes it all work. We then present an example layer which implements a group membership protocol. Then, we look at a example stack of protocols, which provides fault-tolerant, totally ordered communication between a group of processes. We conclude with presenting some remaining challenges in our project.
+
+
+How to view this document
+
+
+Display an
+overview
+of the document in one of the following formats.
+
+Overview of thumbnail pages
+Structural overview
+
+
+Display a
+selected page
+in one of the following formats (document has 11 pages).
+
+
+raw OCR output
+inline gif image
+
+
+
+
+Display the
+whole
+document in one of the following formats.
+
+PostScript
+167239 bytes.
+
+
+
+Print or download all or selected pages.
+
+
+
+You are granted permission for the non-commercial reproduction, distribution,
+display, and performance of this technical report in any format, BUT this
+permission is only for a period of 45 (forty-five) days from the most recent
+time that you verified that this technical report is still available from
+the Computer Science Department of Cornell University under terms that
+include this permission.  All other rights are reserved by the author(s).
+[
+Search
+|
+Home page
+]
+
+NCSTRL
+This server operates at Cornell University.
+
+Send email to
+tech-reports@cs.cornell.edu
+

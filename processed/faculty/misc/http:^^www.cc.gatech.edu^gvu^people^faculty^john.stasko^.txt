@@ -1,0 +1,154 @@
+Date: Wed, 20 Nov 1996 22:47:17 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 5183
+Last-modified: Tue, 15 Oct 1996 14:17:13 GMT
+
+
+John T. Stasko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+John T. Stasko
+
+Associate Professor
+
+College of Computing
+
+
+
+
+
+John Stasko is an Associate Professor in the
+College of Computing
+and the
+Graphics, Visualization, and Usability Center
+at
+Georgia Tech
+.  He earned his
+B.S. degree in Mathematics at
+Bucknell University
+in Lewisburg,
+Pennsylvania and his Sc.M. and Ph.D. degrees in Computer Science at
+Brown University
+in Providence,
+Rhode Island.  He currently serves as an Associate Editor for the
+Journal of Visual Languages and Computing
+.
+Below is a panorama of his office in the College of Computing
+(please excuse the mess).
+
+
+
+
+
+Prof. Stasko's research interests are
+Software Visualization
+,
+information visualization,
+human-computer interaction, programming environments, and parallel
+programming.  In software visualization, he is currently working on
+projects in
+
+Visualization of parallel and distributed programs
+Visualization for program understanding and debugging
+Visualization of object-oriented systems
+Algorithm animation
+Empirical analysis of software visualizations as learning aids.
+Specifically, he is examining how visualization and
+animation can be added to software environments in order to make
+programming easier and to help programmers better understand their
+code.
+
+He is also working on projects examining the use and utility of
+multimedia courseware
+for computer science education
+and the
+cognitive principles behind multimedia
+training and learning
+environments.
+Prof. Stasko's Ph.D. students include
+Dean Jerding
+working on the
+visualization of object-oriented programs as an understanding and
+reverse engineering aid,
+Brad
+Topol
+working on the monitoring and visualization of distributed
+and cluster systems as a programming aid,
+Scott
+McCrickard
+working on visualization tools for monitoring internet
+resources and software architectures, and
+Alex Zhao
+working on the visualization of
+large distributed systems.
+During the 1996-97 academic year Prof. Stasko is teaching
+
+Fall
+
+CS
+4753--Computer-Human Interaction
+
+Winter
+CS 6751--Computer-Human Interaction
+
+In his free time, Prof. Stasko
+hangs out
+with his wife Christy
+, plays a lot of
+golf
+, and follows the
+Atlanta Braves
+.
+
+Contact information:
+
+
+John Stasko
+Graphics, Visualization & Usability Center
+College of Computing, Room 253
+801 Atlantic Drive
+Georgia Institute of Technology
+Atlanta, GA, 30332-0280
+
+Phone:
+(404) 894-5617
+
+E-mail:
+
+stasko@cc.gatech.edu
+
+
+
+
+
+
+Questions or comments?  Email
+gvu-webmaster@cc.gatech.edu
+.
+
+
+

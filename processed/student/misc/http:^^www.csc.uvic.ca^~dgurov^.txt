@@ -1,0 +1,93 @@
+Date: Tue, 26 Nov 1996 16:26:43 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Dilian Gurov's Home Page
+
+Dilian GUROV
+
+
+PhD Student
+,
+
+Dept. Computer Science
+,
+
+University of Victoria
+
+
+
+Research Interests
+
+
+Concurrency Theory
+
+
+Petri Nets
+
+Process Algebras
+Model Checking
+
+Specification and Verification of Communication Protocols
+
+Reverse Engineering
+
+A recent
+paper
+,
+presented at the
+INFINITY'96
+workshop
+on verification of infinite-state systems.
+
+
+Some Friends on the Web
+
+
+
+Alexander Artsyukhovich
+
+
+Sergey Berezin
+
+
+Iliya Bluskov
+
+
+Scott Hazelhurst
+
+
+
+Some Links
+
+
+
+Conference Announcements
+
+
+Career Opportunities
+
+
+Network of Emerging Scientists
+
+
+A Beginner's Guide to HTML
+
+
+
+Address
+
+Dilian Gurov
+Dept. Computer Science
+University of Victoria
+P.O.Box 3055
+Victoria, BC
+CANADA  V8W 3P6
+
+
+Phone:
+(250) 721-6019
+
+E-mail:
+
+DGurov@CSc.UVic.CA
+

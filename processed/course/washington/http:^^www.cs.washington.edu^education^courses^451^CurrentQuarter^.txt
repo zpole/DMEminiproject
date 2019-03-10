@@ -1,0 +1,113 @@
+Date: Thu, 21 Nov 1996 20:19:10 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 451 Home Page
+
+
+
+
+CSE 451
+
+Introduction to
+Operating Systems
+
+Autumn 1996
+
+
+
+Instructor:
+
+Brian Bershad
+(
+cse451-instructor@cs.washington.edu
+)
+
+Lecture:
+MWF 11:30 - 12:20 in Low 102
+
+Office Hours:
+MF: 12.30-1.30
+
+TA:
+
+Sung-Eun Choi
+(
+cse451-TA@cs.washington.edu
+)
+
+Section A:
+Th 12:30 - 1:20 in Low 217
+
+Section B:
+Th 1:30 - 2:30 in Low 118
+
+Office Hours:
+W 12:30 - 1:20 in Sieg 326A or by appointment
+
+
+
+
+
+Course Intro
+by Brian Bershad.
+
+Course Admin
+
+The class outline, administrative info, textbooks, grading, and
+other words of wisdom.
+
+Course Messages
+
+Mail sent to cse451 is archived here.
+
+Midterm 1 solutions
+
+Scale and solutions for the first midterm.
+
+Lecture Schedule
+
+What will be covered when.  The schedule is aggressive, and
+will be updated regularly to reflect our actual pace.
+
+Lecture Notes
+
+Handouts and slides from lecture.
+
+Projects
+
+Descriptions of the projects, related project material, and solutions
+to old projects.
+Project 2
+solutions
+are now available.
+
+Project 3 is now available.
+
+
+Section Notes
+
+Notes of the material from (some) sections. Watch
+this space carefully for information vital to your survival (and
+grade).  Project hints will appear here.
+
+Personal Pages
+
+Your personal 451 home pages, where you'll receive feedback on
+projects.
+
+Feedback Page
+
+Send feedback to the instructors/TA...anonymously if you wish.
+
+How To Page
+
+Lost in the cse451 web?  Click here.
+
+
+
+cse451-webmaster@cs.washington.edu
+
+
+

@@ -1,0 +1,124 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:46:20 GMT
+Content-Type: text/html
+Content-Length: 2487
+Last-Modified: Wednesday, 18-Dec-96 22:11:20 GMT
+
+
+Robert Blumofe
+
+
+
+
+
+Robert Blumofe
+
+I generally go by "Bobby,"
+and my last name is pronounced "Bloom-off."
+
+
+General information
+
+Assistant Professor of
+Computer Sciences
+,
+
+
+The University of Texas at Austin
+.
+
+
+Ph.D. in
+Computer Science
+,
+
+
+Massachusetts Institute of Technology
+, 1995.
+M.S. in
+Computer Science
+,
+
+
+Massachusetts Institute of Technology
+, 1992.
+Sc.B. in
+Computer Science
+,
+
+
+Brown University
+, 1988.
+
+I work on the
+Cilk
+multithreaded language and runtime system in the
+Laboratory for Experimental Software Systems
+(LESS)
+.
+
+I have compiled a
+list of my papers
+.
+
+Papers and other documents are also available from my
+ftp directory
+.
+
+This semester (Spring 1997), I am teaching
+CS328:
+Abstract Data Types.
+
+
+Contact information
+
+
+
+Email:
+
+rdb@cs.utexas.edu
+
+
+
+Phone:
+(512) 471-9557
+
+
+
+Fax:
+(512) 471-8885
+
+
+
+Office:
+4.118 Taylor Hall
+
+
+
+Postal:
+
+Department of Computer Sciences
+Taylor Hall 2.124
+
+The University of Texas at Austin
+
+Austin
+,
+Texas
+78712-1188
+
+
+
+
+
+
+Last modified: December 18, 1996
+
+Robert Blumofe
+
+rdb@cs.utexas.edu
+
+
+
+

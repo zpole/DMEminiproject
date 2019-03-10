@@ -1,0 +1,162 @@
+Date: Thu, 21 Nov 1996 19:53:32 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Wed, 30 Oct 1996 20:55:01 GMT
+Content-length: 5934
+HomePage for Robert Wilensky (Wilensky@CS.Berkeley.EDU)
+
+
+
+Robert Wilensky
+
+
+Chair
+
+Computer Science Division
+389 Soda Hall
+University of California, Berkeley
+Berkeley, CA 94720
+(510) 642-7034
+wilensky@CS.Berkeley.EDU
+
+
+RE: Division business, contact:
+Charlene Ryan
+385 Soda Hall
+(510) 642-0930
+FAX: (510) 642-5775
+charlene@cs
+For other matters, contact:
+Al Gunston
+719 Soda  Hall
+(510) 642-9575
+FAX: (510) 642-5775
+alg@cs
+
+
+Office hours for Fall, 1996:  4-6PM Wednesday, 389 Soda
+The
+CS 294-5: Digital Documents
+home page
+
+Still a few moments for some research:
+
+Digital Information Services
+
+Click
+here
+for information on the Berkeley Digital Library Project.
+An
+IEEE Computer article
+on this project is available.
+What are
+multivalent documents
+(compressed Postscript)?  The architecture to support multivalent documents is described in our
+DL'96 paper
+(compressed Postscript).  (You can see a working demo on our digital library document collection.  See
+About MVD
+.)
+How might we create a global, integrated, digital information service?
+A
+Framework for Distributed Digital Object Services
+by Robert Kahn
+and Robert Wilensky, offers some elements.
+Can natural language processing facilitate information access?  Some of
+my students and I think we can perform
+
+
+Topic
+Characterization of Full Length Texts Using Direct and Indirect Term
+Evidence
+
+Multi-Paragraph
+Segmentation of Expository Discourse
+
+
+Adaptive Sentence Boundary
+Disambiguation
+
+
+Subtopic
+Structuring for Full-Length Document Access
+
+
+TextTiling:
+A Quantitative Approach to Discourse Segmentation
+
+among
+other
+things.  (Indeed,
+source
+code
+is available for some of these.)
+Here are my UC Berkeley Computer Science technical reports on various
+subjects:
+
+
+Extending
+the Lexicon by Exploiting Subregularities
+
+
+Sentences,
+Situations and Propositions
+
+
+The
+Berkeley UNIX Consultant Project
+
+
+Primal
+Content and Actual Content: An Antidote to Literal Meaning
+
+
+Some
+Problems and Proposals for Knowledge Representation
+
+
+UC--A
+Progress Report
+
+
+Talking
+to Unix in English: An Overview of an On-line Consultant
+
+You can examine any UC Berkeley Computer Science Technical Report, and
+quite a few other reports, via our
+UC Berkeley Technical Report Server
+.
+BAIR (Berkeley Artificial Intelligence Project) members include
+
+
+Isaac Cheng
+,
+Michael X. Schiff
+,
+Narciso Jaramillo
+You can also check our some
+alumni
+pages, and some
+people
+working on the Digital Library Project
+.
+I also
+consult
+on various topics.
+
+DLIB Overview
+
+
+Mo' better blobs
+
+
+GIS on the web
+
+
+IBM Overview
+
+
+IBM Wrap
+
+
+MVD Lausanne
+

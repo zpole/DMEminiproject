@@ -1,0 +1,130 @@
+Date: Thu, 21 Nov 1996 20:11:47 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 11 Oct 1996 21:50:18 GMT
+Content-length: 2866
+
+Fran Berman's Home Page
+
+Francine D. Berman
+
+Department of Computer Science and Engineering
+University of California, San Diego
+La Jolla, CA 92093-0114
+
+
+
+Phone:
+(619) 534-6195
+
+Fax:
+(619) 534-7029
+
+Lab:
+(619) 534-5913
+
+Email:
+berman@cs.ucsd.edu
+
+
+
+
+Education
+
+
+
+Ph.D., University of Washington, 1979.
+M.S., University of Washington, 1976.
+B.A., University of California, Los Angeles, 1973.
+
+
+I
+am a Professor in the Computer Science and Engineering Department at U C San Diego and
+Senior Fellow at the San Diego Supercomputer Center.
+My research focuses on the development of models and software
+for scheduling parallel applications on distributed heterogeneous resources.
+In addition, I am interested in
+parallel programming models and environments.
+Distributed heterogeneous computing, our main focus area, is the coordinated use of networked
+resources for large-scale parallel applications.
+My students and I are involved in building
+models, tools and software to promote the efficient scheduling
+and implementation
+of high-performance applications on distributed heterogeneous platforms.
+
+
+
+
+Heterogeneous Computing
+
+
+The
+Application-Level Scheduling (AppLeS)
+Project
+
+Heterogeneous Research Group
+
+
+Heterogeneous Computing Workshop
+
+
+
+
+
+Parallel Debugging
+
+
+
+Panorama Parallel Debugger
+
+Pangaea Heterogeneous Debugger
+
+
+
+
+
+UCSD Parallel Computation Laboratory
+
+
+
+My Students' Home Pages
+
+
+Parallel Computation Lab
+Home Page
+
+Some Publications
+
+
+
+
+
+Other Good Stuff
+
+
+
+The San Diego Supercomputer Center
+
+
+The Computer Science and Engineering Department
+Home Page
+
+Other
+UCSD CSE Professors
+
+
+My Science Scholar's Home Page
+
+
+
+CSE 291C Web Page
+
+
+CRA Committee on the Status of Women in Computer Science
+
+
+
+
+berman@cs.ucsd.edu
+
+

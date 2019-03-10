@@ -1,0 +1,30 @@
+Date: Tuesday, 26-Nov-96 03:10:28 GMT
+Server: NCSA/1.1
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Wednesday, 13-Nov-96 00:57:13 GMT
+
+Chito's Homepage
+
+
+
+Nemecio R. Chavez, Jr.
+Master of Science student in Computer Science.
+Current Work
+Right now, I'm just taking courses and trying to finish up with my degree.
+Interests
+I like to do a wide assortment of things.  But, I have to admit that most of my time is spent playing guitar or listening to music.  Outside of that, I like to hike, mountain bike, watch or play basketball, and write.
+Personal Information
+Here is my
+resume
+plus some additional information on the
+Laboratory for Logic, Databases, and Advanced Programming (LDAP)
+of which I'm a member.
+Contact Information
+If you want to send me e-mail,
+here's how
+.  But if you'd rather get in touch with me in person, through postal mail, or by phone,
+here's how to do that
+.
+
+

@@ -1,0 +1,286 @@
+Date: Tue, 10 Dec 1996 03:30:34 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+
+GRAIL: Publications (by year)
+
+
+
+
+
+
+
+
+Listings sorted by year
+Click on a publication's title to view its abstract and to access links to
+any associated on-line documents.
+You may also click a column heading to choose the sort key,
+or you may simply
+browse abstracts
+.
+
+
+
+Year
+
+Title
+
+Author(s)
+
+
+
+
+
+
+1996
+
+Clustering for Glossy Global Illumination
+
+Christensen, Lischinski, Stollnitz, Salesin
+
+
+
+
+Comic chat
+
+Kurlander, Skelly, Salesin
+
+
+
+
+Declarative camera control for automatic cinematography
+
+Christianson, Anderson, He, Weld, Cohen, Salesin
+
+
+
+
+Global Illumination of Glossy Environments Using Wavelets and Importance
+
+Christensen, Stollnitz, Salesin, DeRose
+
+
+
+
+Hierarchical image caching for accelerated walkthroughs of complex environments
+
+Shade, Lischinski, DeRose, Snyder, Salesin
+
+
+
+
+Interactive multiresolution surface viewing
+
+Certain, Popovic, DeRose, Duchamp, Salesin, Stuetzle
+
+
+
+
+Multiresolution Video
+
+Finkelstein, Jacobs, Salesin
+
+
+
+
+Rendering parametric surfaces in pen and ink
+
+Winkenbach, Salesin
+
+
+
+
+Reproducing Color Images as Duotones
+
+Power, West, Stollnitz, Salesin
+
+
+
+
+Scale-Dependent Reproduction of Pen-and-Ink Illustrations
+
+Salisbury, Anderson, Lischinski, Salesin
+
+
+
+
+Wavelets for Computer Graphics: Theory and Applications
+
+Stollnitz, DeRose, Salesin
+
+
+
+
+The virtual cinematographer: a paradigm for automatic real-time camera control and directing
+
+He, Cohen, Salesin
+
+
+
+1995
+
+Fast Multiresolution Image Querying
+
+Jacobs, Finkelstein, Salesin
+
+
+
+
+Multiresolution Analysis of Arbitrary Meshes
+
+Eck, DeRose, Duchamp, Hoppe, Lounsbery, Stuetzle
+
+
+
+
+Wavelets for Computer Graphics: A Primer
+
+Stollnitz, DeRose, Salesin
+
+
+
+1994
+
+Computer-Generated Pen-and-Ink Illustration
+
+Winkenbach, Salesin
+
+
+
+
+Interactive Pen-and-Ink Illustration
+
+Salisbury, Anderson, Barzel, Salesin
+
+
+
+
+Multiresolution Analysis for Surfaces of Arbitrary Topological Type
+
+Lounsbery
+
+
+
+
+Multiresolution Curves
+
+Finkelstein, Salesin
+
+
+
+
+Multiresolution Painting and Compositing
+
+Berman, Bartell, Salesin
+
+
+
+
+Multiresolution Tiling
+
+Meyers
+
+
+
+
+Piecewise Smooth Surface Reconstruction
+
+Hoppe, DeRose, Duchamp, Halstead, Jin, McDonald, Schweitzer, Stuetzle
+
+
+
+
+Wavelet Radiance
+
+Christensen, Stollnitz, Salesin, DeRose
+
+
+
+1993
+
+A Continuous Adjoint Formulation for Radiance Transport
+
+Christensen, Salesin, DeRose
+
+
+
+
+Electronic ``How Things Work'' articles: Two early prototypes
+
+Amador, Berman, Borning, DeRose, Finkelstein, Neville, Notkin, Salesin, Salisbury, Sherman, Sun, Weld, Winkenbach
+
+
+
+
+Mesh Optimization
+
+Hoppe, DeRose, Duchamp, McDonald, Stuetzle
+
+
+
+
+Three-Dimensional Computer Graphics: A Coordinate Free Approach
+
+DeRose
+
+
+
+1992
+
+Reconstructing illumination functions with selected discontinuities
+
+Lischinski, DeRose, Salesin
+
+
+
+
+Surface Reconstruction from Unorganized Points
+
+Hoppe, DeRose, Duchamp, McDonald, Stuetzle
+
+
+
+
+
+
+
+People
+|
+Courses
+|
+Projects
+|
+Publications |
+Theses
+|
+Software/Data
+|
+Images
+|
+Home Page
+
+
+
+
+
+
+
+Comments to
+mtwong@cs.washington.edu
+
+
+
+
+
+Mon Nov 18 17:24:58 PST 1996
+
+
+
+
+
+
+
+

@@ -1,0 +1,126 @@
+Date: Wed, 20 Nov 1996 21:44:45 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+BU CLA CS 112: Intro CS II---Home Page
+
+
+
+BU
+CLA
+CS
+112
+Intro CS II
+--
+A. Heddaya
+--
+Summer I 1995
+Home Page
+--
+1995.06.27
+
+
+||
+Overview
+||
+Schedule
+||
+Lab Hrs
+||
+Grades
+||
+HW:
+
+#1
+-
+#2
+-
+#3
+-
+#4
+-
+#5
+-
+#6
+-
+||
+
+
+Class meetings:
+
+A1   MTWR 9:00 - 11:00am	SRS-B2 (48 Cummington St.)
+
+Midterm exam	M 6/12 in class
+Final exam	R 6/29 9:00 - 11:00pm
+
+Instructor:
+
+
+A. Heddaya
+(O. Hrs.: MW 11am-12pm).
+
+heddaya@cs.bu.edu
+, MCS-271, x3-8922.
+Grader:
+
+Ron Landmann (no office hours--refer grading questions to instructor).
+Notes:
+
+
+
+
+Program specification.
+
+
+Programming convention.
+
+
+Program deliverables.
+
+
+Sorting.
+
+
+The following is old material.
+
+
+
+Positional number system.
+
+
+
+Examples:
+
+
+Modular
+linked list package
+, and its
+algebraic specification.
+
+
+Nested linked lists with arbitrary element type.
+
+
+Function arguments.
+
+
+Binary trees
+(function argument, fancy makefile).
+
+Binary search trees.
+
+
+The following is old material.
+
+
+
+List represented as array
+.
+
+
+
+Abdelsalam Heddaya
+Created:  1995.05.18
+
+
+

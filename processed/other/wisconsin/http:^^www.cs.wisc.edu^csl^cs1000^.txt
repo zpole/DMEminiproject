@@ -1,0 +1,104 @@
+Date: Mon, 11 Nov 1996 17:26:57 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Sat, 09 Sep 1995 02:49:06 GMT
+Content-length: 2938
+
+
+
+
+CS1000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next:
+
+Contents
+
+
+
+
+
+CS1000
+
+Computer Systems Laboratory
+University of Wisconsin -
+Madison
+
+Fall 1995
+
+Welcome to the online
+version of
+CS1000.
+This hypertext document provides
+an introduction to UNIX and the instructional computers at the University
+of Wisconsin.
+
+NOTE!!!!  Please don't print these pages.  They contain .gif (picture)
+files that take an extremely long time to print.  There is a hard copy
+version of CS1000 available at DoIT for less than $2.50 which is far
+more nicely typeset and has a usable index.
+
+
+
+
+
+
+Complete Contents
+
+
+Introduction
+
+
+Getting Started
+
+
+Getting By
+
+
+Getting Help
+
+
+Getting
+Ahead
+
+
+Index
+
+
+
+Errata and Addendum
+
+Send Bug Reports | Comments
+
+
+
+About this document ...
+
+
+
+
+Return to the Computer System's Laboratory Page
+
+
+Go to the CS home page
+
+
+
+
+Brent Halsey
+Mon Sep  4 23:49:29 CDT 1995
+
+
+

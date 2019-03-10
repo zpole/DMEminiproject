@@ -1,0 +1,79 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:50:33 GMT
+Content-Type: text/html
+Content-Length: 2969
+Last-Modified: Wednesday, 25-Dec-96 09:11:54 GMT
+
+
+
+Software Page
+
+
+
+
+Software Distributions
+
+Following is a list of software distributions; each entry consists of a description of the
+distribution, and a hypertext link to the distribution.
+
+
+
+
+Related Web Pages:
+
+
+UTCS General
+
+
+SSGRG Title Page
+
+
+SSGRG Publication Page
+
+
+
+P2 Software Distribution
+. A GenVoca data structure compiler (1994). Written by Jeff Thomas, Don Batory, and Bart
+Geraci.
+
+
+
+P2 Manuals Distribution
+. A set of manuals describing the features and syntax of P2. Written by Don Batory, Bart Geraci,
+and Jeff Thomas.
+
+
+
+GNU make
+. Required for P2. Written by the Free Software Foundation.
+
+
+
+LE
+. A textual layout editor for specifying GenVoca domain models (1993). Written by Don Batory.
+
+
+
+Genesis
+. An extensible DBMS (1989). Written by Don Batory, Jim Barnett, Jay Roy, Steve Benz, et al.
+
+
+
+Dreck
+. A prototype design rule checker for GenVoca domain models (1995). Written by Don Batory and Bart Geraci.
+
+
+
+
+
+Last modified: December 24, 1996
+
+
+Don Batory
+
+(batory@cs.utexas.edu)
+
+
+
+

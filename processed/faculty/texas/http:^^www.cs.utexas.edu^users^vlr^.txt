@@ -1,0 +1,68 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:44:28 GMT
+Content-Type: text/html
+Content-Length: 1762
+Last-Modified: Friday, 20-Dec-96 23:30:10 GMT
+Vijaya Ramachandran
+
+Vijaya Ramachandran
+
+Blakemore Regents Professor of
+Computer Sciences
+
+
+The University of Texas at Austin.
+
+
+
+Ph.D., 1983, Princeton University.
+
+Research Interests
+My research interests are in
+algorithms and computational theory
+, primarily
+in the area of parallel computation and algorithm design. They include:
+
+the design and analysis of efficient parallel and sequential algorithms;
+the design and evaluation of models for parallel machines; and
+the experimental evaluation of algorithms.
+
+You can access copies of
+recent papers
+of mine.
+A complete listing of my publications is available in my
+vita
+.
+Here is my official
+faculty profile
+.
+
+Contact Information
+
+
+Office:
+3.152 Taylor Hall, (512) 471-9554
+
+Email address:
+vlr@cs.utexas.edu
+Fax:
+(512) 471-8885
+Postal address:
+
+Department of Computer Sciences
+
+
+The University of Texas at Austin
+
+
+Austin
+,
+Texas
+78712-1188
+
+U.S.A.
+
+Number of visits to this page since April 30, 1996:
+
+

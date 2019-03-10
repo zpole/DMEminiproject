@@ -1,0 +1,81 @@
+Date: Thu, 21 Nov 1996 22:24:08 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE322: Introduction to Formal Models, Fall 1996
+
+
+
+
+
+
+
+CSE 322: Intro. to Formal Models
+Fall 1996
+
+Anne Condon
+
+
+Welcome to the CSE 322 home page! Check this page regularly to find
+homeworks, solution sets, pointers to upcoming lectures, and exams.
+
+Class Messages:
+Messages sent to the class mailing list will
+be logged here on the web. To subscribe to the mailing list,
+send mail to "majordomo@cs" and include the message:
+"subscribe cse322 your-userid".
+Check this or your email frequently.
+(       Last update:
+11/20/96 at 10AM.)
+
+
+Homeworks
+
+
+
+
+Handouts
+
+
+
+
+Upcoming Lectures
+
+
+
+
+List of Contents of Previous Lectures
+
+
+322 Webs From Previous Quarters
+
+
+
+
+Winter 1996
+
+Autumn 1995
+
+Winter 1995
+
+Autumn 1994
+
+Autumn 1993
+
+
+
+
+
+
+
+
+condon@cs.washington.edu
+
+
+kayee@cs.washington.edu
+
+(Last Update: September 27, 1996)
+
+

@@ -1,0 +1,49 @@
+Date: Tue, 26 Nov 1996 19:22:42 GMT
+Server: NCSA/1.5.1
+Content-type: text/html
+
+
+
+Cmpt330 (T1, 1996/97) Home Page
+
+
+Cmpt330 Home Page
+
+Term 1 (Fall), 1996/97
+
+Welcome to the 1996/97 offering of Cmpt330!
+
+This course makes
+extensive use of WWW ("the web") and other electronic forms of
+information.  Use the index below to guide you toward the information
+you are looking for.
+
+last update: Wednesday September 18, 1996
+
+
+Top-level Index
+
+Bulletin Board
+(information updates, in
+reverse chronological order)
+
+Assignments
+(including write-ups, hints, and solutions)
+
+Materials from the Tutorials
+
+Readings
+
+Resources
+
+CPR
+
+Course Outline
+
+C Short-Course
+These
+pages have been designed with browser independence in mind.  If the WWW
+browser you are using has a problem with them, please let me know.
+kusalik@cs.usask.ca
+
+

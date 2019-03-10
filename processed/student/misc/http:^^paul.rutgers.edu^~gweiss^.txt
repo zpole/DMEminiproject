@@ -1,0 +1,104 @@
+Date: Tue, 26 Nov 1996 03:57:28 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3098
+Last-modified: Wed, 25 Sep 1996 18:51:15 GMT
+
+Gary M. Weiss's Home Page
+
+Gary M. Weiss's Home Page
+
+
+
+
+
+
+Email:
+gweiss@paul.rutgers.edu or gary.m.weiss@att.com
+Address:
+
+AT&T Bell Labs
+480 Red Hill Road, Rm 2H-096
+Middletown NJ 07748
+Phone:
+(908) 615-4698 (work),    (908)-855-1787 (home)
+Fax:
+(908) 615-5056
+
+
+
+Here is my typical weekly
+schedule
+.
+
+
+
+
+
+About Me:
+
+I am pursuing a Computer Science PhD (in Artificial Intelligence).  I started
+the program in September 1993, entering with a Master's in Computer Science
+(from Stanford in 1986).  I have worked at AT&T Bell Labs since 1986, and
+continue to work there and go to school part-time.
+
+I work in AT&T's Network Services Division, on an expert system to maintain
+Network Switching elements.
+
+
+
+Useful Rutgers Pointers:
+
+
+Rutgers Homepage
+
+Rutgers INFO
+
+Rutgers Library
+
+Rutgers Phone Directories
+
+Rutgers CS Tech Reports
+
+
+My Papers:
+
+The following are abstracts of my Rutgers Technical Reports.  A postscript
+version of these papers is available via anonymous ftp from ftp.cs.rutgers.edu:/pub/technical-reports.
+
+
+The Problem with Noise and Small Disjuncts (tech# ml-tr-38)
+
+
+Learning with Small Disjuncts (tech# ml-tr-39)
+
+
+
+
+
+Interesting AI Pages:
+
+
+AI page
+
+AI Subject Index
+
+Intelligent Agents
+
+Association of Computational Linguistics
+
+
+
+
+Fun Stuff:
+
+
+Deep Thought of the Day- by Jack Handey
+
+A Great Guide to New York City
+
+
+
+
+gweiss@paul.rutgers.edu
+

@@ -1,0 +1,168 @@
+MIME-Version: 1.0
+Date: Wednesday, 15-Jan-97 02:16:52 GMT
+Server: NaviServer/2.0 GNNserver/2.1b2
+Content-Type: text/html
+Content-Length: 4462
+Last-Modified: Wednesday, 13-Nov-96 00:14:58 GMT
+
+Switzerland Home Page
+
+Switzerland (Project MAC)
+
+MIT Project on Mathematics and Computation
+"Neutral, but heavily armed."
+Project Mac, associated with both the
+MIT Artificial Intelligence Lab
+and
+the
+MIT Laboratory for Computer Science
+, builds a wide spectrum of
+intelligent computational tools to help scientists and engineers
+understand mathematical models of physical processes.
+
+
+Look here for an
+Overview of our research
+.
+
+One of our major current activities is the study of
+Amorphous
+Computing
+
+
+As part of our artificial intelligence work, we also study the
+problem of learning in the context of language.
+Learning MorphoPhonology
+
+
+Most of our work uses the
+Scheme dialect of Lisp
+, for which we
+developed and maintain the MIT Scheme implementation.
+
+Bibliography
+
+Switzerland's FTP directory
+
+Items of Local Interest
+
+People of Switzerland
+
+
+Hal Abelson
+
+Stephen Adams
+
+Joseph A. Bank
+
+Peter Beebee
+
+Rebecca Bisbee
+
+Michael R. Blair [a.k.a. ``Ziggy'']
+
+Brian D. Carlstrom
+
+Natalya Cohen
+Daniel Coore
+David Espinosa
+
+Philip Greenspun
+
+Chris Hanson
+Elmer Hung
+Asim Khwaja
+
+Kleanthes Koniaris
+Brian LaMacchia
+
+David LaMacchia
+
+Kevin Lin
+
+Hardy Mayer
+
+Jim Miller
+Radhika Nagpal
+
+Nick Papadakis
+
+Jonathan Rees
+
+Brian Reistad
+
+Luis Rodriguez
+
+Guillermo (Bill) Juan Rozas (Rodríguez)
+
+Olin Shivers
+
+Thanos Siapas
+Panayotis Skordos
+
+Andy Stark
+
+Rajeev Surati
+
+Gerry Sussman
+
+Switzerland West
+
+Franklyn Turbak
+
+Jason A. Wilson
+
+Jack Wisdom
+Henry Wu
+
+Ken Yip
+
+Feng Zhao
+
+Ziggy [a.k.a. ``Michael R. Blair'']
+
+Brian K. Zuzga [a.k.a. "Boogles"]
+
+
+Amusements
+
+
+The Swiss Coke Machine
+
+The Unix extinguisher
+
+Images of Switzerland (the country)
+
+
+
+On-Ramps
+
+
+MIT home page
+
+MIT AI Lab home page
+
+MIT LCS home page
+
+MIT SIPB home page
+
+
+NCSA Mosaic Home Page
+
+Netscape Home Page
+
+
+Alta Vista form (local copy)
+
+Archieplex form (local copy)
+
+
+
+Server Statistics
+
+fnord!
+
+
+
+www-request@www-swiss.ai.mit.edu
+

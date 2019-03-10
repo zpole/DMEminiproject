@@ -1,0 +1,68 @@
+Date: Mon, 02 Dec 1996 15:18:28 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+Data Fitting Slides
+
+
+
+Data Fitting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See Brad's slides here.
+
+
+
+
+
+The a(i)'s have some probability distribution.
+Consider a(i) - atrue -- the real values are placed at the origin.
+This defines the uncertainties of a(0).
+Goal:  find the distribution of a(i) - atrue without knowing
+atrue or having infinite data sets.
+
+
+Consider a world where a(0) is atrue.
+Hope that that world is not too different from the atrue world.
+In particular, assume that the probability distribution of
+as(i)-a(0) is like a(i)-atrue.
+We can compute as(i)-a(0) and take that to be our answer.
+Each data set yields a point as(i)-a(0).
+Simulate enough sets to get a distribution of parameters.
+
+
+You could analyze the cloud of points to get confidence
+intervals for parameters independently.
+Or you could use a confidence region for all parameters simultaneously.
+You choose the level (68%) and shape.
+It is common to use constant chi-squared shapes around the
+D(0) minimum.
+Point: you can learn something about the parameter
+confidences by simulating the phenomenon.
+
+
+
+
+

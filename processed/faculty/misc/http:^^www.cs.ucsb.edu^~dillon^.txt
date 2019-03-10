@@ -1,0 +1,90 @@
+Date: Thu, 21 Nov 1996 20:16:11 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2515
+Last-modified: Mon, 30 Sep 1996 18:58:59 GMT
+
+Laurie Dillon
+
+
+
+Laurie Dillon
+
+
+Laura K. Dillon
+Associate Professor
+
+Room 2163, Engineering I
+Department of Computer Science
+University of California
+Santa Barbara, CA 93106-5110
+
+Internet:
+dillon@cs.ucsb.edu
+Telephone:
+(805) 893-3411
+Facsimile:
+(805) 893-8553
+
+
+
+Other homepages
+
+
+TSE: Special Issue on Formal Methods in Software Practice
+
+CMPSC 160: Translation of Programming Languages
+
+UC Santa Barbara Student Chapter of the ACM
+
+ACM Lectureship Information
+
+
+
+
+Research interests
+
+Formal methods for specification and
+validation of concurrent systems; software engineering; programming languages
+Laura K. Dillon received the Ph.D. degree in Computer Science from the
+University of Massachusetts in 1984.
+She joined  the faculty at UCSB in 1985, following a year as an
+Assistant Professor
+in the Departments of Computer
+and Information Science and of Electrical and Computer Engineering at the
+University of Massachusetts, Amherst.
+Her research interests center on formal methods for specification
+and analysis of software
+systems, especially those involving
+concurrency.
+
+
+Ongoing projects
+
+
+Automated Suport for Testing and Debugging of Real-Time
+Programs Using Oracles
+
+An Integrated Toolset for Specifying, Testing and Debugging
+Complex Software-Intensive Systems
+
+Visual Execution of Concurrent Programs
+
+
+
+
+
+Recent Publications
+
+
+
+
+Presentations
+
+
+
+Departmental home page.
+
+
+
+

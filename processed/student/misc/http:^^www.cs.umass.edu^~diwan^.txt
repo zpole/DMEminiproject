@@ -1,0 +1,127 @@
+Date: Thursday, 21-Nov-96 23:25:13 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Thursday, 14-Nov-96 18:20:46 GMT
+Content-length: 4151
+Amer Diwan's Home Page
+
+Amer Diwan
+
+
+
+Relevant Data
+I am a graduate student in the
+Department
+of Computer Science
+at the
+University of
+Massachusetts.
+My advisor is
+Eliot Moss.
+I am a member of the
+Object Systems Laboratory
+.
+I expect to finish my PhD in Oct 1996.  Starting November 1, I will be working
+for the SUIF group at Stanford University.
+Research Interests
+Garbage collection, Inlining, Memory system performance,
+Optimization for memory hierarchies, Partial Evaluation, Program analysis,
+Compilers for object-oriented languages, Whole-program optimization
+Recent Papers
+
+Type-Based Alias Analysis
+,
+Amer Diwan, Kathryn McKinley, and Eliot Moss
+.  Submitted for publication.
+
+Understanding and improving the performance of modern programming languages
+,
+PhD Dissertation
+October 1996,
+Amer Diwan
+.
+
+Best-Possible Analysis: A New Methodology for Evaluating  Compiler Optimizations
+,
+Amer Diwan, Kathryn McKinley, and Eliot Moss
+.  Submitted for publication.
+
+Goals and Design of the Whole Program Optimizer
+,
+Amer Diwan
+. MASPLAS 1996.
+
+The Whole Program Optimizer.
+,
+Amer Diwan
+.
+Modula-3 Threads newsletter
+.
+
+Simple and effective analysis of statically-typed object-oriented programs
+,
+Amer
+Diwan, Eliot Moss, Kathryn Mckinley
+.  To appear in OOPSLA '96.
+
+Memory System
+Performance of Programs with Intensive Heap Allocation
+,
+Amer Diwan,
+David Tarditi (CMU), and Eliot Moss.
+ACM Transactions on
+Computer Systems, Volume 13, Number 3, August 1995, p. 244-273.   An earlier version is available as CMU technical report   CMU-CS-93-227
+
+Measuring the
+cost of storage management
+,
+David Tarditi (CMU), Amer Diwan.
+Lisp
+and Symbolic Computation, Volume 9, Number 4, December 1996.  Also available
+as CMU TR CMU-CS-94-201.
+
+Memory Subsystem
+Performance of Programs Using Copying Garbage Collection
+,
+Amer
+Diwan, David Tarditi (CMU), and Eliot Moss.
+POPL '94, pp 1--14. This
+paper is also available as a CMU technical report CMU-CS-93-210.
+
+The full
+cost of a generational copying   garbage collection implementation
+,
+David Tarditi (CMU), Amer Diwan .
+OOPSLA '93 Workshop on Memory
+Management and Garbage Collection.
+
+Compiler
+Support for Garbage   Collection in a Statically Typed Language
+,
+Amer
+Diwan, Eliot Moss, and Richard Hudson.
+SIGPLAN PLDI '92, pp. 273-282.
+
+A
+Language-Independent Garbage Collector Toolkit
+,
+Richard Hudson, Eliot
+Moss, Amer Diwan, and Christopher F. Weight.
+University of Massachusetts
+at Amherst technical report TR 91-47.
+Recreational Interests
+
+Squash,
+Physical fitness,
+Reading
+, Photography,
+Racquetball, Tennis, Biking,  Hiking,
+Music, Movies,  Cooking.
+Homepage under construction.  Please visit again!
+
+
+
+
+diwan@cs.umass.edu / 413-545-0256
+

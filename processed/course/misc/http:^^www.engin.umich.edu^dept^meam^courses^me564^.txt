@@ -1,0 +1,174 @@
+Server: Netscape-Commerce/1.12
+Date: Tuesday, 26-Nov-96 19:10:15 GMT
+Last-modified: Friday, 22-Nov-96 14:35:21 GMT
+Content-length: 4140
+Content-type: text/html
+
+ME564 - Homepage - EECS 560, Aero 550
+
+ME 564, EECS 560, Aero 550
+Linear Systems Theory
+
+The University of Michigan
+
+
+Department of
+Mechanical Engineering and Applied Mechanics
+
+
+Fall 1996
+
+
+
+Instructor:
+Dawn Tilbury
+
+3130 G. G. Brown, 	936-2129
+tilbury@umich.edu
+Office Hours: MW 10:30 - 11:30, Th 11:00 - 12:00
+
+Note:
+Thursday office hours have been changed.
+
+Lectures:
+MWF 9:30 - 10:30, 3150 Dow
+
+Recitation:
+Thursday, 1:30 - 3:30, 1301 EECS
+The TA will work sample homework problems and sometimes cover
+supplementary material.
+
+TA:
+Raju Datla, muralid@engin.umich.edu
+
+TA Office Hours:
+Tuesday, 4-6pm, 2315 G. G. Brown
+
+Text:		C. T. Chen,
+Linear System Theory and Design
+, 1984.
+
+Grading:
+25% Homework
+25% Midterm 1 (Tuesday, October 15, 7-9pm, 2211 G. G. Brown)
+25% Midterm 2 (Tuesday, November 19, 7-9pm, 2211 G. G. Brown)
+25% Final
+
+Note:  The lowest homework score will be dropped.
+
+Final exam:
+Tuesday, December 17, 1:30 - 3:30pm
+
+
+Handouts:
+
+
+Sept. 13, chapter 3 of Rugh.
+Sept. 23, pp. 25 - 41, 452 - 459 of Callier and Desoer
+Oct. 11, Sample Exam 1,
+[postscript]
+,
+[pdf]
+.
+Oct. 14, Exam 1 Review topics,
+[postscript]
+,
+[pdf]
+.
+Nov. 11, Gilbert Realizations, from Kailath pp. 349-350, 365-366.
+See also E. G. Gilbert, "Controllability and Observability in Multivariable
+Control Systems," SIAM J. Control, vol. 1, pp. 128-151, 1963.
+
+
+Homework Assignments:
+
+
+Homework 1, due Sept. 13,
+[postscript]
+,
+[pdf]
+
+Homework 2, due Sept. 20,
+[postscript]
+,
+[pdf]
+.  Use the infinity norm unless otherwise specified.
+Homework 3, due Sept. 27,
+[postscript]
+,
+[pdf]
+.  You should not always expect to  get a
+closed-form solution to an integral.
+Homework 4, due Oct. 4,
+[postscript]
+,
+[pdf]
+.
+Homework 5, due Oct. 11,
+[postscript]
+,
+[pdf]
+.
+Homework 6, due Oct. 25,
+[postscript]
+,
+[pdf]
+.
+Homework 7, due Nov. 1,
+[postscript]
+,
+[pdf]
+.  In problem 1, the geometric multiplicity of an
+eigenvalue is the number of independent eigenvectors associated with it
+and is the same as dim N(A - lambda I)
+Homework 8, due Nov. 8,
+[postscript]
+,
+[pdf]
+.
+Homework 9, due Nov. 15,
+[postscript]
+,
+[pdf]
+.  Note that part (c) of problem 5 has been added
+from the original handout.  In problem 5(a), the state variables should be
+x1, x2, x3, x4 (not x1, x2, x1, x2).  Here is the
+m-file
+for problem 6.
+Homework 10, due Dec. 6,
+[postscript]
+,
+[pdf]
+.
+
+Notes from the grader:
+
+
+Please turn in the source code or command file for any computer work.
+Please write as clearly as you can.
+Please underline, circle, or highlight your answer.
+
+More Information:
+
+
+
+Homework
+Solutions
+, from the Media Union Library.
+Note:
+If you dial in
+remotely, you need to use one of the UM Private modems (213-7970 or
+213-3710) to access the homework solutions.
+M-files for Homework 3, problem 3:
+hw3.m
+,
+nonlin.m
+
+A
+note
+on reading PDF files.
+
+
+11/22/96 / dmt
+
+

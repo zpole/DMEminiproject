@@ -1,0 +1,82 @@
+Date: Mon, 04 Nov 1996 23:45:43 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 24 Oct 1996 22:37:32 GMT
+Content-length: 2068
+
+
+Using the Web at UW CS
+
+
+
+Using the Web at UW CS
+
+
+
+They pushed all the buttons and things
+On tomorrow's pages
+- The Psychedelic Furs,
+Highwire Days
+
+
+
+We are developing a number of documents to help you better use the
+resources available on the Web and to allow you make your own information
+available.  For detailed technical information, a good starting point is the
+World Wide Web
+FAQ
+.
+We current have these documents:
+
+
+8 steps to having your own WWW Page
+
+
+A Hypertext Markup Language (HTML) Tutorial
+
+
+URLs and the CS Web Server
+
+
+How to get statistics for your pages
+
+
+The complete list of pages automatically linked into lists
+
+
+How to get your page linked to from the CS Web pages
+
+
+A brief tutorial on access control and httpd
+
+Advanced Topics:
+
+
+Using MIME to map types to files
+
+
+Making image maps
+
+
+Getting mail from Web documents using FORMS.
+
+
+Writing Common Gateway Interface (CGI) scripts.
+
+
+
+Other Web documents on the same subjects.
+
+
+If you have any comments about these documents, including questions,
+compliments and corrections, you can send them to the maintainer below:
+
+
+
+Please include your e-mail address in your signature.  Thanks.
+
+
+
+
+
+

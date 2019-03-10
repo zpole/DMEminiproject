@@ -1,0 +1,15 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 25-Nov-96 20:12:26 GMT
+Content-Type: text/html
+Content-Length: 233
+Last-Modified: Thursday, 27-Apr-95 15:20:46 GMT
+Adam Fadlalla
+
+Adam Fadlalla, Assistant Professor
+
+Welcome to Fadlalla's WWW Home Page
+
+Browse Resume
+
+fadlalla@cis.csuohio.edu

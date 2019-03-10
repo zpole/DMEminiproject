@@ -1,0 +1,22 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 08-Jan-97 16:32:27 GMT
+Content-Type: text/html
+Content-Length: 705
+Last-Modified: Friday, 03-Nov-95 20:17:49 GMT
+Index of /users/kornerup/cs105/project/
+Index of /users/kornerup/cs105/project/
+
+Name            Last modified     Size
+
+
+Parent directory
+
+
+bjrules.ps
+03-Nov-95 14:17    48K
+
+projspec.ps
+03-Nov-95 14:17    39K
+2 files
+

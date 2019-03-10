@@ -1,0 +1,40 @@
+Server: Dienst V4-1-1
+MIME-version: 1.0
+Content-type: text/html
+Improved Generalization via Tolerant Training
+
+Improved Generalization via Tolerant Training
+W. Nick Street and  O. L. Mangasarian
+MP-TR-95-11
+July 1995
+Theoretical and computational justification is given for improved generalization when the training set is learned with less accuracy. The model used for this investigation is a simple linear one. It is shown that learning a training set with a tolerance $\tau$ improves generalization, over zero-tolerance training, for any testing set satisfying a certain closeness condition to the training set. These results, obtained via a mathematical programming approach to generalization, are placed in the context of some well-known machine learning results. Computational confirmation of improved generalization is given for linear systems, as well as for nonlinear systems such as neural networks for which no theoretical results are available at present.
+
+
+How to view this document
+
+
+
+Display the
+whole
+document in one of the following formats.
+
+PostScript
+101959 bytes. (compressed on disk, will be sent uncompressed)
+
+
+
+Print or download all or selected pages.
+
+
+
+You are granted permission for the non-commercial reproduction, distribution,display, and performance of this technical report in any format, BUT thispermission is only for a period of 45 (forty-five) days from the most recenttime that you verified that this technical report is still available fromthe Computer Science Department of the University of Wisconsin - Madison underterms that include this permission.  All other rights are reserved by theauthor(s).
+[
+Search
+]
+
+NCSTRL
+This server operates at UW Madison Computer Sciences Technical Reports .
+
+Send email to
+www@cs.wisc.edu
+

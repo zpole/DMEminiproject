@@ -1,0 +1,97 @@
+Date: Thu, 21 Nov 1996 22:53:35 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 3709
+Last-modified: Tue, 08 Oct 1996 18:21:36 GMT
+
+
+Nancy S. Eickelmann
+
+
+
+Nancy S. Eickelmann
+
+
+Department:
+Information and computer science
+
+Area: Software
+Advisor:
+Debra J. Richardson
+
+Electronic Mail: ike@ics.uci.edu
+Office:BLDG-ICS2 RM-225
+Office Phone: (714) 824-4043
+Fax: (714) 824-4056
+URL: http://www.ics.uci.edu/~ike
+
+Research Summary:
+Ms. Eickelmann is a Hughes staff doctoral fellow at the Univeristy
+of California Irvine. She has research experience and has published
+technical papers in the fields of software engineering, computer
+supported cooperative work, and formal methods. Ms. Eickelmann is
+researching the application of formal methods in software engineering
+processes. Specific areas of interest include software testing
+processes, process measurement, and process improvement.
+Education:
+
+
+Ph.D. Information and Computer Science (Candidate) UCI 1997
+Master of Science, Information and Computer Science, UCI 1994
+Master of Business Administration, Information and Decision
+Science, SDSU 1992
+Bachelor of Science, Business Administration, Finance, SDSU 1988
+
+Professional Activities and Honors:
+
+
+Hughes Staff Doctoral Fellow (1995-1997)
+UCI Faculty Mentor Award (1995-1996)
+UCI Graduate Researcher Award (1993)
+California Doctoral Scholar Award (1992-1995)
+California Pre-Doctoral Scholar Award (1991)
+Center for International Education and Research (CIBER) Award
+(1990-1992)
+Beta Gamma Sigma Honor Society
+
+Publications:
+
+
+Eickelmann, Nancy S., and Richardson, Debra J., "Leveraging
+the Cost of Software Testing with Measurable Process Improvement" To
+Appear in the Proceedings of the Computing in Engineering ETCE-ASME
+'97, Houston, TX, January 1997.
+Eickelmann, Nancy S., and Richardson, Debra J., "What Makes One
+Software Architecture More Testable Than Another?" To Appear in the
+Proceedings of SIGSOFT '96 ISAW2-FSE Joint Conference, San Francisco,
+October 1996.
+Eickelmann, Nancy S., and Richardson, Debra, J., "An Evaluation
+of Software Test Environment Architectures," In the Proceedings of the
+Eighteenth International Conference on Software Engineering, Berlin,
+Germany, March 25-30, 1996.
+Eickelmann, Nancy S., "The Role of Process in Software
+Engineering,"Hughes Research Laboratory Internal Report, HRL-IR,
+August 1995.
+Blevins,J., Dubrow, D., and Eickelmann, N., et al., "Report on the
+Software Project Management Technical Research and Review,"
+Proceedings of the California Software Symposium, March 30, 1995.
+Eickelmann, Nancy S., "Formal Methods Approaches and Applications,"
+Hughes Research Laboratory Technical Report, HRL-TR-9998, July 1994.
+Eickelmann, N.S., and Richardson, D.J., "A Strategic Advantage
+Analysis of Formal Methods in Software Engineering," University of
+California Irvine Technical Report, UCI-TR-95-33, April 1994.
+Easton, A.C., Eickelmann, N.S., and Flatley, M.E., "Effects of an
+Electronic Meeting System Group Writing Tool on the Quality of Written
+Documents," Journal of Business Communication, vol.31, no.1, pages
+27-40. January 1994.
+
+Guru Abilities:
+Statecharts and Z, statistical analysis, quality intiatives, process
+measurement and process improvement.
+Other Interests:
+Ms. Eickelmann is a member of IEEE, ACM, SIGSOFT, SIGMETRICS,
+INFORMS. She is also a member of the AAUW, and has served as a
+volunteer literacy/numeracy tutor and was awarded the volunteer
+Amethyst Award for her service to the community.
+
+

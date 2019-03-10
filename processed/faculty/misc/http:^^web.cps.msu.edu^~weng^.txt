@@ -1,0 +1,54 @@
+Date: Thu, 21 Nov 1996 19:18:05 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Content-length: 1486
+Last-modified: Thu, 13 Jun 1996 01:46:45 GMT
+John J. Weng, Department of Computer Science
+
+John Juyang Weng
+
+
+
+
+John Weng is an assistant professor of
+the Computer Science Department
+at
+Michigan State University.
+His research interests include human-machine interaction,
+human-machine interface using vision,
+speech, and action; multimedia understanding; learning models for humans
+and machines; autonomous mobile learning robots;
+self-organizing neural networks; artificial intelligence (especially
+learning); computer graphics and virtual reality.
+He is a member of the
+PRIP
+laboratory.
+
+
+More Information
+
+
+
+A Short Technical Biography
+
+
+Research
+
+
+Teaching
+
+
+Contact Information
+
+Dept. of Computer Science
+A714 Wells Hall
+Michigan State University
+East Lansing, MI 48824-1027
+Tel: 517-353-4388
+FAX: 517-432-1061
+E-mail: weng@cps.msu.edu
+
+
+
+To Faculty Home Page
+

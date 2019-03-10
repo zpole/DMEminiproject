@@ -1,0 +1,32 @@
+Date: Tue, 26 Nov 1996 17:51:58 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 02 Oct 1996 16:12:51 GMT
+Content-length: 624
+Dmitry Mikulin's home page.
+
+This page is under permanent construction.
+
+
+
+
+Dmitry Mikulin
+
+
+Graduate Student
+303A Mineral Industries Building
+Department of Computer Science
+
+University of Pittsburgh
+Pittsburgh, PA 15260
+
+
+Research Interests:
+
+Real-Time Systems, Databases.
+
+
+
+
+mikulin@cs.pitt.edu
+

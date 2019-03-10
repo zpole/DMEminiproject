@@ -1,0 +1,55 @@
+Date: Tue, 26 Nov 1996 02:50:42 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1593
+Last-modified: Sun, 12 May 1996 06:53:03 GMT
+Welcome to Shimei's Home Page!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+Greetings
+]
+[
+About Me
+]
+[
+China
+]
+[
+Entertainment
+]
+[
+Comments
+]
+[
+Suggest Site
+]
+[
+Publication
+]
+
+Return to CS Home Page
+
+
+pan@cs.columbia.edu
+
+

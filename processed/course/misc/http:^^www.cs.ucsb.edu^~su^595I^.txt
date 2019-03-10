@@ -1,0 +1,110 @@
+Date: Wed, 20 Nov 1996 23:02:35 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2934
+Last-modified: Mon, 18 Nov 1996 18:36:33 GMT
+
+
+
+
+
+
+
+CS 595I
+Advanced Topics in Database Systems
+
+Regular meeting time :
+Mondays, 3-4.30pm, Eng I, 2110
+
+
+
+Next meeting
+
+: Monday, Nov. 18
+
+
+Paper to be discussed:
+
+#9
+
+
+
+List of Papers :
+
+
+Ashish Gupta, Inderpal Singh Mumick:
+
+Maintenance
+of Materialized Views: Problems, Techniques, and Applications.
+
+
+Gang Zhou,
+R. Hull
+,
+Roger King, Jean-Claude Franchitti:
+
+Data
+Integration and Warehousing Using H2O.
+
+
+Joachim Hammer, Hector Garcia-Molina, Jennifer Widom, Wilburt Labio,
+Yue Zhuge:
+
+The
+Stanford Data Warehousing Project
+.
+
+
+H. Gupta
+:
+
+Selection
+of Views to Materialize in a Data Warehouse.
+
+To appear in the Proc. Int Conf on Database Theory, Athens, Greece,
+Jan 1997.
+
+A. Gupta,
+Inderpal
+Singh Mumick
+, and V. Subrahmanian :
+
+Maintaining
+views incrementally
+
+Y. Zhuge, H. Molina, and J. Wiener
+
+The Strobe
+Algorithm for Multi-Source Warehouse Consistency
+
+R. Hull
+and G.
+Zhou
+
+A
+Framework for Supporting Data Integration Using the Materialized and Virtual
+Approaches
+
+R. Hull
+and G.
+Zhou
+
+Towards
+the Study of Performance Trade-offs Between Materialized and Virtual Integrated
+Views
+
+A. Kawaguchi, D. Lieuwen, I. Mumick, D. Quass, and K. A. Ross
+
+Concurrency
+Control Theory for Deferred Materialized Views
+
+
+
+
+
+Updated Nov 6by Jianwen Su (
+su@cs.ucsb.edu
+)
+
+
+

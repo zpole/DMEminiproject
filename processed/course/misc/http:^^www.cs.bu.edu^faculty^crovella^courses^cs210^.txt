@@ -1,0 +1,70 @@
+Date: Wed, 20 Nov 1996 21:43:59 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+
+CS 210 - Computer Systems - Fall 1995
+
+
+CS 210 - Computer Systems - Fall 1995
+
+
+
+Syllabus
+
+Reading List
+
+Lecture Notes
+
+Week 1
+- 9/6, 9/8, 9/11
+Week 2
+- 9/13, 9/15, 9/18
+Week 3
+- 9/20, 9/22, 9/25, 9/27
+Week 4
+- 9/29, 10/2, 10/4, 10/6
+Week 5
+- 10/10, 10/11, 10/13
+Week 6
+- 10/16, 10/18, 10/20, 10/23
+Week 7
+- 10/25, 10/27, 10/30, 11/1
+Week 8
+- 11/3, 11/10, 11/13
+Week 9
+- 11/15, 11/17, 11/20
+Week 10
+- 12/1, 12/4, 12/6
+
+Homeworks
+
+Homework 1
+- Due 9/29
+Homework 2
+- Due 10/27
+
+Notes from Section 10/12
+
+Instructions for Submitting Homework 2
+
+
+Homework 3
+- Due 12/11
+
+Notes from Section 11/30
+
+Instructions for Submitting Homework 3
+
+
+
+Midterms
+
+Note: the Section Meeting for CS210 is Thursdays from 3:30 to 4:30 pm in MCS B33.
+
+Mark Crovella /
+crovella@cs.bu.edu
+/ [an error occurred while processing this directive]
+
+
+

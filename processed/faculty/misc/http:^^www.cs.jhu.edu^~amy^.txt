@@ -1,0 +1,81 @@
+Date: Wed, 20 Nov 1996 23:02:29 GMT
+Server: NCSA/1.5.1
+Last-modified: Thu, 14 Dec 1995 22:02:05 GMT
+Content-type: text/html
+Content-length: 3072
+Amy E. Zwarico's home page
+
+Amy E. Zwarico's home page
+
+
+
+
+Amy E. Zwarico
+
+Assistant Professor
+
+Education
+
+Ph.D. 	Computer Science 		   University of Pennsylvania 	1988
+M.S.E. 	Computer Science 		   University of Pennsylvania 	1984
+B.S. 	Mathematics and Computer Science   Hofstra University 		1982
+
+Research
+Programming languages, concurrent and distributed systems, real-time
+computing, hardware verification, object oriented programming.
+Process algebras have been widely studied for modelling concurrent
+processes.  One of Prof. Zwarico's primary research interests is in
+extending this formalism so that it can be used in the specification
+and analysis of real-time systems and also systems with probabilistic
+behavior. Research in this area has produced semantic models for both
+real-time and probabilistic processes as well as logics for reasoning
+about these processes.
+In addition, she has used some of the techniques from process algebra
+in the verification of both synchronous and asynchronous circuits. In
+conjunction with Prof. Smith, Prof. Zwarico has developed and proven
+correct a method of synthesizing correct gate-level descriptions of
+circuits.She and Prof. Smith are also investigating various areas in
+the semantics of object oriented programming.
+
+Selected Publications
+Scott Smith and Amy E. Zwarico, "Correct Compilation of Specifications
+to Deterministic Asychronous Circuits", submitted to
+Formal
+Methods in System Design
+.
+Jonathan Eifrig, Scott Smith, Valery Trifonov and Amy E. Zwarico, "A
+simple Interpretation of OOP in a Language with State", to appear in
+Workshop on State in Programming Languages
+, June 1993.
+Scott F. Smith and Amy E. Zwarico, "Correct Compilation of
+Specifications to Deterministic Asynchronous Circuits," CHARME 93,
+Lecture Notes in Computer Science
+,May 1993.
+S. Purushothaman and Amy E. Zwarico (eds.), "NAPAW 92: Proceedings of
+the First North American Process Algebra Workshop", Springer-Verlag,
+Workshops in Computing
+, 1993.
+Rance Cleaveland and Amy E. Zwarico , "A Theory of Testing for
+Real-Time",
+Proceedings of the Sixth Annual IEEE Symposium on
+Logic in Computer Science
+, July 1991, pp. 110--119.
+Technical Report JHU
+91-04 (14 pages).
+Scott F. Smith and Amy E. Zwarico, "Provably Correct Synthesis of
+Asynchronous Circuits", in
+Second Workshop on Designing Correct
+Circuits
+, January 1992. (24 pages)
+Rance Cleaveland, Scott Smolka and Amy E. Zwarico, "Testing Preorders
+for Probabilistic Processes", ICALP 92,
+Lecture Notes in
+Computer Science
+, vol. 623, pages (708-719).
+I. Lee and Amy E. Zwarico, "Timed Acceptances: A Model of Time
+Dependent Processes",
+Proceedings of the Symposium on Formal
+Techniques in Real-Time and Fault-Tolerant Systems
+, Warwick,
+September 1988, pp. 128-130.
+

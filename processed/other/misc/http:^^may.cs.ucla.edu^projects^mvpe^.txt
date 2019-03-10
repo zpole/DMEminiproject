@@ -1,0 +1,105 @@
+Date: Tue, 14 Jan 1997 21:45:03 GMT
+Server: NCSA/1.5.2
+Content-type: text/html
+
+
+
+MVPE
+
+
+
+
+
+
+
+MVPE
+
+
+
+
+
+MVP
+E
+
+
+The Maisie Visual Programming Environment (MVP
+E
+)
+is an X-windows based graphical front-end for designing parallel
+simulations in
+Maisie
+, a parallel
+(message-passing) extension of C.  It is written in C++ using Motif.
+It is similar in intent to OPNET (which simulates networks), and
+SESworkbench.  The primary advantage of MVP
+E
+over
+these commercial systems is its direct use of a parallel simulation
+language.
+
+
+
+Features
+
+
+entities (entity types) are specified using an extended flow
+chart notation
+(sample)
+
+simulations can be designed hierarchically with arbitrary depth
+static communication topology is specified graphically
+automatic code generation, compilation, and execution
+Among the extensions planned for future releases are:
+
+automatic partitioning
+runtime animation
+metrics collection
+libraries of predefined entities
+The following information is also available.
+
+Early Prototypes
+
+1996 CSD Research Review Poster abstract
+
+User's Guide
+
+October '95 ARPA/ITO Site Visit -- TRAVLER (cs.ucla and arpa only)
+
+November '96 ARPA/ITO Site Visit -- TRAVLER (cs.ucla and arpa only)
+
+
+
+Papers
+
+MVP
+E
+: Visual Design of Parallel Simulation Models
+
+Proceedings of the Fourth International Workshop on Modeling, Analysis,
+and Simulation of Computer and Telecommunication Systems, Feb. 1-3, 1996,
+San Jose, CA, pp. 227-230.
+(
+Gzipped PostScript
+)
+Abstract: Simulation is an increasingly important aspect of network development, and parallelization of these simulations can result in tremendous time/performance improvements.  However, tools for developing and parallelizaing simulations are sadly lacking.  This paper describes MVP
+E
+, a visual programming environment for parallel simulation design.
+
+
+This research has been funded as part of the
+WAMIS
+and
+TRAVLER
+projects.
+(
+contract info
+)
+
+Written by
+Richard A. Meyer
+
+
+
+
+
+

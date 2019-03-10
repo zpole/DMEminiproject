@@ -1,0 +1,98 @@
+Date: Tue, 26 Nov 1996 17:46:48 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 03 Oct 1996 22:54:09 GMT
+Content-length: 2393
+
+
+Anil's Home Page
+
+
+
+
+Anil Somayaji's Home Page
+
+
+Greetings
+
+
+Hello!  I'm a graduate student in the Computer Science department
+at the University of New Mexico.
+Here
+is more
+information on me.
+
+My advisor is
+Stephanie Forrest
+.  Her page has a list of the other people in our group.
+
+PGP/Privacy Stuff
+
+
+
+My PGP Information
+
+
+Privacy,
+Security, and Anonymity Info (great site!)
+
+
+SSH ("Secure SHell")
+
+
+My offline public PGP key
+
+
+My online public PGP key
+
+
+GSLocal
+If you have an account on the UNM CS machines, and you want to use the
+latest, greatest free software, check out the
+GSLocal Home Page
+.
+Other sites of interest:
+
+
+
+UNM CS Home Page
+
+
+UNM CIRT Home Page
+
+
+MIT SIPB Home Page
+
+
+I am away at the MIT AI Lab for the fall of 1996, and maybe the
+spring of 1997.  The same email address will reach me, but if you want
+to contact me otherwise, here's the info:
+
+School:
+
+545 Technology Square
+Room 831
+Cambridge, MA 02139 USA
+(617)253-6625
+
+
+Home:
+
+133 Webster Ave., #1
+Cambridge, MA 02141 USA
+(617)864-0122
+
+Thanks for stopping by!
+
+--Anil
+
+
+
+
+
+soma@cs.unm.edu
+
+Last modified: Thu Oct  3 15:53:03 MDT 1996
+
+
+

@@ -1,0 +1,84 @@
+
+
+
+
+Jignesh M. Patel
+jignesh@cs.wisc.edu.
+
+
+
+Welcome!
+
+
+
+Research Assistant
+
+Department of Computer Sciences
+
+University of Wisconsin - Madison
+1210 West Dayton Street
+
+Madison
+, WI 53706-1685
+Telephone: (608) 262-6625
+
+
+
+
+
+
+Advisor:
+
+David DeWitt
+
+
+Research Interests:
+
+
+GIS systems, parallel database systems and object-relational databases.
+Currently working on the
+Paradise
+project.
+
+
+Publications Related to Paradise
+
+
+
+Client-Server Paradise
+: Paper published in VLDB 1994.
+
+Partition Based Spatial Merge Join
+: To be  published in SIGMOD 1996.
+
+
+Other Publications
+
+
+
+Accurate Modeling of the Hybrid Hash Join Algorithm
+: Paper published in SIGMETRICS 1994.
+
+
+Miscellaneous stuff:
+
+
+
+Virtual Tourist
+
+
+Inline Skating
+
+
+IT-BHU home page
+
+
+Madhuri dey dey, Kashmir ley ley
+
+
+My bookmarks
+
+
+
+
+

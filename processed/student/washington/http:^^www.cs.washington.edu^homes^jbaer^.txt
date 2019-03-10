@@ -1,0 +1,90 @@
+Date: Thu, 21 Nov 1996 23:05:25 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 06 Jun 1996 22:10:26 GMT
+Content-length: 2320
+
+
+Jeremy Baer
+
+
+
+
+Jeremy Baer
+
+
+"I never let my schooling interfere with my education"
+
+-Mark Twain
+
+"We are such stuff as dreams are made on"
+
+-William Shakespeare
+
+
+I'm currently a graduate student in
+Computer Science
+at the
+University of Washington.
+
+My CS interests include artificial intelligence, human-computer
+interaction, multimedia educational software, software engineering
+tools, and computer generated music.
+Here's
+some more personal/creative stuff.
+
+Other cool places I spend some significant time at:
+
+
+
+Pierian Spring Software
+
+
+Oregon Museum of Science and Industry
+(OMSI)
+
+Pomona College
+
+
+
+Here's a look at some current projects of mine:
+
+
+
+Eight-Puzzle Java Applet
+(a work in progress)
+
+Experimental Virtual Travel Applet
+
+
+Copy Effects Demo Applet
+
+
+Questioner Project
+
+
+Static Layer Analysis for C Programs
+
+
+Feeling stressed out?  Here's a really silly little DA for the Macintosh that
+I wrote years ago.
+
+Download
+it if you'd like.
+
+
+
+
+Metacrawler Web Search
+
+
+
+
+
+Copyright (c) 1996 Jeremy Baer
+
+jbaer@cs.washington.edu
+
+
+
+

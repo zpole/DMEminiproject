@@ -1,0 +1,265 @@
+Date: Tue, 26 Nov 1996 03:46:51 GMT
+Server: NCSA/1.5.2
+Last-modified: Wed, 20 Nov 1996 22:22:46 GMT
+Content-type: text/html
+Content-length: 7721
+
+
+Ilia's Home Page
+
+
+
+
+
+
+
+
+
+You are visitor number
+to
+
+Ilia's Home Page
+
+Finally, after much delay, I have hurled myself onto the WWW bandwagon and
+created my own
+homepage
+.
+
+It has taken me a while for several reasons. One of them is I didn't feel
+comfortable typing up my autobiography and calling it my home page.
+Now, that I got some substance, I have committed myself to creating
+this document.
+Here is a brief list of things you can find on this page:
+
+Personal stuff
+
+My research and academic interests,
+publications
+
+My resume
+
+Sites in Russia
+
+My hobbies
+
+
+Linux
+
+Photography
+
+Aikido
+
+Pinky and the Brain (Zort!)
+
+Babylon 5
+
+
+My e-mail address
+
+
+
+
+First, about myself. My name, as follows from the title, is Ilia (pronounced
+[Ily'a]), last name is Baldine ([Bahldin]).
+There is a story behind this strange spelling, but I'd rather keep it to
+myself.
+I am a graduate student at the North Carolina State University's
+Department of Computer Science
+.
+
+
+
+Academic interests and publications
+My M.S.
+thesis
+was on multicast routing algorithms. Presently my work is
+centered around single-hop optical networks, but I also find interesting
+the following areas:
+
+ATM networks.
+
+ATM forum
+
+IP over ATM
+resource page
+
+
+Wireless networks
+
+Network protocols and security
+
+
+IPng
+
+IETF home page
+
+Directory of RFC
+
+
+You can find the list of my publications
+here
+.
+
+
+
+Russia
+I am Russian, and if you are interested in exploring Russia without leaving
+the comfort of your room, this is a good
+place
+to start. It contains
+links to many sites in Russia, plus volumes of information about the history
+and the current events in the former Soviet Union. It even has a pointer to
+Mikhail Gorbachev's homepage.
+Here is a list of other interesting web sites in or about Russia:
+
+Open Media Research Institute
+(Affiliated
+with Radio Free Europe)
+
+Radio Free Europe/Radio Liberty
+
+Russia on the Net
+
+Moscow State University
+, where I
+studied for several years
+
+A mouse-sensitive map
+,
+which contains pointers to a lot of web sites in Russia
+
+
+
+
+
+Hobbies
+
+
+
+
+Linux
+
+Linux is a UNIX-like PC operating system. I have a Linux box at home. You
+can either see the
+specs
+for my system, or you can browse a
+list
+of Linux-related sites.
+If you have no idea what Linux is all about but are curious to find out,
+try
+
+here
+
+.
+
+
+
+
+Photography
+I am something of an amateur photographer. In the past few years I've taken
+many many pictures in different parts of this country. I have chosen about
+a dozen, that I like a lot, and scanned them in. They fall in two categories:
+one that I call
+"My Photogallery"
+, which is a collection with no
+particular theme or order, the other one is from my recent trip to Yellowstone.
+Enjoy!
+
+My Li'l Photogallery
+
+The Yellowstone Collection
+
+
+
+
+
+Aikido
+
+
+
+
+
+
+
+
+
+
+
+
+I started practicing Aikido in '94 and the more I do it, the more I like it.
+With time I will be adding some interesting aikido-related links here. For
+now you have a choice of visiting NCSU Aikido Club
+home-page
+or sending an
+e-mail
+to the NCSU aikido list, whose subscribers are mostly members of the
+aforementioned club.
+
+Biography
+of O'Sensei
+
+Glossary
+of Aikido terms
+
+Background Information on Aikido
+
+Aikido dojo
+search engine
+(US only)
+
+
+
+
+
+
+
+
+Pinky and the Brain (Narf!)
+
+I am an avid fan of Spielberg's Animaniacs, in particular -
+Pinky and the Brain
+. Here are some sites that have images and sounds
+from these series:
+
+The Complete "Pondering..."
+List
+
+Lots of
+Pinky and the Brain pictures
+(excellent site)
+
+Pinky and the Brain sound clips
+
+
+
+
+
+
+
+Babylon 5
+
+
+Two words:
+Babylon 5 Rules!
+
+
+Lurker's Guide To Babylon
+5
+
+The
+Official
+Babylon 5 Site
+
+
+
+
+
+
+
+If you'd like to drop me a message, try
+ibaldin@eos.ncsu.edu
+
+Last Modified: 3/6/96.
+
+
+

@@ -1,0 +1,43 @@
+Date: Thu, 21 Nov 1996 20:11:18 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 31 May 1996 00:56:35 GMT
+Content-length: 796
+
+Larry Carter's Home Page
+
+Larry Carter
+
+CS&E Dept., Mail Code 0114
+University of California, San Diego
+9500 Gilman Drive
+La Jolla, CA 92093-0114
+
+
+
+Email:
+carter@cs.ucsd.edu
+
+Office:
+AP&M 4101
+
+Phone:
+(619) 534-6265
+
+Secretary:
+Marie Kreider (619) 534-5948
+
+I hold a joint appointment in UCSD's
+CS&E department
+and at
+the
+San Diego
+Supercomputing Center
+.
+My research focuses on
+performance
+programming
+.
+Here are some recent
+papers
+.

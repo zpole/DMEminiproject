@@ -1,0 +1,84 @@
+
+
+Welcome to Fei Shong's Homepage
+
+(Best viewed with Netscape Version 2.0 or above.)
+
+
+
+
+
+
+Myself:
+I was born in ChongQing,Sichuan,P.R.China,a mountainous city
+with ten million people.
+I LOVE my home country!
+
+
+
+
+
+Find my home town!
+
+
+
+I got B.S. in computer science from
+Tsinghua
+University
+, Beijing,1990.
+
+I became a college teacher in Sichuan Institute of Technology, between
+1990 and 1994. Then I worked in the field of stock broking and futures
+broking.
+
+Now, I'm studying computer science in
+Wesleyan
+University
+, Middletown,Connecticut.
+
+I am interested in programming,especially on Windows Platform. I am
+also interested in authoring on internet. Hobby: soccer,any kind of sports,bridge,make
+friends, computer games,horrifing films.
+
+
+
+JavaScript Experimental
+Field:
+Javascript Lab
+
+Some my favoriate links :
+
+
+China
+Sports Daily
+
+ChinaScape
+
+China Sports Express Daily
+
+CND
+Headquarter
+
+
+
+
+Sichuan Soccer Team Name List
+
+
+An Postscript graph
+
+
+
+Any comment?
+
+
+
+Welcome to Wesleyan University
+
+
+
+document.write
+("<small>This page was updated on "+document.lastModified+"<small>")
+
+
+

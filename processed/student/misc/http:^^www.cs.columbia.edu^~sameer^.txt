@@ -1,0 +1,119 @@
+Date: Tue, 26 Nov 1996 02:51:03 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3706
+Last-modified: Fri, 08 Nov 1996 22:58:46 GMT
+
+
+
+
+
+Sameer's home page
+
+
+
+Sameer A. Nene
+
+
+
+I am a third year PhD student in the
+Electrical
+Engineering Department
+of
+Columbia
+University
+. I am in the
+Computer Vision
+Group
+and working with
+Prof.
+Shree K. Nayar
+in the
+Computer
+Science Department
+. I am from
+Pune
+,
+India
+. I studied at St.
+Vincent's High School (SSC '86, HSC '88). I did my BE in Computer
+Engineering from
+PICT
+(Class of '92). I
+completed MS in Electrical Engineering here at Columbia (Class of
+'94). In the summer of 1996, I worked at
+Microsoft
+Research
+in the
+graphics group
+with
+Michael Cohen
+. My research
+interests include eigenspace based object recognition, nearest
+neighbor search, real-time optical flow estimation, image based
+rendering, relative orientation, and vision sensors.
+
+I will be glad to hear from you. To send me
+mail, click
+here
+.
+
+
+
+Publications
+
+
+
+Course Home Pages
+
+Synthetic 3D
+Imaging
+(Spring 96)
+
+
+Cool Links
+
+
+CAVE
+
+
+Origin of Universe - by Dr. Stephen
+Hawking
+
+The Bhagvad
+Gita
+
+
+Some pictures I shot
+
+
+
+Whereabouts
+
+Work
+
+Sameer A. Nene
+Dept of Computer Science
+1214 Amsterdam Avenue
+Mail Code: 0401
+Columbia University
+New York NY 10027
+USA
+
++1-212-939-7089 (off.)
++1-212-939-7106 (lab.)
++1-212-666-0140 (fax)
+
+
+Home
+
+Sameer A. Nene
+
+110 Morningside Dr #36A
+New York NY 10027
+USA
+
++1-212-864-5125
+
+
+

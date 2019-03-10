@@ -1,0 +1,74 @@
+Date: Tue, 26 Nov 1996 18:56:41 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2036
+Last-modified: Thu, 07 Nov 1996 14:28:38 GMT
+
+
+
+Willis F. Marti
+
+
+
+
+
+Willis F. Marti
+
+
+
+Senior Lecturer
+
+Department of Computer Science
+Texas A&M University
+College Station, TX 77843-3112
+
+Office:
+311C H. R. Bright Building
+
+Phone:
+(409) 845-1293
+
+Fax:
+(409) 847-8578
+
+Email:
+willis@cs.tamu.edu
+
+Course Information -- Fall 1996
+
+
+CPSC
+463
+
+
+Assignments
+and Announcements
+
+
+
+
+Our building can be found at the
+corner
+of Ross & Spence
+on the TAMU main campus.
+
+An exercise in genealogy by
+list
+of people
+and by
+surname
+.
+
+
+<!-- Hide
+today = new Date();
+targetdate = new Date("December 7, 1996");
+targetdate.setYear(targetdate.getYear());
+milliseconds = (24 * 60 * 60 * 1000);
+remaining = ((targetdate.getTime() - today.getTime()) / milliseconds);
+remaining = Math.floor(remaining);
+document.write("<H3>Sir!  The days!  There are ",remaining," and a butt days until <B>ARMY BEATS THE HELL OUT OF NAVY</B> at Veteran's Memorial Stadium in Philadelphia PA in football!!!</H3>");
+// -->
+
+
+

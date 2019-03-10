@@ -1,0 +1,88 @@
+Date: Thu, 21 Nov 1996 20:37:51 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+Shlomo Zilberstein's Home Page
+
+
+
+
+
+
+
+Contact Info
+
+
+Research
+
+
+Publications
+
+
+Symposia
+
+
+Talks
+
+
+Teaching
+
+
+Students
+
+
+Schedule
+
+
+Affiliations
+
+
+Galleria
+
+
+
+
+
+
+
+Shlomo Zilberstein
+
+Assistant Professor
+
+Department of Computer Science
+
+University of Massachusetts
+Box 34610, Lederle Graduate Research Center
+Amherst, MA 01003-4610
+voice: +1-413-545-4189 fax: +1-413-545-1249
+
+
+
+Shlomo Zilberstein is an Assistant Professor of Computer Science at the
+University of Massachusetts at Amherst
+where he is heading the
+Resource-Bounded Reasoning Research Group
+.
+He received a B.A. in Computer Science summa cum laude from the
+Technion - Israel Institute of Technology
+,
+and a Ph.D. in Computer Science from the
+University of California at Berkeley
+.
+Professor Zilberstein is a recipient of Israel's Security Prize (1992),
+an NSF Research Initiation Award (1994) and an NSF CAREER Award (1996).
+His current research interests include decision theory, design of
+autonomous agents, real-time planning, resource-bounded reasoning,
+and reasoning under uncertainty.
+
+
+
+shlomo@cs.umass.edu
+
+
+
+
+
+
+

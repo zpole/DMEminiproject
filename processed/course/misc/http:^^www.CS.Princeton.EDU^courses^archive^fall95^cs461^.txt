@@ -1,0 +1,47 @@
+Server: Netscape-Commerce/1.12
+Date: Wednesday, 20-Nov-96 22:45:32 GMT
+Last-modified: Sunday, 13-Oct-96 13:42:34 GMT
+Content-length: 1059
+Content-type: text/html
+
+COS 461: Distributed Computing  (Fall 1995)
+
+
+COS 461: Distributed Computing   (Fall 1995)
+The online
+Gallery
+of Course Projects
+is now available.
+Note: the gallery homepage is served by the Garçon Web Server, which
+is itself one of the course projects.
+
+
+Course Information
+
+Lecture Notes
+
+Submitting Programming Assignments
+
+Schedule
+
+Assignments
+
+Midterm Exam
+and
+solutions
+
+Final Exam
+and
+solutions
+
+Programming with Sockets
+
+
+
+Copyright (c) 1994,1995 by Edward W. Felten
+
+
+Ed Felten
+/ felten@cs.princeton.edu
+
+

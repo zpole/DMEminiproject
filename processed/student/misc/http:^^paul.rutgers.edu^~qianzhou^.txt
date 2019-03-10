@@ -1,0 +1,44 @@
+Date: Tue, 26 Nov 1996 03:52:30 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2776
+Last-modified: Wed, 20 Nov 1996 23:15:03 GMT
+
+Qian Zhou's Home Page
+
+
+
+
+Welcome To Qian Zhou's Home Page !
+
+
+
+
+
+
+About Myself
+My name is Qian Zhou. I graduated from Tsinghua University, Beijing, P. R. China in 1993 and received a Bachelor of Engineering degree in Computer Science. After graduation, I had been working for the China Resources Machinery (Beijing) Co. Ltd. for about one year. Then I came to the States. Now, I'm a computer science graduate student of Rutgers -- The State University of New Jersey.
+
+
+
+File Services
+
+
+604 Independent Study
+
+
+DISTributed Archive for Nomadic
+Computing Environments: A Preliminary Design
+(paper)
+
+
+DISTANCE Server Algorithm
+Design and Software Simulation
+(paper)
+
+
+
+Tsinghua CS88 Alumni
+
+
+J86 Exclusive On-line Chat Room (User Identification Required)

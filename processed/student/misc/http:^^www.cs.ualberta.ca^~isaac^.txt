@@ -1,0 +1,133 @@
+Date: Tue, 26 Nov 1996 16:54:32 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2812
+Last-modified: Thu, 05 Sep 1996 04:53:05 GMT
+Isaac Edward Leonard
+
+
+
+Isaac (Ed) Leonard
+
+
+
+
+
+Department of Computing Science
+
+
+University of Alberta
+
+
+
+
+e-mail:
+isaac@cs.ualberta.ca
+
+eleonard@vega.math.ualberta.ca
+
+
+
+Personal Information
+
+Courses
+
+
+
+MATH 311 Complex Variables, Spring 1995
+
+
+MATH 373 Linear Programming and Optimization, Spring 1995
+
+
+
+
+
+
+MATH 241 Geometry I, Summer 1995
+
+
+CMPUT 204 Algorithms I, Summer 1995
+
+
+
+
+
+
+TA: CMPUT 418 Numerical Analysis, Winter 1996
+
+
+
+
+
+
+MATH 241 Geometry I, Spring 1996
+
+
+MATH 373 Linear Programming and Optimization, Spring 1996
+
+
+CMPUT 251 Introduction to Programming for Scientific Applications,
+Spring 1996
+
+
+
+
+
+
+MATH 241 Geometry I, Summer 1996
+
+
+MATH 324 Elementary Number Theory, Summer 1996
+
+
+CMPUT 204 Algorithms I, Summer 1996
+
+
+
+
+
+
+CMPUT 272 Formal Systems and Logic in Computing Science, Fall 1996
+
+
+
+
+Research Areas
+
+
+
+Algorithmics and Numerical Analysis
+
+
+Publications
+
+
+
+
+papers
+
+
+books
+
+
+
+
+Problem:
+
+
+Show that if 0
+<
+x
+<
+PI, then the series
+x + sin x + sin(sin x) + sin(sin(sin x)) + ...
+diverges.
+
+Solution
+
+
+
+Last update: September 4, 1996
+
+

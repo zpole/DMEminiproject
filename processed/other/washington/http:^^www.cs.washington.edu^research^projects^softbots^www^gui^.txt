@@ -1,0 +1,41 @@
+Date: Tue, 10 Dec 1996 03:33:38 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+UW CSE Softbot UI Overview
+
+
+
+Softbot UI Overview
+
+
+By acting as an intelligent personal assistant, the softbot
+supports a qualitatively different kind of human-computer interface.
+A person can make a high level request, and the softbot uses search,
+inference, and knowledge to satisfy the request.  Furthermore, the
+softbot is able to tolerate and recover from ambiguity, omissions, and
+errors in human requests.
+The
+Softbot
+is able to communicate
+with its user through a graphical user interface, an e-mail interface,
+and eventually a natural language interface.  Through any of the user
+interfaces, the user provides the Softbot with simple statements of
+complex goals.
+You can walk through an example interaction with the
+Softbot GUI
+.
+
+
+
+The GUI was designed by
+Aaron Pulkka
+and
+Oren
+Etzioni
+, and implemented  by Aaron and Rob Spiger.
+Return to the
+Softbots main page
+.
+

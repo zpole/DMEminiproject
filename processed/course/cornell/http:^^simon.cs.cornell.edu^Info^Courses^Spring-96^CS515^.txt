@@ -1,0 +1,49 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:59:35 GMT
+Content-Type: text/html
+Content-Length: 1408
+Last-Modified: Tuesday, 23-Jan-96 19:22:11 GMT
+CS 515
+
+
+
+
+CS 515 - Practicum in Distributed Systems
+
+
+or how to get your hands dirty doing some real work.
+
+The course:
+The practical aspects of distributed systems are studied
+through the design and implementation of a significant
+system.
+
+CS 515 is the practicum for those students who also take
+CS 514
+,
+Practical Distributed Systems
+. The course offers
+a variety in projects ranging from simple projects in internetworking
+to complex projects in distributed systems. Students work in teams
+of 3 or 4 persons and choose a project of their interest on which they
+will work trough out the semester. Credits hours earned in this course range
+from 2 to 6, depending on the size and the complexity
+of the project that is developed.
+The course uses the Web for all offcial and informal interaction. On pages
+linked to the
+CS 515 Information page
+you can find
+basic information, instructions, projects descriptions, design plans,
+progress reports and final presentations.
+
+Go to the CS 515
+table of contents
+page.
+
+
+Comments to
+Werner Vogels
+
+
+

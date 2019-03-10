@@ -1,0 +1,159 @@
+Date: Wed, 20 Nov 1996 22:40:37 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Last-modified: Wed, 20 Nov 1996 15:06:15 GMT
+
+
+Home Page for CPS 230
+
+
+
+
+
+College of Engineering
+
+Department of Computer Science
+
+CPS 230 - Algorithms and Computing
+
+Fall Semester, 1996
+
+
+Tell us what you think about CPS 230
+
+
+
+Fill out an anonymous feedback form today !
+
+
+
+
+Instructors
+
+
+Mark McCullen
+
+Richard Enbody
+
+
+Teaching Assistants
+
+
+Laura Anne Campbell (
+campb222@cps
+)
+Nicolae Duta (
+dutanico@cps
+)
+Hanumanthappa Jayaram (
+jayaramh@cps
+)
+
+Matt Korth
+(
+korthmat@cps
+)
+
+Samik Sengupta
+(
+sengupt4@cps
+)
+
+Ryan Shoemaker
+(
+shoema16@cps
+)
+
+Course Information
+
+
+Syllabus (
+Enbody
+,
+McCullen
+)
+Course Calendar (
+Enbody
+,
+McCullen
+)
+
+Help Room Schedule
+
+
+Lab Schedule
+
+
+Introduction to the CPSIN system
+
+
+Introduction to the vi editor
+
+
+Information on the emacs editor
+
+
+Grading standard for computer projects
+
+
+Project Handouts
+
+
+Lab Handouts
+
+
+Coursepack Examples
+
+
+
+
+
+Project Scores
+
+
+
+
+
+Instructor-specific information
+
+
+Enbody (Sections 1-12)
+
+Exam and Project scores combined
+
+
+
+McCullen (Sections 13-21)
+
+Exam 1 Scores
+
+Exam 1 Stats
+
+Exam 2 Scores
+
+Exam 2 Stats
+
+Exam 3 Scores
+
+Exam 3 Stats
+
+
+Exam and Project scores combined
+
+
+
+
+
+
+
+Contacting Us:
+
+E-Mail:
+enbody@cps
+
+mccullen@cps
+
+
+
+
+

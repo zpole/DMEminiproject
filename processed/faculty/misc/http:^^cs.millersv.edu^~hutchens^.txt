@@ -1,0 +1,78 @@
+Server: Netscape-Communications/1.1
+Date: Monday, 25-Nov-96 20:39:38 GMT
+Last-modified: Thursday, 17-Oct-96 21:12:54 GMT
+Content-length: 1847
+Content-type: text/html
+
+David Hutchens' Info Page
+
+
+
+
+
+
+David Hutchens
+I am a faculty member in the
+Department of Computer Science
+at
+Millersville University.
+
+
+My computing related interests include:
+
+
+Software Engineering
+Object Oriented Programming
+NEXTSTEP/OpenStep (
+NeXT, Inc.
+and
+Stepwise NEXTSTEP/OpenStep Information
+Server
+)
+
+I teach many different courses including:
+
+Introduction to Computer Science I
+Introduction to Computer Science II (
+CS162 at Millersville
+)
+Software Engineering
+Operating Systems
+Architecture
+
+My recent work includes:
+
+Iterative Enhancement in Undergraduate Software Engineering Courses
+Grasst: A System to Organize and Support the Grading Process (
+Info and Source
+)
+NEXTSTEP chapter for "The Handbook of Software for Engineers and Scientists" (
+click for chapter
+)
+
+Family:
+
+Wife:
+Beth Katz
+
+Children:
+Helen and Mark
+.
+
+
+Contact Information
+Dr. David H. Hutchens
+Computer Science Department
+Millersville University of PA
+Millersville, PA 17551
+
+Office: Wick 223
+Phone: (717) 872-3838
+
+
+hutchens@cs.millersv.edu
+
+
+Last Modified: April 11, 1996
+
+

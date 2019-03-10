@@ -1,0 +1,99 @@
+Date: Tue, 26 Nov 1996 18:37:38 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2100
+Last-modified: Mon, 18 Nov 1996 20:39:02 GMT
+Homepage for W4241 - Continuous Algorithms
+
+
+W4241: Continuous Algorithms and Complexity, Fall 1996
+
+
+Note: This homepage is still under
+construction.
+
+
+
+Instructor
+: Prof. Joseph Traub
+Class Schedule
+: Tue Thu 1:10-2:25pm
+Office Hours
+: Tue 12:30-1:00pm Thu 2:45-3:15pm, or by appointment.
+Required Textbook
+: None.
+Recommended Readings
+: TBA.
+TA
+: Wenyu Jiang
+wenyu@cs.columbia.edu
+
+TA Office Hours
+: Tue 3-4pm Thu 10-11am, or by appointment.
+Newsgroup
+:
+columbia.fall.cs4241
+
+
+Homeworks:
+
+
+Assignment C1, C2
+,
+Due
+: C1 - Sept.12,
+C2 - Sept. 17
+
+Solution to C1
+
+
+Assignment PP1, C3
+,
+Due
+: Sept.19
+Assignment C4, PP2,C5
+,
+Due
+: Sept.26
+Assignment PP3, PP4, C6
+,
+Due
+: Oct.3
+Assignment C7
+,
+Due
+: Oct.10
+Assignment C8,PP5,XC1
+,
+Due
+: Oct.29
+Assignment PP6
+,
+Due
+: Nov.14; C9,XC2,XC3,XC4,
+Due
+: Nov. 19
+For an examplanation of XC3,XC4, see
+this ...
+
+Assignment C10,XC5,XC6
+,
+Due
+: Nov. 26
+Assignment PP7,C12,C13
+,
+Due
+: Not Assigned Yet
+
+Readings:
+
+
+KRONGO: Algorithms. QA 76.6K76 1987
+RALSTON/RABINOWITZ: First Course in Numerical Analysis QA.297.R3 1978
+ISAACSON: Analysis of Numberical Methods QA.297.I8 1994
+BORODIN: Computational Complexity of Algebraic... QA.76.B65
+FORSYTHE: Computer Solution of linear algebraic... QA.297.F52 (2 copies available)
+DAHLQUIST: Numerical methods QA.297.D3313 1974
+WILKINSON: Rounding Error in Algebraic... QA275.W64 1994
+
+

@@ -1,0 +1,330 @@
+Date: Tue, 10 Dec 1996 14:54:31 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 322, Winter 1996
+
+
+
+
+
+
+
+CSE 322: Intro. to Formal Models
+Winter 1996
+
+Richard Ladner
+
+
+Class Messages:
+(Check this or your email frequently.
+Last update:
+03/18/96 at 01PM.)
+
+Handouts:
+
+
+
+Course Syllabus
+(
+LaTeX
+,
+PS
+)
+
+Handout 1
+(
+LaTeX
+,
+PS
+)
+on constructing regular grammars from regular expressions
+
+
+Midterm Extra
+(
+LaTeX
+,
+PS
+)
+some ramblings from the TA regarding Question 5 on the exam
+
+
+Handout 2
+(
+LaTeX
+,
+PS
+)
+construcing a PDA that does top-down parsing of a grammar
+
+
+Handout 3
+(
+LaTeX
+,
+PS
+)
+what to review for the final exam
+
+
+Handout 4
+(
+LaTeX
+,
+PS
+)
+proof that the halting problem is undecidable
+
+
+Exams:
+
+
+
+Midterm Exam
+(
+LaTeX
+,
+PS
+),
+Solutions
+(
+LaTeX
+,
+PS
+)
+
+Final Exam
+(
+LaTeX
+,
+PS
+),
+
+
+Homework:
+
+
+
+Homework 1
+(
+LaTeX
+,
+PS
+),
+due 1/8/96
+,
+Solutions
+(
+LaTeX
+,
+PS
+)
+
+Homework 2
+(
+LaTeX
+,
+PS
+)
+due 1/12/96
+
+Solutions
+(
+LaTeX
+,
+PS
+)
+
+Homework 3
+(
+LaTeX
+,
+PS
+)
+due 1/19/96
+
+Solutions
+(
+LaTeX
+,
+PS
+)
+with some comments on set notation.
+
+
+Homework 4
+(
+LaTeX
+,
+PS
+)
+due 1/26/96
+
+Solutions
+(
+LaTeX
+,
+PS
+)
+
+Homework 5
+(
+LaTeX
+,
+PS
+)
+due 2/2/96
+
+Solutions
+(
+LaTeX
+,
+PS
+)
+
+Homework 6
+(
+LaTeX
+,
+PS
+)
+due 2/9/96
+
+Solutions
+(text
+LaTeX
+, text
+PS
+, state diagram
+PS
+)
+
+Homework 7
+(
+LaTeX
+,
+PS
+)
+due 2/16/96
+
+Solutions
+(text
+LaTeX
+, text
+PS
+, state diagram
+PS
+)
+
+Homework 8
+(
+LaTeX
+,
+PS
+)
+due 2/23/96
+
+Solutions
+(text
+LaTeX
+, text
+PS
+, state diagram
+PS
+)
+
+Homework 9
+(
+LaTeX
+,
+PS
+)
+due 3/1/96
+
+Solutions
+(
+LaTeX
+,
+PS
+)
+
+Homework 10
+(
+LaTeX
+,
+PS
+)
+due 3/8/96
+
+Solutions
+(
+LaTeX
+, text
+PS
+, PDA
+PS
+, TM
+PS
+)
+
+
+About file formats:
+Most of the course
+materials above are provided in three formats:
+
+
+
+
+
+HTML:
+HyperText Markup Language (HTML) is the document format handled by
+WWW browsers, in fact you are currently looking viewing an HTML
+document.  Many of the handouts we've provided were originally LaTeX
+documents that have been converted to HTML using
+LaTeX2HTML
+,
+which is why they can be a bit strange.
+LaTeX:
+Plain ASCII text including formating commands.
+Simple things (e.g. assignments) are generally quite legible in
+this format.  For figures and complex math stuff, these are
+hard-to-impossible to read.
+PostScript:
+The
+Ghostscript Home Page
+has free viewers (Mac, Windows, OS/2, Linux, ...)
+
+
+
+
+
+322 Webs From Previous Quarters
+
+
+
+
+Autumn 1995
+
+Winter 1995
+
+Autumn 1994
+
+Autumn 1993
+
+
+
+
+
+
+
+
+ladner@cs.washington.edu
+
+
+fix@cs.washington.edu
+
+(Last Update: January 3, 1996)
+
+

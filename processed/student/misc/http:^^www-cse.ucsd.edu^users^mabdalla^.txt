@@ -1,0 +1,179 @@
+Date: Thu, 21 Nov 1996 23:10:40 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 23 Oct 1996 20:38:04 GMT
+Content-length: 6016
+
+
+Michel Abdalla's HomePage
+
+
+
+
+
+
+
+Michel Ferreira Abdalla
+Ph.D Student
+
+University of California, San Diego
+
+
+Department of Computer Science and
+Engineering
+
+P.O. Box 0144
+La Jolla, California 92097
+
+
+
+Email
+:
+mabdalla@cs.ucsd.edu
+
+
+
+
+
+
+
+
+Biography
+
+
+
+Since 1988 I have been engaged in several research and teaching
+activities. My special area of interest is Computer Networks, with
+emphasis to multimedia applications and high-speed communication
+systems with quality of service guarantees.
+During the period of 1989 to 1990 I was granted four teaching
+assistantships at the Mathematics Institute of UFRJ.  The subjects
+of the courses were Computing I, Linear Algebra II, Infinitesimal
+Calculus III, and Differential and Integral Calculus II.
+In the period of 1990 to 1991 I was awarded a first research
+assistantship from a Sponsored Brazilian Research Institute to work
+at the Mathematics Institute. This project was concerned with several
+Linear Algebra topics embracing the study of Algebraic Computation
+and making use of the C programming language and some mathematical
+software tools to implement several factorization technics for
+polynomials.
+In my undergraduate senior year (1991 to 1993) I was awarded a second
+research assistantship to work in two Audio projects at the Department
+of Electrical Engineering at UFRJ, concerning the study of the
+electronic sound synthesis. In the first project an electronic
+drum was developed. The second one consisted in the implementation
+of a digital voice recorder and player.
+In the middle of 1992, I took part in the Computer Network Research
+Group (GTA) at the Department of Electrical Engineering at COPPE/UFRJ.
+At This time I was involved in the study of the concepts of Computer
+Networks defined in the Reference Model for Open Systems Interconnection,
+and also in the study and development of formal description techniques.
+My undergraduate project consisted in the implementation of an
+integrated environment for Petri Net analysis, including the development
+of a text editor, a compiler, an analyzer and an on-line help.
+By 1993 I started to work in a system development company as a
+system analyst. During this period, I took part in the development
+of a satellite vehicle locating system.
+By 1994 I started my M.Sc. course in the Department of Electrical
+Engineering at COPPE/UFRJ in the particular area of Computer Networks.
+the topic of my thesis was concerned with the study of
+Connection Admission Control (CAC) mechanisms for ATM networks such as
+Equivalent Capacity, Non-parametric aproach, Heavy-traffic approach,
+Dynamic CAC, Hybrid CAC, etc.
+The main objectives were to analyze and to compare the
+performance of these mechanisms by means of simulation and analitical
+analysis and to
+give support for an implementation in the real time communication
+system architecture developed by the GTA.
+By October 1996, I started my Ph.D. at the University of California
+at San Diego. My interest in realizing  a Ph.D. course is a
+consequence of the need of improvement of my academic and professional
+background.  As in Brazil there is an urgent need for qualified engineers
+to maintain the country updated with the state of art of the new
+technologies, the realization of this Doctorate Course will enrich my
+research in Computer Networks and will contribute for the improvement
+of our courses in the graduate and undergraduate levels.
+
+
+
+
+Technical Reports
+
+
+
+
+
+TR-95-1
+Abdalla, M. F. and Duarte, O. C. M. B. - ``Controle de Admissão
+de Conexão em Redes ATM'', October 1995.
+Portuguese, A4 , 23 p.
+
+
+TR-94-1
+Abdalla, M. F. and Duarte, O. C. M. B. - ``Caracterização
+e Modelagem de Tráfego Agregado em Redes ATM'', September 1994.
+Portuguese, A4 , 23 p., File: AbDu94.ps.gz
+
+
+
+
+Undergraduate Final Project
+
+
+
+
+``Um Ambiente Integrado para Análise de Redes de Petri''
+DEL/EE/UFRJ - June 1993 - Portuguese - A4 size
+Supervisors: Marcelo Luiz D. Lanza and João Amaro B. Pereira
+
+
+
+
+
+M.Sc. Thesis
+
+
+
+
+
+``Análise de Mecanismos de Controle de Admissão
+de Conexão para Redes ATM''
+COPPE/PEE/UFRJ - September 1996 - Portuguese - A4 size - 132p.
+Supervisor: Otto Carlos Muniz Bandeira Duarte
+
+
+
+
+
+Bookmarks
+
+
+
+
+
+
+
+I support it!!!
+
+
+
+Under Construction
+
+© Michel Ferreira Abdalla , 1996
+(
+mabdalla@cs.ucsd.edu
+)
+
+Last Updated:
+September 27, 1996
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,124 @@
+Date: Mon, 25 Nov 1996 23:20:49 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 22 Aug 1996 15:29:53 GMT
+Content-length: 3929
+
+
+
+Vibhu O. Mittal
+
+
+
+
+
+Research
+Interests and Current Projects:
+
+
+
+I have three main areas of interest:
+
+
+Multi-media
+generation (graphics and text)
+
+
+Information
+Visualization
+
+
+generating captions
+for statistical graphics
+
+
+
+Natural Language
+Generation
+:
+
+
+applications in medicine
+
+
+patient education (
+the
+migraine project
+)
+
+critiquing systems (the myocardial infarction project)
+
+
+tutorial text
+generation
+(using
+examples
+and
+analogies
+)
+
+dynamically
+generated software documentation
+
+
+
+text-based manuals: tutorial and reference-manual genres
+
+multi-media manuals: illustrated descriptions
+
+
+menu based interaction (
+run-time
+construction of question menus
+)
+
+Interactive
+Knowledge Acquisition
+
+
+AI interfaces/applications
+for disabled people
+
+
+I am also interested in
+User
+Modeling
+, Machine Learning, and
+Digital
+Libraries
+
+
+
+
+Conferences I'm involved with:
+
+
+Details
+on the SIGART/AAAI '96 Doctoral Consortium, Portland, OR.
+
+Details
+on the International Conference on Intelligent User Interfaces: CFP, Schedule,
+etc.
+
+
+
+
+Other Personal Links ...
+
+background
+...
+How
+to reach me
+My
+better half!
+Random
+things ...
+
+Visitor-meter
+(counting since March 22nd, 1996)
+
+mittal@cs.pitt.edu
+
+
+
+

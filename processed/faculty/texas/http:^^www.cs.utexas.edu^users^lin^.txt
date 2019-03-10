@@ -1,0 +1,75 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:45:10 GMT
+Content-Type: text/html
+Content-Length: 1958
+Last-Modified: Wednesday, 13-Nov-96 17:50:32 GMT
+Calvin Lin
+
+
+Calvin Lin
+
+
+Assistant Professor of Computer Sciences
+
+
+
+The most important thing you can do is
+what you're doing when you're doing it.
+When you study, _study_, and when you play, _play_.
+- Pete Carril
+
+
+Research Interests
+Compilers and languages for parallel computing, parallel performance
+analysis, scientific computing.
+See the
+ZPL Programming Language Project
+home page.
+Selected Publications
+
+
+The Portable Parallel Implementation of Two Novel Mathematical Biology
+Algorithms in ZPL, with M. D. Dikaiakos, D. Manoussaki, and D.  Woodward.
+the 9th Int'l Conf. on Supercomputing,
+pp. 365-374, 1995.
+
+Accommodating Polymorphic Data Decompositions in Explicitly Parallel
+Programs, with L. Snyder.
+Proceedings of the 8th International
+Parallel Processing Symposium
+, April 1994, pp. 68-74.
+
+ZPL: An Array Sublanguage, with L. Snyder.  In
+Languages and Compilers
+for Parallel Computing
+, U. Banerjee, D.  Gelernter, A. Nicolau and D.
+Padua eds.  Springer-Verlag, 1994, pp. 96-114.
+
+A Portable Implementation of SIMPLE, with L. Snyder.
+International Journal of Parallel Programming
+, vol. 20, no. 5, 1991,
+pp. 363- 401.
+
+A Comparison of Programming Models for Shared Memory Multiprocessors, with
+L. Snyder.
+Proceedings of the International Conference on Parallel
+Processing 1990,
+II:163-170, 1990.
+
+Contact Information
+
+
+Office:
+Taylor Hall 4.138, (512) 471-9560
+
+Fax:
+(512) 471-8885
+Email address:
+lin@cs.utexas.edu
+Postal address:
+Department of Computer Sciences
+The University of Texas at Austin
+Austin, TX 78712-1188
+
+

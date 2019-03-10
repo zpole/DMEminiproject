@@ -1,0 +1,56 @@
+Date: Tue, 26 Nov 1996 18:52:08 GMT
+Server: NCSA/1.5
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Fri, 15 Nov 1996 20:24:58 GMT
+Content-length: 1224
+
+CSE413 - Analysis of Algorithms
+
+
+
+CSE 413 - Analysis of Algorithms
+
+
+Course Schedule:
+
+M.,W.,F. 11:45 a.m - 12:35 p.m.
+118 DeBartolo Hall
+
+Professor:
+
+Danny Z. Chen
+
+Room:   384 Fitzpatrick Engr. Hall
+Phone: (219)631-8804
+Email:
+dchen@cse.nd.edu
+
+Office Hours: M.,W.,F. 11:00-11:45 a.m. and 1:20-1:55 p.m.
+
+
+Teaching Assistant:
+
+Chenhua Lang
+
+Room:    222 Cushing Hall
+Phone: (219)631-8854
+Email:
+clang@bach.helios.nd.edu
+
+Office hours: T.,Th. 11:00 - 12:00 a.m.
+
+
+
+Homeworks:
+
+Solution to Assignment 1
+
+Solution to Assignment 2
+
+Solution to Assignment 3
+
+Solution to Assignment 4
+
+
+

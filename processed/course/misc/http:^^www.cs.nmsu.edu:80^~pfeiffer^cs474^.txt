@@ -1,0 +1,81 @@
+Date: Wednesday, 15-Jan-97 00:21:03 GMT
+Server: NCSA/1.1
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Monday, 11-Nov-96 18:25:17 GMT
+
+
+
+CS 474:  Operating Systems I
+
+
+
+CS 474: Operating Systems I
+
+Welcome to CS 474 for Fall, 1996!
+please let me know how I can improve
+this document
+
+
+
+Catalog description
+
+Syllabus
+
+
+General
+Information, Office Hours, Etc.
+
+Grading
+Policies
+
+
+A
+Note on Incompletes
+
+
+Unacceptable
+Behavior
+
+Disabilities
+
+
+Teams
+& Machines
+
+
+Minix
+tips
+(How to install Minix, how to boot it, etc.)
+
+
+Minix sources
+
+Lecture notes
+
+Homework assignments
+
+Project
+assignment
+
+Exams and solutions
+
+Current
+Class Standings
+
+
+
+
+Announcements
+
+Part 1
+of the project is ready.
+
+
+Homework 1
+is ready.
+
+Homework 2
+is ready.
+
+

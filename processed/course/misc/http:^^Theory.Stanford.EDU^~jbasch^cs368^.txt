@@ -1,0 +1,243 @@
+Date: Wed, 20 Nov 1996 22:49:37 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Thu, 02 May 1996 16:53:18 GMT
+Content-length: 7604
+
+
+cs368 -- Geometric Algorithms
+
+
+
+
+
+cs368: Geometric Algorithms
+
+Spring 96: Tu/Th, 1:15 - 2:30 (Gates 100)
+
+
+
+
+This course covers the fundamental techniques for designing and
+analyzing geometric algorithms in two, three, and higher
+dimensions. We will give an in-depth coverage of basic geometric data
+structures, such as convex hulls, arrangements, Voronoi and Delaunay
+diagrams, flat and hierarchical triangulations, partition trees,
+etc. We will also survey several important paradigms of geometric
+algorithm design, including sweep line/plane methods, randomized
+techniques, cuttings and their applications, parametric searching, and
+various geometric optimization methods. We will motivate the material
+with example problems drawn from application areas such as robotics,
+graphics, vision, and geography, and discuss some of the non-trivial
+issues involved in implementing geometric algorithms robustly.
+Prerequisite: cs161 (data structures and algorithms)
+
+
+
+Contact information
+
+Course outline
+
+Course mechanics
+
+Bibliography
+
+Geometric algorithms links
+
+
+
+Handouts
+
+
+
+
+
+Handout 1
+: Course facts
+
+Handout 2
+: More facts
+
+
+Homework 1
+: due 4/30/96
+
+
+You can also see directly the full
+Handouts directory
+.
+
+Contact information:
+
+
+Instructor:
+Leonidas Guibas
+
+
+
+E-mail:
+guibas@cs.stanford.edu
+
+Office: Gates 3B, Room 374 (723-0304)
+Office hours: Thursdays, 3:00-5:00 pm
+
+TA:
+Julien Basch
+
+
+
+E-mail:
+jbasch@cs.stanford.edu
+
+Office: Gates 3B, Room 376 (723-1604)
+Office hours: Wednesdays, 11:00-12:00 and 2:00-3:00 pm
+
+
+
+Course Outline:
+
+
+
+There is now so much material in computational geometry that probably
+a full-year course is needed to cover all the basic techniques.
+Nevertheless, given some algorithmic preparation, we can cover lots
+of ground even in one quarter. Below is a list of topics to be
+covered---but we do not promise to cover them in the order listed.
+
+
+Geometric fundamentals
+Computational primitives in two and three dimensions and their
+implementation; models of computation and lower bounds;
+geometric duality.
+Convexity
+Algorithms for convex hulls of point sets in two and three
+dimensions; convex polygons---properties and algorithms.
+Arrangements
+The combinatorics of line arrangements, including the zone
+theorem. Sweep-line methods for arrangements---topological
+sweep. Davenport-Schinzel sequences. Many-face problems.
+Proximity problems
+Voronoi Diagrams and Delaunay triangulations; algorithms and
+applications.
+Geometric searching
+Point-location in planar subdivisions. Fractional cascading
+and other efficient data-structuring techniques.
+Three-dimensional analogs.
+Partition trees and range searching
+The ham-sandwich theorem; decimation methods; range-searching
+problems of various kinds.
+Triangulations
+Triangulating a simple polygon; reductions among geometric
+problems; decompositions of polyhedra; questions of optimality.
+Random sampling techniques
+Random sampling for partitioning; randomized incremental
+algorithms; $\epsilon$-nets; making randomized algorithms
+deterministic. Cuttings and their applications.
+Visibility and shortest path problems
+Visibility graphs and their uses; Euclidean minimum spanning
+tree and shortest path problems.
+Robustness in geometric computation
+Issues in topological consistency; handling of degeneracies;
+robust algorithms.
+
+
+
+Course mechanics:
+
+
+
+Class hours:
+Tuesday, Thursday, 1:15 - 2:30 in Gates 100
+Text:
+The main text for the course is a reader, comprised
+of a number of survey articles plus lecture notes scribed with the
+help of students in previous years of this class. A second recommended
+reader is a preprint of the forthcoming book
+Computational
+Geometry by Example
+, by Mark de Berg, Mark van Kreveld, Mark
+Overmars, and Otfried Schwarzkopf. This book uses examples from
+application areas to motivate all the main structures and techniques
+of computational geometry and may become the main text for this course
+in future years.  These two readers are available at the Stanford
+Bookstore.
+Homeworks, Exams, Grading, etc:
+The course will have three substantial and mathematically
+challenging homeworks of the "pencil-and-paper" type. There will be no
+final exam, but there will be a midterm whose function will be to test
+breath but not depth.  For the final grade we will count each of the
+homeworks and the midterm as 25% of the grade.
+Please do the
+homework
+--there is no other way to learn the material.
+Homework/midterm schedule:
+
+
+Homework
+Handed out
+Due
+
+
+
+
+HW 1
+
+Tuesday, 16 April
+Tuesday, 30 April
+
+HW 2
+Tuesday, 30 April
+Tuesday, 14 May
+
+HW 3
+Tuesday, 14 May
+Tuesday, 4 June
+
+Midterm
+in class
+Tuesday, 21 May
+
+
+
+
+
+Geometric algorithms links
+
+
+On-line
+geometry litterature database
+, a BibTeX database of computational
+geometry related papers (see
+database
+description
+),
+CRC
+Geometry Formulas and Facts
+,
+Jeff Erickson's
+Computational Geometry
+page,
+David Eppstein's
+Geometry in Action
+page,
+The Geometry Center's
+Directory of Computational Geometry Software
+.
+VideHoc
+: a program to visualize duality (runs only on SGI).
+
+
+
+
+
+
+
+
+
+
+
+jbasch@cs.stanford.edu
+
+(last updated: April 1, 1996)
+
+

@@ -1,0 +1,102 @@
+Date: Tue, 10 Dec 1996 03:34:36 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+Software Engineering at the University of Washington
+
+
+
+Software Engineering at the University of Washington
+
+Welcome to the home page for
+Software Engineering
+research
+and education in the
+Department of Computer Science &
+Engineering
+at the
+University
+of Washington
+.
+Software engineering is a diverse area, and the projects and faculty
+in our department reflect that.  In general, we are interested in
+ensuring that complex software systems exhibit specific properties.
+Recently, the three properties that we have focused on are:
+software safety
+(
+Nancy
+Leveson
+), which concerns how to guarantee that systems with
+embedded software cause no harm to human life, the environment, or
+property; ease of evolution (
+David Notkin
+),
+which concerns reducing the costs and complexity of changing software
+systems over time; and real-time attributes (
+Alan
+Shaw
+), which concerns understanding and guaranteeing that certain
+timing constraints are satisfied.
+In addition to continuing work on these and related properties, our
+current work is characterized in two ways.  First, we are interested
+in understanding how properties interact: for instance, how does one
+(or can one) build safe systems that can be modified easily?  Second,
+what are the problems that arise in the construction of real software
+systems?  We have a history of working on such systems; our group has
+had interactions with the FAA on TCAS, the collison avoidance system
+now found on all planes of over 30 passengers, with Microsoft on
+helping them with an experimental restructuring of their 1.2 million
+line Excel product, and with local medical device companies who need
+to demonstrate that their products satisfy both safety and timing
+requirements.
+Faculty, students, etc.  interested primarily in software engineering
+are listed below, but other people in the department dabble in
+software engineering research and education from time to time.
+
+
+People
+
+
+Courses
+
+
+Various bibliographies
+
+
+
+Miscellaneous
+
+
+
+Software engineering conference announcements
+
+
+More software engineering conference announcements
+
+
+18th International Conference on Software Engineering
+
+
+17th International Conference on Software Engineering
+
+
+Software Engineering Information outside UW
+
+
+
+
+
+
+
+
+
+Back to
+UW CSE Home Page
+
+
+
+
+notkin@cs.washington.edu
+
+
+

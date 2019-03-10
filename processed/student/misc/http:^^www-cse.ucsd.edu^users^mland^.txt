@@ -1,0 +1,81 @@
+Date: Thu, 21 Nov 1996 23:07:07 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 13 May 1996 18:38:51 GMT
+Content-length: 2119
+
+Homepage of Mark Land
+
+Mark Land
+
+
+On-Campus: 	AP&M 5402 / UCSD CSE 0114 / La Jolla, CA 92093-0114
+mland@ucsd.edu
+
+
+
+Interests
+
+discrete optimization, artificial intelligence, genetic
+algorithms, cellular automata, artificial life, evolution, neural
+networks, cognitive science, complex systems, backgammon, games
+
+Current Research
+
+Enhancement of the Genetic Algorithm with Local Search techniques,
+specifically applied to discrete, combinatorial optimization problems.
+Click
+here
+for my thesis proposal.
+
+Papers and Reports
+
+
+M. Land, R.K. Belew:
+"No Perfect Two-State Cellular Automata for Density
+Classification Exists", in Physical Review Letters,
+Vol. 74, Number 25 (June 19, 1995), p. 1548-50.  A
+technical report version of this appears
+here
+.
+Abstract of
+M. Land, R.K. Belew:
+Evolution of Cellular Automata to Perform Nonlocal Computation
+,
+in
+Proceedings of The Fourth Annual Conference on Evolutionary
+Programming
+, McDonnell, Reynolds, and Fogel, editors, MIT Press,
+1995.
+
+Point(er)s of Interest
+
+
+
+UCSD Computer Science Department
+
+
+Cognitive Computer Science Research Group
+
+
+U.S. Government
+:
+White House
+,
+Congress
+,
+Senate
+,
+House of Representatives
+
+
+Backgammon Page
+
+Favorite Team:
+Phoenix Suns
+
+
+
+Resume
+
+

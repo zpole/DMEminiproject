@@ -1,0 +1,67 @@
+Date: Tue, 26 Nov 1996 02:50:05 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1546
+Last-modified: Fri, 13 Sep 1996 17:45:03 GMT
+
+
+Home Page of Jingshuang Yang
+
+
+
+
+Home Page of
+Jingshuang Yang
+
+
+Research:
+
+
+Presented on
+The
+5th International WWW Conference
+
+, Paris, France, May 1996:
+An Architecture for Integrating
+OODBs with WWW
+
+API manual of Darkover:
+
+the Object Management System for
+Oz
+
+
+
+
+Links:
+
+
+New York City
+.
+
+Columbia University
+
+Computer Science Department
+
+Programming Systems Lab
+
+
+Chinese Stuff
+
+Quick References
+
+
+My Testing Area
+
+My Personal Stuff
+.
+****Don't bother clicking it****
+
+
+
+
+email:
+jyang@cs.columbia.edu
+
+
+

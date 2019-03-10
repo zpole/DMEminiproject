@@ -1,0 +1,1525 @@
+Date: Mon, 02 Dec 1996 15:32:54 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 590BI Bboard/Mail Log
+
+
+
+CSE 590BI
+Algorithms in Molecular Biology
+Bboard/Mail Log
+Winter 1996
+This page contains a log of all email sent to the CSE590BI class
+mailing list
+cse590bi@cs
+.  Please
+feel free to use it to ask questions, post information, or
+initiate discussions  of general interest to the class.  Of course,
+questions or comments that don't seem of general interest can be
+directed to the instructors
+(
+karp@cs, ruzzo@cs,
+or
+tompa@cs
+), instead.
+Administrative requests
+concerning the mailing list itself, such as add/delete/address
+change requests, should be addressed to
+cse590bi-request@cs
+.
+Index of Messages
+(Latest message Tuesday, 06-Aug-96 19:53:23 PDT.)
+
+
+5 Jan 96 tompa@cs ______ CSE 590 BI distrib list; variable credits
+
+10 Jan 96 roach@u _______ textbooks
+
+11 Jan 96 ruzzo@cs ______ extra handouts
+
+12 Jan 96 tompa@cs ______ Do we have your 590bi plans?
+
+16 Jan 96 tompa@cs ______ notetakers needed
+
+16 Jan 96 tompa@cs ______ lineup of notetakers
+
+22 Jan 96 tompa@cs ______ Lecture 6 available on the web
+
+24 Jan 96 tompa@cs ______ lineup of notetakers completed
+
+26 Jan 96 tompa@cs ______ Assignment 1, problem 3
+
+27 Jan 96 ruzzo@cs ______ Pevzner talks
+
+8 Feb 96 tompa@cs ______ CSE 590 BI projects
+
+9 Feb 96 tompa@cs ______ some course project suggestions
+
+21 Feb 96 tompa@cs ______ student and postdoc financial support to
+
+21 Feb 96 tompa@cs ______ lecture notes drafts
+
+27 Feb 96 tompa@cs ______ sequel to CSE 590BI
+
+18 Mar 96 joe@genetics __ Phylogeny course Sprinq Quarter
+
+20 Mar 96 ruzzo@cs ______ CSE 590BI continues...
+
+22 Mar 96 tompa@cs ______ course on Protein Stucture Prediction
+
+27 Mar 96 ruzzo@cs ______ CSE590BI schedule change
+
+9 Apr 96 tompa@cs ______ University of Pennsylvania Conference on
+
+13 Apr 96 tompa@cs ______ Graduate Research Position in Theoretica
+
+22 Apr 96 ruzzo@cs ______ CSE 590BI Comp. Bio. Seminar Restarts
+
+7 May 96 ruzzo@cs ______ cse590bi ROOM CHANGE
+
+8 May 96 jiang@cs ______ CSE590bi May 9 lecture
+
+9 May 96 ruzzo@cs ______ Haussler Talk.
+
+15 May 96 ruzzo@cs ______ NO CSE590BI THIS WEEK
+
+29 May 96 brendan@willow  tomorrow's seminar
+
+3 Aug 96 phg@u _________ course on Genome Sequence Analysis
+
+6 Aug 96 phg@u _________ 599C, AU 1996 (fwd)
+
+
+
+
+Messages
+
+
+To: cse590bi@cs
+Subject:
+CSE 590 BI distrib. list, and variable credits
+Date: Fri, 05 Jan 1996 13:54:07 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+1. We have created a mail distribution list cse590bi@cs.washington.edu from
+the electronic addresses you supplied in the first week.  This can be used
+for announcements, discussion outside of class, etc.
+
+2. As Dick mentioned, we very much want to encourage you to sign up for credit
+if at all possible.  To accomodate this, we have changed to variable credit
+(anywhere between 1 and 3), with the following scheme:
+
+a. 1 credit for attending faithfully and serving as notetaker when it is your
+turn,
+
+b. 1 credit for homework plus the take-home final, if there is one,
+
+c. 1-2 credits for the project, depending on its magnitude,
+
+up to a maximum of 3 credits.  Please choose your level of involvement and
+sign up for the appropriate number of credits.  Monday is the last day to make
+such changes without penalty, I believe.  Signing up for credits is good for
+the department and, if you're anything like me when it comes to good
+intentions, good for the student as well.
+
+If you have questions about the credits or would like to discuss your plan for
+the course, feel free to talk with any of us.  If (or when) you are
+signed up for credit, please also send mail to Tompa saying how you intend to
+satisfy the number of credits you chose, so that we know who are the
+notetakers, who is doing a project, etc.
+Date: Wed, 10 Jan 1996 14:23:44 -0800 (PST)
+From:
+Jared Roach <roach@u.washington.edu>
+To: cse590bi@cs.washington.edu
+Subject:
+textbooks
+
+From: Martin Tompa <tompa@cs.washington.edu>
+To: Jared Roach <roach@u.washington.edu>
+
+Thanks for the great pointers.  Would it be o.k. for either you or me to send
+this to the class list, cse590bi@cs?  I think they'd appreciate it.  Let me
+know if you'd like me to do it.
+
+OK, I'll forward it.
+
+From:    Jared Roach <roach@u.washington.edu>
+To:      tompa@cs.washington.edu
+Subject: Algorithms notes
+
+Martin,
+I just wanted to alert the class to a couple of topical books.
+
+1) Calculating the Secrets of Life
+Lander and Waterman, eds.
+1995
+National academy Press
+
+This has several good chapters, including one on yesterday and
+tomorrow's lectures by Gene Myers.  At the end of this chapter, Gene
+states that the lowest bound on comparing two sequences yet found is
+O(NlogN), which addresses a question raised at the end of class
+yesterday.  He claims that the fastest algorithm to date is O(N^2/log^2N)
+(Masek and Paterson, 1980), leaving a gap between the fastest algorithm
+and the highest lowest theoretical bound for algorithms, and thus an
+open problem.
+Other good chapters include one on statistical significance of
+comparisons by Waterman, probabilistic gene mapping by Lander, and
+molecular clock rates by Tavare.  The book also includes four chapters on
+conformational computation.
+The UW library's copy is checked out by me and currently has a
+hold on it by someone else.  The bookstore should have one or more copies.
+
+2) Introduction to Computational Biology
+Waterman
+1995
+Chapman and Hall
+
+This book just came out.  I ordered my copy through the bookstore
+and it took many weeks for it to arrive.  I haven't had a chance to read
+it yet, but it covers many of the above areas.  It is about 50% on mapping,
+30% on sequence alignment and assembly, and has a chapter on RNA
+secondary structure and one on tree assembly.
+It has a 50 page chapter on the dynamic programming of yesterday
+and tomorrow's lectures.
+
+- -Jared
+
+- ---------------------------------------------------
+Jared Roach
+Department of Molecular Biotechnology
+University of Washington, Room K354
+Box 357730
+Seattle, WA 98195
+phone  616-4536
+FAX    685-7301
+roach@u.washington.edu
+
+btw, dangling modifiers are not intentional, they just came out of my
+head that way.
+
+------- End of Forwarded Message
+Date: 11 Jan 1996 19:23 PST
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse590bi@cs
+Subject:
+extra handouts
+
+In general, Martin Tompa (Sieg 426E) will keep extras of all the
+handouts, in case you missed some.
+
+Handouts can also be printed from the course web pages:
+http://www.cs.washington.edu/education/courses/590bi
+To: cse590bi@geoduck
+Subject:
+Do we have your 590bi plans?
+Date: Fri, 12 Jan 1996 12:14:48 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+If you have signed up for credit and haven't yet sent me the following
+information, please do so now:
+
+1. How many credits?
+
+2. Which of the options from my earlier message are you planning in order to
+satisfy those credits?
+To: cse590bi@geoduck
+Subject:
+notetakers needed
+Date: Tue, 16 Jan 1996 11:07:48 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+We have a notetaker for today (1/16) but need volunteers starting Thursday
+(1/18).  If you are signed up for credit with notetaking as part of the plan,
+and haven't yet taken notes, please send me mail saying which of the next
+several dates you can take notes.  I'll then come up with a schedule.
+To: cse590bi@geoduck
+Subject:
+lineup of notetakers
+Date: Tue, 16 Jan 1996 18:37:32 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+Thanks for the many volunteers.  We've got enough for the time being again.
+Here's the lineup.  Let me know if there are any conflicts.
+
+1/18: Mock
+1/23: Fulgham
+1/25: Fasulo
+1/30: Mumey
+2/1 : Madani
+2/6 : VanVleet
+2/8 : Jackson
+To: cse590bi@geoduck
+Subject:
+Lecture 6 available on the web
+Date: Mon, 22 Jan 1996 11:50:58 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+For those of you anxious to work on the multiple string alignment homework
+problems, Lecture 6 is now available on the course web.  We will hand out
+paper versions of it in Tuesday's lecture.
+To: cse590bi@geoduck
+Subject:
+lineup of notetakers completed
+Date: Wed, 24 Jan 1996 13:46:52 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+Here's the final lineup for the remaining notetakers.  If you are on this
+list, please check below to make sure we've agreed on the date.
+
+1/25: Fasulo
+1/30: Mumey
+2/1 : Madani
+2/6 : Graham
+2/8 : Jackson
+2/13: VanVleet
+2/15: Thathachar
+2/20: Adams
+2/22: Chan
+2/27: Fix
+2/29: Lee
+3/5 : Hong
+3/7 : Adams
+To: cse590bi@geoduck
+Subject:
+Assignment 1, problem 3
+Date: Fri, 26 Jan 1996 14:01:00 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+My instructions led you down a slightly wrong path on problem 3.  You should
+assume that n is a power of 2, rather than one more than a power of 2, for
+simplicity.  A small bonus is that it means you can ignore all the ceiling
+notation in the problem.  A big bonus is that it means you won't have the same
+misconception about how the algorithm works that I had until a few minutes ago.
+
+Sorry for misleading you.
+Date: 27 Jan 1996 13:46 PST
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse590bi@cs
+Subject:
+Pevzner talks
+
+here are abstracts of the two Pevzner talks mentioned in class
+recently:
+
+
+> Date: Thu, 25 Jan 1996 14:51:02 -0800 (PST)
+> Subject: UW-CSE Colloq / 2-5-96 / Pevzner / USC / Genome
+Rearrangements, or, What Dobzhansky and Sturtevant Did Not Tell Us
+>
+>
+> UNIVERSITY OF WASHINGTON
+> Seattle, Washington 98195
+>
+> Department of Computer Science and Engineering
+> Box 352350
+> (206) 543-1695
+>
+> COLLOQUIUM
+>
+> DATE:		Monday, February 5, 1996
+>
+> TIME:		3:30 pm
+>
+> PLACE:		134 Sieg Hall
+>
+> HOST:		Dick Karp
+>
+> SPEAKER:	Pavel Pevzner
+> 		University of Southern California
+>
+> TITLE:		Genome Rearrangements, or, What Dobzhansky and Sturtevant
+> 		Did Not Tell Us
+>
+> ABSTRACT:
+>
+> Sequence comparison in computational molecular biology is a powerful tool
+> for deriving evolutionary or functional relationships between genes.
+> However, classical alignment algorithms handle only local mutations (i.e.
+> insertions, deletions and substitutions of one nucleotide) and ignore
+> global rearrangements (i.e.  inversions and transpositions of long
+> fragments).  As a result, the applications of sequence alignment to
+> analyze highly rearranged genomes (i.e. herpes viruses or plant
+> mitochondrial DNA) are very limited. I address the problem of  GENOME
+> comparison versus classical GENE comparison and present algorithms to
+> analyse rearrangements in genomes evolving by inversions, transpositions
+> and translocations. In the simplest form the problem corresponds to
+> sorting by reversals,  i.e.  sorting of an array using reversals  of
+> arbitrary fragments. I present polynomial algorithms and duality theorems
+> for sorting by reversals and genomic distance problem. I also discuss
+> applications of the  proposed techniques to analyze evolution of herpes
+> viruses, plant mitochondrial DNA and mammalian chromosomes.
+>
+> This is a joint work with Vineet Bafna (DIMACS), Colombe Chappey (NIH),
+> Sridhar Hannenhalli (USC), and Eugene Koonin (NIH).
+>
+>
+> Refreshments to follow.
+>
+> Email: talk-info@cs.washington.edu
+>
+> Info: http://www.cs.washington.edu
+>
+
+>  _________________________________
+> X-Sender: egan@homer23.u.washington.edu
+> Date: Fri, 19 Jan 1996 14:50:35 -0800 (PST)
+> From: Elizabeth Egan <egan@u.washington.edu>
+> Subject: STC LECTURE - FEB 6 96    K069    4:00 PM
+>
+> PLEASE NOTE THAT DR. PEVZNER'S LECTURE IS AT 4:00PM Feb 6
+>
+>
+> Our February 6th speaker will be Pavel Pevzner from the Department of
+> Mathematics University of Southern California. With this email I include
+> the title and abstract of his presentation as well as an invitation for
+> you and your group to meet Dr. Pevzner. Please let me know if you or your
+> laboratory would like to be included on his itinerary or if you could
+> suggest people/groups  who may be interested.
+>
+> Spliced Alignment: a New (and Naive) Approach to Gene Recognition
+>
+> Previous attempts to solve gene recognition problem were based on
+> statistics and artificial intelligence and, surprisingly enough,
+> applications of theoretical computer science methods for gene recognition
+> were almost  unexplored.  Recent advances in large-scale cDNA sequencing
+> open a way towards a new combinatorial approach to gene recognition.  I
+> describe a spliced alignment  algorithm  and a software tool which
+> explores all possible exon assemblies in polynomial time and finds the
+> multi-exon structure with the best fit to a related protein. Unlike other
+> existing methods, the algorithm successfully performs exons assemblies
+> even in the case of short exons or exons with unusual codon usage; we
+> also report correct assemblies for genes with more than 10 exons provided
+> a homologous protein is already known. On a test sample of human genes
+> with known mammalian relatives the average overlap between the predicted
+> and the actual genes was 99\%, which is remarkably well as compared to
+> other existing methods. At that, the algorithm absolutely correctly
+> reconstructed 87\% of genes. The rare discrepancies between the predicted
+> and real exon-intron structues were restricted either to extremely short
+> initial or terminal exons (less than 5 amino acids) or proved to be
+> results of alternative splicing. Moreover, the algorithm performs
+> reasonably well with non-vertebrate and even prokaryote targets. The main
+> result of the paper is that a relatively simple algorithm based on
+> combinatorial common sense and some biological intuition can outperform
+> many approaches developed for gene recognition in the last fifteen years.
+>
+> This is a joint work with M.Gelfand and A.Mironov.
+>
+> For more information:
+> elizabeth a egan
+> center for molecular biotechnology
+> (an NSF Science & Technology Center)
+> university of washington, box 35-7730
+> seattle, washington 98195-7730
+> TEL: (206) 685-1894
+> FAX: (206) 685-7301
+> email: egan@u.washington.edu
+>
+>
+To: cse590bi@geoduck
+Subject:
+CSE 590 BI projects
+Date: Thu, 08 Feb 1996 16:28:36 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+If you are going to do a project in CSE 590BI, please send me mail with your
+schedule for next week (Feb 12-16).  We're going to try to arrange a meeting
+to discuss projects.
+To: cse590bi@geoduck
+Subject:
+some course project suggestions
+Date: Fri, 09 Feb 1996 10:44:24 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+Here are a few project ideas for CSE 590BI, to get you thinking about them.
+If you are doing a project and have your own ideas about what you would like
+to do, please come talk with us about them.
+
+If anyone else on this mailing list has interesting suggestions for course
+projects, please send them to us.
+
+CLASSIFICATION OF PROSTATE CANCER TUMORS
+
+This project is related to research in  Lee Hood's laboratory on the
+classification of prostate cancer tumors. It is believed that a disease
+category such as prostate cancer or ovarian cancer includes a number of
+distinct disease types that may require very different kinds of medical
+treatment. Some prostate cancers develop so slowly that they present no
+threat to mortality, while others require immediate medical intervention.
+The existing diagnostic tests do not distinguish the different variants of
+the disease. Molecular biology may provide new experimental techniques that
+will distinguish the different types of prostate cancer or ovarian cancer. It
+is now possible to extract the mRNA from a tumor and transcribe it back to
+cDNA. By hybridizing the mix of cDNAs from a tumor against a large number of
+genes from normal tissue and measuring the amounts of hybridization product
+produced, one obtains a profile of the gene expression taking place in the
+tumor. Experiments are now getting under way which will use this hybridization
+technique to obtain 25,000 measurements of gene expression in each of
+600 prostate cancer tumors, and data will be available by late March. These
+experiments will provide much more detailed "fingerprints" of tumors than has
+been available up to now.
+
+The computational challenge is to use this large body of data to classify the
+tumors into clusters and, based on this classification, to determine rules
+that can be used to classify tumors in the future. One special feature
+of the problem is the high dimensionality of the data; i.e., the large number
+of measurements for each tumor. It is likely that only a small subset of these
+measurements will be important for the clasification, but we cannot know in
+advance which ones these will be.  The project will consist of looking
+into the literature of clustering and classification to discover appropriate
+computational methods and software packages, as well as devising special
+methods suited to this particular problem. Since real data will not be
+available by the end of the quarter, it may be desirable to test out different
+methods on simulated data.
+
+MULTIPLE SEQUENCE ALIGNMENT
+
+There are a few different ideas for projects concerned with multiple
+sequence alignment, as introduced in Lecture 6 and Homework 1.  The
+general issues to explore are the various methods of valuation of
+alignments (sum-of-pairs, consensus, Steiner, phylogenetic tree), and
+efficient algorithms for achieving good alignments under any of these
+valuation schemes.
+
+Because no one knows efficient algorithms for optimal alignments under
+any of these valuation schemes, the project could explore ideas for
+heuristics or approximation algorithms.  Dick Karp has a divide and
+conquer heuristic that he would be interested in sharing.  There is a
+minimum spanning tree heuristic hinted at in problem 10 of Homework 1,
+and more details of what is done in practice are available in
+Gusfield's manuscript and other sources.
+
+Exploring such heuristics could be done experimentally, or
+analytically.  Data for experimentation might come from exisiting
+databases containing multiple aligned sequences, or could be generated
+synthetically.
+
+cDNA MATCHING
+
+Another project to explore is introduced in problem 4 of Homework 1:
+For the cDNA matching problem, experiment with realistic gap penalties
+reflecting what is known about intron lengths.
+To: cse590bi@geoduck
+Subject:
+student and postdoc financial support to workshop
+Date: Wed, 21 Feb 1996 08:52:29 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+------- Forwarded Message
+
+Date:    Tue, 20 Feb 1996 20:04:15 -0800
+From:    "William E. Hart" <wehart@cs.sandia.gov>
+To:      Local Distribution <theory-net@JUNE.CS.WASHINGTON.EDU>
+Subject: Financial Support for Second SNL Workshop on Computational Molecular B
+iology
+
+UPDATE*UPDATE**UPDATE*UPDATE*UPDATE**UPDATE*UPDATE*UPDATE
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+The Second Sandia National Laboratories
+Workshop on
+
+Computational Molecular Biology
+
+March 4-6, 1996
+Albuquerque, New Mexico
+
+Organized in collaboration with
+DIMACS Special Year on
+Mathematical Support for Molecular Biology
+
+Funded by
+DOE MICS Office of Scientific Computing
+Applied Mathematics Program
+Dr. Fred Howes, Director
+and
+DOE Office of Health and Environmental Research
+Human Genome Program
+Dr. A. Patrinos, Director
+
+
+We are pleased to announce that the DOE Office of Health and
+Environmental Research, Human Genome Program has generously provided
+some financial support for graduate students and postdocs to attend the
+2nd SNL Workshop on Computational Molecular Biology.  Accordingly, we
+will be granting partial financial support for ten graduate students
+and/or postdocs.
+
+Please send email or contact Sorin Istrail.  Include a vita and a
+description of current research.  A decision will be made by February
+21, 1996.  We apologize for the late date of this announcement, but our
+efforts to obtain this funding have just recently succeeded.
+
+Interested parties should also finalize their travel arrangements
+immediately, as space is limited.  For further information on the
+workshop can be obtained at
+
+http://www.cs.sandia.gov/cmb_workshop96.html
+
+
+Sorin Istrail, Workshop Chair
+Sandia National Laboratories
+Massively Parallel Computing Research Laboratory
+Algorithms and Discrete Mathematics
+Albuquerque, NM 87185-1110
+
+Phone: (505) 845-7612
+Secretary: (505) 845-7432
+Fax : (505) 845-7442
+Email: scistra@cs.sandia.gov
+
+------- End of Forwarded Message
+To: cse590bi@geoduck
+Subject:
+lecture notes drafts
+Date: Wed, 21 Feb 1996 09:00:52 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+If you are working on HW2 but don't have the polished lecture notes you need,
+you can find unedited drafts of most of them on the course web:
+
+http://www.cs.washington.edu/education/courses/590bi/
+To: cse590bi@geoduck
+Subject:
+sequel to CSE 590BI
+Date: Tue, 27 Feb 1996 15:50:47 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+We are considering holding a less formal sequel to CSE 590BI next quarter, to
+explore some of the many topics that we couldn't get into deeply enough this
+quarter.  The format is very much up in the air: it might meet only once a
+week, might consist largely of student presentations, etc.
+
+This message is to see how much interest there is in the audience (both
+student and faculty) for such a sequel.  If you are interested in continuing
+next quarter, please send me information such as
+
+1. interested in 1 day per week or 2?
+2. any topics you would be particularly interested in exploring?
+3. ideas on format?
+From:
+Joe Felsenstein <joe@genetics.washington.edu>
+Subject:
+Phylogeny course Sprinq Quarter
+To: cse590bi@cs.washington.edu
+Date: Mon, 18 Mar 1996 15:06:32 -0800 (PST)
+(apologies to those for whom this is "junk mail" or who get it multiple times)
+
+NEW COURSE
+
+Spring Quarter, 1996
+under the Topics in Genetics number (GENET 554)
+
+Joe Felsenstein
+
+of the Department of Genetics
+will teach a 3-credit course in
+
+Phylogenetic Inference
+
+at 11:30-12:20 MWF in room J280 Health Sciences Building
+
+This course will cover, at the graduate level, the biology, statistics, and
+computation of estimating phylogenies (evolutionary trees), inferring how much
+uncertainty we have about the estimates, and making use of phylogenies in other
+kinds of inferences.
+
+Prerequisite is enough background in biology to know what DNA is, enough
+statistics to know what likelihood is, and enough mathematics to be able to
+understand what a matrix is.
+
+Topics covered will include:
+
+What is a phylogeny?        restriction sites and RAPDs
+Parsimony methods           gene frequencies
+Compatibility methods       morphology and quantitative characters
+Distance matrix methods     comparative methods
+Likelihood methods          coalescent trees of genes
+Searching tree space        consensus trees and tree distances
+nucleotide sequences        tests based on tree shape
+proteins
+
+There will also be computer exercises.
+
+----
+Joe Felsenstein         joe@genetics.washington.edu     (IP No. 128.95.12.41)
+Dept. of Genetics, Univ. of Washington, Box 357360, Seattle, WA 98195-7360 USA
+phone: 543-0150
+Date: 20 Mar 1996 14:39 PST
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse590bi@cs
+Subject:
+CSE 590BI continues...
+
+We are planning to run a somewhat more informal continuation of CSE
+590BI (Computation, Molecular Biology, etc.)  during Spring quarter.
+We hope to revisit in more depth some topics introduced last quarter
+(e.g. perhaps sequence assembly, MCD mapping), as well as explore
+some new ones (perhaps protein folding, biomolecular computing,
+genome rearrangement).  The topic list is not finalized; feel free
+to send suggestions if you have particular interests.
+
+Time:    Thursdays, 12:00-1:30 (starting next week, 3/28)
+Note it's just one day per week.
+Place:   MEB 238
+Grading: Credit/No Credit
+Units:   Variable (1-3).  1 unit will again entail light housework,
+at worst.  2 or 3 units for more substantive involvement,
+e.g., reading and presenting paper(s); negotiable.
+(I don't have the SLN yet; it should appear in the official
+time schedule tomorrow.)
+To: cse590bi@geoduck
+cc: baker@ben.bchem.washington.edu
+Subject:
+course on Protein Stucture Prediction
+Date: Fri, 22 Mar 1996 14:18:07 PST
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+------- Forwarded Message
+
+Date:    Fri, 22 Mar 1996 14:04:02 -0800
+From:    David Baker <baker@BEN.bchem.washington.edu>
+To:      Martin Tompa <tompa@cs.washington.edu>
+Subject: Re: computational biology course
+
+
+Martin,
+Here is an announcement for a course next quarter that may interest
+you or people attending your class last quarter.  Could you send it to
+people on your class mailing list?
+thanks,
+David
+
+Protein Stucture Prediction			David Baker
+
+This seminar course will focus on recent developments in methods
+for protein structure prediction and amino acid sequence comparison.  The
+course will meet Tuesdays and Thursdays 12:30- 2:00 from March 26 to
+April 30 in HSB J-412.  Students taking the course for (one) credit will
+propose new developments/ improvements to current approaches to structure
+prediction in a short paper.
+
+March 26 	David Baker (Biochemistry)
+Introduction
+
+March 28	Phil Green	(Molecular Biotechnology)
+Conserved sequence families
+
+April 2 Kam Zhang (FHCRC)
+The 3D profile and threading methods for structure prediction
+
+April 4 Scott Presnell (Zymogenetics)
+From EST to Structure
+
+April 9 John Moult (Center for Advanced Research in Biotechnology)
+The current state of protein structure prediction
+
+April 11	Terry Lybrand	(Bioengineering)
+Protein 3D Model Building: Homology and Constraint-based de novo Modeling
+Methods.
+
+April 16	Steve Henikoff  (FHCRC)
+Scores for sequence searches and alignments
+
+April 18	Valerie Daggett	(Medicinal Chemistry)
+Lessons from molecular dynamics
+
+April 30	David Baker  Conclusion
+
+
+
+------- End of Forwarded Message
+Date: 27 Mar 1996 09:32 PST
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse590bi@cs, cs-grads@cs
+Cc: baker@ben.bchem.washington.edu
+Subject:
+CSE590BI schedule change
+
+We suspect that many people who would be interested in the
+continuation of our computational bio seminar will also be
+interested in David Baker's seminar on protein structure prediction.
+Unfortunately there's a time conflict, and rescheduling our class is
+difficult at this late date.  However, Baker's course only runs 4.5
+weeks, so what we've decided to do is delay starting ours until
+*** Thursday, April 25 ***, continuing on the 5 subsequent
+Thursday's.  This should avoid the conflicts.  So, until 4/25,
+you're encouraged to go to Baker's seminar if interested, and to
+join us for CSE590bi in MEB 238, 12:00-1:20 Thursdays, starting
+4/25.  We'll work  out and distribute a schedule of topics in
+advance of that.
+
+Please contact Karp, Tompa, or me if you have questions about
+registration, credits, or other administrative or substantive
+issues.
+
+Here's a repeat of Baker's announcement.  Note the room has been
+changed to K-450, not J-something as reported below.
+
+
+Date:    Fri, 22 Mar 1996 14:04:02 -0800
+From:    David Baker <baker@BEN.bchem.washington.edu>
+
+
+Protein Stucture Prediction			David Baker
+
+This seminar course will focus on recent developments in methods
+for protein structure prediction and amino acid sequence comparison.  The
+course will meet Tuesdays and Thursdays 12:30- 2:00 from March 26 to
+April 30 in HSB J-412.  Students taking the course for (one) credit will
+propose new developments/ improvements to current approaches to structure
+prediction in a short paper.
+
+March 26 	David Baker (Biochemistry)
+Introduction
+
+March 28	Phil Green	(Molecular Biotechnology)
+Conserved sequence families
+
+April 2 Kam Zhang (FHCRC)
+The 3D profile and threading methods for structure prediction
+
+April 4 Scott Presnell (Zymogenetics)
+From EST to Structure
+
+April 9 John Moult (Center for Advanced Research in Biotechnology)
+The current state of protein structure prediction
+
+April 11	Terry Lybrand	(Bioengineering)
+Protein 3D Model Building: Homology and Constraint-based de novo Modeling
+Methods.
+
+April 16	Steve Henikoff  (FHCRC)
+Scores for sequence searches and alignments
+
+April 18	Valerie Daggett	(Medicinal Chemistry)
+Lessons from molecular dynamics
+
+April 30	David Baker  Conclusion
+
+
+
+------- End of Forwarded Message
+To: cse590bi@geoduck, baker@ben.bchem.washington.edu
+Subject:
+University of Pennsylvania Conference on Computational Biology
+Date: Tue, 09 Apr 1996 12:23:58 PDT
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+------- Forwarded Message
+
+Date:    Tue, 09 Apr 1996 12:50:07 -0400
+From:    Tandy Warnow <tandy@central.cis.upenn.edu>
+To:      tompa@cs.washington.edu
+Subject: conference in Computational Biology
+
+
+Martin,
+
+I wanted to let you know about a conference I'm organizing
+which will take place the week before FCRC. We'd very much like
+to have people involved in training in computational biology
+at the conference, so especially would like to have people from
+Washington (your department and Biotechnology as well).  Would
+you please distribute this to anyone who might be interested?
+
+Thanks very much,
+
+Tandy
+
+
+NOTE: The Nassau Inn is holding rooms only until April 21. Please
+reserve rooms now to be sure of space.
+
+
+
+ANNOUNCEMENT AND CALL FOR PAPERS
+
+The University of Pennsylvania Conference on Computational Biology
+to honor the 50th anniversary of the ENIAC,
+
+sponsored by:
+
+The University of Pennsylvania Training Program in Computational Biology,
+
+DIMACS - The NSF Center for Discrete Mathematics and Computer Science,
+
+IRCS - The Institute for Research in Cognitive Science, an
+NSF Center for Science and Technology at
+the University of Pennsylvania,
+
+SmithKline Beecham Pharmaceuticals,
+
+Merck,
+
+and the National Science Foundation.
+
+
+
+The conference will be held at DIMACS and Princeton University, May 17-19,
+1996.  (The timing of the conference enables attendees to attend this
+and the FCRC, which will take place in Philadelphia, one hour away,
+the following week.)
+
+
+Historical Note:
+
+The University of Pennsylvania Training Program in Computational
+Biology, DIMACS, and IRCS are pleased to jointly host this conference on
+computational biology as part of the ENIAC Symposium.  This conference
+will be one of the activities in the Commemorative, Technical and
+Historical Symposium on the occasion of 50th anniversary of the Moore
+School Lectures.  These Lectures were held during the summer of 1946
+to bring together the leading specialists in high-speed digital
+computation in order to lay the foundations of the yet-to-be-defined
+fields of computer engineering and computer science.  With this
+symposium, we again hope to assemble researchers in current computer
+science disciplines to advance the state of the field.  On this
+occasion we also invite historians of technology and computing, in
+order to understand the past so that we may proceed more knowingly
+into the future.
+
+
+About the Conference:
+
+The conference will have invited and contributed talks, and will be
+based around sessions focusing on important research areas within
+the field.  There will be ample time allocated for discussions
+and interactions among biologists, computer scientists and mathematicians.
+
+This year's special research topics will include: Structure Prediction,
+Tandem Repeats, Databases, Sequencing and Mapping, and Genome
+Rearrangements.  There also will be a special session on
+interdisciplinary education in computational biology, in which directors
+and students in various training programs throughout the country will
+participate.
+
+Invited speakers include:
+
+Craig Benham (Biomathematics, Mt. Sinai School of Medicine),
+Gary Benson (Biomathematics, Mt. Sinai School of Medicine),
+Bonnie Berger (Math, MIT),
+Bill Bialek (NEC)
+Susan Davidson (CIS, Penn),
+Sampath Kannan (CIS, Penn),
+Rob Lipschutz (Affymetrix),
+Joshua Lederberg (Rockefeller),
+Pavel Pevzner (Math, USC), and
+David Sankoff (Math, Montreal)
+Jeanette Schmidt (Brooklyn Polytechnic)
+Peter Shor (AT&T)
+Eero Simoncelli (CIS, Penn)
+Michael Waterman (Math and Molecular Biology, USC).
+
+
+REGISTRATION:  A registration form is appended at the end of this
+announcement.  Participants should submit their registration applications
+by e-mail, using this form, to Sandy Barbu at barbu@cs.princeton.edu.
+There is no charge for registering, but registration will be limited to
+150 applicants.
+
+GRADUATE STUDENTS AND POSTDOCS: Funds are available to partly defray
+the costs of attending this conference for graduate students and
+postdocs.  Please arrange for a letter of recommendation to be sent
+by your advisor or other appropriate senior scientist.  Students and
+postdocs will also be expected to participate either by giving a
+contributed talk or presenting a poster.
+
+DISCUSSANT AWARDS: Awards to help cover travel to the conference are
+available, primarily for biologists.  All recipients of these awards
+are expected to participate either through a poster or through a
+contributed talk.  To apply for a discussant award, please send a
+CV and a letter describing your intended contribution to the
+Conference Organizer.  (See information below.)  Awards will be
+announced by mid-April.
+
+APPLICATION PROCEDURE:  To apply for a discussant or travel award,
+please send a vita, a one page abstract of a poster of contributed
+talk, and a letter of recommendation to the Conference Organizer
+(see below).
+
+BANQUET:  A banquet will be held Firday evening at the University of
+Pennsylvania as part of the ENIAC celebration.  This will include a
+distinguished lecture on the History of Science.  There will be a moderate
+charge for the banquet, reduced for students.  Transportation to Penn and
+back will be provided.
+
+PROCEEDINGS: A proceedings will be published.
+
+SUBMISSIONS:  We are limiting the contributed talks so as to leave
+sufficient time for general and technical discussion.  However, we
+will have a poster session as part of the wine and cheese reception
+Saturday evening.  If you are interested in providing a contributed
+talk, please send a short abstract *as soon as possible* to Tandy
+Warnow (address below).  Posters may be submitted until May 1, 1996,
+and - if space permits - after that date. Selection of contributed
+talks will be made and announced by April 20, 1996.  Selection of
+posters will be announced by May 10, 1996.  Simultaneous submission
+to conferences or journals is acceptable.
+
+CONFERENCE ORGANIZERS:  Craig Benham and Tandy Warnow
+
+send correspondence to:
+Tandy Warnow
+Department of Computer and Information Science
+University of Pennsylvania
+Philadelphia, PA  19105-6389
+tandy@central.cis.upenn.edu
+
+
+
+PROGRAM COMMITTEE:      Craig Benham (Mount Sinai)
+Martin Farach (Rutgers)
+Sampath Kannan (Penn)
+Tandy Warnow (Penn)
+
+
+
+LOCATION:  Nassau Inn, Princeton NJ, and the Computer Science Building of
+Princeton University, located at 35 Olden Street.
+
+LODGING:  A block of 50 rooms has been set aside for conference
+participants at the Nassau Inn, and another 25 rooms have been
+set aside at the Palmer Inn.  These rooms are available at reduced
+rates for participants registering before *April 21st.*  Be sure to
+inform the registration desk that you are registering for the
+Penn/DIMACS Computational Biology Conference held at Princeton
+University in order to receive the reduced rate.
+
+Nassau Inn		Dbl/Single	$105
+1 Palmer Square
+Princeton, NJ
+Phone: (609) 921-7500
+FAX: (608) 921-6530
+1-800-862-7728
+
+The Nassau Inn is located in the center of downtown Princeton within walking
+distance of the Computer Science Building.
+
+Palmer Inn		Single		$ 64
+3499 Rt. 1 South	Double		$ 66
+Princeton, NJ
+Phone: (609) 452-2500
+FAX: (609) 452-1371
+(800) 688-0500
+
+The Palmer Inn is not within walking distance, but they do provide van
+service.  The above rate includes a continental breakfast.
+
+Bed and Breadfast of Princeton
+P. O. Box 571
+Princeton, NJ  08542
+Phone:  (609) 924-3189  FAX: (609) 921-6271
+Email:  CompuServe 71035.757@compuserve.com (John Hurley)
+
+Single:$40-$50, Dbl. $50-$60
+
+Please make reservations directly with hotels or bed & breakfast.  When making
+reservations at either hotel, specify it is a DIMACS reservation.  (This isn't
+necessary at the B & B.)
+
+___________________________________________________________________
+*Watch the DIMACS WWW page for updates in the schedule
+
+------- End of Forwarded Message
+To: cse590bi@geoduck
+Subject:
+Graduate Research Position in Theoretical Biology @ LANL
+Date: Sat, 13 Apr 1996 17:30:17 PDT
+From:
+Martin Tompa <tompa@geoduck.cs.washington.edu>
+
+------- Forwarded Message
+
+Date:    Fri, 12 Apr 1996 20:19:26 -0700
+From:    Emanuel Knill <knill@c3serve.c3.lanl.gov>
+To:      Local Distribution <theory-net@JUNE.CS.WASHINGTON.EDU>
+Subject: Graduate Research Position in Theoretical Biology @ LANL
+
+The Theoretical Biology Group (T10) at Los Alamos National
+Laboratory invites applications for a Graduate Research Assistantship.
+
+This opening is for someone who will contribute to our ongoing theoretical
+research in support of the human genome project. The specific project
+involves developing methods for analyzing long sequences of DNA.
+One aspect of this includes algorithm development for inducing a Hidden
+Markov Model of DNA.  The project can be expected to
+include research into new algorithms as well as software implementation
+of algorithms we have developed. It is hoped that this
+work will be suitable for a thesis or scientific publication.
+
+The most qualified students will have the following skills:
+
+competence in C++ programming (non-negotiable)
+interest in "real" applications of theory, in particular, to DNA sequences
+some knowledge of probability and/or statistics
+interest in AI /machine learning
+willingness to read the current relevant literature
+
+
+
+- ----------------------------------------------------------------------------
+
+The Theoretical Biology Group (T10)
+
+T10 has a long history of research excellence in
+theoretical biophysics and mathematical biology. T10 collaborates
+closely with the Center for Human Genome Studies at Los Alamos
+National Laboratory. To contribute to the mapping of the human
+genome we have developed novel techniques for constructing
+maps of clones.
+T10 houses several nationally recognized sequence
+databases databases including HIV.
+Ongoing theoretical research
+also includes HIV pathogenesis; protein and DNA dynamics; signaling kinetics;
+immune response and cellular dynamics.
+
+
+- ----------------------------------------------------------------------------
+Los Alamos National Laboratory
+
+The Los Alamos National Laboratory, operated by the University of California
+for the U.S.  Department of Energy, is a multiprogram national laboratory,
+operated by the University of California.  In accordance with the Laboratory
+mission, "Science Serving Society", the scope of research has expanded from
+the original charge of designing nuclear weapons to include a wide spectrum
+of programs including biomedicine, computational science, science education,
+environmental protection and materials science.  In staff and technical
+capability, Los Alamos is one of the largest multidisciplinary laboratories
+in the world with world-class theoretical and applied researchers.  The
+Laboratory offers a research atmosphere designed to foster innovative
+interdisciplinary collaborations.
+
+The Laboratory has consistently led the world in the area of high performance
+computing.  Los Alamos provides an excellent computing environment including
+leading technologies from Thinking Machines Corporation; Cray Research, Inc.;
+IBM;, Motorola; Silicon Graphics, Inc.; and Sun Microsystems to name a few.
+Los Alamos is one of 2 DOE High Performance Computing Research Centers.
+The Laboratory's Integrated Computing Network, used by approximately 9,000
+people distributed throughout the nation, constitutes one of
+the most powerful scientific computing facilities in the world.
+
+
+- ----------------------------------------------------------------------------
+Graduate Research Assistantships
+
+Applications for Graduate Research Assistantships are accepted on
+a year-round basis.
+
+Eligibility requires that you
+
+* are currently enrolled or anticipating
+acceptance in an accredited graduate program
+within the next 12 months.
+
+* OR have received your degree (BS, BA, MS, MA, PhD)
+within the last 12 months.  In this case, a Graduate
+Research Assistantship at Los Alamos is an excellent
+opportunity for recent graduates to gain applied
+research experience before moving on to further
+graduate work or industry.
+
+Traditional positions are full-time, 90-day summer appointments, but
+longer-term appointments, starting at any time and extending
+throughout the year, are also available.  Part-time status is an option for
+those with appointments of at least one year in length.
+
+Salaries are based on education and relevant experience.  They currently
+range from approx. $11 to approx. $17 /hr.  Benefits depend on appointment
+length.  Participants residing outside a fifty-mile radius of Los Alamos
+are reimbursed for one round-trip from point-of-hire each calendar
+year.  They are also reimbursed for the shipment of up to 100 pounds of
+personal belongings.
+
+Eligibility is limited to applicants with a cumulative GPA of at least 2.5
+who have completed a bachelor's degree by date-of-hire and who intend to
+continue with graduate studies.  To remain in the program longer than one
+year, students must furnish proof of progress toward a graduate degree.
+Non-U.S.  citizens are eligible to apply.
+
+
+- ----------------------------------------------------------------------------
+The Community
+
+Los Alamos is a small alpine community in the mountains of Northern New Mexico,
+an area of diverse cultures and great scenic beauty.  Year-round outdoor
+activities include skiing, hiking, mountain biking, and white water rafting.
+
+Los Alamos is approximately 40 minutes from Santa Fe and 90 minutes from
+Taos.  Santa Fe and the surrounding area comprise the 2nd largest art market
+in the United States.  Santa Fe is home to a number of cultural events such
+as the internationally acclaimed Santa Fe Opera.
+
+
+- ----------------------------------------------------------------------------
+How to Apply
+
+Send e-mail indicating your interest to: cam@t10.lanl.gov
+Please include:
+* A paragraph about your current research interests (250 words maximum).
+* Your curriculum vitae
+* Names, addresses, and phone numbers for at least three references
+Please submit ASCII versions of the above, we will not be
+able to process any other formats at this time.
+
+We will screen all applications before we ask for official
+laboratory applications or letters of reference.
+
+We are ready to hire now and will do so as we find suitable candidates.
+Therefore, to receive full consideration, let us know of your interest
+as soon as possible.  However, we consider applications on an on-going basis.
+
+Los Alamos National Laboratory is an
+Affirmative Action/Equal Opportunity Employer.
+
+------- End of Forwarded Message
+Date: 22 Apr 1996 16:23 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse590bi@cs
+Subject:
+CSE 590BI Comp. Bio. Seminar Restarts
+
+We will be restarting our computational biology seminar THIS
+THURSDAY 4/25 12:00-1:20 in MEB 238.  The first 3 meetings will be:
+
+4/25: 4 short talks on physical mapping:  (OK, I confess.  We're
+double-dipping a bit, and practicing some talks that will also
+be given to another audience, but they'll still be great...)
+
+Richard Karp - Physical Mapping: Computational Tools for
+Exploring the Human Genome
+Tao Jiang   - The Complexity of Restriction Mapping
+Dan Fasulo  - A Computer Program for Restriction Mapping
+Brendan Mumey-A Powerful Clone Overlap Test
+
+5/2 Phil Green: More on his sequence assembly algorithm, which he
+barely got started explaining to us last quarter.
+
+5/9 Tao Jiang: approximation algorithms for tree alignment (a
+variant of multiple alignment)
+
+5/16 \
+5/23  }-- TBA.  Probable topics include "Biomolecular Computation",
+5/30 /    and cluster analysis of data from the prostate study.
+
+More details later.  Hope to see you Thursday.
+Date: 7 May 1996 20:17 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse590bi@cs
+Subject:
+cse590bi ROOM CHANGE
+
+ME department has asked us to switch rooms, to avoid the room
+conflict we had last week.  So, for this week and next (at least),
+we will meet in
+
+===>  MEB 134, 12:00-1:20 Thursday 5/9 and 5/16 <===
+
+This week Tao Jiang will talk about a multiple tree alignment
+problem.
+Date: Wed, 8 May 1996 10:21:04 -0700
+From:
+jiang (Tao Jiang)
+To: cse590bi
+Subject:
+CSE590bi May 9 lecture
+
+In this lecture I will give a brief survey of recent approximation
+algorithms for multiple sequence alignment with guaranteed error bound.
+Two popular scoring schemes are considered: tree score and sum-of-pairs
+score. The latter model was also discussed in the last quarter.
+The emphasis will be given to various algorithm design techniques and
+some simple analyses will be sketched.
+
+Tao Jiang
+Date: 9 May 1996 15:29 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse590bi@cs
+Subject:
+Haussler Talk.
+
+apologies if you've seen this announcement already
+>  _________________________________
+> From tim@mudhoney.mbt.washington.edu Wed May  8 17:00:38 1996
+> 	(1.40.112.4/16.2) id AA062360060; Wed, 8 May 1996 17:01:00 -0700
+> Date: Wed, 8 May 1996 17:01:00 -0700
+> From: Tim Hunkapiller <tim@mudhoney.mbt.washington.edu>
+> To: ruzzo@cs.washington.edu
+> Subject: biocomp_seminars
+>
+> Biocomp announcement
+> for once - an early announcement!
+> tim hunkapiller
+> ---------------------------------------------------------------------
+>
+>
+> David Haussler, from the Computer Science Department at University of
+> California Santa Cruz, will be visiting the Center for Molecular
+> Biotechnology Tuesday June 4 and will be presenting a lecture:
+>
+> Using Hidden Markov Models for Biosequence Analysis
+> (abstract at end of email)
+>
+> Dr. Haussler received Ph.D. in computer science in 1982 from
+> U. Colorado at Boulder.  He is a Fellow of the American Association for
+> Artificial Intelligence, Associate Editor of Machine Learning,
+> first chairman of the steering committee for the annual ACM Conference
+> on Computational Learning Theory. His current research interests include
+> computational biosequence analysis, machine learning, statistics and
+> information theory.
+>
+> If you would be interested in meeting with Dr. Haussler, please let me know.
+>
+> Abstract:
+>
+> With the databases of DNA, RNA and protein sequences growing
+> at an explosive rate, the need for effective computational methods for
+> biosequence analysis has become acute. In particular, we need
+> good methods for locating genes in DNA sequences,
+> along with their splice sites and regulatory binding sites,
+> and good methods for making an initial classification of new proteins
+> that detect weak homologies to other previously known proteins
+> and predict possible functions for new proteins.
+> Tools available for this analysis range from simple and general search
+> methods such as BLAST to detailed protein folding models of
+> the type used in protein threading and {\em ab initio} protein structure
+> prediction. Hidden Markov Models (HMMs) lie somewhere in the middle
+> of this spectrum. They are computationally efficient enough
+> for use with large databases, yet flexible enough to be used in
+> constructing specific, detailed statistical models of the sequence variation
+> within a particular protein family, our within a family of related
+> DNA binding sites. We will describe what HMMs are and how
+> they are used in biosequence analysis. Then we will briefly
+> discuss some new work in our lab to make these models more biologically
+> accurate.
+>
+Date: 15 May 1996 23:27 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse590bi@cs
+Subject:
+NO CSE590BI THIS WEEK
+
+No class this week.
+
+Next week Phil will do a bit more on sequence assembly, then I will
+describe some approaches to "biomolecular computation", e.g. the
+work of Adleman, using DNA technology to solve an NP-complete
+problem.
+Date: Wed, 29 May 1996 19:44:34 -0700
+From:
+brendan@willow (Brendan Mumey)
+To: cse590bi@willow
+Subject:
+tomorrow's seminar
+
+Tomorrow (30 May), Omid and I will talk about our recent work with
+Dick to analyse large scale hybridization filters.  The data comes
+from a new robotic system developed at MBT to determine hybridization
+levels of a tissue sample against a large array of cDNA probes.  We will
+present an overview of the process and discuss our efforts to
+solve some new data-analysis problems which arise.  One such problem
+is determining important cDNAs whose expression levels are effective
+in predicting whether an unkown tissue sample is cancerous or not.
+
+12:00, MEB 238
+Date: Sat, 3 Aug 1996 15:37:33 -0700 (PDT)
+From:
+Phil Green <phg@u.washington.edu>
+To: seqcourse -- Arian Smit <asmit@u.washington.edu>,
+Beatrix Jones <trix@stat.washington.edu>,
+Brendan Mumey <brendan@cs.washington.edu>,
+Brent Ewing <bge@u.washington.edu>,
+Chi-hong Tseng <tseng@stat.washington.edu>,
+Chris Abajian <chrisa@cirque.mbt.washington.edu>,
+Colin Wilson <colin@u.washington.edu>,
+David Adams <blue145@u.washington.edu>,
+David Baker <baker@BEN.bchem.washington.edu>,
+David Gordon <gordon@tahoma.mbt.washington.edu>,
+Deborah Nickerson <debnick@u.washington.edu>,
+Dick Karp <karp@cs.washington.edu>,
+Ed Thayer <ed@bozeman.mbt.washington.edu>,
+Elizabeth Thompson <thompson@stat.washington.edu>,
+Eugene Kolker <eugene@genome.biotech.washington.edu>,
+Gane Ka-Shu Wong <gksw@u.washington.edu>,
+Jeremy Buhler <jbuhler@cs.washington.edu>,
+Jinko Graham <graham@biostat.washington.edu>,
+Joe Don Heath <jdheath@u.washington.edu>,
+Joe Felsenstein <joe@genetics.washington.edu>,
+Jorja Henikoff <jorja@howard.fhcrc.org>,
+Katrina Goddard <katrina@biostat.washington.edu>,
+Larry Ruzzo <ruzzo@cs.washington.edu>,
+Martin Tompa <tompa@cs.washington.edu>,
+Max Robinson <max@u.washington.edu>,
+Maynard Olson <mvo@u.washington.edu>,
+Michael Parker <mparker@fhcrc.org>,
+Scott Taylor <stay@droog.mbt.washington.edu>,
+Sharon Guy <sharon@stat.washington.edu>,
+Simon Heath <heath@stat.washington.edu>,
+Steve Henikoff <steveh@howard.fhcrc.org>, cse590bi@cs.washington.edu
+Cc: "A. Heidbrink-Lomer" <alomer@u.washington.edu>
+Subject:
+course on Genome Sequence Analysis
+
+As most of you already know from the message I sent out earlier, I will be
+offering a course on Genome Sequence Analysis this Fall (rough outline
+below). Based on the initial response, it looks as though the best meeting
+times would be Tu-Th 12:00 - 1:20. Please let me know if you are
+interested in the course but would be unable to attend at that time
+(unfortunately though there aren't many alternative times that wouldn't
+cause problems for somebody).
+I'll be sending out an announcement later with the official course number
+and additional details.
+
+Phil
+
+
+
+
+Genome Sequence Analysis: Outline
+
+(The course is intended to be reasonably self-contained in the
+sense that relatively little biological or computational background will
+be assumed. There will be some overlap with the course CSE 590BI offered
+last winter, but I will be covering a more limited number of topics, in
+substantially greater depth. In particular there will be much heavier
+emphasis on the relevant biology, on statistical issues, and on pragmatic
+issues (e.g. use of current computer programs).)
+
+I. Biological background: basic concepts of molecular biology;
+genes and genomes; sequence evolution.
+
+II. Sequence interpretation.
+a. Finding protein and DNA sequence similarities.  Pairwise sequence
+comparison algorithms:  Smith-Waterman, BLAST, FASTA.  Statistics of
+sequence comparison and database searches: likelihood ratios,
+Karlin-Altschul theory, empirical methods. Low-complexity sequences.
+Optimal score matrices & gap penalties.  Profiles, "motifs". Multiple
+comparison methods: Gibbs sampler, Hidden Markov Models.
+b. Finding genes. Detection of coding regions, codon biases.
+Detection of splice sites, weight matrices.
+c. Finding repeats.
+d. Finding regulatory sites and other subtle sequence features.
+
+III. Sequence assembly. Shotgun sequencing strategies; assembly
+algorithms;  assessment of data quality; statistics of sequence accuracy.
+Date: Tue, 6 Aug 1996 19:52:39 -0700 (PDT)
+From:
+Phil Green <phg@u.washington.edu>
+Reply-To: Phil Green <phg@u.washington.edu>
+To: seqcourse -- Arian Smit <asmit@u.washington.edu>,
+Beatrix Jones <trix@stat.washington.edu>,
+Brendan Mumey <brendan@cs.washington.edu>,
+Brent Ewing <bge@u.washington.edu>,
+Chi-hong Tseng <tseng@stat.washington.edu>,
+Chris Abajian <chrisa@cirque.mbt.washington.edu>,
+Colin Wilson <colin@u.washington.edu>,
+David Adams <blue145@u.washington.edu>,
+David Baker <baker@BEN.bchem.washington.edu>,
+David Gordon <gordon@tahoma.mbt.washington.edu>,
+Deborah Nickerson <debnick@u.washington.edu>,
+Dick Karp <karp@cs.washington.edu>,
+Ed Thayer <ed@bozeman.mbt.washington.edu>,
+Elizabeth Thompson <thompson@stat.washington.edu>,
+Eugene Kolker <eugene@genome.biotech.washington.edu>,
+Gane Ka-Shu Wong <gksw@u.washington.edu>,
+Jeremy Buhler <jbuhler@cs.washington.edu>,
+Jinko Graham <graham@biostat.washington.edu>,
+Joe Don Heath <jdheath@u.washington.edu>,
+Joe Felsenstein <joe@genetics.washington.edu>,
+Jorja Henikoff <jorja@howard.fhcrc.org>,
+Katrina Goddard <katrina@biostat.washington.edu>,
+Larry Ruzzo <ruzzo@cs.washington.edu>,
+Mark Rieder <mjr@droog.mbt.washington.edu>,
+Martin Tompa <tompa@cs.washington.edu>,
+Max Robinson <max@u.washington.edu>,
+Maynard Olson <mvo@u.washington.edu>,
+Michael Parker <mparker@fhcrc.org>,
+Scott Taylor <stay@droog.mbt.washington.edu>,
+Sharon Guy <sharon@stat.washington.edu>,
+Simon Heath <heath@stat.washington.edu>,
+Steve Henikoff <steveh@howard.fhcrc.org>,
+Trey Ideker <trey@droog.mbt.washington.edu>
+Cc: cse590bi@cs.washington.edu
+Subject:
+599C, AU 1996 (fwd)
+
+The message below gives the room, time and course number for the
+Genome Sequence Analysis course.
+
+If you received this message because you are on the cse590bi@cs mailing
+list, and want to receive further announcements about the course, but your
+name does not appear on the "seqcourse" mailing list above, please send me
+your name and email address. This is the last message that will be Cc'd to
+cse590bi@cs. If you are on the above seqcourse mailing list but do not
+want to be, please let me know.
+Thanks,
+
+Phil
+
+---------- Forwarded message ----------
+Date: Tue, 6 Aug 1996 09:49:24 -0700 (PDT)
+From: "A. Heidbrink-Lomer" <alomer@u.washington.edu>
+To: phg@u.washington.edu
+Subject: 599C, AU 1996
+
+
+Phil,
+
+I have set up your Special Topics Class (Sequence Analysis) for AU 1996.
+Tuesdays and Thursdays from 12:00-1:20 in HSB T-473. The capacity for the
+room is 50 people.
+
+599 is MBT's general special topics course. Since 599A is Research Methods
+and 599B is Research Discussions your course will fall under the 599C
+section.I have also requested entry codes and a schedule line number as we
+do with the other 599 sections.
+
+Let me know if there is anything else!
+
+Anne
+
+
+==============================================================================
+*	Anne Lomer, Academic Counselor	*
+*       University of Washington        *
+*	Dept. Molecular Biotechnology	*
+*	PO Box 357730                   *
+*       Seattle, WA 98195		*
+*	Phone: (206) 616-7297		*
+*	Fax: (206) 685-7301		*
+*******************************************************************************
+....Life's what happens to you when your making other plans...John Lennon
+===============================================================================
+
+
+
+
+ruzzo@cs.washington.edu
+(Last Update:
+01/10/96)
+
+

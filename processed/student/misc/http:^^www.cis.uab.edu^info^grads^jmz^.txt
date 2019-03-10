@@ -1,0 +1,118 @@
+Date: Tuesday, 26-Nov-96 17:01:01 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+
+
+<!--
+var my_message = "Hello World!                                                              "
+
+/*
+*  Usage:
+*  onLoad=scroll_start(scroll_speed, status_bar_size, scroll_delay, message);
+*  onUnload=scroll_stop();
+*/
+
+var scrl_timer_active = false;
+var scrl_timer_id = null;
+var scrl_speed = 100;
+var scrl_status_size = 100;
+var scrl_time = 60;
+var scrl_idx = 0;
+var scrl_msg = " ";
+
+function scroll_start(spd, size, time, msg) {
+scroll_stop();                                  // stop any previous timer
+scrl_speed = spd;                               // save scroll speed
+scrl_status_size = size;                        // save status bar size
+scrl_time = time;                               // save scroll delay
+diff = (size/msg.length)+1;                     // create multiple buffer message
+for (x=0; x<diff; x++)
+scrl_msg += msg + " ";
+scroll_status();                                // Start scrolling...
+}
+
+function scroll_stop() {
+if (scrl_timer_active)
+window.clearTimeout(scrl_timer_id);
+scrl_timer_active = false;
+}
+
+function scroll_status() {
+l = scrl_idx + scrl_status_size;                // Weirdo. this expr. doesn't eval correctly.
+window.status = scrl_msg.substring(scrl_idx, l);
+scrl_idx += scrl_speed;
+if (scrl_idx >= scrl_msg.length)
+scrl_idx -= scrl_msg.length;
+
+scrl_timer_id = window.setTimeout("scroll_status()",scrl_time);
+scrl_timer_active = true;
+}
+
+//-->
+
+John Zachary
+
+
+
+
+
+
+Research
+Presently, I am working on a Master's thesis entitled
+An Environment
+to Reconstruct Surfaces from Contour Data
+under the guidance of
+Professor Kenneth Sloan and Professor John Johnstone. The software I
+am developing is meant to be extremely portable and extensible. I
+hope to be able to extend it to work with other data situations, mainly
+scattered data and multiple orthogonal contours. When I get the
+wherewithall, I will place the proposal online.
+
+Here
+is my first
+real
+Java program.
+I did this for my Computer Graphics II project. (Hint: This version has
+an error. Can you find it?)
+
+Personal
+When I'm not transfixed to a computer or research article, I spend time
+reading, role-playing, playing the guitar, and hanging out with my wife,
+Lori, and
+our beautiful daughter, Hannah. We are expecting another child in
+August.
+Here are some
+useful bookmarks
+. Send me some
+email if you have a site I might be interested in.
+Here are some inane attempts at self-categorization.
+Geek Code:
+GCS/M>AT d--- H-- g+++ !p au+ a- w+++ !v C++++ UIX+++ P+ N++ E+++
+-po+ Y+>+++ t++@ 5-- j++ R+>+++ G+ tv-->! b+++ D--- B e+++ u++(*) h f---
+r+++ n+ y+++
+
+Personality Type:
+
+INTJ
+as measured by
+the
+The Keirsey Temperament Sorter
+(my wife says that this is right
+on the money - I scored at the extreme ends of the I, N, T, and J scales).
+
+
+UAB
+Graphics and AI Laboratory
+
+1300 University Blvd, 135A Campbell Hall
+Birmingham, AL 35242
+
+
+zachary@cis.uab.edu
+
+
+
+
+
+

@@ -1,0 +1,324 @@
+Date: Thu, 21 Nov 1996 23:05:34 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sun, 10 Nov 1996 02:13:06 GMT
+Content-length: 10188
+
+
+Greg J. Badros
+
+
+Welcome to my Home Page!!!
+
+(Last updated 1-Oct-96)
+
+
+
+Email
+:
+gjb@cs.washington.edu
+
+Address:
+
+8816 Nesbit Ave. N., Apt 303
+Seattle, WA  98103-4067
+
+
+
+
+
+Hello
+, and welcome to my WWW homepage.
+Please feel free to send
+feedback
+to the above email address.  This page is (and always will be, I
+suppose) under construction so keep checking back for new and exciting
+features.
+I'm a recent graduate of
+Duke
+University
+.  I completed my B.S. degree as a double major in
+computer science and mathematics in the spring of 1995.  I am
+currently employed part-time as a senior research scientist for
+Transworld Numerics, Inc., a small company originally located in
+Durham, NC, with its headquarters in Bermuda.  I now work from my
+apartment in
+Seattle
+,
+Washington. I am also a full time graduate student in the computer
+science and engineering department at the
+University of
+Washington
+.
+
+
+
+Fall 1996 Courses
+
+
+CSE 505 Home Page
+
+CSE 531 Home Page
+
+CSE 567 Home Page
+
+CSE 590N, Software Engineering Seminar
+
+CSE 590k, Compiler Seminar
+
+
+
+Newer Stuff
+
+Philosophy of Mathematics Course Notes
+
+
+Misc. Patches (Zsh, Fvwm)
+
+
+My First-Place
+(Best of Show) RedHat Desktop Configuration Competition Entry
+
+
+Emacs Configuration README
+file
+
+Emacs Configuration Archive
+file
+
+ZShell Configuration README
+file
+
+ZShell Configuration Archive
+file
+
+A Chronicle (Duke University Newspaper) Article about Transworld
+Numerics, Inc.
+
+
+Spring 95 IEEE
+National programming competition victory.
+
+
+Vertices Winter 95
+Issue
+(A Duke Magazine which contains my recent article on Genetic
+Algorithms.)
+
+
+
+Personal Links
+
+
+
+
+Résumé
+.
+
+
+
+Data Date
+, my first business
+
+Some sample
+art
+that I drew by
+computer.
+
+And some very simple
+3-D (Magic Eye) art
+that I created.
+
+Canterbury's 1993 Progressive
+Map
+
+
+Various random
+Pictures
+
+
+
+
+B
+ut life is d
+e
+f
+i
+n
+i
+t
+e
+l
+y
+not all work!  I have many hobbies, including:
+
+
+
+Tennis
+
+
+
+Skiing
+, Especially at
+Jackson Hole
+, in Jackson, WY.
+
+
+Volleyball
+
+
+
+Juggling
+
+
+
+Piano Playing
+
+
+
+Mathematica
+l games
+(
+e.g.
+
+Rubik's Cube
+)
+
+
+Linux
+(Freeware Unix)
+
+Music, especially:
+
+Sarah
+McLachlan
+
+Billy Joel
+, or
+Joel's Yahoo page
+(lists other links)
+
+R.E.M.
+
+
+
+
+Parliamentary Procedure
+
+
+
+NCAA Basketball
+
+
+
+
+A
+nd here are some other interesting links:
+
+
+
+
+Lycos Web
+Search
+
+
+
+Duke Computer Science
+Home Page
+
+
+
+Duke University
+Home Page
+
+
+
+The Chronicle
+:
+The Duke Community's Daily  Newspaper
+
+
+
+Univ. of
+Washington Home Page - Unofficial
+
+
+
+
+Seattle
+
+
+
+
+Microsoft Corporation
+World-Wide-Web Server
+
+
+
+Gateway Users Group
+
+
+
+
+Historic
+Computer Images
+
+
+
+
+HotJava
+
+
+
+
+Global Network Navigator Home Page
+
+
+
+
+PERL
+--
+Practical Extraction and Report Language
+
+
+
+The C++
+Virtual Library
+
+
+
+
+Inter-Language
+Unification -- ILU
+
+
+
+
+Interesting Devices Connected to the Net
+
+
+
+Writing HTML, SGML, TEI, etc.
+
+
+
+
+The Seinfeld
+Index Page
+
+
+
+
+Friends
+Sitcom
+
+
+
+Parts of this material are based upon work supported under a National Science Foundation Graduate Fellowship.  Any opinions, findings, conclusions, or recommendations expressed in this publication are those of the author, and do not necessarily reflect the views of the National Science Foundation
+
+
+
+Greg J. Badros / U Washington Computer Science and Engineering / gjb@cs.washington.edu
+
+
+

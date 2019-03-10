@@ -1,0 +1,424 @@
+Server: Netscape-Communications/1.1
+Date: Monday, 25-Nov-96 23:02:51 GMT
+Content-type: text/html
+
+
+
+Douglas Blank's Homepage
+
+
+
+
+
+
+
+D
+OUGLAS
+
+S
+.
+B
+LANK
+
+
+
+
+University of
+Arkansas
+
+Department of
+Computer Science
+
+Assistant Professor
+232 Science Engineering
+Fayetteville, AR 72701
+
+
+dblank@comp.uark.edu
+
+
+
+This is my office. This picture is updated every minute. Reload to see an updated picture.
+
+
+
+You are currently at:
+http://www.uark.edu/~dblank
+
+
+
+Current Schedule
+
+Teaching
+
+Interests
+
+Publications
+
+Projects
+
+Thesis
+
+Family
+
+Contact Information
+
+
+
+
+
+
+C
+URRENT
+S
+CHEDULE
+
+
+
+
+Monday
+
+
+
+
+Tuesday
+
+
+
+
+Wednesday
+
+
+
+
+Thursday
+
+
+
+
+Friday
+
+
+
+
+
+
+Advanced
+Programming Languages 9:30 - 10:20
+
+
+
+
+(open)
+
+
+
+Advanced
+Programming Languages 9:30 - 10:20
+
+
+
+
+(open)
+
+
+
+Advanced
+Programming Languages 9:30 - 10:20
+
+
+
+
+
+
+Lunch 11:30 - 12:30
+
+
+
+Lunch 11:30 - 12:30
+
+
+
+Lunch 11:30 - 12:30
+
+
+
+Lunch 11:30 - 12:30
+
+
+
+Lunch 11:30 - 12:30
+
+
+
+
+
+Office Hours 2:00 - 3:00
+
+
+
+Programming
+I 2:00 - 3:20
+
+
+
+
+Office Hours 2:00 - 3:00
+
+
+
+Programming
+I 2:00 - 3:20
+
+
+
+
+Office Hours 2:00 - 3:00
+
+
+
+
+See also the
+Computer
+Science Calendar
+for department events.
+
+
+
+T
+EACHING
+
+
+This semester I am teaching
+Programming
+I
+(C++) and
+Advanced
+Programming Languages
+.
+
+
+
+
+I
+NTERESTS
+
+
+I am generally interested in artificial intelligence,
+cognitive science, and machine learning. Specifically, I am interested
+in teaching artificial neural networks (aka, connectionist networks)
+how to perform high-level cognitive tasks such as analogy-making. I
+plan on forming an Artificial Intelligence Lab here at the University
+of Arkansas where we will study robots, machine learning, neural
+networks, and other forms of artificial intelligence. The emphasis
+will be on systems capabable of learning high-level cognitive
+abilities starting with nothing but low-level perceptions. I have also
+been working on organizing a
+Cognitive Science Program
+here as
+well.
+
+If you have
+ideas
+,
+comments
+,
+or
+questions
+, feel free to drop
+me a line.
+
+
+
+
+P
+UBLICATIONS
+
+
+Behavior-Based Analogy-Making
+Proceedings
+of the Cognitive Science Society, 1996 (postscript)
+
+
+A short description of a neural network that makes analogies.
+
+
+Implicit Analogy-Making: A Connectionist
+Exploration
+Midwest
+AI & CS, 1996 (html)
+
+
+Reports on three experiments done with the neural network analogy-making
+program introduced in the above CogSci report.
+
+
+A distributed
+representation of multiple objects in a visual scene.
+(postscript 183K)
+
+
+Examination of a novel method of representing objects without resorting
+to named roles and relations. Midwest Artificial Intelligence and Cognitive
+Science Conference Proceedings (Blank, 1995).
+
+
+Grounding
+via Scanning: Cooking up Roles from Scratch.
+(postscript 112K)
+
+
+A look at a connectionist model that develops without the knead for
+named roles and fillers. Midwest Artificial Intelligence and Cognitive
+Science Conference Proceedings (Blank, 1992).
+
+
+Exploring
+the Symbolic/Subsymbolic Continuum: A case study of RAAM.
+(postscript
+476K)
+
+
+An in-depth look at the mechanics of recursive auto-associative memory,
+or RAAM. Discusses how this connectionist model fits into the symbolic
+and subsymbolic paradigms (Blank, Meeden, and Marshall, 1992).
+
+
+Emergent
+Control and Planning in an Autonomous Vehicle
+. (postscript 247K)
+
+
+Proceedings of the 15th annual Cognitive Science conference (Meeden,
+McGraw, Blank, 1993).
+
+
+
+
+
+P
+ROJECTS
+
+
+Starting a
+Cognitive Science
+Program at UArk.
+
+Con-x
+: Connectionist
+programming language,Tcl/Tk graphics programs, and associated support tools.
+
+Psychological Experimenter's Toolbox: Sperling's Whole, Partial, and
+Word Superiority Experiments. A DOS program for DOS, Win3.1, Win95, WinNT.
+The
+program
+, and
+a
+users guide
+.
+
+Starting a robotics and perceptual processing laboratory at UArk.
+
+
+The robot is on order: expected shipping date 11/01/96
+
+See robot run. See robot see.
+See
+it yourself
+. (Ours is red, of course).
+
+
+Pioneer I
+
+Fast-Track Vision Expansion System
+
+Pair of Radio Modems
+
+
+Name the robot! RazorBot?! Send me your
+suggestions
+.
+
+
+
+
+
+
+T
+HESIS
+
+
+I am currently finishing my thesis,
+Learning
+to See Analogies: A Connectionist Account
+, at Indiana University under
+the direction of
+Michael
+Gasser
+.
+
+
+
+
+F
+AMILY
+
+
+Thaddeus Scott Blank - Born June 5, 1995. Razorbot - Expected December,
+1, 1996.
+
+See also my wife,
+Laura Blankenship
+,
+and her adventures on the web.
+
+
+
+
+
+C
+ONTACT
+I
+NFORMATION
+
+
+Full Name:
+Douglas S. Blank
+
+Internet:
+dblank@comp.uark.edu
+
+Office Mail:
+232
+Science Engineering, Fayetteville, AR 72701
+
+Dept. Phone:
+(501)575-6427
+
+My Office:
+SCEN 314C
+
+Phone:
+575-8755
+
+Fax: (
+501)575-3817
+
+Home address:
+2565 Megan Dr., Fayetteville, AR 72703
+
+Home phone:
+(501)527-6530
+
+
+
+
+
+Current time is Monday, 25-Nov-96 17:02:51 CST
+Last Updated:  Friday, 22-Nov-96 13:06:58
+
+Vistor number:
+
+
+
+

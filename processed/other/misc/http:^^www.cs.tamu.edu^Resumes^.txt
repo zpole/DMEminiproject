@@ -1,0 +1,81 @@
+Date: Tue, 14 Jan 1997 19:54:46 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+
+Search CS Resumé Bank
+
+
+
+
+
+Search The Resumé Bank
+
+
+Any Computer Science student with a listing on the
+Personal Pages is eligible to be listed in the Computer Science Resumé
+Bank.  To add your resume, please
+fill out the
+Resumé Bank request form
+(accessible only from CS machines).
+
+
+View all resumés in the Resumé Bank
+
+View resumés with the following restrictions
+
+
+Graduation Date
+
+Semester:
+
+Spring (May)
+Summer(August)
+Fall (December)
+
+Year:
+
+1996
+1997
+1998
+
+Major:
+
+Computer Science
+Computer Engineering
+
+Degree:
+
+B.S.
+M.S.
+Ph.D.
+
+Job Type:
+
+Permanent
+Co-op
+Internship
+
+Search Resumé Description:
+Please enter the list of keywords you would like to find, separated by spaces:
+
+
+
+Please indicate your preference:
+
+all words in the list must appear
+
+at least one word in the list must appear
+
+
+
+
+
+Computer Science Homepage
+
+
+
+Computer Science Internet Publishing Services
+-- Wednesday, July 31, 1996
+
+
+

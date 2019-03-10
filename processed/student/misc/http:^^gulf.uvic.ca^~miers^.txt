@@ -1,0 +1,86 @@
+Date: Tue, 26 Nov 1996 16:24:53 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Wed, 05 Jun 1996 23:15:00 GMT
+Content-length: 2400
+
+
+Janice Diane Miers
+
+
+
+
+
+
+
+Jan Miers
+
+
+e-mail to miers@gulf.uvic.ca
+
+
+Hear a
+welcome message
+(au format)
+
+Links to places mentioned on this page
+
+[
+Computer Science
+]
+[
+University of Victoria
+]
+[
+Education Services Group
+]
+
+
+
+
+Professional
+Information
+
+Aside from being a part-time graduate student in
+Computer Science, I am also a full-time employee of the
+University of Victoria, Computing and Systems Services. I work in
+Education Services Group and am
+often developing or giving courses in DOS,
+Windows, Macintosh, and UNIX applications.
+I recently presented a seminar "Creating a
+Home Page - A Beginner's Guide". The
+slides are available on-line.
+
+Note: I am on study leave, April 1
+to September 30, 1996
+
+
+Current Projects
+I am very interested in exploring the Web as a teaching tool. For
+a project this term, I have developed the first part of an
+interactive tutorial in logic.
+CSC 586 Advanced Webology Project
+
+Also, this is a convenient place to put
+notes
+on my research into adult
+learning styles.
+
+
+Personal
+Information
+
+I love opera, classical guitar - I will get back
+to playing as soon as I finish graduate studies, and gardening. One of my favorite
+web resources for gardening is the
+Time Life Complete
+Gardener
+search page. Finally, just for fun,
+I have a virtual tour of my
+kitchen
+, which makes extensive use of client-side
+imagemaps.
+
+
+Your visit has been counted.
+Last updated: April 24, 1996

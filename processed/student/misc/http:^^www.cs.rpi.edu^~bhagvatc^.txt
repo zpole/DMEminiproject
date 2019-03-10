@@ -1,0 +1,45 @@
+Date: Thu, 21 Nov 1996 22:50:09 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2322
+Last-modified: Sun, 17 Nov 1996 17:29:36 GMT
+
+
+Chak's Home Page (The Hi-tech Version)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Although this page requires a
+browser that supports frames to deliver its full impact, it is humane
+enough to realize that frames are not yet standard HTML, but is only a
+Netscape extension.
+
+The World of Chak Bhagvati
+
+
+
+
+
+
+
+

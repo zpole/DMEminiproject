@@ -1,0 +1,42 @@
+Server: Dienst v4-1-0
+MIME-version: 1.0
+Content-type: text/html
+Complete Orthogonal Decomposition for Weighted Least Squares
+
+Complete Orthogonal Decomposition for Weighted Least Squares
+Patricia D. Hough and  Stephen A. Vavasis
+95-203
+December 1994
+Consider a full-rank weighted least squares problem in which the weight matrix is highly ill-conditioned. Because of the ill-conditioning, standard methods for solving least-squares problems, QR factorization and the nullspace method for example, break down. G.W. Stewart established a norm bound for such a system of equations, indicating that it may be possible to find an algorithm that gives an accurate solution. S.A. Vavasis proposed a new definition of stability that is based on this result. He also defined the NSH algorithm for solving this least-squares problem and showed that it satisfies his definition of stability. In this paper, we propose a complete orthogonal decomposition algorithm to solve this problem and show that it is also stable. This new algorithm is simpler and more efficient than the NSH method.
+
+
+How to view this document
+
+
+
+Display the
+whole
+document in one of the following formats.
+
+PostScript
+234330 bytes.
+
+
+
+Print or download all or selected pages.
+
+
+
+
+Cornell Theory Center copyright information
+
+[
+Search
+]
+
+NCSTRL
+This server operates at the Cornell Theory Center.
+
+Send email to
+doc-comments@tc.cornell.edu
+

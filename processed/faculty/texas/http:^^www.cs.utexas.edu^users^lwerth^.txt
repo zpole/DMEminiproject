@@ -1,0 +1,114 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:44:08 GMT
+Content-Type: text/html
+Content-Length: 3191
+Last-Modified: Sunday, 01-Oct-95 20:21:12 GMT
+Laurie Honour Werth
+
+
+
+Laurie Honour Werth
+
+Lecturer
+
+
+lwerth@cs.utexas.edu
+
+
+
+
+Current Semester: Fall, 1995
+
+Office Hours
+for Fall, 1995:
+
+
+TIMES:
+(tba)
+
+OFFICE: Taylor 5.110
+
+PHONE: 471-9535
+
+
+Links to Classes:
+
+
+
+CS373 - Software Engineering
+
+
+CS 378 - Contemporary Issues In Computer Science
+
+
+
+
+Professional Service
+
+Vice-Chair for Education
+,
+IEEE
+Technical Committee on Software Engineering, 1991-present
+
+Co-chair
+, ACM CSC Conference, 1992-94
+
+Chair
+,
+ACM
+Professional Development Committee, 1991-present
+
+
+
+
+Areas of Interest
+
+Software engineering
+and cognitive science
+
+
+
+Summary of Research
+My current work centers on the development of software tools and
+environments. Other areas include computer-human interface and
+software metrics.
+
+
+
+
+Selected Recent Publications
+
+L. H. Werth, "Quality assurance for a software engineering project,"
+IEEE Transactions on Education
+, January 1993.
+
+L. H. Werth, "Lecture notes on software process improvement,"
+CMU/SEI-93-EM-8
+, Feb. 1993.
+
+L. H. Werth, "Industrial-strength CASE tools for software engineering classes," in
+Software Engineering Education
+, J. Tomayko, Eds. Springer-Verlag, 1991.
+
+L. H. Werth and John S. Werth, "Directions in software engineering education," in
+Proceedings from Workshop on Directions in Software Engineering
+(ICSE), May 1991.
+
+L. H. Werth, "Object-oriented programming on the Macintosh,"
+Journal of Object-Oriented Programming
+, Nov.-Dec. 1990.
+
+
+
+
+Other Useful Links:
+University of Texas
+Computer Science Department
+Home Page
+
+Faculty Profiles
+
+CS Classes
+
+Last Update: August 13, 1995

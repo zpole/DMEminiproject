@@ -1,0 +1,162 @@
+Date: Thu, 21 Nov 1996 20:10:29 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 10 May 1995 17:07:31 GMT
+Content-length: 4579
+
+Charles Elkan
+
+
+
+
+
+CHARLES ELKAN
+
+Assistant Professor
+Department of Computer Science and Engineering
+University of California, San Diego
+La Jolla, California 92093-0114
+(619) 534-8897
+(619) 534-7029 (fax)
+
+elkan@cs.ucsd.edu
+
+
+
+
+
+
+
+AWARDS
+
+Honorable mention, best-written paper competition, National
+Conference on Artificial Intelligence (AAAI'93), July 1993, for
+The Paradoxical Success of Fuzzy Logic
+.
+Best paper award, IEEE Conference on Artificial Intelligence
+for Applications (CAIA'93), March 1993, for
+Categorization-Based Diagnostic Problem Solving
+in the VLSI Design Domain
+with A. Hekmatpour.
+
+
+
+
+COMMITTEES
+
+Program committee member,
+1995 International Conference on Machine Learning
+(
+ML'95
+),
+1993 National Conference on Artificial Intelligence (AAAI'93),
+1991 National Conference on Artificial Intelligence (AAAI'91), and
+1990 Canadian Conference on Artificial Intelligence (CSCSI'90).
+Organizer and program co-chair, AAAI Spring Symposium on
+Knowledge Assimilation, March 1992.
+
+
+
+
+STUDENTS
+
+Amir Hekmatpour, Ph.D. 1993, Advisory Computer Scientist,
+IBM Manufacturing Technology Center, Austin, Texas.
+
+Timothy L. Bailey
+Alvaro Monge
+Michael Sussna
+Karan Bhatia
+
+
+
+SELECTED PAPERS
+
+
+T. L. Bailey
+and C. Elkan.
+The Value of Prior Knowledge in Finding Motifs with MEME
+.
+To appear in
+Proceedings of the Third International Conference on
+Intelligent Systems for Molecular Biology
+(ISMB'95).
+Cambridge, England, July 1995.
+
+T. L. Bailey
+and C. Elkan.
+Unsupervised Learning of Multiple Motifs in Biopolymers
+using Expectation Maximization
+.
+To appear in
+Machine Learning
+, 1995.
+
+A. M. Segre
+and C. Elkan.
+A High-Performance Explanation-Based Learning Algorithm
+.
+Artificial Intelligence
+, vol. 69, no. 1, pp. 1-50,
+September 1994.
+C. Elkan.
+The Paradoxical Success of Fuzzy Logic
+.
+IEEE Expert
+, pp. 3-8, August 1994.
+With fifteen responses on pp. 9-46.
+First version in AAAI'93 proceedings, pp. 698-703.
+C. Elkan.
+The Paradoxical Controversy over Fuzzy Logic
+.
+IEEE Expert
+, pp. 47-49, August 1994.
+
+T. L. Bailey
+and C. Elkan.
+Fitting a Mixture Model by Expectation Maximization
+to Discover Motifs in Biopolymers
+.
+In
+Proceedings of the Second International Conference on
+Intelligent Systems for Molecular Biology
+(ISMB'94),
+pp. 28-36.
+Stanford, California, August 1994.
+
+T. L. Bailey
+and C. Elkan.
+Estimating the Accuracy of Learned Concepts
+.
+In
+Proceedings of the Thirteenth International Joint
+Conference on Artificial Intelligence
+(IJCAI'93),
+pp. 895-900.
+Chambéry, France, September 1993.
+A. Hekmatpour and C. Elkan.
+Categorization-Based Diagnostic Problem Solving
+in the VLSI Design Domain
+In
+Proceedings of the Ninth IEEE
+Conference on Artificial Intelligence for Applications
+(CAIA'93),
+pp. 121-127.
+Orlando, Florida, March 1993.  IEEE Press.
+C. Elkan.
+Reasoning about Action in First-Order Logic
+.
+In
+Proceedings of the Ninth Biennial
+Conference of the Canadian Society for Computational
+Studies of Intelligence (CSCSI'92)
+.
+Vancouver, Canada, May 1992.
+Morgan Kaufmann Publishers, Inc.
+
+
+
+
+elkan@cs.ucsd.edu
+Fri Apr 21 1995
+

@@ -1,0 +1,105 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:40:11 GMT
+Content-Type: text/html
+Content-Length: 3191
+Last-Modified: Monday, 17-Jun-96 23:50:28 GMT
+
+
+The Great Garini's Home Page
+
+
+
+Gary Duzan
+
+a.k.a. Tall Pale Stranger
+
+
+
+
+
+
+The above are from my student id and driver's license, respectively,
+since that's all I had handy at the time. They suffice for a rough
+approximation of my appearance.
+I'm often on
+ISCA BBS
+,
+so you could look for me there. Or send me mail. My main address is
+gary@wheel.tiac.net
+,
+but you could also send it to
+duzan@ccs.neu.edu
+.
+I'll be looking for work starting in early '97. If you have a challenging
+position available in Object-Oriented or Systems Software
+Development, please check out my resume in
+text
+or
+PostScript
+format.
+For all sorts of strange insights into my personality,
+finger duzan@ccs.neu.edu
+.
+(It is a little slow at times, so be patient.)
+My home machine, wheel.tiac.net, runs
+NetBSD
+,
+a free Berkeley-derived OS, and connects to the net via
+TIAC
+,
+The Internet Access Company, using PPP over a Motorola Power 28.8
+modem.
+Since DUZAN is such a rare name, its origins have always interested
+me. Take a look at the
+GEDCOM Database
+of the genealogical data that I've collected. Most comes from other
+DUZAN researchers, most notably Doug Duzan and Mary Duzan Hawley,
+but I've added what I could, including my own branch of the family.
+The database currently contains 4095 people, 1501 families, and is
+about 530K of ASCII text.
+Interesting Places to Visit
+
+
+
+Babylon 5
+
+
+Doctor Who
+
+
+The Simpsons
+
+
+J.R.R. Tolkien
+
+
+The Wheel of Time
+
+
+Mike Oldfield
+
+
+Andreas Vollenweider
+
+
+Nightnoise
+
+
+CS Tech Reports
+
+
+U.S. Government Info
+
+
+The Tunes Project
+
+
+Northeastern University College of Computer Science
+
+
+The MBTA Commuter Rail
+
+
+
+

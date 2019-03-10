@@ -1,0 +1,125 @@
+Date: Tue, 26 Nov 1996 02:51:24 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3438
+Last-modified: Wed, 20 Nov 1996 22:52:30 GMT
+
+Hui Lei
+
+
+
+
+
+Hui Lei
+
+Mobile Computing Lab
+
+Computer Science Department
+
+Columbia University
+
+
+
+School
+
+
+Columbia University
+, New York, NY
+Ph.D. candidate in
+Computer Science
+.
+Courant Institute
+,
+New York University
+, New York, NY
+M.S. in
+Computer Science
+, December 1989.
+Zhongshan University
+, Guangzhou,
+China
+B.S. in
+Computer Science
+, June 1987.
+
+Work
+
+
+IBM T. J. Watson Research Center
+, Hawthorne, NY
+Summer Intern, 1994 & 1995
+Syncsort Inc.
+, Woodcliff Lake, NJ
+Senior Software Engineer, 1990 - 1993
+
+Publications
+
+
+Hui Lei and Dan Duchamp.
+An Analytical Approach to File Prefetching
+.
+In
+Proc. 1997 USENIX Annual Technical Conference
+, January 1997.
+Also available as Technical Report CUCS-031-96,
+Computer Science Department, Columbia University, 1996.
+Carl Tait, Hui Lei, Swarup Acharya and Henry Chang.
+Intelligent File Hoarding for Mobile
+Computers
+. In
+Proc. First ACM International Conference on
+Mobile Computing and Networking
+, November 1995.
+Hui Lei.
+Implementation of High
+Level Synchronization Mechanisms on a Parallel Computer
+.
+Master's thesis, New York University, 1989.
+Shixian Li and Hui Lei.
+A Structured Programming Environemnt
+for Modular Pascal
+.
+In
+Acta Scientiarum Naturalium Universitatis Sunyatseni
+,
+No. 1, 1988.
+
+Research Interests
+
+
+Operating Systems and Networking.
+Data Management and Decision Support.
+Programming Languages and Compilers.
+Software Engineering and Environments.
+
+Hobbies
+
+
+Vocal music.
+Volleyball
+.
+Qigong
+.
+
+Collections
+
+
+Photo Album
+
+Favorite Quotes
+
+Landscapes of China
+
+
+
+
+
+Number of visitors:
+
+
+
+
+lei@cs.columbia.edu
+
+
+

@@ -1,0 +1,178 @@
+Date: Tuesday, 26-Nov-96 03:04:30 GMT
+Server: NCSA/1.1
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Wednesday, 20-Nov-96 06:54:23 GMT
+Vijay's  Home
+
+
+<!-- begin
+//global variables
+var id, pause=0, position=0;
+function banner(){
+//variables declaration
+var i,k,msg=" Welcome to the Vijay Arun's Home at NMSU! "
+//increase msg
+k=(50/msg.length)+1;
+for(i=0;i<=k;i++) msg+=" "+msg;
+//show it to the window
+document.form2.banner.value=msg.substring(position,position+50);
+//set new position
+if(position++==msg.length) position=0;
+//repeat at enteres speed
+id=setTimeout("banner()",100);  }
+// end -->
+
+
+
+
+
+
+
+
+Vijay Arun Venkataraman is glad to see you!
+
+
+
+
+
+I'm a Graduate Student in the department of Computer Science at New Mexico
+State University in the city of Las Cruces.
+
+
+
+SPIC MACAY AT NMSU!!!
+
+
+
+
+Don't forget to sign my Guestbook Visitor Number
+
+
+
+Academic Interests
+I'm interested in the application of Computer Graphics in the field of
+Entertainment & Eduational Television. My main areas of interest are
+Animation, Rendering, Video & Post-production. I have also taken recent interest
+in the areas of Software Engineering & Visual Programming Languages.
+
+
+
+Contacting Me
+
+E-Mail:
+vvenkata@cs.nmsu.edu>
+
+Phone:
+(Res.) 505 527-1887
+
+Web:
+http://www.cs.nmsu.edu/~vvenkata
+
+
+Snail Mail to my School :
+
+Vijay Arun Venkataraman
+
+New Mexico State University
+
+Department of Computer Science
+
+PO Box 30001, Dept. CS
+
+Las Cruces, NM, 88003
+
+Snail Mail to my Residence:
+
+Vijay Arun Venkataraman
+
+625, E. University Ave. , #16,
+Las Cruces, NM, 88001
+
+
+
+
+
+Vijay Arun : The South Indian Classical Musician
+
+
+
+
+Links to some interesting places
+
+HCI Index at the WWW virtual library
+
+
+
+
+Check out your address in this Geocities WebMap
+
+My place on the Map for you (look for the cross mark!)
+
+
+Check out the Madras Fact file (the place where I come from!)
+
+
+
+
+
+
+Are you on
+
+
+Passenger List?
+
+
+
+
+
+
+
+
+
+
+
+This page looks and works best when using
+Netscape
+
+One or more backgrouds from
+http://www.yourteam.com/
+
+
+
+
+
+
+
+
+Talk about the Indian version of Beavis.
+
+
+
+
+
+hehehehehehe! (He is cool!)
+
+
+
+
+
+
+
+
+
+
+
+Sign My Guestbook
+
+View My Guestbook
+
+
+
+
+Return to NMSU Home Page
+
+
+
+
+

@@ -1,0 +1,245 @@
+Date: Tue, 26 Nov 1996 17:47:56 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 19 Jul 1996 19:12:52 GMT
+Content-length: 9013
+
+
+
+Adam's Homepage
+
+
+<!-- Beginning of JavaScript Applet -------------------
+
+/* Copyright (C)1996 Web Integration Systems, Inc. DBA Websys, Inc.
+All Rights Reserved.
+
+This applet can be re-used or modified, if credit is given in
+the source code.
+Chris Skinner, January 30th, 1996.
+Hacked for CNNfn by RD, Jan. 31, 1996
+*/
+
+function scrollit_r2l(seed)
+{
+var m1  = "Hi, this is Adam . . .";
+var m2  = " . . . don't you love cheap Web gimmicks . . .";
+var m3  = " . . . doesn't it piss you off that I have taken over your status bar . . . ";
+var m4  = " . . . now you can't see where an URL leads . . .";
+var m5  = " . . . surely its worth it to listen to my inane babble . . .";
+
+
+var msg=m1+m2+m3+m4+m5;
+var out = " ";
+var c   = 1;
+
+if (seed > 100) {
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+timerTwo=window.setTimeout(cmd,50);
+}
+else if (seed <= 100 && seed > 0) {
+for (c=0 ; c < seed ; c++) {
+out+=" ";
+}
+out+=msg;
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+window.status=out;
+timerTwo=window.setTimeout(cmd,50);
+}
+else if (seed <= 0) {
+if (-seed < msg.length) {
+out+=msg.substring(-seed,msg.length);
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+window.status=out;
+timerTwo=window.setTimeout(cmd,50);
+}
+else {
+window.status=" ";
+}
+}
+}
+// -- End of JavaScript code -------------- -->
+
+
+
+Adam's Homepage
+Hi, I'm a graduate student here in the Department of Computer Science
+at the University of New Mexico.  I'm working for
+Dave Ackley
+as an R.A.  I could tell you what I
+was working on, but then I would have to kill you.  Haven't really had
+time to work on a homepage as much as I would have liked.  You can
+however get my
+resume (CV)
+.  You might prefer the
+PostScript version
+if you plan on printing it.
+
+
+
+Academic Interests
+Generally I am interested in computers and how they can make my life
+better.  That interest takes a lot of different forms.  I like HCI,
+new approaches to computation and techniques to describe them.  I am
+also interesting in using computer modelling as a tool to better
+understand the natural world, especially if this understanding can in
+turn be leveraged to build better computer systems.  In this vein I
+worked at
+The Santa Fe Institute
+last year where I worked on evolving Cellular Automata (you can look
+at my
+homepage
+there
+to see what I was up to.)
+
+
+Politics
+
+
+I am really quite concerned with the recent
+censorship
+activities, such as the Telecommunications Reform Bill, on the
+'net
+and
+writ
+large
+.  I also try to keep track of a few other issues, most
+importantly to me are
+privacy
+and
+other
+civil
+liberties
+, especially
+electronic
+freedom
+.  In addition I believe that the Drug War and the
+hiring
+practices
+which accompany is a threat to civil rights.
+I am a member of the
+Electronic Frontier
+Foundation
+and the
+American Civil
+Liberties Union
+as well as the
+Association for Computing Machinery
+.  I
+also support the
+Internet Privacy
+Coalition
+, the
+League for Programming
+Freedom
+, the
+Free
+Software Foundation/GNU
+, and the
+cypherpunk
+ideal.
+
+Recreation
+I enjoy most outdoor activities, especially [rock, ice, mountain]
+climbing
+and
+taking pictures thereof
+.  I have always
+lived quite near the wilderness and plan on moving back if this whole
+global village, telecommuting thing comes true.  Heck, these days even
+the
+American Alpine
+Club
+and the
+Access Fund
+are online.  I
+just joined both this year.
+I have a fondness for
+nice
+beer
+.  In particular I find Bridgeport Special (only availiable at
+their brewpub that I know of) and Pintail ESB, Full Sail Pilsner,
+Widmer Hefeweizen and Sierra Nevada Porter to be very pleasing.  While
+I think that their quality control has slipped in recent years I also
+enjoy an occasional Ruby from the McMenamins (I would recommend the
+smaller places that still brew their own beer on site.); how I miss
+the Pacific Northwest.  Fundamentaly I guess I am just another typical
+West-coast, high-quality-of-life, slacker.
+
+Travel
+I am planning to take a
+trip
+to
+South-East Asia
+,
+New
+Zealand
+, and
+Australia
+within the next year.  I spent some of my formative
+years in New Zealand, so I am really looking forward to visting.  Any
+advice/reccomendations appreciated.
+Web Resources
+Despite my rather
+feeble web page, I really do think that the WWW is a useful tool.  If
+I had more time, I might make more use of these tools and resources.
+
+HTML converters
+
+OneWorld/SingNet WWW and HTML Developer's JumpStation - ver 2.0 (21 Oct 1994)
+
+Composing Good HTML
+
+A nice essay by my friend
+J. Eric Tilton
+about
+writing HTML.
+html-helper-mode
+
+An emacs mode written by my partner in crime at SFI,
+Nelson Minar
+which makes
+writing HTML a bit less painful.
+
+Uh, if you are interested you can get my
+current
+bookmarks
+.  I know that's kind of lame, just throwing those all
+out there without comments and all, sorry 'bout that.  You can also
+take a peek at my
+Gnus Adaptive Scoring Files
+if
+you like.  I think that these are examples of nice simple ways that
+people can share knowledge.
+
+
+Vital Signs:
+
+
+Adam Messinger
+c/o Computer Science Department
+Farris Engineering Center
+University of New Mexico
+Albuquerque, NM 87131
+(505)
+277-6509 (office)
+(505) 255-3989
+(home)
+amessing@cs.unm.edu
+
+PGP Key
+
+
+
+Copyright ©
+1991-96
+,
+Adam M. Messinger <amessing@cs.unm.edu>
+
+Last modified: Sun May  5 11:05:35 MDT 1996
+
+
+

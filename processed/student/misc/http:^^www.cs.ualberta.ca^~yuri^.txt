@@ -1,0 +1,403 @@
+Date: Tue, 26 Nov 1996 16:54:20 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 13611
+Last-modified: Wed, 15 May 1996 20:20:39 GMT
+
+
+Yuri Leontiev's Home Page
+
+
+
+Yuri Leontiev
+
+Ph.D. student (Computing Science)
+
+
+This page is under construction.
+Some links may not work yet and some information may be incomplete.
+
+Welcome
+Welcome and thank you for visiting this place.
+This page contains some
+personal information
+as well as
+topics and links related to my
+research
+and other
+areas of interest
+.
+Disclaimer
+
+Everything on this page represents
+my own views and opinions
+, which may or may not
+be the views and opinions of the University of Alberta,
+Department of Computing Science, or any other person or
+organization. I am not responsible for the content of pages
+referred to by the links on this page except for the ones
+that are maintained by me.
+
+
+Research Interests
+My research interests include object-oriented databases and
+persistent programming languages.
+Links listed here belong to several different categories:
+
+Literature search
+
+Various interesting groups and projects
+
+Other research-related links
+
+Programming
+
+
+I am currently working on the database programming language for
+TIGUKAT Objectbase Management System
+. These are the (desired)
+properties of the language:
+
+Strong static typing with the possibility of dynamic typing
+Well-defined semantics
+Self-reflection
+Flexible and possibly user-definable syntax
+Tight integration with the database. This includes
+
+Orthogonality of type and persistence
+Integrated query language
+Ability to operate with and invoke code stored in the database
+View description mechanism
+Transaction support
+
+
+Here
+is a set of slides that represents an overview of the system.
+Research-related links
+This is a collection of (arbitrarily classified) links related to
+my research:
+Literature search
+
+
+Unified Computing Science Technical Report Index
+
+University of Alberta Library System
+
+INRIA bibtex index
+
+Computer Science Bibliography Collection at University of Karlsruhe
+
+Its mirror at UNC
+
+OODBMS literature
+
+
+Various groups and projects
+
+
+ISDOC articles & reports (U of Twente)
+
+Dylan manual: Contents
+
+Distributed Interface Object System Beta 1.0 Test Program
+
+A Theory of Objects
+
+JAVA home page
+
+DB lab at University of Massachusets at Amherst
+
+ODMG home page
+
+Arthur Kellers's OO papers (at Stanford)
+
+Bart Jacobs' theoretical papers
+
+Seminar on Quantum Computation
+
+
+Other research-related links
+
+
+Object-Orientation FAQ
+
+Programming Language Research
+
+Research Language Overviews
+
+Object-Orientation Ph.D. Network
+
+CUI W3 Catalog
+
+Database Systems & Logic Programming
+
+The World-Wide Web Virtual Library: Formal Methods
+
+Action Semantics
+
+Evolving Algebras
+
+LIT Home Page
+
+OO Bibliography at CUI
+
+
+Object Agency On-line documents
+
+
+Object Databases Mini-FAQ
+
+
+Object-oriented resources
+
+Another collection of object-oriented links (huge)
+
+ODP standards
+
+OOPSLA'95 Virtual PhD Forum
+
+Database Schema Evolution Page
+
+Temporal Database Links
+
+
+Programming
+
+
+Reference:Man Pages
+
+ANSI draft for C++
+
+The C++ Virtual Library
+
+Xlopedia
+
+
+
+Other Areas of Interest
+I like to try new programs, especially freeware stuff designed
+for
+MSDOS and/or Windows 3.1
+.
+This is my hobby.
+Here you can find links related to
+
+Software
+
+Net surfing
+
+Russia
+
+Linguistics
+
+Local facilities
+
+Other
+(not easily categorized as one of the above)
+
+Software links
+
+Hypertext Archie Servers (Nexor)
+might help you if
+you know exactly what you are looking for. Otherwise,
+try to check the following link groups:
+
+TeX and HTML
+
+GNU
+
+Linux
+
+Unix
+
+DOS and Windows
+
+Bibliographic Programs
+
+
+TeX and HTML
+
+
+
+CTAN-Web Home Page
+
+
+Document Processing
+
+
+How to create a home page
+
+
+GNU
+
+
+GNU Documentation Map
+
+GNU archive at Gatekeeper (DEC)
+
+GNU archive at MIT
+
+
+Linux
+
+
+Linux Documentation Project
+
+Linux Frequently Asked Questions with Answers
+
+Sunsite
+
+Sunsite mirror
+
+mrcnext.cso.uiuc.edu (Slackware distribution)
+
+
+Unix
+
+
+Dos emulator for X windows
+
+
+DOS and Windows
+
+
+Microsoft Corporation World-Wide-Web Server
+
+OAK archives
+
+Windows Utility Report
+
+CICA's WWW Server
+
+Garbo archives
+
+DEC FTP and WWW Archives
+
+PC software announcements
+
+Dataplex
+
+CDROM
+
+Mail Clients
+
+The Ultimate Collection of Winsock Software
+
+Jumbo! - Words & Graphics: Windows: Word for Windows, Word Processing
+
+Games archive at UofW
+
+Mac emulator (Executor)
+
+
+Net-surfing links
+
+
+Special Internet Connections: Last update 10/15/94
+
+Collection `Information Systems - International'
+
+Starting Points for Internet Exploration
+(this one came from Mosaic)
+GNN Technology Page
+
+Global Network Academy Meta-Library
+
+GNN Sites Worldwide
+
+
+Russia-related stuff
+
+
+Russified TeX and LaTeX
+
+Rate US Dollars in Russia
+
+Relcom Hypertext Online Service
+
+Russian Web's servers List
+
+Information and Publishing Department, Mathematical Branch RAS
+
+SovInformBureau
+
+
+Linguistics
+
+
+The World-Wide Web Virtual Library: Linguistics
+
+Linguistics Archive
+
+
+Local links
+
+
+CNS On-Line Help Facility
+
+How to Print Using Printing Accounts
+
+Dept. of Computing Science/University of Alberta
+
+University of Alberta Library System
+
+
+Other interesting links
+
+
+Online Career Center
+
+CareerMosaic
+
+Weather (telnet; login as srcc)
+
+International Business Machines
+
+GNU Software Brief of Grand Unification Theory
+
+
+
+Personal Information
+
+Current status
+
+I am currently a Ph.D. student in the
+Deptartment of Computing Science
+at the
+University of Alberta
+.
+My
+research
+is part of the
+TIGUKAT Objectbase Management System Project
+which is one of the research projects carried out at the
+Laboratory for Database Systems Research
+in our Department.
+It is supervised by
+Prof. Tamer Özsu
+and
+Prof. Duane Szafron
+.
+Address
+
+Yuri Leontiev
+615 GSB
+Deptartment of Computing Science
+
+University of Alberta
+Edmonton, Alberta
+Canada T6G 2E1
+Phone: (403) 492-4828 (lab), (403) 492-3978 (office)
+Fax: (403) 492-1071
+Email:
+yuri@cs.ualberta.ca
+WWW:
+http://web.cs.ualberta.ca/~yuri
+
+
+
+
+Last updated on Wed 11-29-1995
+
+
+

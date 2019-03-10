@@ -1,0 +1,66 @@
+Date: Tue, 05 Nov 1996 00:14:03 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 31 Oct 1996 22:28:50 GMT
+Content-length: 10249
+
+
+Tufts University Alumni E-Mail Address List
+
+
+
+Tufts
+University
+Alumni
+
+E-Mail Address List
+
+
+
+Here's the initial list.  It's not that great, but it is alphabetical
+by last name.  The list is growing and growing.  Soon its current
+implementation will be unwieldy.  At that point, I will devise a more
+sensible database format.
+You can enter information in this form and it will automatically be
+added to this page.  You should see the changes reloaded
+automatically.
+For married women who have changed their name, I suggest you enter
+your new last name followed by your old last name in parenthesis.  Ex:
+Last Name: Lukas (Meyer)
+WARNING: If your name is the exact same as someone
+else's on this list, you will replace their information!  If you have
+this problem, put your middle initial after your first name and this
+will hopefully solve it.
+This page is
+maintained by Chris Lukas.  Please contact me with questions, comments
+and suggestions at:
+lukas@cs.wisc.edu
+
+
+Last name:
+
+First name:
+
+Year:
+
+Full email address:
+
+Brief snippet of information you want to provide:
+
+
+
+
+
+
+
+
+Last Name
+
+First Name
+
+Year
+
+E-Mail Address
+
+Bit O' Information
+

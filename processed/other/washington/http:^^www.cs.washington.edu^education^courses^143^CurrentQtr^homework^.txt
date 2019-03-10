@@ -1,0 +1,99 @@
+Date: Mon, 02 Dec 1996 14:25:30 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 143 Homework Assignments
+
+
+
+CSE 143 Homework Assignments
+
+Assignments are generally handed out on
+Monday and due in section on Tuesday (about two weeks later).
+You must hand in a hard copy (paper) of your code as well as a floppy
+disk containing your files (including project/make files).  Each
+assignment should be in a single folder named "CSE143-HW
+n
+"
+where
+n
+is the number of the homework (1-5).
+Homeworks are graded both on correctness of external behavior
+and
+on clarity, organization, and documentation of the code.  Working but
+ugly code is not acceptable!
+The first two programming assignments must be completed individually.
+For specific later assignments, we may decide to allow you to work in
+groups of in teams of two.  Stay tuned for additional information if
+we decide to make this option available.
+Information on writing C++ programs you probably need for your
+homework is available
+here
+.
+
+
+
+Homework 1
+
+
+Assigned: September 30
+Due: October 8
+
+Instructions
+
+
+Sample Solutions
+
+
+Homework 2
+
+
+Assigned: October 10
+Originally Due: October 17, in section
+Now Due: October 21, before lecture
+
+Instructions
+
+
+Sample Solutions
+
+
+
+Homework 3
+
+
+Assigned: October 21
+Due: October 31, in section
+
+Instructions
+
+
+Sample Solutions
+
+
+Homework 4
+
+
+Assigned: November 12
+Due: November 26, in section
+
+Instructions
+
+
+Sample Solutions for
+Version 1
+
+
+Sample Solutions for
+Version 2
+
+
+
+
+
+cse143-webmaster@cs.washington.edu
+
+
+
+

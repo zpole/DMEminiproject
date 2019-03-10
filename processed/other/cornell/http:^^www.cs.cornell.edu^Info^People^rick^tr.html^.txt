@@ -1,0 +1,52 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 23:07:58 GMT
+Content-Type: text/html
+Content-Length: 1711
+Last-Modified: Tuesday, 24-Oct-95 13:56:23 GMT
+Online Tech Reports
+
+Online Papers
+
+(Richard S. Palmer)
+
+
+
+IMACS-94 --
+Physical Elements:
+Using chains and cell complexes to solve multiple domain PDE problems
+A brief description of how
+has been used to
+encode a Lax-Wendroff approximation to the 1D Euler Equations of fluid
+flow.
+TR94-1406 --
+Chain Models
+and Finite Element Analysis
+Shows how
+is a "programming
+language for FEM," by developing a three page executable encoding of a
+finite element approximation to plane stress using quadratic shape
+functions defined over triangles.
+TR93-1375 --
+Chain Models of
+Physical Behavior for Engineering Analysis and Design
+Suggests
+that because computers have a preeminent role in engineering analysis
+today,
+computation
+needs to be explicitly addressed in
+mathematical models of engineering systems, and proposes a methodology
+for doing this based on algebraic topological concepts.
+TR92-1246 --
+SimLab:
+Automatically Creating Physical Systems Simulators
+Describes a computer environment for creation lumped model simulators
+from high level specifications.
+ASME-WAM92 --
+1992 ASME Winter Annual Meeting SimLab Paper
+A later version of TR92-1246 that includes examples from electrical
+circuits, rigid body dynamics, etc.
+
+
+Rick Palmer / rick@cs.cornell.edu
+

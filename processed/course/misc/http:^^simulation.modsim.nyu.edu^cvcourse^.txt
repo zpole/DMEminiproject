@@ -1,0 +1,85 @@
+Server: CERN/3.0A
+Date: Tue, 26 Nov 1996 18:46:02 GMT
+Content-Type: text/html
+Content-Length: 2618
+Last-Modified: Thu, 14 Nov 1996 17:38:59 GMT
+
+
+Computer Vision G22.2270 Fall 96
+
+
+
+
+Computer Vision G22.2270
+
+This is the source for information about the Computer Vision course,
+G22.2270, Fall 1996, at New York University. This course is taught
+by
+Professor Robert Hummel
+.
+Outline
+
+The course outline is found in
+outline.txt
+.
+You'll find comments on the course content, the course textbook,
+and a sketch of the intended schedule in this file. In
+email_list.txt
+,
+you will find a list of the email addresses of all students associated
+with the course. The usernames associated with ACF logins are
+given in
+login_names.txt
+.
+Khoros
+
+We intend on making use of the Khoros image processing system.
+Initially, we want to use the DIP (Digital Image Processing) course.
+This is available only under Khoros 2.0, although later in the
+course, we want to make use of Khoros 2.1. First, you need to
+set up your account to access Khoros 2.0. Instructions for doing
+this are found in
+khoros_instructions.txt
+.
+In order to use Khoros, or to use netscape for that matter, you
+need to set up your X server. Use the instructions in
+x_instructions.txt
+to do that.
+DIP Course
+
+You should be able to learn a lot about image processing and computer
+vision from the online DIP course. To run it, follow the instructions
+in
+dip_instructions.txt
+.
+
+Midterm Projects
+
+As a midterm, all students are expected to implement a simple Khoros
+workspace to perform a simple image processing function.  Here are
+some sample
+projects
+to suggest the kinds
+of things that can be done.
+
+Khoros Manual
+
+Check out
+http://www.mbvlab.wpafb.af.mil/~dgadd/khoros/doc.html
+!
+
+Lectures
+
+Some portions of some lectures are available as PowerPoint presentations.
+Converted HTML of these presentations are available here. The
+current list:
+
+Lecture 1: Overview of Computer Vision Applications
+
+Lecture 2: Histograms and Point Operations
+
+Lecture 3: Convolutions and the Convolution Theorem (Not available
+on overheads at this time).
+
+
+

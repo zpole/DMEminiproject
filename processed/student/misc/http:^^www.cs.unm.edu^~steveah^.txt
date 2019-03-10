@@ -1,0 +1,72 @@
+Date: Tue, 26 Nov 1996 03:05:17 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 05 Nov 1996 02:17:56 GMT
+Content-length: 1945
+Steven Hofmeyr's Home Page
+
+
+
+
+Steven
+Andrew
+Hofmeyr
+
+
+Current Status
+
+Since 1994 Steven Hofmeyr has been a graduate student in
+the
+Phd
+program
+in the
+Computer Science
+Department
+at the
+University of New
+Mexico
+.
+He is
+currently a Visiting Scholar at the
+MIT
+
+AI
+lab, where he will be until
+the end of May 1997. His address at MIT is:
+Steven A. Hofmeyr
+545 Technology Square, Room 831
+Cambridge MA 02139
+tel: 617 253 6625
+email: sah@ai.mit.edu
+He is on the program committee for the
+New Security Paradigms Workshop '97
+.
+
+Education
+
+Steven Hofmeyr received a BSc(Hons) and an Msc in
+Computer Science
+at the
+University of the
+Witwatersrand
+, Johannesburg,
+South Africa
+.
+
+
+Research:
+Immunological Approaches to Computer Security
+
+
+Other Links
+
+
+
+
+Maintained by
+steveah@cs.unm.edu
+
+
+Copyright. © 1997 Steven A Hofmeyr
+
+

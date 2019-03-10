@@ -1,0 +1,66 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 19:22:21 GMT
+Content-Type: text/html
+Content-Length: 1248
+Last-Modified: Monday, 07-Oct-96 20:59:40 GMT
+
+
+Will Clinger's CCS Home Page
+
+
+
+William D Clinger
+
+
+Teaching
+
+
+
+The distinction between
+working code,
+correct code, and good code.
+
+COM 1370: Computer Graphics
+
+COM 1390: Algorithms
+
+
+
+Research
+
+
+
+Semantics
+of programming languages
+Compilers for higher-order and functional languages
+Garbage
+collection
+
+Twobit
+and
+Larceny
+
+
+
+Ephemera
+
+
+William D Clinger
+
+College of Computer Science
+,
+Northeastern University
+
+360 Huntington Avenue room 161CN
+Boston, MA 02115
+
+will@ccs.neu.edu
+
+
+Phone: (617) 373-8687
+Fax:   (617) 373-5121
+
+Last updated 7 October 1996.
+
+

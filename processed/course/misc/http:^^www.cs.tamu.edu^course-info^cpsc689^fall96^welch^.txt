@@ -1,0 +1,27 @@
+Date: Tue, 26 Nov 1996 18:55:02 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 476
+Last-modified: Thu, 12 Sep 1996 18:23:53 GMT
+
+CPSC 689-604, Welch
+
+
+CPSC 689-604:  Special Topics in Distributed Algorithms
+
+
+
+Student/Participant Information
+
+Handout 1:  Course Information
+
+Handout 2:  Term Project Guidelines
+
+Homework Assignments
+
+
+
+Jennifer Welch's Home Page
+
+
+

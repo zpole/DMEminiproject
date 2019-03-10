@@ -1,0 +1,283 @@
+Date: Tue, 14 Jan 1997 23:18:45 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+
+
+James Cremer
+
+
+
+James Cremer                          201N MacLean Hall
+Assistant Professor                   University of Iowa
+Computer Science Department           Iowa City, IA 52242
+cremer@cs.uiowa.edu                   (319) 335-0736
+FAX: (319) 335-3624
+
+See homepage for
+Workshop on Scenario and Traffic Generation for Driving Simulation
+, December 6-7, 1996.
+
+
+See homepage for
+The First Workshop on Simulation and Interaction in
+Virtual Environments
+, July 13-15, 1995.
+
+
+Research interests
+; simulation, virtual environments, integration of numeric
+and symbolic computing, geometric modeling, problem solving environments.
+
+
+Papers/publications
+
+
+Research Projects
+
+
+Teaching schedule and course information
+
+
+ACM TOMACS
+
+
+Software, images, temporary files, etc.
+
+
+Laura
+
+
+
+
+Selected Publications:
+
+
+Driving Simulation: Challenges for VR Technology
+J. Cremer, J. Kearney, Y. Papelis
+VR Blackboard column (ed. L. Rosenblum) in IEEE Computer Graphics and Applications
+, p. 16-20, September 1996.
+
+A Directable Vehicle Behavior Model for Virtual Driving Environments
+
+J. Cremer, J. Kearney, P. Willemsen
+Proceedings of 1996 Conference on AI, Simulation, and Planning in High Autonomy Systems
+, La Jolla, CA, March 1996.
+VRLOCO:  Real-time Human Locomotion from Positional Input Streams
+H. Ko and J. Cremer
+To appear in the PRESENCE: Teleoperations and
+Virtual Environments
+, 5(4), p. 1-15, 1996.
+
+NOTE: Postscript available on request.
+
+Formulating 3D Contact Dynamics Problems
+M. Anitescu, J. Cremer, and F. Potra
+, to appear in Mechanics of
+Structures and Machines
+, 24(4), p. 405-437, November 1996
+(earlier version available as University of
+Iowa Technical Reports in Computational Mathematics, Number 80, October 1995).
+On the Existence of Solutions to Complementarity Formulations
+for Contact Problems with Friction.
+M. Anitescu, J. Cremer, and F. Potra.
+Proceedings of the 1995 Complementarity Conference
+, SIAM (to
+be published in late 1996 or early 1997).  Revised version of University
+of Iowa Technical Reports in Computational Mathematics, Number 83,
+Dec. 1995.
+HCSM: A Framework for Behavior and Scenario Control in Virtual Environments
+J. Cremer, J. Kearney, and Y. Papelis.
+ACM Transactions
+of Modeling and Computer Simulation
+,  5(3), p. 242--267, July, 1995.
+
+NOTE: Postscript available on request.
+
+Creating Scientific Software.
+J. Cremer, R. Palmer, and R. Zippel.
+To appear in the International Journal in
+Computer Simulation
+, Ablex, 1997.
+NOTE: Postscript preprint:
+compressed Postscript paper
+
+
+Hierarchical, concurrent state machines for behavior modeling and scenario control
+
+O. Ahmad, J. Cremer, S. Hansen, J. Kearney, and  P. Willemson.
+Proceedings of 1994 Conference on AI, Simulation, and Planning in High Autonomy Systems
+, Gainesville, FL, Dec. 1994.
+
+Isaac: Building Simulations for Virtual Environments
+
+J. Cremer and G. Vanecek.
+Proceedings of the
+IFIP TC 5 WG 5.10 International Workshop on Virtual Environments
+,
+October, 1994, Coimbra, Portugal.
+Motion Control through Communicating, Hierarchical State Machines
+S. Hansen, J. Kearney, and J. Cremer.
+Proceedings of Fifth Eurographics Animation and Simulation
+Workshop
+, Oslo, Sept. 1994.
+
+Scenario Control for Virtual Environments
+
+J. Cremer and J. Kearney.
+Proc. IMAGE VII Conference,
+Tucson,
+AZ, June 12-17, 1994. (NOTE: file is compressed Postscript)
+
+The Software Architecture for Scenario Control in the Iowa Driving Simulator
+
+J. Cremer and J. Kearney and Y. Papelis and R. Romano.
+Proc. 4th Computer Generated Forces and Behavioral Representation Conference
+, Orlando, FL, May 4-6, 1994.
+Scenario Control for Real-time Driving Simulation
+M. Booth and J. Cremer and J. Kearney.
+Proceedings of Fourth Eurographics Animation and Simulation
+Workshop
+, Barcelona, Sept. 1993, 103-120.
+Experiment Authoring for Virtual Driving Environments.
+M. Bartelme and M. Booth and J. Cremer and D. Evans and J. Kearney and R. Romano.
+Proceedings of the First Eurographics Workshop on Virtual Environments,
+, Barcelona, Sept. 1993, 1-15.
+Programming Mechanical Simulations.
+J. Kearney and S. Hansen and J. Cremer
+in The Journal of Visualization and Computer Animation
+,
+Volume 4, Number 2, April-June 1993, pages 113--129.
+Generating Spectral Methods for Partial Differential Equations.
+G. Berkooz and P. Chew and R. Palmer and R. Zipel.
+Cornell Computer Science Department Technical Report, TR92--1308,
+this work is also in the proceedings of the Workshop on Intelligent Scientific
+Computation, part of the AAAI Fall Symposium Series, October 1992, Boston, MA
+
+Simlab: Automatically creating physical systems simulators
+
+R. Palmer and J.Cremer.
+In Automated Modeling, the proceedings of the
+Automated Modeling Workshop of the 1992 ASME Winter Annual Meeting
+,
+November 1992.
+An architecture of general-purpose physical system
+simulation --- integrating geometry, dynamics and control.
+
+Ph.D. Thesis
+, TR 89-987,
+Department of Computer Science, Cornell Univeristy, April 1989.
+The architecture of Newton, a general-purpose dynamics simulator.
+J. Cremer and A. J. Stewart
+IEEE International Conference on Robotics and Automation
+,
+1806-1811, 1989.
+
+
+Research Projects:
+
+
+
+
+
+Isaac: Simulation for Virtual Environments
+.
+
+
+
+HANK
+: small CS dept. driving simulator for use in scenario and scene
+authoring research.  Work in cooperation with Ford Motor Co.
+
+
+Behavior Simulation and
+Control -
+The
+Scenario Home Page
+
+
+
+
+Iowa Driving Simulator: scenario control and
+experiment authoring for real-time operator-in-the-loop virtual environments.
+Work in cooperation with Iowa's
+Center for Computer Aided Design
+.
+
+
+programming environments for development of physical systems simulators.  Originally had close ties to larger-scope SimLab project
+at Cornell University:
+SimLab project at Cornell
+.
+
+
+
+Fall 1996 Class:
+
+
+
+
+
+CS 297: The State of the Art in Graphics and Virtual Environments
+.
+
+
+
+Teaching Schedule
+
+TIME     M       T       W       TH      F
+1:30           CS297           CS297
+
+
+Some previous classes:
+
+
+
+Spring 1996:
+CS 21: Algorithms and Data Structures
+.
+Spring 1995:
+CS 161: Introduction to Robotics
+.
+
+
+
+Etc.
+
+
+Associate Editor: ACM Transactions on Modeling and Computer Simulation.
+
+TOMACS Home Page
+TOMACS Reviewers:  On-line
+review forms
+for e-mail (or hardcopy) submission of reviews.
+
+
+Links/files for downloading images/software/temp. paper files:
+
+
+Behavior Programming -
+HcsmC++ Information Page
+
+
+
+Iowa Driving Simulator
+facility/dome
+(color TIFF image - approx. 546K)
+
+
+Photo taken from
+inside Ford Taurus cab in Iowa Driving Simulator
+(color TIFF image - approx. 430K)
+
+
+"Creating Scientific Software"
+paper from
+paper list above.  (compressed Postscript file)
+
+
+Laura Farley Cremer
+
+
+Last modified: Monday, 13-Jan-97 12:23:38 CST
+

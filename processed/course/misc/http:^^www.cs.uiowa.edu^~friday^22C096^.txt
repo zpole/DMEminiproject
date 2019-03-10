@@ -1,0 +1,81 @@
+Date: Wed, 20 Nov 1996 23:18:26 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+22C:096 Topics in Computer Science, Orientation
+
+
+
+
+
+
+Syllabus
+:
+Assignments
+:
+Grading
+:
+Reading List
+:
+Going Public
+:
+Completed Projects
+
+
+
+
+
+What this class is about
+
+Help
+
+
+
+
+
+to the
+Department of Computer Science
+
+
+Direct any errors in the 22C:096 pages to
+sgelo@cs.uiowa.edu
+.
+This page has been accessed 2876 times since Friday, March 1, 1996 at 3:58:29 PM.
+
+function loopmessage(seed) {
+var message = " Welcome to 22C:096! 	 Be sure to sign up for the spring semester of Topics in Computer Science, Orientation.	The course # will be changed to 22C:003 (Sections 1 and 2) " ;
+var display = " " ;
+var i = 1 ;
+if ( seed > 180 ) {
+seed -= 2 ;
+var cmd = "loopmessage(" + seed + ")" ;
+window.setTimeout(cmd,100) ;
+}
+else if ( seed <= 180 && seed > 0 ) {
+for ( i=0; i<seed; i++)
+display += " " ;
+display += message ;
+seed -= 2 ;
+var cmd = "loopmessage(" + seed + ")" ;
+window.status = display ;
+window.setTimeout(cmd,100) ;
+}
+else if ( seed <= 0 ) {
+if ( -seed < message.length ) {
+display += message.substring( -seed, message.length ) ;
+seed -= 2 ;
+var cmd = "loopmessage(" + seed + ")" ;
+window.status = display ;
+window.setTimeout(cmd,100) ;
+}
+else {
+window.status = " " ;
+var cmd = "loopmessage(180)"
+window.setTimeout(cmd,75) ;
+}
+}
+}
+loopmessage(180);
+
+
+

@@ -1,0 +1,151 @@
+Date: Tue, 10 Dec 1996 14:48:55 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 02 Sep 1996 21:21:55 GMT
+Content-length: 2686
+
+
+UW CS&E Faculty
+
+
+
+
+
+
+
+
+
+F
+ACULTY
+
+
+Faculty
+
+
+Richard
+Anderson
+
+Tom
+Anderson
+(visiting 1996-97 from UC Berkeley)
+Jean-Loup
+Baer
+
+Paul
+Beame
+
+Brian
+Bershad
+
+Alan
+Borning
+
+Gaetano
+Borriello
+
+Craig
+Chambers
+
+Anne
+Condon
+(visiting 1996-97 from University of Wisconsin)
+Martin
+Dickey
+
+Carl
+Ebeling
+
+Susan
+Eggers
+
+Oren
+Etzioni
+
+Steve
+Hanks
+
+Alistair
+Holden
+
+John
+Hughes
+(visiting Autumn 1996 from Brown)
+Anna
+Karlin
+
+Richard
+Karp
+
+Ted
+Kehl
+
+Richard
+Ladner
+
+Edward
+Lazowska
+
+Gary
+Leavens
+(visiting Autumn 1996 from Iowa State)
+Nancy
+Leveson
+
+Hank
+Levy
+
+David
+Notkin
+
+Larry
+Ruzzo
+
+David
+Salesin
+
+Linda
+Shapiro
+
+Alan
+Shaw
+
+Larry
+Snyder
+
+Arun
+Somani
+
+Steven
+Tanimoto
+
+Martin
+Tompa
+
+Dan
+Weld
+
+Paul
+Young
+
+John
+Zahorjan
+
+
+Adjunct, Affiliate and Emeritus Appointments
+
+
+
+
+If you are a faculty member in the department, and want to establish
+a personal home page, here is
+further information
+.
+
+
+
+
+
+webmaster@cs.washington.edu
+
+
+

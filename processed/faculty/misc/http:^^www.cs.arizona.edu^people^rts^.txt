@@ -1,0 +1,136 @@
+Date: Thu, 21 Nov 1996 19:50:52 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 21 Nov 1996 18:23:41 GMT
+Content-length: 4915
+
+Richard T. Snodgrass
+
+
+
+Richard T. Snodgrass
+
+Professor
+Department of Computer Science
+715 Gould Simpson
+University of Arizona
+P.O. Box 210077
+Tucson, AZ 85721-0077
+phone: (520) 621-6370   FAX:   (520) 621-4246
+
+rts@cs.arizona.edu
+
+
+
+
+
+Rick is a Professor of Computer Science at the
+University of Arizona
+. He joined the
+Computer Science Department
+in 1989. He has written
+or edited five books and about fifty journal and conference papers.  He is an
+Associate Editor of the
+ACM
+Transactions on Database Systems
+, the
+IEEE
+Transactions on Knowledge and Data Engineering
+, and the
+International Journal on Very Large Databases
+.
+He chaired the program committees
+for the 1994 SIGMOD Conference and the 1993 International Workshop on
+an Infrastructure for Temporal Databases. In addition, he has served
+as a vice-chair or member of many program committees.  He chaired the
+TSQL2
+Language Design Committee, and
+is now working closely with the ISO
+SQL3
+committee to add temporal
+support to that language. He initiated the SQL/Temporal part of the SQL3
+draft standard.
+He holds a
+B.A. degree in Physics from
+Carleton College
+,
+and M.S. and Ph.D. degrees in Computer Science from
+Carnegie Mellon
+University
+.
+He co-directs
+T
+IME
+C
+ENTER
+, an
+international center for the support of temporal database applications on
+traditional and emerging DBMS technologies.
+His research interests include temporal databases, query language design, query
+optimization and evaluation, storage structures, database design, and
+software development databases.
+
+
+Recent Books
+
+Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T. Snodgrass,
+V. S. Subrahmanian, and Roberto Zicari,
+Introduction to Advanced Database
+Systems
+, approx. 550 pages, Morgan
+Kaufmann Publishers, Inc., San Francisco, CA, to appear.
+Richard T. Snodgrass, editor,
+The TSQL2 Temporal Query Language
+,
+Kluwer Academic Publishers, 1995, 674+xxiv pages. The TSQL2 Language Design
+Committee consisted of Richard Snodgrass (chair), Ilsoo Ahn, Gad Ariav, Don
+Batory, James Clifford, Curtis E. Dyreson, Ramez Elmasri, Fabio Grandi,
+Christian S. Jensen, Wolfgang Käfer, Nick Kline, Krishna Kulkarni,
+T. Y. Cliff Leung, Nikos Lorentzos, John F. Roddick, Arie Segev,
+Michael D. Soo and Suryanarayana M. Sripada.
+
+
+Recent Papers
+
+James Clifford, Curtis E. Dyreson, Tomás Isakowitz, Christian S. Jensen and
+Richard T. Snodgrass, "On the Semantics of `Now' in Databases,"
+to appear in
+ACM Transactions on Database Systems
+, 37 pages.
+Christian S. Jensen and Richard T. Snodgrass, "Semantics of Time-Varying
+Information,"
+Information Systems
+, Vol. 21, No. 4, 1996, pp. 311-352.
+Christian S. Jensen, Richard T. Snodgrass and Michael D. Soo, "Extending
+Existing Dependency Theory to Temporal Databases,"
+IEEE Transactions on
+Knowledge and Data Engineering
+, Vol. 8, No. 4,
+August, 1996, pp. 563-582.
+Michael H. Böhlen, Richard T. Snodgrass, and Michael D. Soo, "Coalescing in
+Temporal Databases," in the
+Proceedings of the International
+Conference on Very Large Databases
+, Bombay, India, September, 1996.
+Michael H. Böhlen, Jan Chomicki, Richard T. Snodgrass and David Toman,
+"Querying TSQL2 Databases with Temporal Logic," in
+Proceedings of EDBT'96
+, France, March, 1996.
+
+
+Software
+
+Richard T. Snodgrass and Karen P. Shannon,
+The Scorpion System
+, Release 6.1,
+August, 1995, 610 pages of documentation and 110K source lines of code
+(SLOC). Runs on Sun-3, Sun-4 (SunOS and Solaris), DEC Vax, DEC 3100, Sequent
+Symmetry, HP 9000 and IRIS.
+Richard T. Snodgrass, Curtis E. Dyreson, Christian S. Jensen, Nick Kline,
+Michael D. Soo, Leo So, and Joe Whelan,
+The MultiCal System
+, Release 1.1, September,
+1995, 330 pages of documentation, 111K SLOC. Runs on Sun-4 and DEC Alpha.
+
+
+

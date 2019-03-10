@@ -1,0 +1,98 @@
+Date: Mon, 25 Nov 1996 23:14:02 GMT
+Server: Apache/1.1-dev
+Content-type: text/html
+Set-Cookie: Apache=gs355832848963642271; path=/
+
+
+Edward S. Davidson's Home Page
+
+
+
+Edward S. Davidson
+
+
+
+Professor of Electrical Engineering and Computer Science at
+the University of Michigan, Advanced Computer Architecture Lab
+with areas of specialization in computer architecture and design,
+parallel and pipeline systems, performance modeling,
+and application performance tuning.
+Director of the Center for Parallel Computing at the University of Michigan which specializes in the
+development and utilization of parallel computing technology for
+scientific and engineering applications.
+
+The Center for Parallel Computing (CPC) may be contacted at:
+
+
+Center for Parallel Computing
+University of Michigan, College of Engineering
+Room 271 Cooley Building
+Ann Arbor, MI 48109-2104
+Phone: (313) 936-2310
+FAX: (313)763-4540
+email: cpc-info@umich.edu
+
+If you are interested, you can view a brief
+bio
+or
+Publications
+.
+To learn more about our current research, access one of the Graduate Student Research Assistants listed here:
+
+Gheith Abandah
+- Parallel Performance Evaluation and Modeling.
+Chuan-Hua Chang
+
+Alexandre E. Eichenberger
+- Software pipelining, resource modeling
+Shih-Hao Hung
+
+Waleed Meleis
+- Instruction scheduling, register allocation,
+combinatorial optimizations
+Jude Rivers
+
+Tien-Pao Shih
+
+Ed Tam
+
+Stevan Vlaovic
+
+John-David Wellman
+
+
+Research Group Affiliations
+Parallel Performance Project
+(
+PPP
+)
+Center for Parallel Computing
+(
+CPC
+)
+Advanced Computer Architecture Laboratory
+(
+ACAL
+)
+Department of Electrical Engineering and Computer Science
+(
+EECS
+)
+University of Michigan
+(
+UM
+)
+
+Contact Information
+Professor Edward S. Davidson
+University of Michigan
+1301 Beal Avenue--EECS 2114C
+Ann Arbor, MI 48109-2122
+Tel: 313 647-1777
+FAX: 313 763-4617
+Email:
+davidson@eecs.umich.edu
+
+
+
+

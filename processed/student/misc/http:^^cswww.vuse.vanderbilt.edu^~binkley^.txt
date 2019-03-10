@@ -1,0 +1,36 @@
+Server: Netscape-Commerce/1.1
+Date: Tuesday, 26-Nov-96 17:58:44 GMT
+Last-modified: Wednesday, 04-Sep-96 15:15:34 GMT
+Content-length: 1106
+Content-type: text/html
+
+
+
+Home Page for Aaron B. Binkley
+
+
+
+
+
+Greetings, all! I am a 4th year Ph.D. student in the
+Computer Science Department
+at
+Vanderbilt University
+. My academic
+advisor is
+Dr. Stephen Schach
+. My research area is
+Software Engineering
+, and I am currently examining metrics for module
+coupling in the object-oriented and procedural paradigms.
+
+
+How to reach me
+
+Education
+
+Current Teaching
+
+
+
+

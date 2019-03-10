@@ -1,0 +1,77 @@
+Date: Thu, 21 Nov 1996 22:18:21 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 574  Uncertainty and Decision Making
+
+
+
+CSE 574  Uncertainty and Decision Making in Artificial Intelligence ---
+Winter 1996
+
+
+Professor:
+
+Steve Hanks
+,
+hanks@cs
+.
+
+Office: Sieg 210, 3-4784
+Office hours whenever I'm around, or by appointment.
+
+
+Email addresses:
+
+
+Mail to
+cse574@cs.washington.edu
+goes to all class members.
+Send mail to
+cse574-request@cs.washington.edu
+to get put on the list.
+
+
+Reading material:
+
+
+Pearl:
+Probabilistic Reasoning in Intelligent Systems
+This is the "required" text for the class, and we will read several
+chapters.   You can probably get by without buying it if you're strapped
+for cash, though it's a nice reference book.
+Shafer and Pearl:
+Readings in Uncertain Reasoning
+This is a nice collection of foundational papers on reasoning and
+uncertainty, and we will read several selections.  A copy will be
+available in the GRAIL library.
+E.T. Jaynes:
+Probability
+Theory:  The Logic of Science
+.
+Fragmentary edition of July 1995.
+This is an extremely interesting technical and historical look at the foundations
+of probability theory, statistics, and decision theory.  Definitely worth
+looking at for the reference list and historical perspective alone!  The
+math can be heavy going in places, but it's beautifully written.
+Neapolitan:  Probabilistic Reasoning in Expert Systems, Theory and
+Algorithms
+A significant overlap with the Pearl book, so a good
+secondary source for information about graphical models and propagation
+algorithms.   This is available from the Math Research library.
+Other papers to be arranged.
+
+
+Course summary:
+Here is a summary of the topics we covered and the readings,
+in
+HTML
+or
+Postscript
+.
+
+hanks@cs.washington.edu (Last Update: 06/20/96)
+
+
+

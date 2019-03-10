@@ -1,0 +1,76 @@
+Date: Thu, 21 Nov 1996 20:27:31 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 1659
+Last-modified: Thu, 24 Oct 1996 20:57:40 GMT
+
+Udaya Shankar
+
+
+
+
+A. Udaya Shankar
+
+Email:
+shankar@cs.umd.edu
+
+Current Position:
+Associate Professor of Computer Science
+
+Joint Appointment:
+UMIACS
+
+Academic Degree:
+Ph.D., University of Texas at Austin, 1982
+
+
+DISTRIBUTED ALGORITHMS COURSE (CMSC 712, Fall 96)
+
+
+
+SOLUTION TO HW 3 and HW 4 (including "corrected" problem 2)
+
+
+
+RESEARCH ASSISTANTSHIPS
+
+
+RESEARCH INTERESTS:
+The design and analysis of distributed systems
+and network protocols,
+from both correctness and performance aspects.
+
+My current work is on:
+
+Assertional methods for concurrent/realtime systems,
+particularly layered systems as found in operating systems
+and networking.
+The Z-iteration,
+a numerical method for fast performance prototyping
+of adaptive high-performance systems,
+such as integrated-services networks.
+The Z-iteration provides accurate time evolutions
+of probabilistic measures
+at a cost several orders cheaper than simulation.
+Recent work includes
+minimal latency transport protocols,
+scalable ToS/policy routing,
+MaRS routing testbed,
+link-state vs distance-vector routing.
+
+
+
+SELECTED RECENT PUBLICATIONS
+
+
+
+TS ELIOT:
+Prufrock
+and
+Hippopotamus
+
+
+
+Last updated on October 24, 1996
+
+

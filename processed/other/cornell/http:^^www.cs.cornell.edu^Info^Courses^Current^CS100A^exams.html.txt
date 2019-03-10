@@ -1,0 +1,64 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 24-Nov-96 22:35:04 GMT
+Content-Type: text/html
+Content-Length: 1483
+Last-Modified: Tuesday, 10-Sep-96 03:21:06 GMT
+
+
+CS 100A Exams
+
+
+
+
+
+
+Exams:
+
+There will be three 1 1/2 hour preliminary examinations and a 2 1/2 hour final.
+
+
+Exam
+Date
+Time
+
+
+
+Prelim 1
+Mon., Sept. 30
+7:30pm
+
+
+
+Prelim 2
+Tue., Oct. 22
+7:30pm
+
+
+
+Prelim 3
+Tue., Nov. 19
+7:30pm
+
+
+
+Final
+Tues., Dec. 17
+9:00am
+
+
+
+
+Review Sessions:
+
+Will be held at 3:00 pm on Sundays before each prelim and before the final exam.  Review sessions are scheduled on Sunday Sept. 29, Oct. 20, Nov. 17, and Dec. 15 in Olin 155
+
+
+
+
+Last Updated on Friday, September 06, 1996 12:08:27 PM
+Any Comments or Suggestions? Email them to
+dwu@cs.cornell.edu
+
+
+

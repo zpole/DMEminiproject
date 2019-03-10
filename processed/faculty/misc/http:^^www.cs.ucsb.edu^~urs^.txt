@@ -1,0 +1,119 @@
+Date: Thu, 21 Nov 1996 20:16:00 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+
+
+
+Urs Hoelzle
+
+
+
+
+
+
+Urs
+Hölzle
+
+My research centers around programming languages (in particular, object-oriented
+languages) and their efficient implementation. In my previous life at
+Stanford
+,
+I developed an optimizing compiler for the pure object-oriented language
+Self
+which removed a large part of the
+overhead traditionally associated with message passing. The resulting Self
+system outperforms comparable systems (such as commercial Smalltalk implementations)
+by a factor of two to three on some medium-sized (500-line) benchmarks.
+
+A second aspect of that project was to integrate optimizing compilation
+into an interactive programming environment by developing techniques to
+avoid long compilation pauses and to allow source-level debugging of optimized
+code.
+
+
+I'm interested in many aspects of language implementation, such as
+
+
+compiler optimizations to eliminate message sends (profile-based compiler
+optimizations, type inference, etc.),
+
+efficient dispatch techniques for statically- and dynamically-typed
+languages,
+
+compiler support for garbage collection ("garbage prevention is
+better than garbage collection"),
+
+measurements and analyses of the execution characteristics of (optimized)
+object-oriented programs, for example, their instruction mix, cache performance
+etc., and
+
+software engineering related aspects of object-oriented programming,
+such as profilers and debuggers for OO programs.
+
+
+Current projects include optimizing compilers or runtime systems for
+Self, C++, and Java. Check out the
+publications
+page
+if you're interested in more details. Some of my research results
+have recently been incorporated into
+Animorphic
+Systems
+' Smalltalk and Java Virtual Machines.
+
+
+Address
+
+
+Urs Hölzle     (
+urs@cs.ucsb.edu
+)
+Department of Computer Science
+2111 Engineering I
+University of California
+Santa Barbara, CA 93106
+
+tel: (805) 893-3960       fax: (805) 893-8553
+
+
+(If my name displays as "H lzle" on your screen,
+then your program can't display that funny "o" with the two dots
+on top. Changing the font usually helps; e.g., on my system, Times Regular
+doesn't work but Times Small or New Century Schoolbook do. The correct
+ASCII way to spell my name is "Hoelzle" -- in German, the "o
+with Umlaut" expands into "oe"; but often, people also spell
+it as "Holzle. It's pronounced like
+this
+.)
+
+
+Other Links
+
+OOCSB home page
+
+
+CS162: Programming Languages
+
+
+CS263: Modern Programming Languages
+and Their Implementation
+
+
+CS595J: Readings
+in Multimedia, Digital Audio, and Computer Music
+
+
+
+Departmental home page
+
+
+Information for German Speaking
+Prospective Graduate Students
+
+
+
+©1996 Urs Hölzle.
+Last
+modified: Thu Aug 15 13:09:02 PDT
+No electrons were harmed in the production of this page.
+

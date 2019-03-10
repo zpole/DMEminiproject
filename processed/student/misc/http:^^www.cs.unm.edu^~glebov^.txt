@@ -1,0 +1,59 @@
+Date: Tue, 26 Nov 1996 17:49:22 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 21 Oct 1996 18:57:11 GMT
+Content-length: 1289
+
+
+Glebov Home Page
+
+
+
+
+Japanise Garden, Portland, Oregon
+
+This home page is under construction.
+
+
+
+Simple JB's program
+
+
+Education and Experience
+
+
+Diploma of Mechanical Engineering from Moscow Aviation Institute
+MS in Nuclear Engineering from the
+University of New Mexico
+
+Teaching assistant in the Department of Computer Science since 1995
+For more information, please, look at his
+resume.
+
+He has published 5 technical papers in areas of radiative heat transfer and nuclear engineering; a
+list of publications
+
+
+Teaching
+In the Department, he teaches recetation sections on introduction to data
+structures and design of large programs.
+
+
+
+CS 251 - Introduction to Data Structures
+
+CS 351 - Design of large program
+
+
+Research
+He develops a computer model of laser diode for LED group at Center
+for High Technology Materials (CHTM).
+
+
+
+glebov@cs.unm.edu
+
+,
+(505) 268-8496 (home)
+
+

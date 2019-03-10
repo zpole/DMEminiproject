@@ -1,0 +1,77 @@
+Date: Tue, 26 Nov 1996 02:52:29 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1800
+Last-modified: Thu, 22 Feb 1996 01:24:29 GMT
+Apostolos's Home Page
+
+
+
+
+
+Apostolos Dailianas
+
+
+
+
+
+Ph.D. student in the
+Computer
+Science Department
+at
+Columbia
+University
+. Member of the
+Distributed Computing and Communications (DCC) Lab
+.
+Advisor: professor
+Yechiam
+Yemini
+.
+My main research interests are in the area of High-Speed Computer Networks.
+My future research plans include an all-optical implementation of the
+Isochronets
+switch and the development of protocols to support its operation.
+
+
+I've been told that my home page is boring. I agree. Only thing I do not
+see is why I should make it interesting.
+
+
+
+
+Master's Thesis
+
+Technical Reports
+
+Papers
+
+
+Test area
+(Avoid)
+
+
+Address
+
+
+
+450 Computer Science Bldg.
+Department of Computer Science
+Columbia University
+New York, NY 10027
+
+
+
+Tel: 212.939.7096
+Fax: 212.666.0140
+
+
+
+
+
+
+
+Email:
+apostolo@cs.columbia.edu
+
+

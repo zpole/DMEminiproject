@@ -1,0 +1,142 @@
+Date: Wed, 20 Nov 1996 22:40:48 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Last-modified: Mon, 18 Nov 1996 20:44:41 GMT
+CPS 100 Using Computers Home Page, Fall 1996, MSU
+
+
+
+
+
+
+
+
+CPS 100
+
+Using Computers
+
+Spring 1996
+
+
+
+
+
+
+
+
+
+If you live in Akers, Homles, or Shaw
+Halls and have your own computer, click here
+
+
+
+
+Welcome to the CPS 100 Home Page!
+This page will provide you with information about CPS100, give you
+access to files necessary to complete assignments, and point you
+to several WWW documents of interest around the world.
+
+
+
+Course Information
+
+
+
+Course Description
+
+Course description as listed in the Michigan State
+University Green Book.
+
+The CPS 100 Staff
+
+There are many people involved in keeping this course
+running smoothly.
+
+
+Course Calendar
+
+Completely outlines the day-to-day activities in the
+course.  By clicking on this link, you will download an
+MS-Word file.
+
+Exam Information
+
+Need information about an upcoming exam?  This is
+probably a good place to look.
+
+Make-up Lab Information
+
+Miss a lab?  Well, you'd better go make it up.  Here's
+some helpful information.
+
+Help Desk Hours
+
+The TA's for this course are eager to help you with
+your homeworks or other course work.
+
+Putting a Page on the WWW
+
+If you want to know how to create your own homepage and put
+it out on the World Wide Web, look here.  We will talk about
+it more in Lab #15.
+
+Connecting from
+Your Dorm Room or from Off-campus
+
+So you have a computer, and you want to know how you can
+connect to the MSU computer network from home or from your
+dorm room.  Here's the place to look.
+
+
+Assignments
+
+
+
+Inlab #5
+
+This is a link to the inlab assignment for Lab #5.
+
+Homework #6
+
+This is a link to Homework #6.
+
+Lab #15
+
+This link contains examples from the Lab #15 Notes.
+
+
+Other Important Links
+
+
+
+MSU Gopher
+
+Gopher is a service in which you can find information about
+MSU, convenient reference items, and easy access to campus
+and Internet services.
+
+
+CPS 100 Gopher
+
+This course uses gopher to make official course announcements
+and to supply additional instructional material.
+
+CPS 100 FTP
+
+This site allows you to transfer files you will need for
+class to the computer you are using.
+
+Telnet to StuInfo
+
+Connect to StuInfo for student information such as your
+tuition balance.
+
+Interesting Links
+
+A handful of interesting web pages not related to CPS 100
+at all.
+
+
+
+CPS 100 - Using Computers
+

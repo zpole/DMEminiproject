@@ -1,0 +1,58 @@
+Date: Thu, 21 Nov 1996 22:22:58 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+
+CSE 401
+
+
+
+
+
+
+
+
+CSE 401 Compilers Class
+
+
+
+
+
+
+Home
+
+
+
+This is the World Wide Web hypermedia document
+for CSE 401 and contains information about the class.  Keep in
+mind that this document is not static, and that new information will
+be added frequently.
+
+
+
+Urgent Announcements
+
+
+
+
+Assignment 5 is now online
+
+
+
+
+Class meets MWF at 12:30 PM in LOW 101
+
+
+
+
+
+
+401admin@cs.washington.edu
+(Last modified: 11/6/96)
+
+
+
+
+
+

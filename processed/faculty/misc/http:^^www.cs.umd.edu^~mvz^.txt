@@ -1,0 +1,121 @@
+Date: Thu, 21 Nov 1996 20:25:51 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 4306
+Last-modified: Mon, 18 Nov 1996 21:01:37 GMT
+
+Marvin Zelkowitz
+
+
+
+
+Marvin Zelkowitz
+
+Department of Computer Science
+University of Maryland
+College Park, Maryland 20742
+Phone: (301) 405- 2690
+Fax: (301) 405-6707
+Email: mvz@cs.umd.edu
+Current Positions and Activities:
+
+Professor,
+Computer Science
+and
+UMIACS.
+
+Faculty Appointment,
+Computer
+Systems Laboratory, National Institute of Standards and Technology
+
+Board of Directors and Secretary,
+National Capital Area Skeptics.
+
+Member of the
+Experimental Software Engineering
+Group.
+
+Editor, Advances in Computers,
+Academic Press.
+
+Editorial Board,
+Empirical Software
+Engineering Journal
+
+On the Governing (?) Board (if you can call it that), of WITAT,
+Workshop on Information Technology Assurance and Trustworthiness
+
+Academic Degree:
+Ph.D.,
+Cornell University
+, 1971.
+Recent activitities
+
+Program Co-Chair,
+18th International Conference on Software Engineering,
+Berlin, March, 1996.
+Program Chair,
+International Conference of the Chilean Computer Science Society
+(SCCC 96
+Conference), Valdivia, Chile, November, 1996.
+Educational Activities
+
+
+CMSC 430 for Fall, 1996
+
+Recent Research Interests and Published Papers:
+
+
+
+Webme.
+
+WebME
+is a web-based
+data visualization tool that is an extension to SME, Software Management
+Environment, of NASA's Flight Dynamics Division and the Software Engineering
+Laboratory. It allows data from several projects to be graphically displayed
+in various ways and to plot underlying models of the data.
+
+
+Software Engineering Environments.
+Understanding the structure of software engineering environments from
+the set of infrastructure services needed to support program development to
+the set of end user application services needed to support various application
+domains.
+
+
+Formal methods.
+Understanding the
+role of formal models for software engineering technology is important in
+developing the appropriate technology.
+
+
+Technology Transfer.
+Understanding how organizations, such as NASA
+e.g., NASA/GSFC Software Engineering Laboratory,
+develop and understand
+new technology. How one experiments to validate software engineering claims.
+
+
+Program measurement.
+Various activities for the development of an experimental science for
+software engineering and for the development of quantitative models of the
+programming process.
+
+
+Books and other software engineering issues.
+Odds and ends in the field of software engineering.
+Online publications:
+
+
+Some recent publications are available
+online
+
+
+
+Prepared by:
+Marvin Zelkowitz
+
+Last Change: November 18, 1996
+
+

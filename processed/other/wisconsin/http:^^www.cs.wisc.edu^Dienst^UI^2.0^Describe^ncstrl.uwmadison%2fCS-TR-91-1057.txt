@@ -1,0 +1,40 @@
+Server: Dienst V4-1-1
+MIME-version: 1.0
+Content-type: text/html
+New Programs From Old
+
+New Programs From Old
+G. Ramalingam and  Thomas Reps
+CS-TR-91-1057
+December 1991
+There is often a need in the program-development process to generate a new version of a program that relates to existing versions of the program in some specific way. Program- development tools that assist in the generation of the new version, or possibly even automatically generate the new version from the existing versions, will obviously be of great use in this process. The problems of merging software extensions, program integration, separating consecutive edits, and propagating changes through multiple versions are all instances of situations where such tools would be wel- come.
+
+
+How to view this document
+
+
+
+Display the
+whole
+document in one of the following formats.
+
+PostScript
+192611 bytes. (compressed on disk, will be sent uncompressed)
+
+
+
+Print or download all or selected pages.
+
+
+
+You are granted permission for the non-commercial reproduction, distribution,display, and performance of this technical report in any format, BUT thispermission is only for a period of 45 (forty-five) days from the most recenttime that you verified that this technical report is still available fromthe Computer Science Department of the University of Wisconsin - Madison underterms that include this permission.  All other rights are reserved by theauthor(s).
+[
+Search
+]
+
+NCSTRL
+This server operates at UW Madison Computer Sciences Technical Reports .
+
+Send email to
+www@cs.wisc.edu
+

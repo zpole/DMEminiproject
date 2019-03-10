@@ -1,0 +1,116 @@
+Date: Thu, 21 Nov 1996 22:21:01 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE477 Home Page
+
+
+CSE477: Digital System Design
+
+Steve Burns, Spring 1996
+
+Welcome to the 477 Home Page!
+
+
+Course Information
+
+
+Time and Place
+: MWF 1:30-2:30 - Loew 112
+IMPORTANT ANNOUNCEMENTS
+Last Updated
+
+Summary
+
+Syllabus
+
+Schedule
+
+Lab policies and hours
+
+Staff:
+
+
+Steve
+Burns
+: instructor
+
+Kent Smith
+TA
+
+Casey Anderson
+TA
+
+Stephen Lee, Hardware Laboratory manager
+
+Office hours
+
+Students
+
+
+Lab Assignments
+
+
+Lab 1
+
+Lab 2
+
+Lab 3
+
+
+MC68HC11 Info
+
+
+Nice Introduction to the 6811 by Fred Martin
+
+
+Robotics Societies
+
+
+Seattle Robotics Society
+
+Portland Area Robotics Society
+
+
+Other Information
+
+
+Department of Computer Science and Engineering
+home page
+Murphy's Law
+
+Recent Dilbert Comics
+
+A collection of
+WWW resources (care of Gaetano Borriello)
+
+
+Comprehensive List of Sources
+
+
+National Semiconductor
+Data Sheets
+
+
+Motorola's Data Book Server
+
+
+Philips Semiconducter's Data Book Server
+
+
+
+The CSE477 Web:
+
+Copyright 1995, 1996; Department of Computer Science and Engineering, University of Washington.
+Portions of the CSE477 Web may be reprinted or adapted for academic nonprofit
+purposes, providing the source is accurately quoted and duly credited.
+
+
+
+
+
+burns@cs.washington.edu
+
+
+

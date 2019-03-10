@@ -1,0 +1,53 @@
+Date: Thu, 21 Nov 1996 21:32:38 GMT
+Server: NCSA/1.5.2
+Content-type: text/html
+A. Maynard Engebretson's Home Page
+
+A. Maynard Engebretson
+
+
+
+Address:
+Department of Computer Science
+Campus Box 1045 / Bryan 509
+Washington University
+St. Louis, MO 63130-4899
+
+
+Office:
+Bryan 417
+Telephone:
+(314) 935-5886
+
+Fax:
+(314) 935-7302
+
+Email:
+ame@cs.wustl.edu
+
+
+
+RESEARCH INTERESTS
+
+
+PUBLICATIONS
+
+
+PATENTS
+
+TEACHING
+
+
+CS260
+Digital Computers I:
+Organization and Logical Design.
+CS306
+Processing Systems
+and Structures.
+CS526
+Special Topics in
+Speech Processing
+
+
+
+

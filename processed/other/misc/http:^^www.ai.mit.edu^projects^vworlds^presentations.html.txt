@@ -1,0 +1,57 @@
+Date: Tue, 14 Jan 1997 19:08:57 GMT
+Server: Apache/1.2-dev
+Connection: close
+Content-Type: text/html
+Last-Modified: Thu, 10 Oct 1996 18:10:50 GMT
+ETag: "12ba2-3d7-325d3c2a"
+Content-Length: 983
+Accept-Ranges: bytes
+
+Virtual Worlds Presentations
+
+
+
+
+
+
+
+
+
+
+
+
+Presentations
+
+
+
+
+N
+etworked
+R
+ealities
+1995
+
+
+
+
+
+
+
+O
+bserver
+B
+ased
+M
+ultiresolution
+A
+rchitecture
+1996
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,117 @@
+Date: Tue, 26 Nov 1996 16:56:55 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3426
+Last-modified: Wed, 20 Nov 1996 03:05:50 GMT
+
+
+Home Page of Dmitry O. Gorodnichy
+
+
+
+
+
+Home Page of Dmitry O. Gorodnichy
+
+(Click on underline item)
+
+Dmitry O. Gorodnichy
+Ph.D. student at
+
+Department of Computing Science
+
+
+University of Alberta
+
+
+Edmonton
+,
+Alberta
+
+
+Canada
+, T6G 2H1
+
+Phone:    (403) 492-9594
+E-mail:
+dmitri@cs.ualberta.ca
+
+URL:
+http://web.cs.ualberta.ca/~dmitri
+
+
+
+
+Education
+
+
+M.Sc. Inform.Technology&Appl.Mathematics (diplom with
+distinction),
+MIPT
+,
+Moscow, Russia,1994
+Secondary Education, Phys&Math high school #145, Kiev, Ukraine, 1988
+
+Neural Network Papers
+
+
+"Desaturating Coefficient
+for Projection Learning Rule"
+(ICANN'96, Febr. 1996)
+"A Way to Improve Error Correction Capability of Hopfield Associative Memory in the Case of Saturation"
+(HELNET'95, July 1995)
+
+"Investigation of the Projection Learning Rule for Connectionist Models"
+(
+Master Thesis
+, June 1994)
+"NEUTRAM-Transputer Based Neural Network Simulator"
+(SMS'TPE'94, Febr. 1994)
+
+
+Term Project Papers
+
+
+CMPUT 511
+(Computer Graphics), Apr. 1996:
+"Shear-Warp Volume Rendering"***
+
+CMPUT 535
+(Parallel Processing), Apr. 1996:
+"The Performance of Array Processors  Designed for Matrix
+Multiplication"
+
+CMPUT 551
+(Artificial Intelligence), Dec. 1995:
+"Applying Hopfield Neural Networks for Artificial Intelligence
+problems" *
+CMPUT 509  (Image Processing), Dec. 1995:
+"Using Adaptive Logic Networks
+for Facial Feature Detection"
+, old version ***
+
+
+Link to William
+Armstrong and Adaptive Logic Networks
+
+
+
+Links to Neural Networks and Literature Search
+
+
+
+
+
+
+
+
+
+
+
+Last Modified: November 14, 1996
+
+My life's pictures gallery
+
+
+
+

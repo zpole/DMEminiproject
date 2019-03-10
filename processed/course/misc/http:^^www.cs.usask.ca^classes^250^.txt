@@ -1,0 +1,184 @@
+Date: Tue, 26 Nov 1996 19:22:53 GMT
+Server: NCSA/1.5.1
+Last-modified: Mon, 04 Nov 1996 06:53:52 GMT
+Content-type: text/html
+Content-length: 5526
+
+
+Computer Science 250
+
+
+
+
+
+Computer Science 250
+This is the Computers 250 home page where students can come for help
+and for reference.  This page will be continually updated and expanded
+as the course continues to keep up-to-date with developments, changes,
+and news.
+As you can see, there is a variety of course related material which
+you can browse through.  Course information, assignments, solutions,
+and help with Eiffel are all available.
+
+
+Bulletin Board
+This is the bulletin board, where there will be links to any updates
+or additions to these pages.  Come here for up-to-date
+information on assignments as well as links to other areas of these
+pages as they are finished.
+
+
+The tutorial schedule is:
+
+Monday 4:00pm - 5:30pm 1B12 ENGIN
+Tuesday 4:00pm - 5:30pm 2C44 ENGIN
+Wednesday 4:00pm - 5:30pm 2C40 ENGIN
+Thursday 4:00pm - 5:30pm 2C44 ENGIN
+Thursday 7:00pm - 8:30pm 2C44 ENGIN
+Friday 4:00pm - 5:30pm 2C40 ENGIN
+
+HTML versions of tutorial outlines are now available.
+
+Postscript versions of the tutorial outlines are still
+available and can be downloaded and viewed (using
+ghostview; eg.
+ghostview 960909.ps
+) or printed
+on a laser printer.  (
+Do not
+attempt to print them
+on a dot matrix printer.)
+
+Tutorial Outlines:
+
+Tutorial 1
+(
+HTML version
+)
+(
+Postscript version
+)
+(Monday, September 9 to Friday, September 13)
+Tutorial 2
+(
+HTML version
+)
+(
+Postscript version
+)
+(Monday, September 16 to Friday, September 20)
+Tutorial 3
+(
+HTML version
+)
+(
+Postscript version
+)
+(Monday, September 23 to Friday, September 27)
+Tutorial 4
+(
+HTML version
+)
+(
+Postscript version
+)
+(Monday, September 30 to Friday, October 4)
+Tutorial 5
+(
+HTML version
+)
+(
+Postscript version
+)
+(Monday, October 7 to Friday, October 11)
+Tutorial 6
+(
+HTML version
+)
+(
+Postscript version
+)
+(Tuesday, October 15 to Friday, October 18)
+Tutorial 7
+(
+HTML version
+)
+(
+Postscript version
+)
+(Monday, October 21 to Friday, October 25)
+Tutorial 8
+(
+HTML version
+)
+(
+Postscript version
+)
+(Monday, October 28 to Friday, November 1)
+Tutorial 9
+(
+HTML version
+)
+(
+Postscript version
+)
+(Monday, November 4 to Friday, November 8)
+
+If you are having problems using ISE Eiffel on your home PC,
+take a look at the
+problems
+and bugs page
+at the ISE site.
+
+The
+Assignment 3
+handout
+has been added to the Course Work page.
+
+Class code for Assignment 3 is available for downloading
+from the
+Course Work
+page
+.
+
+
+Course Information
+Here you will find a wide variety of information relating to the
+nature of this course.  Important sections are:
+
+
+Purpose of the Course
+
+Instructors
+
+Required Texts
+
+Course Outline
+
+Mark Allotment
+
+
+
+Course Work
+The
+Course Work
+section contains assignment descriptions,
+assignment solutions, an outline of what is expected for assignments,
+a sample assignment, and support materials that are necessary for
+certain assignments.
+
+
+The U of S Eiffel Page
+
+The U of S Eiffel Page
+is a local collection of Eiffel resources
+intended for Computers 250 students.  There are guides to Eiffel
+compilers, links for obtaining Eiffel compilers, several different
+introductions to Eiffel and object oriented programming in general,
+and links to Eiffel resources and companies around the world.
+
+
+
+Last modified November 4, 1996
+
+

@@ -1,0 +1,55 @@
+Date: Tue, 26 Nov 1996 16:59:52 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1797
+Last-modified: Fri, 29 Mar 1996 22:29:15 GMT
+
+
+Jonathan Baldwin's Dull Home Page
+
+
+
+
+
+
+
+
+
+
+
+Jonathan Baldwin
+You can email me at
+baldwin@cs.ualberta.ca
+
+
+
+TA duties
+
+
+
+CMPUT 251 - Winter 96
+
+
+
+Marks from Assignment 1
+
+Marks from Assignment 2
+
+Marks from Assignment 3
+
+
+
+
+
+
+
+
+Maintained by
+
+Jonathan Baldwin
+(
+baldwin@cs.ualberta.ca
+)
+-- March 29, 1996
+
+

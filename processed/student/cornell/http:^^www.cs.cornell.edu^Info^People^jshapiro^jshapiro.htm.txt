@@ -1,0 +1,136 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 19:38:39 GMT
+Content-Type: text/html
+Content-Length: 4370
+Last-Modified: Friday, 24-May-96 02:19:05 GMT
+
+
+Jody Shapiro
+
+
+
+
+
+
+
+
+
+
+Jody Shapiro
+
+
+Education
+
+I received my BS in Computer Systems Engineering from the
+University of Massachusetts at Amherst
+.
+I am currently here at Cornell getting my MEng in
+Computer Science
+;
+I'll be graduating in May, 1996 - here's my
+resume
+.
+
+Fall 1995 Courses
+
+
+CS 631 - Multimedia Systems
+
+
+CS 501 - Software Engineering
+
+EE 445 - Computer Networks and Telecommunication
+CS 790 - Masters Research
+
+Spring 1996 Courses
+
+
+CS 664 - Machine Vision
+
+
+CS 516 - High Performance Computer Systems
+
+EE 546 - High Capacity Computer Networks
+
+NBA 610 - Thriving on the Information Revolution
+
+CS 790 - Masters Research
+MAE 386 - Automotive Engineering
+Interesting Projects
+
+
+Design and Implementation of Dynamically Generated Synchronized Computer Speech And Facial Animation
+
+
+Low-Cost Portable Desktop Videoconferencing for Windows 95
+
+
+Parallel Object Recognition and Applications to Facial Recognition
+
+Interests
+
+My main interests are computers (obviously) and cars. I'm a member
+of both the F-Body mailing list (Camaros/Firebirds) and the Do-It-Yourself
+Electronic Fuel Injection mailing list (although I don't always
+have time to participate).  I'm also on the EFI332 mailing list (designing
+an EFI system from "the ground up").  The web pages for each list are:
+
+F-Body Home Page
+
+DIY EFI Home Page
+
+EFI332 Home Page
+
+
+These are some pictures of my cars:
+
+1984 Chevy Camaro Z28 - I sold this car in May 1994
+
+
+
+
+
+Stock: 305ci HO (L69) engine, 5-speed, and 3.73 gears
+Modifications: Hypertech Stage 2 chip, Flowmaster exhaust, Hurst shifter, Grant steering wheel, K&N Filter
+
+
+1989 Ford Mustang LX 5.0 - I bought this car in September 1994
+and still have it...
+
+
+
+
+
+Stock: 5.0L engine, 5-speed
+Modifications: 3.55 gears, Accel plugs, Ford Motorsport 8mm wires
+Best 1/4 mile so far: 14.46 @ 95MPH
+Best MPG so far: 26
+
+
+1997 Chevy Camaro Z28 - coming in January 1997...
+
+
+
+
+
+F-Body Home Page
+
+
+1995 Chevy S10 ZR2 4x4 - coming in September 1997...
+
+
+
+
+
+4x4 Home Page
+
+
+
+Number of visits since 2/6/96:
+
+
+Last updated:  5/11/96
+
+
+

@@ -1,0 +1,47 @@
+Date: Mon, 25 Nov 1996 23:10:56 GMT
+Server: Apache/1.1-dev
+Content-type: text/html
+Set-Cookie: Apache=gs35583984896345673; path=/
+
+
+Yale N. Patt
+
+
+
+
+Home page: Yale N. Patt
+
+
+(or, at least my first attempt at this.  I have finally succumbed to all that insistance that I must
+have a home page, so here goes.  With a little effort, this might work itself into reasonable
+shape.  We'll see.)
+
+Professor of Electrical Engineering and Computer Science
+University of Michigan, Ann Arbor
+Actually, I do have a
+more nearly current
+picture,
+which was taken in a museum in Cyprus in June, 1995 by Greg Egan, professor at
+Monash University.
+
+Once I get things straightened out, there will be links to:
+
+
+EECS 100
+, a serious Introduction
+to Computer Science and Computer Engineering for
+Undergraduate majors in Computer Science, Computer Engineering, and Electrical Engineering.
+
+HPS
+: My research group.
+Our industrial affiliates program in the Computer Science Division at Michigan IPoCSE.
+a reasonably current cv, in ascii, suitable for reading.  Postscript is available for the asking.
+My views on Education.
+My views on Computer Architecture.
+Other recent drivel that I have generated and feel compelled to share with you.
+
+I can be reached at patt@eecs.umich.edu or via telephone at 313-936-1602,
+or by contacting my secretary Michelle Chapman at 313-764-4329,
+or via email at chapman@eecs.umich.edu.  FAX: 313-763-4617.
+
+

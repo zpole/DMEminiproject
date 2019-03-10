@@ -1,0 +1,74 @@
+Date: Tue, 26 Nov 1996 16:57:35 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1429
+Last-modified: Tue, 08 Oct 1996 21:56:04 GMT
+Scott Fortin: Homepage
+
+
+S
+cott
+F
+ortin
+
+
+
+
+
+
+Grad Student
+
+Department of Computing Science
+
+University of Alberta
+
+
+email:
+office:
+phone:
+
+
+fortin@cs.ualberta.ca
+GSB 713B or CAB 481
+492-5411 or 492-3927
+
+
+
+
+Education
+
+BSC in Computing Science, University of Alberta, 1995
+
+Research
+
+Something to do with knowledge discovery in databases.
+I have two supervisors:
+Ling Liu
+and
+Randy Goebel
+.
+
+Labs
+
+
+Database Group
+
+AI Group
+
+
+Publications
+
+
+Work
+
+I work as a research assistant, for a
+university spin-off company called
+BioTools
+.
+I am helping to develop the front-end to a sequence analysis suite
+using Smalltalk.
+
+
+
+Thesis page
+

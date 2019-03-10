@@ -1,0 +1,159 @@
+Date: Tue, 10 Dec 1996 14:20:39 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 26 Feb 1996 05:46:35 GMT
+Content-length: 4911
+
+
+A Brief Introduction to TCAS II
+
+
+
+
+
+A Brief Introduction to TCAS II
+
+
+An edited excerpt from
+Introduction to TCAS II
+,
+U.S. Department of Transportation, Federal Aviation Administration,
+March 1990:
+
+After many years of extensive analysis, development, and flight
+evaluation by the Federal Aviation Administration and the aviation
+industry, a solution is available to the problem of reducing the risk
+of midair collisions between aircraft.  This solution is known as the
+Traffic Alert and Collision Avoidance System (TCAS).
+TCAS is a family of airborne devices that function independently of the
+ground-based air traffic control (ATC) system, and provide collision
+avoidance protection for a borad spectrum of aircraft types.
+TCAS I provides proximity warning only, to assist the pilot in the
+visual acquisition of intruder aircraft.  It is intended for use by
+smaller commuter aircraft and by general aviation aircraft.
+TCAS II provides traffic advisories and resolution advisories
+(recommended escape maneuvers) in a vertical direction to avoid
+conflicting traffic.  Airline aircraft, and larger commuter and
+business aircraft, use TCAS II equipment.
+TCAS III, which is still under development, will provide traffic
+advisories and resolution advisories in the horizontal as well as the
+vertical direction to avoid conflicting traffic.
+The TCAS concept makes use of the radar beacon transponders
+routinely carried by aircraft for ground ATC purposes.  The level of
+protection provided by TCAS equipment depends on the type of
+transponder the target aircraft is carrying.  It should be noted that
+TCAS provides no protection against aircraft that do not have an
+operating transponder.
+
+A sample display (obtained from
+here
+).
+The little white cross in the lower-middle of the display is the
+aircraft that this display is on.  The little red square at starboard
+is another aircraft that TCAS II has issued a resolution advisory on,
+i.e.
+, it is considered a ``threat''.  The
++03
+over the
+threat indicates that the threat is 300 feet above this aircraft.  This
+visual resolution advisory is accompanied by an aural advisory, such as
+``Descend, Descend.''
+
+
+
+TCAS II was originally specified by a
+Minimal Operational
+Performance Standard
+, abbreviated as--you guessed it--MOPS.  The
+MOPS is composed of two volumes.  Volume I is a textual description of
+the overall system, including hardware and communications algorithms.
+Volume II defines the collision-avoidance logic, and is a combination
+of textual description and pseudocode (called
+E
+), the text
+describing the code.  The pseudocode is actually divided into
+``high-level'' and ``low-level'' logic, so the logic is presented in
+three different ways.  The text and high-level logic are not
+rigorously defined, so the low-level logic is the standard with which
+avionics manufacturers must comply.  Here is an example of TCAS II
+low-level logic:
+
+PROCESS
+No_weaken_test;
+IF
+(WL.STATUS
+NE
+$NEW)
+THEN
+
+IF
+(ITF.REVERSE
+EQ
+$TRUE)
+THEN
+NOWEAKEN_TIME = P.TRVSNOWEAK;
+ELSE
+NOWEAKEN_TIME = P.TNOWEAK;
+IF
+(EVAL(TF.PERMTENT)
+LE
+EVAL(OWNTENT))
+THEN
+
+IF
+(ITF.TAUR
+GT
+MAX(P.STROFIR, P.FRTHR(ITF.LEV,ITF.IFIRM))
+THEN
+OWNTENT = TF.PERMTENT;
+ELSEIF
+(TF.PERMTENT(4,5)
+EQ
+'10')
+THEN
+
+CALL
+CHECK_PROJECTION
+IN
+(ITF.RZ, G.ALIM, OWNTENT)
+OUT
+(INTHR);
+IF
+(INTHR
+EQ
+$TRUE)
+THEN
+OWNTENT = TF.PERMTENT;
+ELSE
+
+IF
+((G.TCUR-ITF.TCMD)
+LT
+NOWEAKEN_TIME
+OR
+ITF.IFIRM
+LT
+P.MINFIRM)
+THEN
+OWNTENT = TF.PERMTENT;
+OTHERWISE
+
+IF
+((G.TCUR-ITF.TCMD)
+LT
+NOWEAKEN_TIME
+OR
+ITF.IFIRM
+LT
+P.MINFIRM)
+THEN
+OWNTENT = TF.PERMTENT;
+END
+No_weaken_test;
+
+
+
+
+Jon Damon Reese
+
+

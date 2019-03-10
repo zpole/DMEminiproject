@@ -1,0 +1,98 @@
+Date: Mon, 11 Nov 1996 18:59:16 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 09 Sep 1996 19:18:06 GMT
+Content-length: 2334
+
+
+Computer Systems Lab Frequently Asked Questions
+
+
+
+Computer Systems Lab Frequently Asked Questions
+This collection of "Frequently Asked Questions" (and answers) is designed to
+help users of the facilities provided by the
+Computer Systems Lab
+.
+If your question is not answered here, please send mail to "lab". We
+will answer your question, and if it seems generally useful, add it to
+our FAQs. We would also appreciate feedback on these FAQs.
+
+PC Users:
+Most of the information included here is for
+UNIX users. If the answer to a question makes no sense, and doesn't seem to
+apply, it probably doesn't. We are currently extending our information to better
+support PC users. You can view our progress on the
+Vectra Lab FAQ here
+.
+If you have particular questions or areas that you would like to see in the
+PC FAQ, please send mail to
+lab
+.
+
+
+
+Frequently Asked Questions about Solaris and the Computer Systems Lab
+
+
+
+
+About your account
+
+
+Your workstation
+
+
+Policies
+
+
+Supported Operating Systems
+
+
+
+Available software
+
+
+Printing
+
+
+Network Programs and Services
+
+
+Using AFS
+
+
+Using a modem from home
+
+The X Window System
+
+
+Backups and Restores
+
+
+Hardware problems
+
+
+Getting Help
+
+
+Services
+
+
+Password Quality Enforcement
+
+
+
+Questions About the Computer Systems Lab
+
+You may also want to look at the
+List of USENET FAQs
+.
+
+Last modified: Sun Aug 25 18:15:29 1996 by David Parter
+
+dparter@cs.wisc.edu
+
+
+
+

@@ -1,0 +1,62 @@
+Date: Tue, 26 Nov 1996 02:55:46 GMT
+Server: Apache/1.0.0
+Content-type: text/html
+Content-length: 1061
+Last-modified: Tue, 15 Oct 1996 21:14:12 GMT
+
+
+Vo Thuan NGUYEN's Home Page
+
+
+
+
+Welcome to my home page
+
+
+This page is under construction.
+
+Cette page en
+francais
+
+
+
+
+
+
+E-mail:
+
+vtngu@cs.mcgill.ca
+
+Office:
+
+3480 University Street, McConnell Engineering Building, Suite 322
+
+Montreal, Qc, Canada
+
+Office Phone:
+(1-514) 398-7086
+
+Office FAX:
+
+(1-514) 493-9518
+
+
+Click
+here
+to know more on me
+Want to see my
+resume
+?
+
+
+Research Interests
+
+
+
+Networking
+
+
+
+Last revised: September 24, 1996
+
+

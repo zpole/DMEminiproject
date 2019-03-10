@@ -1,0 +1,20 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:02:53 GMT
+Content-Type: text/html
+Content-Length: 283
+Last-Modified: Tuesday, 28-Mar-95 05:38:39 GMT
+
+Eric Bax's Home Page
+
+
+Eric Bax, email: eric@csvax.caltech.edu
+
+Graduate Student at Caltech Computer Science Department.
+
+
+Return to
+Caltech CS Home Page
+
+
+

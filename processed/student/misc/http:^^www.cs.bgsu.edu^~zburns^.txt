@@ -1,0 +1,63 @@
+Date: Thu, 21 Nov 1996 21:56:39 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Sat, 15 Jun 1996 01:54:22 GMT
+Content-length: 1905
+
+
+Zachary H. Burns - Personal Web Page
+
+
+
+
+
+
+Welcome to Zack's Personal Web Page
+
+
+
+
+
+
+
+
+Zachary Burns
+
+
+Hoser
+
+
+Baby Pictures INTEL machines
+
+Baby Pictures MACINTOSH format
+
+** Macintosh users, see bottom of page **
+
+As you can see, here I am at the computer lab doing some HTML
+coding.  Ah, I remember back when the Web was new and HTML 1.0
+was born.  Things sure have changed, haven't they?
+
+Click here to go to the table of contents.
+
+
+
+
+
+Macintosh users, click here
+
+
+
+Created By: Zachary H. Burns  E-mail:
+zburns@cs.bgsu.edu
+
+Geek Code: You can decode it by copying it and pasting it
+here
+GCS/IT d- s: a-- C++++ U*++++L+++S+++ P+++ L+++ E---- W+++ N+ K--- w++++
+O----
+M-- V-- PS+++ PE+++ Y+ PGP t+++ 5- X- R- tv+++ b- DI++ D++ G+ e+++ h+
+r\0r* y+
+
+Created 03/25/96 12:28:35 PM        Updated 03/25/96 12:28:55 PM
+
+
+

@@ -1,0 +1,100 @@
+Date: Tue, 26 Nov 1996 19:11:45 GMT
+Server: Apache/1.1-dev
+Content-type: text/html
+Set-Cookie: Apache=gs359339849035505714; path=/
+
+EECS 370
+
+EECS 370 -- Introduction to Computer Organization -- Fall 1996
+
+
+Peter M. Chen
+Edward S. Davidson
+
+
+Dan Friendly
+Vijayalakshmi Srinivasan
+Ed Tam
+
+
+Click here to access the class newsgroup.
+
+
+Office hours
+
+
+Peter Chen (2225 EECS): M 1-2:30, Th 10:30-12
+
+Ed Davidson (2114C EECS): MW 4:30-6
+
+Dan Friendly (Media Union 3rd floor): Tu 12:30-2, W 10:30-12 (cancelled 11/27)
+
+Vijayalakshmi Srinivasan (Media Union 3rd floor): WF 1-2:30
+
+Ed Tam (Media Union 3rd floor): Th 2-3:30, F 10:30-12
+
+
+Helpful documents and resources
+
+
+
+Using UNIX for EECS 370
+
+
+CAEN Introduction to Unix
+
+
+Accessing joint CAEN/ITD labs
+
+
+Using EMACS
+
+
+Projects and Homeworks
+
+
+
+Project 1 Handout
+
+
+Project 1 Solution Assembler
+
+
+Project 1 Solution Simulator
+
+
+Project 1 Solution Multiplier
+
+
+Homework 1 Handout
+
+
+Homework 1 solution
+
+
+Project 2 Handout
+
+
+Project 2 Solution Simulator
+
+
+Register-level diagram of LC-896 for Project 2
+
+
+Homework 2 Handout
+
+
+Homework 2 solution
+
+
+Project 3 Handout
+
+
+Project 4 Handout
+
+
+Homework 3 Handout
+
+
+
+

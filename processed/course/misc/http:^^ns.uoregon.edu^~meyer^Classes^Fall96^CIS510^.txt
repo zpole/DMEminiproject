@@ -1,0 +1,56 @@
+Date: Tue, 14 Jan 1997 22:50:35 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 27 Sep 1996 19:18:01 GMT
+Content-length: 1273
+
+
+
+CIS 410/510 -- Topics In Internetworking  Fall 1996
+
+
+
+
+
+CIS 410/510 -- Topics In Internetworking, Fall 1996
+
+
+
+
+
+
+
+Synopsis: This course will focus on the technical and
+architectural aspects of IP internetworking. In addition, we will
+look at one of the new Internet protocols, the Resource
+Reservation Protocol (or possibly IPv6).
+
+
+
+
+Instructor
+
+
+
+
+Adminstrivia
+
+
+
+
+Syllabus
+
+
+
+
+Some Additional Resources
+
+
+
+
+http://ns.uoregon.edu/~meyer/Classes/Fall96/CIS510/
+
+
+
+
+

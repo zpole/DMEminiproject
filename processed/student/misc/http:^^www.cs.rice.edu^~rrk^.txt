@@ -1,0 +1,137 @@
+Date: Tue, 26 Nov 1996 00:19:14 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 22 Nov 1996 21:14:22 GMT
+Content-length: 4826
+
+
+Home Page for Ram Rajamony
+
+
+
+
+
+
+Ramakrishnan Rajamony
+
+
+
+Click
+here
+if you are on a monochrome
+terminal.
+If you came here trying to reach Jayendran Rajamony's home page, you
+need to go
+here
+. Well,
+go visit him anyway - he's my brother
+
+
+
+I am a 4th year graduate student at
+Rice
+University
+, working towards my doctorate in Computer Engineering. My
+thesis work is on the performance debugging of shared-memory parallel
+programs;
+Alan Cox
+is my thesis
+advisor.
+Here's a little bit about myself. I have a Bachelor of Technology degree
+in Electrical Engineering from the
+Indian Institute of
+Technology, Madras
+.
+Two years of work at
+North Carolina State
+University
+earned me a Master's degree in Computer Engineering. Since
+then, I've been at Rice. From August 1996, I am being supported by an
+IBM
+corporate fellowship.
+Research Work
+I have been involved in various research projects at Rice. Here are some of
+the interesting projects I am working on.
+
+
+TreadMarks
+- software distributed shared memory for parallel computers.
+My dissertation work is on developing a
+source-level
+performance
+debugging approach for improving the performance of parallel programs.
+Click
+here
+for more information.
+I am also interested in looking at compiler strategies for improving
+the performance of shared-memory systems. Specifically, I have explored
+methods to reduce the coherence traffic in shared-memory systems by
+compiler intervention.
+I have also worked on the Rice Parallel Processing
+Testbed (RPPT) project. This project has created a unified
+architecture, interconnection network and memory hierarchy simulator. Neat
+stuff, contact
+Prof. Jump
+in
+the Electrical and Computer Engineering Department for more information on
+this.
+
+Resumania!
+Here is a copy of my
+curriculum vita
+.
+If you'd like to give me a job
+,
+
+hey, feel free to
+get in touch
+with me.
+
+Publications
+
+
+``TreadMarks: Shared Memory Computing on Networks of Workstations'', with
+Cristiana Amza, Alan Cox, Sandhya Dwarkadas, Peter Keleher, Honghui Lu,
+Weimin Yu, and Willy Zwaenepoel, in
+IEEE Computer
+, February 1996.
+
+A Comparison of Entry Consistency and Lazy Release Consistency
+Implementations
+with Sarita Adve, Alan Cox, Sandhya Dwarkadas and Willy Zwaenepoel,
+in the proceedings of the
+2nd International Symposium on High-Performance Computer
+Architecture
+,
+February 1996.
+
+Software vs. Hardware Shared Memory Implementation: A Case Study
+,
+with Alan Cox, Sandhya Dwarkadas, Peter Keleher, Honghui Lu and Willy
+Zwaenepoel
+in the proceedings of the
+21st International Symposium on Computer Architecture
+,
+April 1994.
+
+A Performance Debugger for Eliminating Excess Synchronization in
+Shared-memory Parallel Programs
+,
+with Alan Cox
+in the proceedings of the
+Fourth International Workshop on Modeling, Analysis, and Simulation of
+Computer and Telecommunication Systems (MASCOTS)
+,
+February 1996.
+
+
+Ramakrishnan Rajamony
+(
+rrk@rice.edu
+)
+ECE Department, Rice University
+PO Box 1892, Houston, TX 77251-1892
+Last updated: November 22, 1996
+
+
+

@@ -1,0 +1,259 @@
+Date: Wed, 20 Nov 1996 21:56:32 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 18 Nov 1996 19:12:06 GMT
+Content-length: 8119
+
+
+
+Introduction to Digital Signal and Image Processing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next:
+
+Contents
+
+Up:
+
+BYU CS Department
+
+
+
+
+Introduction to Digital Signal and Image Processing
+
+
+Bryan S. Morse, Ph.D.
+
+
+Department of Computer Science
+
+
+Brigham Young University
+
+Computer Science 450
+Fall 1996
+
+These notes are designed to supplement CS 450,
+an
+Introduction to Digital Signal and Image Processing
+course in the
+Department of Computer Science
+at
+Brigham Young University
+.
+Please
+contact the author
+if you have any questions or suggestions.
+This document was converted from LaTeX using
+latex2html
+,
+so there are
+a few things you may need to do to get it to look nice
+.
+There are also
+some tips on getting printed copies of these notes
+.
+
+Note:
+These on-line notes are still generally under construction
+and
+will
+change frequently.
+Please bear with me during this construction phase.
+
+
+
+
+
+Contents
+
+
+Course Information
+
+
+
+Course Information and Policies
+
+
+Class Schedule
+
+
+
+Lectures
+
+
+
+Introduction
+
+
+Signals and Images
+
+
+Mathematical Preliminaries - Part 1
+
+
+Mathematical Preliminaries - Part 2
+
+
+Mathematical Preliminaries - Part 3
+
+
+Light, Eyes, Cameras, and Detection Statistics
+
+
+Information and Signals
+
+
+Signal Distance and Linear Approximation of Signals
+
+
+The Harmonic Orthogonal Set
+
+
+Transformations
+
+
+Systems and Their Characterization
+
+
+The Fourier Transform
+
+
+Common Functions and Properties of the FT
+
+
+Convolution Theorem, Transfer Functions, and Filtering
+
+
+Discrete Spatial Sampling and Reconstruction
+
+
+FFT Algorithm, Other Transforms (DCT, KLT, Wavelets)
+
+
+Noise
+
+
+Level Operations
+
+
+Filtering
+
+
+Restoration
+
+
+Human Perception and Displays
+
+
+Color
+
+
+Coding
+
+
+Compression
+
+
+Video
+
+
+Detection
+
+
+Recognition
+
+
+Correlation
+
+
+Geometric Operations
+
+
+Wrap-up and Review
+
+
+
+Assignments
+
+
+
+Assignment 1
+
+
+Assignment 2
+
+
+Assignment 3
+
+
+Assignment 4
+
+
+Assignment 5
+
+
+Assignment 6
+
+
+
+Exams
+
+
+
+Exam Topics: Midterm Examination
+
+
+Exam Topics: Final Examination
+
+
+
+Other Information and Resources
+
+
+
+Glossary
+
+
+Image Descriptions
+
+
+Lab Resources
+
+
+Some Tips on Viewing These Pages
+
+
+Printing These Notes
+
+
+Printing Lecture Overheads
+
+
+
+About this document ...
+
+
+
+
+©
+Bryan S. Morse
+, 1995-1996
+
+

@@ -1,0 +1,49 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 23:01:43 GMT
+Content-Type: text/html
+Content-Length: 2206
+Last-Modified: Thursday, 31-Aug-95 19:39:42 GMT
+
+
+
+HotJava Demos
+
+
+
+
+
+
+
+
+Version 1.0 alpha2
+
+Demos
+Welcome to the HotJava demo page. This page contains links
+to each of the HotJava demos in the release.
+
+
+Audio
+- Have you ever wanted to do this?
+Bouncing Heads
+- Synchronized audio and animation.
+Image Loop
+- Image animation.
+Tic-Tac-Toe
+- Interactive game.
+Sorting Algorithms
+- Animated sorting algorithms.
+Hangman
+- Another interactive game.
+
+
+
+
+
+Send your comments
+or questions to
+java@java.sun.com
+
+
+
+

@@ -1,0 +1,64 @@
+Server: Dienst v4-1-6
+MIME-version: 1.0
+Content-type: text/html
+THE DESIGN AND IMPLEMENTATION OF A PRIVATE MESSAGE SERVICE FOR MOBILE COMPUTERS
+
+THE DESIGN AND IMPLEMENTATION OF A PRIVATE MESSAGE SERVICE FOR MOBILE COMPUTERS
+David A. Cooper
+TR95-1539
+August 24, 1995
+
+Even as wireless networks create the potential for access to information from mobile platforms, they pose a problem for privacy. In order to retrieve messages, users must periodically poll the network. The information that the user must give to the network could potentially be used to track that user. However, the movements of the user can also be used to hide the user's location if the protocols for sending and retrieving messages are carefully designed. In this thesis, we will present a protocol for a replicated memory service which allows users to read from memory without revealing which memory locations they are reading. Unlike previous protocols, this protocol is efficient in its use of computation and bandwidth. We will then show how this protocol can be used in conjunction with existing privacy preserving protocols to allow a user of a mobile computer to maintain privacy despite active attacks. Allowing users to retrieve messages anonymously introduces a new problem. In order to limit memory usage, it is necessary to remove old messages from the system. However, since users may become disconnected from the network for periods of time, it is important that the system hold onto messages until they have been retrieved by their intended recipients. The result is a conflict between the system's need for information and users' desire for privacy. We will present the design of a vacation service which we have developed which stores messages for users which are disconnected which does not require users to reveal any private information. Finally, we will describe the implementation of the private message service and discuss the performance estimates that we derived for the system based on experimental results. As we will show, the potential throughput of the private message service is reasonable.
+
+
+How to view this document
+
+
+Display an
+overview
+of the document in one of the following formats.
+
+Overview of thumbnail pages
+
+
+Display a
+selected page
+in one of the following formats (document has 120 pages).
+
+
+inline gif image
+
+
+
+
+Display the
+whole
+document in one of the following formats.
+
+PostScript
+917883 bytes.
+
+
+
+Print or download all or selected pages.
+
+
+
+You are granted permission for the non-commercial reproduction, distribution,
+display, and performance of this technical report in any format, BUT this
+permission is only for a period of 45 (forty-five) days from the most recent
+time that you verified that this technical report is still available from
+the Computer Science Department of Cornell University under terms that
+include this permission.  All other rights are reserved by the author(s).
+[
+Search
+|
+Home page
+]
+
+NCSTRL
+This server operates at Cornell University.
+
+Send email to
+tech-reports@cs.cornell.edu
+

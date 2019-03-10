@@ -1,0 +1,54 @@
+Date: Wed, 20 Nov 1996 23:02:43 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 995
+Last-modified: Thu, 26 Sep 1996 16:43:07 GMT
+Advanced Topics in Operating Systems - CS270A
+
+Advanced Topics in Operating Systems - CS270A
+
+
+
+
+
+Martin Rinard
+
+
+
+Department of Computer Science - UCSB
+TR 10:00 - 11:50, HSSB 1228
+Fall 1996  *  4 Units
+
+
+Welcome to the home page for the CS270A Operating Systems Class
+
+
+
+
+
+
+Course Related Material:
+
+
+
+
+Course announcement
+
+
+
+SGI Memo
+
+
+
+Synthesis Ph.D. Thesis - Henry Massalin
+
+
+
+Handouts
+
+
+
+Assignments
+
+
+

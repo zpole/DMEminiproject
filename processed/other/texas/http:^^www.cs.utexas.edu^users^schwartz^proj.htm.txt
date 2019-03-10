@@ -1,0 +1,354 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:50:43 GMT
+Content-Type: text/html
+Content-Length: 10804
+Last-Modified: Wednesday, 25-Dec-96 09:11:55 GMT
+
+
+
+SSGRG Project Page
+
+
+
+
+Project Index
+
+This web page presents a brief description of each SSGRG project and a
+comprehensive list of papers relevant to that project. The project index is:
+
+
+
+P2/Predator
+ADAGE
+
+P++
+GenVoca
+
+Rosetta
+Dissertations
+
+Prairie
+Design Patterns
+
+Miscellaneous
+
+
+
+If you are interested in specific topics or subjects, perform a keyword search on the
+SSGRG Publication Page
+..
+
+Related Web Pages:
+
+
+UTCS General
+
+
+SSGRG Title Page
+
+SSGRG Publication Page
+
+
+P2/Predator
+
+
+is a series of prototypes (P1, P2) for a GenVoca generator of container data structures.
+
+
+
+
+
+Memory Simulators and Software Generators
+
+SSR'97
+
+
+Composition Validation and Subjectivity...
+
+IEEE TSE 1997.
+
+Subjectivity and GenVoca Generators
+
+ICSR 1995
+.
+
+P2: A Lightweight DBMS Generator
+. UTCS TR-95-26.
+
+P2: An Extensible Lightweight DBMS
+. UTCS TR-95-04.
+
+Validating Component Compositions...
+
+ICSR 1995
+.
+
+Reengineering a Complex Application...
+
+ACM SIGSOFT 1994
+.
+
+The LEAPS Algorithms
+. UTCS TR-94-28.
+
+Introductory P2 System Manual
+(PostScript file)
+. UTCS TR-94-26.
+
+Advanced P2 System Manual
+(PostScript file)
+. UTCS TR-94-27.
+
+Scalable Software Libraries
+.
+ACM SIGSOFT 1993
+.
+
+A Scalable Approach to Software Libraries
+.
+WISR 1993
+.
+
+Software Components in a Data Structure Precompiler
+.
+ICSE 1993
+.
+
+Single Schema Database Management Systems
+. UTCS TR-92-47.
+
+Implementing a Domain Model for Data Structures
+.
+IJSEKE 1992
+.
+
+P2 Software Distribution
+(tar file)
+.
+
+P2 Manuals Distribution
+(tar file)
+.
+
+
+
+
+
+P++
+
+
+is an extension of C++ that supports GenVoca programming concepts.
+
+
+
+
+A Programming Language for ... Generators
+Ph.D. Thesis, 1996.
+
+P++: A Language for Large-Scale Reusable Software...
+
+WISR 1993
+.
+
+P++: A Language for Software System Generators
+. TR-93-16.
+
+
+
+
+
+Rosetta
+
+
+is a project to build extensible and customized compilers for the domain of relational data languages.
+
+
+
+
+Rosetta: A Generator of Data Language Compilers
+SSR 97
+.
+
+...Generation of Extensible Data Languages
+. Ph.D. Thesis, 1994.
+
+
+
+
+
+Prairie
+
+is an effort to build customized rule based query optimizers from components.
+
+
+
+
+Synthesizing Rule Sets...
+,
+UTCS TR-96-05
+.
+
+Prairie: A Rule Specification Framework...
+
+Data Engineering 1995
+.
+
+Making Database Optimizers More Extensible
+Ph.D. Thesis, 1995.
+
+
+
+
+
+Design Patterns
+
+
+Many structural (Gamma) patterns can be recognized as end-products of large scale program
+transformations. Our work on design patterns explores the potential of automating structural patterns for
+software maintenance.
+
+
+
+
+Program Transformations for Evolving Software ...
+
+OOPSLA'95
+.
+
+Automated Software Evolution via Design Patterns...
+
+ISACC'95
+.
+
+
+
+
+
+ADAGE
+
+
+is an ARPA-sponsored DSSA project to build a (GenVoca) generator for avionics software.
+
+
+
+
+
+Creating Reference Architectures...
+
+SSR '95
+.
+
+The ADAGE Avionics Reference Architecture
+.
+CIA '95
+.
+
+Domain Modeling...
+
+Symposium ECBS 1995
+.
+
+
+
+
+
+GenVoca
+
+
+
+
+
+Composition Validation and Subjectivity...
+
+IEEE TSE 1997.
+
+Rosetta: A Generator of Data Language Compilers
+SSR '97
+.
+
+...Generators, Transformation Systems, and Compilers
+
+working paper
+.
+
+Subjectivity and GenVoca Generators
+
+ICSR 1995
+.
+
+Issues in Domain Modeling ...
+
+OOPSLA'95
+.
+
+Validating Component Compositions...
+
+ICSR 1995
+.
+
+The GenVoca Model...
+
+IEEE Software
+, September 1994.
+
+Products of Domain Models
+.
+DM Workshop'94
+.
+
+The Design and Implementation...
+
+ACM TOSEM
+, October 1992.
+
+
+
+
+
+Dissertations
+
+
+
+
+
+A Programming Language for ... Generators
+V.P. Singhal, 1996.
+
+Making Database Optimizers More Extensible
+D. Das, 1995.
+
+...Generation of Extensible Data Languages
+. E.E. Villarreal, 1994.
+
+A ... Generator for Data Structures
+. M.J. Sirkin, 1994.
+
+
+
+
+
+Miscellaneous
+
+
+
+
+
+... Component Technologies and Space Applications
+Integ. Micro
+.
+
+
+
+
+
+Last modified: December 24, 1996
+
+
+Don Batory
+
+(batory@cs.utexas.edu)
+
+
+
+

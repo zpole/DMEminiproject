@@ -1,0 +1,109 @@
+Date: Tue, 26 Nov 1996 19:00:06 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 2022
+Last-modified: Fri, 11 Oct 1996 15:34:39 GMT
+COMP 11 -- Fall 1996
+
+
+COMP 11 -- Fall 1996
+Introduction to Computer
+Science
+
+
+
+
+This is a first course in computer science, which includes an introduction to
+the C programming language and the UNIX operating system.  Students taking
+this course will learn how to design algorithms and write computer programs
+while getting a general introduction to the field of computer science.
+
+
+
+
+
+Administrative Information
+
+
+
+TA and Office Hours
+
+
+Lab Sections
+
+
+Exam Schedule
+
+
+Email addresses
+
+
+
+
+
+
+
+
+
+
+Course Related Information
+
+
+
+Handouts, HWs, Projects & Labs
+
+
+
+
+
+
+
+
+
+
+Examples
+
+
+
+Example Programs from Class
+
+
+Example Programs from the Roberts' Text
+
+
+
+
+
+
+
+
+
+
+Help
+
+
+
+Help with Pine --
+an email reader/writer
+
+
+Summary of
+some useful Unix commands
+
+
+[Click here for a postscript file]
+
+
+Using Ewan (telnet) from the Tufts dorms
+
+
+
+
+
+
+
+
+
+WebMaster for COMP 11,
+webmaster11@cs.tufts.edu
+

@@ -1,0 +1,80 @@
+Date: Tue, 14 Jan 1997 23:18:30 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Maria Paola Bonacina
+
+Maria Paola Bonacina
+
+
+I am assistant professor in the
+Department of Computer Science
+of the
+University of Iowa
+since August 1993.
+After moving to the U.S. in August 1989,
+I received my Ph.D. in Computer Science
+from the State University of New York at
+Stony Brook
+in December 1992.
+I had my earlier education in
+Italy
+,
+where I received my Dottorato di Ricerca in Informatica in January 1991
+and my Laurea in Scienze dell'Informazione in July 1986, both from the
+Universita' degli Studi di Milano
+.
+I visited
+LRI (Orsay, Paris Sud)
+in 1988,
+National Taiwan University
+in 1989,
+the
+Argonne National Lab
+and
+INRIA-Lorraine
+in 1993,
+and
+SRI International
+in 1996.
+I am a member
+of the
+Association for Automated Reasoning
+
+(AAR)
+,
+the
+European Association for Theoretical Computer Science
+
+(EATCS)
+and
+the
+Association for Symbolic Logic
+
+(ASL)
+.
+
+
+My research activity in automated reasoning
+
+
+
+My teaching activity
+
+
+
+Department of Computer Science
+University of Iowa
+Iowa City, IA 52242-1419, USA
+Office: 201F MacLean Hall
+Fax: +1-319-335.3624
+E-mail: bonacina@cs.uiowa.edu
+Finger: click
+here
+.
+
+
+
+This page was last updated on Thursday, 31-Oct-96 20:48:48 CST
+by
+Maria Paola Bonacina
+(bonacina@cs.uiowa.edu).

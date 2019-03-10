@@ -1,0 +1,237 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 16-Dec-96 23:41:54 GMT
+Content-Type: text/html
+Content-Length: 3957
+Last-Modified: Tuesday, 02-Jul-96 05:26:06 GMT
+
+
+Course Header
+
+
+
+
+
+
+
+
+Course Information
+
+
+
+
+
+
+
+
+
+Lecture: Upson 215
+
+Section 1:  Monday and Wednesday, 10:00 - 11:00 a.m.
+Section 2:  Monday and Wednesday, 11:30 - 12:30 a.m.
+
+
+
+
+
+Lab:  Upson B7
+
+Section 1:  Tuesday and Thursday, 10:00 - 11:00 a.m.
+Section 2:  Tuesday and Thursday, 11:30 - 12:30 a.m.
+
+
+
+
+
+
+Instructor:
+
+Jonathan Barber
+Office: Upson 5133
+Phone: 255-9189
+Email:
+barber@cs.cornell.edu
+WWW:
+http://www.cs.cornell.edu/Info/People/barber
+Hours:
+
+Mon 2-4pm in Upson 5133
+Wed 6-8pm in Upson B7 (the MacLab)
+or by appt.
+
+
+
+
+
+
+Teaching Assistants:
+
+Dave Koster
+Office: Upson 343b
+Phone: ?
+Email:
+dkoster@cs.cornell.edu
+WWW:
+http://www.cs.cornell.edu/Info/People/dkoster
+Hours: 2:30 - 4:30 p.m. Thurs.
+
+Olga Veksler
+Office: Upson 4132
+Phone: 255-1179
+Email:
+olga@cs.cornell.edu
+WWW:
+http://www.cs.cornell.edu/Info/People/olga
+Hours: 3:00 - 5:00 p.m. Tues.
+
+
+
+
+
+PRESEP Consultant:
+
+Max Feingold
+RPCC Computerer Lab (on North Campus)
+Hours: Mon 3-5pm, Wed 9-11pm
+
+
+
+
+
+
+Course Consultants:
+
+
+Hour
+
+Sunday
+
+Monday
+
+Tuesday
+
+Wednesday
+
+1:00
+
+Soochon
+Carpenter Lab
+
+Janeen
+Carpenter Lab
+
+Karen
+Carpenter Lab
+
+Janeen
+Carpenter Lab
+
+2:00
+
+Soochon
+Carpenter Lab
+
+Karen
+Carpenter Lab
+
+Karen
+Carpenter Lab
+
+Karen
+Carpenter Lab
+
+3:00
+
+Felix
+Carpenter Lab
+
+Grainne
+Carpenter Lab
+
+Felix
+Carpenter Lab
+
+Grainne
+Carpenter Lab
+
+4:00
+
+Felix
+Carpenter Lab
+
+Grainne
+Carpenter Lab
+
+Felix
+Carpenter Lab
+
+Grainne
+Carpenter Lab
+
+5:00
+
+NONE
+
+Katie
+Upson B7 Lab
+
+Janeen
+Upson B7 Lab
+
+Xiao-ming
+Upson B7 Lab
+
+6:00
+
+NONE
+
+Katie
+Upson B7 Lab
+
+Janeen
+Upson B7 Lab
+
+Xiao-ming
+Upson B7 Lab
+
+7:00
+
+NONE
+
+Katie
+Upson B7 Lab
+
+Soochon
+Upson B7 Lab
+
+Xiao-ming
+Upson B7 Lab
+
+8:00
+
+NONE
+
+Katie
+Upson B7 Lab
+
+Soochon
+Upson B7 Lab
+
+Xiao-ming
+Upson B7 Lab
+
+
+
+
+
+For more information, contact
+Dave Koster
+.
+
+
+[
+Back to Index
+]
+
+
+

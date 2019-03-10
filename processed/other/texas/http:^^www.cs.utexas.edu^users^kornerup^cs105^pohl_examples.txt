@@ -1,0 +1,52 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 08-Jan-97 16:33:22 GMT
+Content-Type: text/html
+Content-Length: 2308
+Last-Modified: Friday, 03-Mar-95 20:58:50 GMT
+Index of /users/kornerup/cs105/pohl_examples
+Index of /users/kornerup/cs105/pohl_examples
+
+Name            Last modified     Size
+
+
+Parent directory
+
+
+ch1/
+03-Mar-95 14:55      -
+
+ch2/
+03-Mar-95 14:55      -
+
+ch3/
+03-Mar-95 14:55      -
+
+ch4/
+03-Mar-95 14:55      -
+
+ch5/
+03-Mar-95 14:55      -
+
+ch6/
+03-Mar-95 14:55      -
+
+ch7/
+03-Mar-95 14:55      -
+
+ch8/
+03-Mar-95 14:55      -
+
+ch9/
+03-Mar-95 14:55      -
+
+chio/
+03-Mar-95 14:55      -
+
+chlan/
+03-Mar-95 14:55      -
+
+chpas/
+03-Mar-95 14:55      -
+12 files
+

@@ -1,0 +1,261 @@
+Date: Thursday, 21-Nov-96 23:16:01 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Monday, 11-Nov-96 16:22:11 GMT
+Content-length: 9640
+
+
+Jason's homepage
+
+
+You can grab the latest version of my
+.emacs (v0.95)
+(emacs
+configuration) if you'd like.  It's kinda big though (492+K).  So if you
+want to just poke around the
+individual directories
+,
+feel free.  Note, I don't always make a new tar file everytime I edit my
+.emacs, so you may want to check the version number in my
+.emacs
+itself, and
+bug me
+to make a new tar file.
+
+
+
+
+
+Jason's Links
+
+
+(this obviously isn't a real home page. someday i will make one)
+Generally Cool Stuff:
+
+This
+dude
+has a
+great
+sense of humor.
+The
+The WWW
+Speedtrap Registry
+is a great idea.
+Main Page: The Internet Movie Database at Cardiff UK
+
+If you like
+backgammon
+this is for you.
+Crossroads:
+The International ACM Student Magazine
+.  (Granted, I work on this,
+so it's an inevitable plug.)
+Muppets Home Page
+(Can
+you tell I like TV?)
+The Web Site of
+Love (MST3K)
+This is a
+canonical TV server
+.
+If you like comics like
+Dilbert
+or
+Robotman
+check out
+this list of
+Internet
+Published Comics
+.
+Interesting Devices Connected to the Net
+
+Useless WWW Pages
+
+
+Politically Cool (if you share my politics) Stuff:
+
+Lots of
+lefty
+stuff here.  Aaaah.
+Alliance for Judaism and Social Justice: AJSJ Home Page
+
+Stuff on
+Noam Chomsky
+.
+Yea!
+FAIR
+, the media
+watchdog group, is online.  Some other media stuff is
+here
+.
+Check out the
+Peacenet
+web server.
+A GLB
+allies
+page.
+Points elsewhere too.
+EZLN
+info.
+Political Prisoners Page
+
+Politically Evil:
+Well, since we need to keep an eye on these people, here's stuff to
+watch.
+The actual
+CIA
+web pages.  For what
+does the "ic" domain name stand (perhaps you are supposed to say it aloud)?
+
+Young
+Americans for ``Freedom.''  They have a magazine, Orwellian-entitled,
+Truth
+.
+The
+scary
+,
+er ``right'' side of the web.
+Uh... only because I believe we should know our enemies do I
+include
+everywhere
+.
+
+Links to links :
+
+W3 Search Engines
+.
+Yahoo - A Guide to WWW
+
+Altavista -- everyone's favorite security-hole-finder
+
+
+Weather:
+
+UIUC
+Weather
+server.
+Gopher Satellite Images
+.
+Graphic
+Small composite US weath
+er map
+.
+Another
+awesome weather
+pa
+ge.
+Current Weather Maps/Movies
+.
+While not strictly weather, this
+Earthquake report
+seemed close enough to qualify.
+Computer architecture and languages:
+
+The
+Perl
+language site.
+The
+C
+language site.
+Learn more about
+HTML
+.
+PowerPC Architecture: A High-Performance Architecture with a History
+
+The Python Programming Language
+
+
+Art :
+
+Ansel Adams: Northern UCs
+.
+Fractal pictures & animations
+.
+The Gallery
+.
+Festival
+.
+Mother Jones
+.
+Whole Earth 'Lectronic Magazine - The WELL's Gopherspace
+.
+The Tech
+.
+The Dining Philosopher's
+newsletter
+.
+The Whole Internet
+Catalog
+.
+Cecil Adams'
+The Straight Dope
+archives.
+For lots of
+comics
+and stuff, see this site.
+
+Organizations :
+
+Black Crawling Systems Archives
+
+Exploratorium Home Page
+.
+Like
+puzzles
+?  Check here.
+Association for Computing Machinery (April 30 1994)
+.
+Like RISC chips?  Have an old decstation?  Check out the
+MIPS
+homepage.
+Computer Professionals for Social Responsibility
+.
+Welcome To The Gallup Organization
+.
+Some sort of
+2600-type
+site.  Check it
+out.
+
+Misc :
+
+
+Charles
+Isbell
+does good reviews of hip-hop.
+Cute
+Cyrano-like
+valentine
+love email server.
+Penn and Teller
+.
+
+To be processed:
+
+TIME Universe
+
+Welcome to ENTERTAINMENT WEEKLY
+
+2/1/95 TIME DAILY NEWS SUMMARY
+
+CBS Television Home Page
+
+The Stanford SUIF Compiler Group
+
+The SUIF Library - Overview
+
+The Progressive Directory @igc
+
+NLM HyperDOC: The Visible Human Project
+
+Unusual, Strange and Unique Publications
+
+MediaFilter
+
+American Wine
+
+The Home Page of Randal L. Schwartz
+
+
+

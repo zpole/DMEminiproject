@@ -1,0 +1,95 @@
+Date: Thu, 21 Nov 1996 22:18:53 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 557 Home Page
+
+
+
+CSE 557: Computer Graphics
+
+Autumn Quarter 1995
+
+
+Welcome to the CSE 557 Home Page!
+This is the World Wide Web hypermedia document for CSE 557, which
+contains a wealth of information about the class.  Keep in mind that
+this document is not static, and that new information will be added
+frequently.
+
+If you have any problems with this document, send mail to derose@cs.
+Click
+here for help
+.
+
+
+Available information:
+
+
+Your professor and TAs
+
+Course syllabus
+
+Lecture notes
+
+Written homework assignments and solutions from last year
+
+Project handouts
+
+Project grading policy
+
+Old tests
+
+Cool images from last year's 557
+
+
+
+Additional information:
+
+
+Getting into the class
+
+The SGI Instructional Lab
+
+Using the Indys
+
+MVis home
+page (visitor and room scheduling)
+
+The
+Computer Science and Engineering Department,
+
+The
+Computer Science degree program
+(offered through the College
+of Arts and Sciences),
+The
+Computer Engineering degree program
+(offered through the College
+of Engineering),
+and
+
+
+
+Mosaic Help:
+Help is available on the following topics:
+
+Basic information about
+Mosaic.
+
+Information about the HyperText Markup Language
+(
+HTML
+)
+Uniform Resource Locators
+(
+URL
+)
+How to read the web from home using
+Lynx
+,
+a character-based web browser
+
+
+

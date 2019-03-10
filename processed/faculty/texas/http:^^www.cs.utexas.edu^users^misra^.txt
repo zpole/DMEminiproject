@@ -1,0 +1,62 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:44:56 GMT
+Content-Type: text/html
+Content-Length: 1677
+Last-Modified: Friday, 12-Apr-96 15:19:23 GMT
+Jayadev Misra
+
+
+
+Jayadev Misra
+
+Regents' Chair in Computer Sciences
+Department Chair
+B.Tech. (1969)
+Indian Institute of Technology, Kanpur
+Ph.D. (1972)
+Johns Hopkins University
+
+
+Honors, Awards, and Professional Service
+
+
+John Simon Guggenheim Fellow, 1989
+IEEE Fellow
+ACM Fellow
+
+Areas of Interest
+Parallel programming
+
+Summary of Research
+My interest is in applying formal methods in practice, particularly in
+the specifications and designs of synchronous and asynchronous
+systems.
+
+Selected Recent Publications
+J. Misra, "Powerlist: a structure for parallel recursion," in
+A Classical Mind: Essays in Honor of C. A. R. Hoare
+, Prentice-Hall, January 1994.
+J. Misra, "Loosely coupled processes,"
+Future Generations Computer Systems (8)
+, pp. 269-286, North Holland, 1992.
+J. Misra, "Phase synchronization,"
+Information Processing Letters
+, vol. 38, pp. 81-85, 1991.
+J. Misra, "Equational reasoning about nondeterministic processes,"
+Formal Aspects of Computing
+, vol. 2, no. 2, pp. 167-195, 1990.
+J. Misra and K. M. Chandy,
+Parallel Program Design: a Foundation
+, Addison-Wesley, 1988.
+
+My research group, the
+PSP group
+, has a home
+page, with more information about my work and electronic access to other
+papers.
+My current research project, Seuss, has an
+overview
+and a
+postscript version
+accessible from here.

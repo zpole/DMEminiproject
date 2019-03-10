@@ -1,0 +1,105 @@
+Date: Thu, 21 Nov 1996 22:24:56 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 135 Home Page
+
+
+Click
+here for help
+.
+CSE 135: Computational Techniques
+
+1995 Spring Quarter
+
+
+Welcome to the CSE/135 Home Page!
+This is the World Wide Web hypermedia document for CSE/135, which
+contains a bounty of information about the class.  Keep in mind that
+this document is not static, and that new information will be added
+frequently.
+
+If you have any problems with this document, send mail to weld@cs.
+You may click on any highlighted item for more information.
+
+About the class:
+
+
+Personnel
+(Professor and TAs)
+
+Course syllabus
+
+Reading assignments
+
+Homework policy
+
+Computing Lab
+
+
+Announcements
+
+
+Check this regularly!
+
+Last changed:  31 May 95
+
+
+Handouts:
+
+
+Lecture notes
+
+Homework assignments and grades
+
+
+Other useful links:
+
+
+Official Mathematica Page
+
+MVis home
+page (visitor and room scheduling)
+
+The
+Computer Science and Engineering Department,
+
+The
+Computer Science degree program
+(offered through the College
+of Arts and Sciences),
+The
+Computer Engineering degree program
+(offered through the College
+of Engineering),
+and
+
+Mosaic help:
+Help is available on the following topics:
+
+Basic information about
+Mosaic.
+
+Information about the HyperText Markup Language
+(
+HTML
+)
+Uniform Resource Locators
+(
+URL
+)
+How to read the web from home using
+Lynx
+,
+a character-based web browser
+
+
+Portions of the CSE/ENGR 135 Web may be reprinted or adapted for
+academic nonprofit purposes, providing the source is accurately quoted
+and duly credited.  The CSE/ENGR 135 Web: Copyright 1995, Department
+of Computer Science and Engineering, University of Washington.
+
+
+
+

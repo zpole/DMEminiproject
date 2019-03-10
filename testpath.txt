@@ -1,0 +1,2 @@
+webkb/course/cornell/http:^^cs.cornell.edu^Info^Courses^Current^CS415^CS414.html
+webkb/course/cornell/http:^^cs.cornell.edu^Info^Courses^Fall-95^CS415^CS415.html

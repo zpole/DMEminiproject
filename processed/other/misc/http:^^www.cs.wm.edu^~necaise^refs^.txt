@@ -1,0 +1,56 @@
+Date: Wed, 15 Jan 1997 01:06:39 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Wed, 13 Mar 1996 20:42:49 GMT
+Content-length: 1253
+Software Reference Manuals
+
+
+
+
+Software Reference Manuals
+This page contains links to hypertex Reference Manuals for
+various general purpose software packages and libaries.
+
+
+
+
+LaTeX2e Reference Pages
+
+Reference guide to the 2e version of LaTeX. These pages contain
+material on the topics provided in Appendix C of Lamport's LaTeX guide.
+
+
+Unix References
+
+Provides an introduction to Unix and some of the more popular
+Unix Tools:
+emacs
+,
+g++
+,
+gmake
+, etc.
+
+
+GNU C++ iostream Library
+
+Provides a description of the various classes
+in the
+iostream
+and the manipulators used with them.
+Converted and modified from the
+texi
+format version 0.64.
+
+
+Ansi C Library
+
+Documentation on the routines, variables and macros provided in the
+header files of the standard Ansi C Library.
+
+
+
+
+back to home page.
+

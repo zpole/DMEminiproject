@@ -1,0 +1,66 @@
+Date: Tue, 26 Nov 1996 16:20:11 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 21 Nov 1996 17:45:55 GMT
+Content-length: 1855
+
+
+Roger Moar
+
+
+
+
+
+
+Roger Moar
+
+Biography: I'm a graduate student (M.Sc. in Computer Science) at the University
+of Victoria. I am part of the
+PANDA
+group, which does operating systems research. My thesis work involves
+safety and security in download extensible operating systems. I am also
+interested in computer security in general, as it never ceases to amaze
+me how many hours of work are entrusted to insecure (and therefore essentially
+compromised) machines.
+A little security info:
+
+
+Some information on
+X Window System
+Security
+.
+
+Sites of (my) interest:
+
+
+
+Pat's Page
+.
+
+Mother Jones
+.
+
+The art of
+Winston Smith
+.
+Vancouver's own
+Wrong Records
+.
+
+World Wide Punk
+and
+The Punk Page
+.
+
+Holy weasels and stoats!
+the smalls
+Home Page.
+And, well,
+Operating Systems
+. Stack and stacks of the things!
+
+Roger Moar --
+rmoar@csr.uvic.ca
+
+
+

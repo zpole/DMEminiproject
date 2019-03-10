@@ -1,0 +1,131 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 19:21:09 GMT
+Content-Type: text/html
+Content-Length: 3806
+Last-Modified: Thursday, 25-Apr-96 19:16:27 GMT
+
+
+Viera K. Proulx's CCS Home Page
+
+
+
+Viera K. Proulx
+
+
+
+
+
+
+
+General Information
+
+Click here for the home pages for
+Northeastern
+University
+and the
+College of Computer
+Science
+.
+
+
+Professional Interests:
+
+
+Computer Science Curriculum Research and Development
+
+
+
+New Freshman
+C++ Curriculum
+
+Old Freshman Pascal Curriculum - These materials will be posted at
+a later date
+
+Computer Science Curriculum for High Schools
+
+
+
+High School Computer Science Curriculum
+
+Member of the ACM Task Force on High School Computer Science Curriculum
+Member of the ACM Pre-College Committee
+
+Professional organizations
+
+
+Member of the IFIP Working Group 3.1 on Secondary Education
+Member of the
+ACM
+
+SIGARCH
+(Computer Architecture)
+SIGCSE
+(Computer Science Education)
+SIGCUE
+(Computer Uses in Education)
+SIGOPS
+(Operating Systems)
+Member of the IEEE Computer Society
+Memebr of the Greater Boston Chapter of the AMC
+Member of the AMS
+Member and editor of the Northeastern Regional Steering Committee of the  Small College Computing Consortium
+
+Northeastern University activities
+
+
+Honors Program
+Advisor in College of Computer Science
+Faculty Advisor to the Northeastern University Chapter of the
+UPE
+Computer Science Honors Society
+
+
+
+Personal notes
+
+The full name is Viera Krnanova Proulx - for those that have known
+me years ago, or may have known my father Frantisek Krnan in Bratislava.
+
+
+Viera K. Proulx, Associate Professor
+College of Computer Science, Northeastern University
+360 Huntington Avenue #161CN,
+Boston, MA 02115
+Internet:
+vkp@ccs.neu.edu
+
+Phone: (617) 373-2225
+Fax:   (617) 373-5121
+
+
+
+Last Updated:  March 28, 1996  4:35 pm
+The URL for this document is:
+http://www.ccs.neu.edu/home/vkp/index.html
+
+One of my favorite places:
+Devin
+
+
+My daughter
+Gisele
+.
+My daughter
+Elenka
+.
+The following page contains samples of different styles available in
+Adobe Page Mill. Click here for the
+experimental page
+.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*   Viera K. Proulx, Associate Professor   tel: 617-373-2225 (direct)   *
+*   College of Computer Science   (")           617-373-2462 (messages) *
+*   Northeastern University       (")      fax: 617-373-5121            *
+*   Boston, MA 02115              (")      Internet: vkp@ccs.neu.edu    *
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*   Little drop of water,          |/      (")          (")        (")  *
+*   little grain of sand...       \|/       |    \/     \|          |/  *
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+

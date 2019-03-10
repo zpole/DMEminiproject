@@ -1,0 +1,196 @@
+Date: Tue, 26 Nov 1996 17:58:07 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 5689
+Last-modified: Wed, 06 Nov 1996 21:46:02 GMT
+
+Home page for Jeff Gray
+
+
+
+
+
+
+Hello
+I am a Ph.D. student in the
+Computer Science Department
+at
+Vanderbilt University
+,
+Nashville, Tennessee
+. My advisor is
+Dr. Stephen Schach.
+I am a member of the Software Engineering Discussion
+Group (
+SDG++
+), and maintainer of the group's WWW page. My current project
+is the construction of a list of
+Ambiguous or
+Incomplete/Inconsistent Natural Language Statements.
+
+I attend the
+Brentwood Church of Christ.
+I am also active in the volunteer organization
+Hands On Nashville.
+
+
+Click here to view my resume...
+
+
+Click here for my personal information...
+
+Education
+As a teenager, my parents sent me to
+Linsly
+- a private school in Wheeling,
+
+WV, which was founded in 1814 (I was a member of the last all-male class
+before the school went coed). Two of my earliest influences were
+Dr. Garth Innocenti
+and
+Mr. Mike Chokel.
+After graduating from Linsly in 1988, I
+was accepted into the West Virginia University Honors Program.
+In 1991, I received a B.S. (
+summa cum laude
+) in Computer
+Science from
+West Virginia
+University
+, located in
+Morgantown,
+WV. I then completed a M.S. degree in Computer Science
+in 1993 (also from WVU). My thesis advisor at WVU was
+Dr. Murali Sitaraman
+and
+my M.S. committeee members were
+Dr. Frances Van Scoy
+and
+Dr. Doug Harms.
+
+Research Interests
+In general, my interests lie in the area of
+Software Engineering.
+My specific
+interests include:
+
+
+Formal Methods;
+in particular,
+The Z Specification Language
+
+
+Object-Orientation
+and
+Object-Oriented Programming
+
+
+Software Reuse
+
+Language Issues:
+Ada,
+
+C++,
+and
+Borland's Delphi
+
+
+Publications
+
+
+
+
+
+Please click here for a list of my publications...
+
+
+
+
+My Favorites
+
+
+
+Computer Science Bibliography
+
+
+Vanderbilt Students Home Page
+
+
+The Best of the Web Award Winners
+
+
+White House Home Page
+
+
+Information on Congress
+
+
+The GOP
+
+
+The Christian Coalition
+
+
+Project Gutenberg (KJV Bible)
+
+
+The churches of Christ
+
+
+Pro-Life News
+
+
+1-800 White Pages
+
+
+GIFS
+
+
+Pearl Jam
+and
+Ozzy Osbourne
+
+Pittsburgh
+Steelers
+and
+Pirates
+
+
+Hobbies
+
+
+
+Playing my guitar
+
+
+Listening to music
+
+
+Weightlifting
+and
+Muscle Media 2000
+
+Rooting for the Mountaineers
+
+
+Last modified October 30, 1996
+
+
+
+Home Phone:
+(615)-361-3755
+,
+Office Phone:
+(615)-343-4404
+
+Office Address:
+Box 1679-B, Vanderbilt University, Nashville, TN
+37235
+
+e-mail:
+
+jgray@vuse.vanderbilt.edu
+
+
+
+

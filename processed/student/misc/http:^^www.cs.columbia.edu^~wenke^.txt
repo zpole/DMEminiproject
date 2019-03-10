@@ -1,0 +1,63 @@
+Date: Tue, 26 Nov 1996 02:51:28 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1530
+Last-modified: Sat, 14 Sep 1996 02:42:44 GMT
+
+
+Home Page for Wenke Lee
+
+
+
+
+Wenke Lee
+
+
+
+
+Publications/Technical Reports
+
+
+OzCare: A Workflow
+Automation System for Care Plans
+
+To Be Presented in 1996 American Medical Informatics Association Annual
+Fall Symposium, October 1996
+
+
+Pay No Attention to the
+Man Behind the Curtain
+
+NSF Workshop on Workflow and
+Process Automation, May 1996
+
+
+Interfacing Oz with the PCTE OMS
+
+Technical Report CUCS-012-95
+
+
+I was at:
+
+
+Intergraph Corporation
+, 4/90 -
+8/94
+
+Computer Science Department, The City
+College of The City University of New York
+, 9/88 - 4/90
+
+Computer Science Department, Zhongshan University
+, 9/84 - 6/88
+
+
+Zhongshan University
+, DOB - 6/88
+
+
+
+
+<mailto:wenke@cs.columbia.edu>
+
+

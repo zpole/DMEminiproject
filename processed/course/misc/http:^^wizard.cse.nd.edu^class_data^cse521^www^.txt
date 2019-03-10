@@ -1,0 +1,116 @@
+Date: Tue, 26 Nov 1996 18:51:10 GMT
+Server: NCSA/1.5
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Mon, 12 Feb 1996 23:08:56 GMT
+Content-length: 3128
+
+
+CSE 521: Computer Architecture
+
+
+
+
+
+
+CSE 521: Computer Architecture
+
+
+Class Meeting Time and Place:
+
+Lecture:
+Tuesday, Thursday 1:15-2:30 PM
+155 DeBartolo Hall
+
+
+Lab:
+Tuesday, Wednesday, or Thursday 2:45-4:15
+254 Fitzpatrick Hall
+
+Instructor:
+
+Dr. Jay B. Brockman
+352 Fitzpatrick Hall
+x1-8810
+
+jbb@cse.nd.edu
+
+
+Course Description:
+
+
+Text:
+
+J.L. Hennessy and D.A. Patterson
+
+Computer Architecture: A Quantitative Approach, 2nd edition
+Morgan Kaufmann Publishers, San Francisco, 1996
+
+Lecture Notes:
+
+CSE 322: Undergraduate Computer Architecture II
+
+
+Introduction
+
+Hardware/Firmware
+Implementation of Algorithms
+
+Hardware/Firmware
+Implementation of Control
+
+The
+Single-Cycle MIPS Processor
+
+The
+Multiple Cycle MIPS Processor
+
+Pipelining
+
+Pipelining
+Continued: Hazards
+
+Memory
+Hierarchy
+
+Interfacing
+Processors, Peripherals, and Memory
+
+
+New Lecture Notes for This Course
+
+
+Under Construction
+
+Homework and Design Projects:
+
+
+Homework 1: Hardware/Firmware Implementation of Algorithms due 2/2/96
+Homework 2: Control System Design due 2/2/96
+Homework 3: Processor Metrics and Instructions Set Architecture, Hennessy
+& Patterson exercises 1.1, 1.4, 1.7, 1.14, 2.1, 2.3, 2.10, 2.11, due
+2/20/96
+
+Newsgroups:
+
+
+nd.courses.cse521
+newsgroup for
+this course
+nd.courses.cse322
+newsgroup for
+the undergraduate architecture course
+nd.cse.mentor
+questions and answers
+on the Mentor Graphics CAD tools
+
+Other Useful Links:
+
+
+Under Construction
+
+Jay.B.Brockman.1@nd.edu
+
+Last Modified: 1/24/96
+
+

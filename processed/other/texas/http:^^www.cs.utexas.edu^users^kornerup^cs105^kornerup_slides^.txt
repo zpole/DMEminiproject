@@ -1,0 +1,49 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 08-Jan-97 16:32:45 GMT
+Content-Type: text/html
+Content-Length: 2042
+Last-Modified: Friday, 01-Dec-95 22:00:27 GMT
+Index of /users/kornerup/cs105/kornerup_slides/
+Index of /users/kornerup/cs105/kornerup_slides/
+
+Name            Last modified     Size
+
+
+Parent directory
+
+
+week0.ps
+10-Sep-95 13:54    91K
+
+week1.ps
+10-Sep-95 14:19    57K
+
+week10.ps
+17-Nov-95 10:30    89K
+
+week11.ps
+01-Dec-95 16:00   109K
+
+week2.ps
+20-Sep-95 12:10    52K
+
+week3.ps
+22-Sep-95 14:35    70K
+
+week4.ps
+29-Sep-95 10:59    78K
+
+week6.ps
+13-Oct-95 10:15    91K
+
+week7.ps
+27-Oct-95 18:25   100K
+
+week8.ps
+03-Nov-95 16:43    80K
+
+week9.ps
+16-Nov-95 13:39    94K
+11 files
+

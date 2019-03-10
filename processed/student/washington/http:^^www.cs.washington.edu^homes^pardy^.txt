@@ -1,0 +1,112 @@
+Date: Thu, 21 Nov 1996 22:55:00 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sun, 03 Nov 1996 05:47:27 GMT
+Content-length: 2637
+
+
+Przemek Pardyak's Home Page
+
+
+
+
+
+Przemyslaw Pardyak
+
+
+
+
+pardy@cs.washington.edu
+
+
+
+
+first weeks of grad school
+
+
+and a couple years later . . . . .
+
+
+
+
+I am a third year graduate student of Computer Science at the
+University of Washington.  Currently, I do research in the area of
+operating systems but I am also interasted in distributed systems,
+languages, and compilers.  Besides grad school, my life is filled with
+the Seattle drizzle, hiking and other outdoors activities (if I am not
+busy enjoying the school or the drizzle), books and music.
+
+You can find a short description of my research
+interests
+and a
+resume
+here.  There's also a list of my
+papers
+.  All of these are a bit outdated but that's what happens
+when one has a busy schedule.
+
+
+
+Projects
+
+
+SPIN
+
+an extensible operating system built under glorious leadership of
+Brian Bershad
+.
+
+
+Group mechanisms for object-based systems
+
+Group communication and group mechanisms for the Emerald object-based
+programming language and run-time system.
+
+
+
+
+Interesting links
+
+
+The Polish connection
+
+various resources somehow related to Poland.
+
+
+Research related
+
+projects related to mine, some universities, etc.
+
+
+Research unrelated
+
+miscellaneous
+
+
+
+
+Work:
+
+Computer Science & Engineering Department,
+
+University of Washington,
+FR-35,
+
+Seattle, WA
+98195, USA
+
+phone: /+1/ (206) 685-2675
+fax: /+1/ (206) 543-2969
+Home
+:
+
+5302 24th Ave NE #A
+
+Seattle, WA 98105, USA
+
+phone: /+1/ (206) 525 6743
+
+
+
+
+pardy@cs.washington.edu

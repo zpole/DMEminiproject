@@ -1,0 +1,59 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 19:52:13 GMT
+Content-Type: text/html
+Content-Length: 1655
+Last-Modified: Friday, 09-Feb-96 04:11:12 GMT
+
+
+Senior Honors Project at UMass
+
+
+
+Design and Implementation of Dynamically
+Generated Synchronized Computer Speech And Facial Animation
+
+
+Abstract:
+By integrating visual and audio information using computers,
+a new form of human-computer interface has been created. The current
+research is in the design and implementation of a user interface
+whereby a computer can produce speech (audio) and a moving image
+of a human face synchronized to the speech (video). The result
+is the appearance of a human talking to the user. The program
+is given text to speak (for proof-of-concept purposes, the numbers
+"0" - "9"); it then creates the speech, automatically
+determines the boundaries between phonemes (to synchronize the
+video), and uses morphing to smoothly transition between the images
+used for each phoneme.
+
+
+A PostScript copy of the paper
+
+
+Sample Output (in Video For Windows .AVI format):
+"Zero"
+
+"One"
+
+"Two"
+
+"Three"
+
+"Four"
+
+"Five"
+
+"Six"
+
+"Seven"
+
+"Eight"
+
+"Nine"
+
+"Hello Professor Hill"
+
+
+
+

@@ -1,0 +1,192 @@
+Date: Thursday, 21-Nov-96 23:39:26 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Thursday, 06-Jun-96 16:06:10 GMT
+Content-length: 6293
+
+
+Justinian Rosca's Home Page
+
+
+
+ustinian
+
+osca
+
+
+Department of Computer Science
+University of Rochester
+Rochester, NY, USA 14627-0226
+
+Office: (716) 275-1174
+Home:   (716) 473-7289
+Fax:    (716) 461-2018
+
+
+
+
+Epistle:
+
+When, at night, with drooping eyelids, I blow out the candles flare
+Time's unending path is followed only by the old clock there;
+For just draw aside the curtains and the moon will flood the room
+With a fire of passions summoned by the ardous of her gloom;
+From the night of recollection she will resurrect an eon
+Of distress - which we, however, sense as in a dream-like paean.
+-- Eminescu
+
+
+Research Interests
+My research interests are in the areas of Machine Learning and
+Evolutionary Computation. I am particularly interested in the
+emergence of self-organization and adaptive principles, the scaling
+problem in learning and in methods for coupling learning and simulated
+evolution. Application areas include autonomous agents, mobile robots,
+synthesis of modular neural networks, image analysis and feature
+discovery, data mining and knowledge discovery.  Currently, I am
+working on a scalable Genetic Programming system called
+Adaptive
+Representation through Learning
+. I'm constantly contaminated with
+steadfast encouragement and unbounded enthusiasm from my advisor,
+Prof. Dana Ballard
+
+
+
+Research Publications
+
+
+Recent Work
+
+
+
+
+Justinian P. Rosca, Dana H. Ballard.
+"Evolution-based
+discovery of hierarchical behaviors."
+Proc. of the Thirteenth National
+Conference on Artificial Intelligence (AAAI-96), AAAI / The MIT Press,
+1996.
+
+
+
+Justinian P. Rosca.
+"Generality versus size in genetic programming."
+In Koza, John R.,
+Goldberg, David E., Fogel, David B., and Riolo, Rick L.
+(editors).  1996. Genetic Programming 1996: Proceedings of
+the First Annual Conference, July 28-31, 1996, Stanford
+University.  Cambridge, MA: The MIT Press.  Pages 381-387.
+
+
+
+Justinian P. Rosca, Dana H. Ballard.
+"Discovery of Subroutines in
+Genetic Programming."
+In Advances in Genetic Programming II,
+Edited by P. Angeline and K. Kinnear Jr. MIT Press, 1996.
+
+
+
+Justinian P. Rosca.
+"Towards automatic discovery of building blocks in
+genetic programming."
+Proc. of the AAAI Symposium on Genetic
+Programming, Technical Report AAAI Press, 1995.
+
+
+
+Justinian P. Rosca.
+"Entropy-based adaptive representations."
+Proceedings
+of the ML95 Workshop ``Genetic Programming - From theory to
+real-world Applications,'' TR-NRL02, University of Rochester,
+Rochester NY, 1995.
+
+
+
+Justinian P. Rosca, Dana H. Ballard.
+"Causality in Genetic Programming."
+Proceedings of the Fifth International Conference (ICGA95)
+Morgan Kaufmann, San Francisco, CA. 1995.
+
+
+List of Recent Publications and ftp Information
+
+List of Publications
+
+
+ML95 Genetic Programming Workshop Page
+
+
+
+Diagnose Your Car with this Expert System!
+
+
+The CYCLOPS Mobile Robot
+
+
+Resources
+
+
+
+Evolutionary Computation
+
+
+
+Machine Learning
+
+
+
+Knowledge Discovery and Data Mining
+
+
+
+Miscellaneous
+
+
+
+
+
+Fun
+
+Weather
+
+
+
+Greater Rochester Forecast
+
+
+US Surface Analysis Map
+(
+Key to Symbols
+)
+
+Weather Gopher Server
+
+
+
+
+
+Finger Info
+
+
+UR CS Grads
+
+
+UR CS Home Page
+
+Last Modified 06/06/96
+Justinian Rosca
+
+Univeristy of Rochester
+
+Rochester, NY 14627-0226
+
+FAX:(716) 461-2018
+
+rosca@cs.rochester.edu
+
+
+

@@ -1,0 +1,169 @@
+Date: Thu, 21 Nov 1996 21:32:44 GMT
+Server: NCSA/1.5.2
+Content-type: text/html
+
+
+
+Wash U: Faculty: Keith Bennett
+
+
+
+
+
+Keith
+J. Bennett
+
+Current Positions
+
+
+
+Director -
+Center for Engineering
+Computing
+
+School of Engineering and
+Applied Science
+
+Washington University
+
+Co-Director - Virtual Environments Project
+
+Washington University
+
+
+
+Senior Affiliate Research Associate
+
+Department of Computer Science
+
+Washington University
+
+Co-Founder and Member of the Board of Directors
+
+ProtoSpace Corporation
+
+
+
+Current Major Projects
+
+
+Application of Virtual Reality to Architecture and Engineering
+
+Simplified Web Development and Support Systems
+
+Large-Scale Space Systems Software Development Processes
+
+
+Research Interests
+
+
+Application of Computers to Historical and Scientific Analysis
+
+Computer Graphics and Virtual Reality
+
+Software Engineering
+
+
+Education
+
+
+M.S. Computer Science - Washington University, 1985
+
+B.S. Computer Science & European History - Vanderbilt University,
+1981
+
+
+Career Summary
+
+
+1993 - Present - Washington University
+
+
+Director - Center for Engineering Computing
+
+Co-Director - Virtual Environments Project
+
+Senior Affiliate Research Associate - Department of Computer Science
+
+
+1981-1993 - McDonnell Douglas Corporation
+
+
+1992 - Group Manager - Software Engineering
+
+Mission Planning Division
+
+1991 - System Engineer
+
+National Aerospace Plane Program (NASP) (aka X-30, "Orient Express")
+
+1989-1991 - Air Vehicle Software Manager
+
+National Aerospace Plane Program
+
+1988-1990 - Principle Investigator
+
+Hypersonic Avionics Robustness Demonstration and Evaluation Program
+
+1986-1988 - Program Manager
+
+Automated Software Design Tool Program
+
+1986 - Software Manager
+
+Electrophoresis in Space Program
+
+1981-1986 - Senior Software Engineer
+
+
+
+Publications
+
+
+With J. Mason, A Development Process for Large, Flight-Critical, Embedded
+Software, AIAA Computing in Aerospace VIII, Oct 21-24, 1991, AIAA 91-3724
+
+
+
+World Viewer, An Integrated 3D Virtual World Viewer, Panel and Demonstration,
+Ed-Media'95, Graz, Austria, June, 1995
+
+
+Professional Activities/Affiliations
+
+
+ACM - 1981-Present
+
+
+Sigraph
+
+Sigsoft
+
+SigAda
+
+
+
+Contacting
+
+
+Electronic Mail: bennett@cec.wustl.edu
+Phone: 314 935-6648
+Fax: 314 935-7302
+Office: Sever 225
+Mail:
+
+
+Campus Box 1207
+Washington University
+One Brookings Drive
+St. Louis, MO 63130
+USA
+
+
+
+Last modified 8/12/96
+
+
+
+
+

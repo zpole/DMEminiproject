@@ -1,0 +1,169 @@
+Date: Thu, 21 Nov 1996 22:59:24 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 27 Sep 1996 06:41:19 GMT
+Content-length: 5493
+
+
+Rex M. Jakobovits' Home Page
+
+
+
+
+Rex M. Jakobovits
+
+
+
+
+rex@cs.washington.edu
+
+
+Computer Science & Engineering Department,
+
+
+University of Washington,
+FR-35,
+
+Seattle, WA
+98195 USA
+I'm
+getting my PhD
+here at the
+Computer Science Department
+of the
+University of
+Washington
+, in the wonderful city of
+Seattle
+.  Is it always raining here?  See for yourself, with this
+up-to-date
+weather
+report
+, or sneak a peek at this
+live image from a video camera
+mounted outside.  The camera is pointed at our beautiful
+Drumheller Fountain
+.  On a clear day, you
+can catch a glimpse of
+Mt. Rainier
+in all its glory (but this is probably not a clear
+day, so
+here's a nice color picture
+).
+My Research
+
+
+So what am I doing here?
+
+
+I'm developing the
+Web-Based Repository Manager
+,  which is a programming toolkit for building multi-media consoles.
+
+I'm constructing an image database as part of
+a
+Structural Information Framework For Brain Mapping
+.
+
+We're building a knowledge base to support the
+Digital Anatomist
+, an on-line interactive atlas of the human body.
+
+I implemented a
+Database
+Environment for Vision Research
+.
+
+I'm a local expert on
+persistent
+programming languages
+.
+
+
+Interests
+
+
+So what else am I doing here?
+
+
+I'm the proud creator of the
+UW Internet
+Racquetball Ladder
+.
+I've taught
+Advanced C Programming
+for the UW Extension
+I wrote some perl scripts to manage a
+rotisserie
+baseball league
+.  The standings are updated daily with stats from
+USA-Today
+.
+I'm raising a happy family of
+african
+cichlids
+.
+I visit my home town
+Honolulu
+every chance I get, and camp out in the magical
+Kalalau valley
+.
+I dig the
+movies
+
+I gamble on the
+stock market
+.
+I run a darn good
+fantasy football team
+.
+
+
+
+
+
+
+
+A Newslet would be here if you had Java
+
+
+Family Links
+
+
+
+My
+dad, Leon James
+, a professor of Psychology at the
+University of Hawaii
+who
+is writing a book on
+traffic psychology
+and fostering a lively online polemic about
+Emanuel Swedenborg
+.
+My step-mom
+Diane Nahl
+, a professor of Library & Information Sciences, who
+provides this
+great index
+of online libraries and databases.
+
+My mom, Judy Jakobovits
+, a realtor in Hawaii.
+
+My uncle, Eddy Jakobovits
+, running a web site for Bioscience professionals.
+
+
+My bookmarks
+
+
+If you have Java, click-drag on the words below to make your own poem...
+
+
+
+
+
+
+
+

@@ -1,0 +1,142 @@
+Date: Wed, 08 Jan 1997 20:22:06 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sun, 15 Dec 1996 20:55:57 GMT
+Content-length: 4841
+
+
+
+CSE 573 Project Page
+
+
+
+CSE 573 PROJECT PAGE
+
+Notes
+Please focus on the following problems: PRODIGY-BW.PRODIGY-SUSSMAN,
+INIT-FLAT-TIRE.FIXIT, D1S1.D1S1-1, D1S1.D1S1-3, D1S1.D1S1-5
+Please prioritize as follows:
+
+Most important: Getting some encoding working for the simplest subset of
+the action language (i.e. the files in
+/projects/ai/planners/ucpop/domains/clean/files/simple-ucpop/
+and getting some data showing how your system works on that one encoding
+
+Next: Testing one of your conjectures about the effect on speed of an
+encoding
+variation (i.e. kautz splitting vs overloaded splitting).
+
+Lower priority: Going back and handling a more expressive action language.
+
+Your code should find
+any
+solution to the planning problem, not
+necessarily the shortest. I.e. optimize the speed of your planner, not the
+length of the plan.
+Constants may be specified in the problem goal as well as in the initial
+state.
+UCPOP results
+
+0 3 FIXIT -1 f 0 0 0 0 76320 0 0 0 12 12 23701 14878
+0 3 PRODIGY-SUSSMAN -1 T 0 0 0 0 850 0 0 0 6 6 515 272
+0 3 D1S1-1 -1 T 0 0 0 0 10 0 0 0 1 1 3 2
+0 3 D1S1-3 -1 T 0 0 0 0 10 0 0 0 3 3 11 8
+0 3 D1S1-5 -1 T 0 0 0 0 10 0 0 0 5 5 19 14
+The key to this gibberish is at the bottom of this page.  Find more results in
+/projects/ai/573/project/results.
+
+Team Pages
+
+
+
+Druken Masters
+(Linear)
+
+Medics
+(Linear)
+
+Wolverines
+(Parallel)
+
+Kosher
+Sushi
+(Parallel? Linear?)
+
+Lawrence of
+Arabia
+(Graphplan?)
+
+Causalists
+(Causal)
+
+pHan
+(Causal)
+
+Input Language
+Your system should handle the following subset of UCPOP/ADL domain
+descriptions: goals and preconditions with conjunction, disjunction,
+negation and existential quantification; conditional effects. in addition
+to standard conjunctive effects, but no universal quantifiaction and no
+need to reason about side effects vs primary effects.  There is no need to
+handle universal quantification, side-effects/primary effects, procedural
+attachment (i.e. facts), domain axioms, or safety constraints.
+CLick
+here
+for the input language BNF.
+Look in
+/projects/ai/planners/domains/ucpop/clean/files/{simple, partial}
+for
+problems written in this format.
+Output Specifications
+
+The outputs of an experiment should be in two files, which should be
+understandable to a human, PERL, and LISP.
+
+Filenames: <groupnumber>-<experimentnumber>.info
+<groupnumber>-<experimentnumber>.data
+
+The info file has the following items, with some white space after
+the colons. Blank fields are OK.
+
+Group: <groupnumber>
+Experiment: <experimentnumber>
+Encoder: <switches for your encoder>
+Solve: <any switches you used for the solve program>
+Decoder: <switches for your decoder>
+Machine: <machine type>
+Comment: <whatever>
+
+The data file has one line per run, separated by whitespace.  When
+you fix the maximum number of timesteps, encode, solve, and decode,
+that's one run.  A planning problem may have numerous rows with
+different timesteps.
+Please put a value (or zero) in every column.  No parentheses. No
+quotation marks.  The columns are:
+
+
+Group number
+Experiment number
+
+.
+(all caps)
+Max of time steps (fixed in the encoding)
+Success? (t or f)
+Number of clauses
+Number of variables
+Number of literals
+Elapsed time encoding (msec)
+Elapsed time solving (msec)
+Elapsed time decoding (msec) (zero if solve fails)
+Mean flips until assign (part of solve output)
+Mean restarts until assign (part of solve output)
+Number of time steps in plan produced (ignores noops)
+Number of steps in plan produced (may be > time steps if parallel)
+Number of plans created (UCPOP only)
+Number of plans visited (UCPOP only)
+
+Results
+Results go in
+/projects/ai/573/project/results.
+
+
+

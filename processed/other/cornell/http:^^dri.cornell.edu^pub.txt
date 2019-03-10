@@ -1,0 +1,105 @@
+MIME-Version: 1.0
+Server: CERN/3.0pre6
+Date: Monday, 25-Nov-96 00:28:51 GMT
+Content-Type: text/html
+Content-Length: 5470
+Last-Modified: Thursday, 21-Nov-96 21:32:08 GMT
+Index of /pub
+Index of /pub
+
+Name                   Last modified     Size  Description
+
+
+Parent directory
+
+
+construct.html
+21-Nov-96 16:33     1K  Under Construction
+
+davis/
+27-Sep-96 14:53      -
+
+default.html
+30-Oct-95 23:51     2K  Default Home Page for DR
+
+DRI-toplevel.html
+21-Nov-96 16:37     2K  The Design Research Inst
+
+DRI-toplevel.html.111>
+17-Oct-96 13:16     1K
+
+DRI-toplevel.html.112>
+19-Nov-96 15:47     2K
+
+DRI-toplevel.html~
+22-Feb-96 11:32     1K
+
+DRI.html
+22-Feb-96 11:22    15K  About the Design Researc
+
+DRI.html~
+26-Apr-95 17:02    15K
+
+frank/
+09-Nov-96 11:25      -
+
+grossman/
+21-Dec-94 16:30      -
+
+How-To/
+28-Jun-96 01:27      -
+
+hrishi/
+12-Oct-96 13:24      -
+
+Icons/
+20-Nov-96 16:44      -
+
+IPIC96.html
+31-Jul-96 12:26    24K  IPIC'96
+
+jcohen/
+28-Mar-95 15:44      -
+
+kannapan/
+23-Sep-96 12:16      -
+
+Misc/
+20-Jun-96 19:01      -
+
+morgenstern/
+06-Nov-96 21:41      -
+
+PCForms/
+20-Nov-96 13:09      -
+
+People/
+08-Nov-96 14:22      -
+
+Projects/
+15-Nov-94 05:04      -
+
+Reports/
+04-Oct-95 18:40      -
+
+reports.html
+04-Oct-95 19:14     2K  Networked Computer Scien
+
+resources.html
+12-Jun-96 19:01    10K  Information sources
+
+resources.html.~1~
+04-Dec-95 01:01    13K
+
+Soft-Env/
+24-Jan-96 21:45      -
+
+source/
+14-Sep-94 18:17      -
+
+VRweb/
+15-Nov-96 18:01      -
+
+www-demos.html
+07-Sep-94 12:20     2K  World Wide Web demos
+30 files

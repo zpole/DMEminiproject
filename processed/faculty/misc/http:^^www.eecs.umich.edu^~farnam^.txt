@@ -1,0 +1,84 @@
+Date: Mon, 25 Nov 1996 23:11:57 GMT
+Server: Apache/1.1-dev
+Content-type: text/html
+Set-Cookie: Apache=gs35583184896351731; path=/
+Farnam's Home Page
+
+
+
+
+
+
+
+F
+arnam
+J
+ahanian
+
+
+University of Michigan
+Dept. of EECS
+1301 Beal Ave.
+Ann Arbor, MI 48109-2122
+E-mail:
+farnam@eecs.umich.edu
+Phone: (313) 936-2974
+Fax: (313) 763-1503
+Office: 3219 EECS
+
+
+
+
+
+R
+esearch
+I
+nterests:
+Real-time software systems, fault-tolerant distributed computing,
+protocols and tools for wide-area collaborative environments.
+
+P
+rojects:
+ARMADA: middleware service for embedded real-time applications
+
+ORCHESTRA: Probing and fault injection of distributed systems
+
+
+Formal specification and analysis of safety-critical real-time systems
+
+Scalable and highly-available services for wide-area collaborative environments -
+
+more information on
+the UARC Project
+
+L
+inks to other
+I
+nformation:
+Students participating in research projects
+
+Fall 1996 Teaching: EECS 682 - Distributed Systems
+
+Winter 1996 Teaching: EECS 380 - Data Structures & Algorithms
+
+
+Selected Publications
+
+Short Bio
+
+CSE graduate student organization
+
+L
+ab
+A
+ffiliations:
+Real Time Computing Lab
+
+Software Systems Research Lab
+
+
+
+
+farnam@eecs.umich.edu
+April 1996
+

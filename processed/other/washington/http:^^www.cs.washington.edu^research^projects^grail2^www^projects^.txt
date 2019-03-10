@@ -1,0 +1,132 @@
+Date: Tue, 10 Dec 1996 03:30:39 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+GRAIL: Research Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+3D Scanning
+
+
+
+
+
+
+Computer-Generated Pen-and-Ink
+Illustration
+
+
+
+
+
+
+Fast Multiresolution Image
+Querying
+
+
+
+
+
+
+Global Illumination
+
+
+
+
+
+
+Interactive Pen-and-Ink
+Illustration
+
+
+
+
+
+
+Multiresolution Video
+
+
+
+
+
+
+Reproducing Color Images as
+Duotones
+
+
+
+
+
+
+Resolution-Independent
+Illustration Representation
+
+
+
+
+
+
+Subdivision Surfaces
+
+
+
+
+
+
+Wavelets for Computer Graphics
+
+
+
+
+
+
+
+People
+|
+Courses
+|
+Projects |
+Publications
+|
+Theses
+|
+Software/Data
+|
+Images
+|
+Home Page
+
+
+
+
+
+
+
+Comments to
+mtwong@cs.washington.edu
+
+
+
+
+
+18 November 1996
+
+
+
+
+
+
+
+

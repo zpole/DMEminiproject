@@ -1,0 +1,71 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:45:35 GMT
+Content-Type: text/html
+Content-Length: 2009
+Last-Modified: Monday, 26-Feb-96 16:12:52 GMT
+Benjamin Kuipers
+
+
+
+Benjamin Kuipers
+Bruton Centennial Professor of Computer Sciences (No. 1),
+The University of Texas at Austin.
+
+B.A. in Mathematics, Swarthmore College, 1970.
+Ph.D. in Mathematics, MIT, 1977.
+
+Research Interests
+The representation of commonsense and expert knowledge, with
+particular emphasis on the effective use of incomplete knowledge.  The
+Qualitative Reasoning Research Group
+home page describes these research topics, papers, students, and
+available software in considerable detail.
+Research accomplishments include:
+
+the TOUR model of spatial knowledge in the cognitive map,
+the QSIM algorithm for qualitative simulation,
+Access-Limited Logic for knowledge representation, and
+a robot exploration and mapping strategy
+based on qualitative recognition of distinctive places.
+
+B. J. Kuipers.  1994.
+Qualitative
+Reasoning: Modeling and Simulation with Incomplete Knowledge
+.
+Cambridge, MA: MIT Press.
+
+
+Teaching Plans
+
+
+Spring 1996.
+CS 378:  Building Intelligent Agents
+.
+Fall 1996.
+CS 395T:  Commonsense Reasoning about the Physical World
+.
+Spring 1997.
+CS 378:  Building Intelligent Agents
+.
+
+
+Contact Information
+
+
+Mail:
+Prof. Benjamin Kuipers
+Computer Science Department
+University of Texas at Austin
+Austin, Texas 78712
+
+Email:  kuipers@cs.utexas.edu
+Phone:  (512) 471-9561
+Fax:    (512) 471-8885
+
+Finger
+.
+
+
+BJK
+

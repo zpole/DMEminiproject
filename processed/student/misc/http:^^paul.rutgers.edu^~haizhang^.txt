@@ -1,0 +1,38 @@
+Date: Tue, 26 Nov 1996 03:57:12 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 910
+Last-modified: Fri, 22 Nov 1996 21:02:57 GMT
+
+
+Haifeng Zhang's Homepage
+
+
+
+Welcome to the homepage of Haifeng Zhang
+
+This page is still heavily under construction!!!
+
+
+I am a first year Ph.D student in the
+computer science department
+of
+Rutgers, the State University of New Jersey.
+
+Contact me:
+
+(908)445-4714(Office)
+
+(908)878-2995(Home)
+
+E-mail:
+haizhang@paul.rutgers.edu
+
+
+Last Modified: Sept. 22, 1996
+The number of visits to this homepage since Sept. 20, 1996 is:
+
+
+
+
+

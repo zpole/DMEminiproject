@@ -1,0 +1,96 @@
+Date: Tue, 26 Nov 1996 16:52:08 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3453
+Last-modified: Sun, 06 Oct 1996 22:17:22 GMT
+Diego Novillo
+
+Diego Novillo
+
+PhD candidate
+
+
+
+
+This picture was taken while visiting NASA. Click on it to see the
+original picture.
+
+
+
+
+
+
+
+
+Interesting links
+
+
+
+GARDEL
+
+
+
+Family picture album
+
+
+
+
+I'm a PhD candidate at the department of
+Computing Science
+at the
+University of
+Alberta
+. I came from
+Córdoba
+(Argentina) in September of 1993 to start my PhD program.
+My research topic is transparent shared memory in multiprocessor
+environments. Both distributed and tightly-coupled MIMD machines are
+considered. The emphasis is placed on compiler technology and
+meta-programming issues to transparently support shared memory in
+procedural pointer-based programming languages.
+As part of my research program, I am involved in the
+Enterprise
+project which is part
+of the
+Parallel
+Programming Systems Laboratory.
+My supervisors are:
+Jonathan Schaeffer
+and
+Ron Unrau
+
+I am also working for
+CNS
+(Computing and Network Services) in the Research Computing Support Group.
+My duties include system administration, support and consulting for the
+supercomputing users in campus. Our systems include an IBM
+SP2
+parallel computer, a
+workstation
+farm
+for numeric intensive problems and several RS/6000 boxes used in
+distributed applications.
+
+How to contact me
+
+
+E-mail
+diego@cs.ualberta.ca
+.
+Snail address and phone number
+.
+PGP v2.6 public key
+.
+If you want to leave me a message, click on the envelope. Your
+browser should be properly configured to use this method. If I don't
+reply within a reasonable period of time, try sending me e-mail using
+your regular mailer.
+
+
+
+
+
+
+Last modified: Oct 6, 1996
+(diego@cs.ualberta.ca)
+

@@ -1,0 +1,63 @@
+Date: Thu, 21 Nov 1996 22:59:51 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 07 Nov 1996 06:52:31 GMT
+Content-length: 1872
+Meng-Hee Heng's Homepage
+
+
+Meng-Hee's Homepage
+
+menghee@cs.washington.edu
+Box 352350
+Department of Computer Science and Engineering
+University of Washington
+Seattle WA 98195
+
+
+
+About me
+
+I'm a second-year student doing my MSc in
+University of Washington
+.
+Before this, I was an undergrad at the
+University of Pennsylvania
+.
+I've been a TA for CSE 471, CSE 142 and CSE 143.
+
+
+Research Interests
+I am interested in image retrieval, where the problem is trying to find
+images in a huge database of images.
+Virage
+and
+QBIC
+are two commercial examples similar to the kind of stuff I'm working on.
+Here are some
+snapshots
+of what I've done.
+
+
+Singapore
+
+Singapore InfoMap
+provides facts and
+statistics about Singapore.
+Try the
+Singapore
+OnLine Guide
+if you plan to take a trip there.
+The
+National Computer Board
+is in charge of transforming Singapore into an
+intelligent island. This is where I'll work when I graduate.
+The
+Straits Times
+is Singapore's main English newspaper.
+
+
+visits since Nov 6, 1996.
+
+menghee@cs.washington.edu
+

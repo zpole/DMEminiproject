@@ -1,0 +1,80 @@
+Date: Tue, 10 Dec 1996 16:48:16 GMT
+Server: NCSA/1.4.2
+Content-type: text/plain
+Last-modified: Wed, 25 Oct 1995 18:51:04 GMT
+Content-length: 1666
+
+
+CSE 373 Home Page
+
+
+
+CSE 373:  Data Structures and Algorithms
+
+Spring 1995
+
+Instructor:
+Alistair Holden
+(holden@cs.washington.edu)
+
+TA:
+Jonathan Nowitz (nowitz@cs.washington.edu)
+
+
+Class Messages
+(Last update:  Monday 10/25)
+
+
+Course materials
+
+
+Computing
+
+Syllabus
+
+Homework
+
+Demos
+
+Exams
+
+
+
+Other information
+
+
+
+Department of Computer Science & Engineering
+
+
+
+Computer Science degree program
+(offered through the College
+of Arts and Sciences)
+
+
+Computer Engineering degree program
+(offered through the
+College of Engineering)
+
+Related courses
+,
+both for majors and for non-majors.
+
+
+Mosaic
+
+
+
+Help!
+
+
+Some interesting
+pages
+for rainy day fun
+
+
+
+nowitz@cs.washington.edu
+
+

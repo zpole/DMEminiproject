@@ -1,0 +1,644 @@
+Server: Netscape-Commerce/1.1
+Date: Tuesday, 26-Nov-96 17:58:26 GMT
+Last-modified: Monday, 11-Nov-96 20:55:30 GMT
+Content-length: 16647
+Content-type: text/html
+Doug's Page
+
+
+
+
+Welcome to
+
+
+
+Doug Talbert's
+
+
+Home Page
+
+
+I am a Ph.D. candidate in
+the
+Computer Science Department
+at
+Vanderbilt University
+.
+My area of research is artificial intelligence with an emphasis
+on machine learning. My research is focused on exploring the
+interactions among different types of clusterings of first-order
+logic descriptions. I am also interested in data mining. My
+advisor is
+Dr. Douglas H.
+Fisher
+.
+I am being funded by the
+Division of Biomedical Informatics
+at
+Vanderbilt University Medical Center
+as part of collaboration between the
+Computer Science Department and the Informatics Division. I am
+working on an intelligent interface between the hospital's
+order-entry computer system and the hospital's pharmacy computer
+system. I am particularly
+interested in applying machine learning techniques to the vast
+amounts of data in hospital databases in an effort to provide
+better decision support to health care professionals.
+My M.S. degree is from Vanderbilt in computer science.
+The title of my M.S. paper is
+Automating the Search for
+Multiple Data Models
+.
+My B.S. degree is from
+Tennessee Technological University
+in mathematics.
+My wife, Lori (email:
+
+talbertl@ten-nash.ten.k12.tn.us
+)
+is a and German teacher at Maplewood High School
+and Stratford High School here in Nashville. She has a B.A. from
+David Lipscomb University
+.
+I am member of the
+Natchez Trace Church of Christ
+, and I enjoy Macintosh
+computers, running,
+The Simpsons
+,
+The Tick
+,
+The X-Files
+and
+Star Trek
+.
+
+
+
+
+Links
+
+Comp. Sci.
+|
+Web Resources
+|
+Vanderbilt
+|
+Other Local
+|
+Reference
+
+
+Religion
+|
+Macintosh
+|
+Entertainment
+|
+Commercial
+|
+Other
+
+
+
+Computer Science Links
+
+
+AI Links
+
+Unified CS Tech Reports
+
+
+Top of page
+|
+Top of
+links
+
+
+Web Resources
+
+
+Navigational Aids
+
+
+Lycos Search Engine
+
+Webcrawler
+
+Best of the Web
+
+Cool Sites
+
+The Web as a Teaching Tool
+
+Starting Point
+
+Yahoo
+
+WWW Resources
+
+Planet Earth Virtual Library
+
+EINet Galaxy
+
+City.Net
+
+
+Authoring Tools
+
+
+NCSA Tutorials
+
+Web Developer's Virtual
+Library
+
+A Beginner's Guide to HTML
+
+Basic Guide for Forms
+
+CGI Form Handling in Perl
+
+Texture Land
+
+
+Other Web Resoures
+
+
+Netsurfer Digest
+
+
+
+Top of page
+|
+Top of
+links
+
+
+Vanderbilt Links
+
+
+CS Department
+
+Engineering School
+
+Vanderbilt University
+
+Vanderbilt University Medical Center
+
+Computer Store
+
+ACORN
+(login as ACORN)
+
+Top of page
+|
+Top of
+links
+
+
+Other Local Links
+
+
+Generic Area Sites
+
+
+Introduction to Nashville
+
+Nashville Net
+
+Nashville Online
+
+Virtual
+Nashville
+
+Tennessee Home Page
+
+
+Nashville Media
+
+
+The Nashville Scene
+Online
+
+The
+Tennessean's Science and Technology Page
+
+WPLN-FM 90.3 - Nashville Public
+Radio
+
+WGFX-FM 104.5
+
+WLAC-FM 105.9
+
+WRLT-FM 100.1
+
+WKDF-FM 103.3
+
+WSMV Channel 4
+
+WTVF Channel 5
+
+WZTV Channel 17
+
+
+Government Sites
+
+
+Metropolitan Government of Nashville and Davidson County
+
+The Nashville Public Library
+
+Nashville International
+Airport
+
+
+Other Local Sites
+
+
+Tennessee
+School News
+
+
+
+Top of page
+|
+Top of
+links
+
+
+Reference Links
+
+
+Generic Reference Sites
+
+
+Internet Public
+Library
+
+The English
+Server
+
+Virtual Reference Desk
+
+Dictionaries
+
+Dictionaries and Thesauruses
+
+Reference Desk
+
+
+Writing Tools
+
+
+Elements of Style
+
+Writing Tools
+
+Bartlett's Quotations
+
+
+Government/Legal
+
+
+Library of Congress
+
+THOMAS: Legislative Information
+
+LawTalk
+
+
+Geography
+
+
+Geography Stuff
+
+The World Factbook 1994
+
+The Virtual Tourist
+
+
+
+Top of page
+|
+Top of
+links
+
+
+Religion Links
+
+
+Church Web Pages
+
+
+List of Churches from Yahoo
+
+Distinctive Church List
+
+World-Wide Home Page of Churches of Christ
+
+Concord Road Church of Christ
+(Brentwood, TN)
+Lavergne Church of Christ
+(Lavergne, TN)
+Natchez Trace Church of Christ
+(Nashville, TN)
+Northside Church of Christ
+(Nashville, TN)
+
+University Christian Student Centers
+
+
+Christian Student Centers
+
+UCSC (Tennessee Tech Univeristy - Cookeville, TN)
+
+Commodores for Christ (Vanderbilt University - Nashville, TN)
+
+
+Christian Resources
+
+
+The Bible Gateway
+
+Christianity Links (from Yahoo)
+
+Main Bible Page
+
+Christian Resources
+
+World Wide Study Bible
+
+Contempary Christian Music Resource List
+
+The Ultimate Christian Music List
+
+21st Century Christian Bookstore
+
+
+
+Top of page
+|
+Top of
+links
+
+
+Macintosh Links
+
+
+Links to Apple
+
+
+Apple Home Page
+
+Apple Support and Information
+
+Apple Tech
+Support
+
+
+Shareware Sites
+
+
+INFO-MAC HyperArchive
+
+UMich
+HyperArchive
+
+Shareware
+
+
+Mac Software/Harware Vendors
+
+
+Adobe
+
+Aladdin
+
+Ambrosia
+
+Berkeley Systems
+
+Claris
+
+Connectix
+
+DataViz
+
+eWorld
+
+Farallon
+
+LaCie
+
+MacPlay
+
+Metrowerks
+
+Microsoft
+
+Motorola PowerPC
+
+Symantec
+
+U.S. Robotics
+
+WordPerfect
+
+
+Mac Publications
+
+
+MacSense
+
+MacToday
+
+MacUser
+
+MacWorld
+
+PowerPC News
+
+
+Other Mac Sites
+
+
+The Ultimate Macintosh Page
+
+MacWarehouse
+
+Mac Related Reviews
+
+Todd's Mac Support Pages
+
+The Complete Conflict Compendium
+
+MacChat
+
+TidBITS
+
+Macintosh Index
+
+
+
+Top of page
+|
+Top of
+links
+
+
+Entertainment Links
+
+
+Television
+
+
+TV Net
+
+TV Land
+
+TV Themes Home Page
+
+CNN Interactive
+
+ESPNET
+
+Discovery Channel
+
+Sci-Fi Channel
+
+Comedy
+Central
+
+The Weather
+Channel
+
+MTV
+
+c|net: the computer network
+
+Letterman's Top Ten
+Lists
+
+School House Rock!
+
+
+Movies
+
+
+Movie Stuff
+
+Film Zone
+
+Film.com
+
+Twentieth Century Fox
+
+Miramax
+
+The Internet Movie Database
+
+
+Radio
+
+
+NPR
+
+
+Print
+
+
+Pathfinder
+
+
+Other Entertainment
+
+
+Rock and Roll Hall of Fame
+
+
+
+Top of page
+|
+Top of
+links
+
+
+Commercial Links
+
+
+Commercial Services on the Net
+
+AT&T 800 Directory on the Internet
+
+FedEx
+
+FTD Internet
+
+Service Merchandise
+
+USA TODAY
+
+Crayola
+
+LEGO
+
+American Airlines
+
+Hotels on the Web
+
+
+Top of page
+|
+Top of
+links
+
+
+Other Interesting Links
+
+
+Weather World
+
+Today
+
+Online
+Career Center
+
+San Francisco
+Exploratorium
+
+Campaign '96 Online
+
+Zip+4 Lookup
+
+CU-SeeMe
+
+IP Address to Latitude/Longitude
+
+
+Top of page
+|
+Top of
+links
+
+
+Work Address:
+
+Computer Science Dept.
+Box 1679-B
+Vanderbilt University
+Nashville, TN  37235
+(615) 322-3552
+
+Home Address:
+
+2824 Blair Blvd.
+Nashville, TN  37212
+
+Email Address:
+
+
+
+dat@vuse.vanderbilt.edu
+
+
+

@@ -1,0 +1,366 @@
+Date: Wed, 20 Nov 1996 23:11:31 GMT
+Server: NCSA/1.4
+Content-type: text/html
+
+
+
+CSCI 570: Analysis of Algorithms
+
+
+
+
+
+
+COMPUTER SCIENCE 570
+
+ANALYSIS OF ALGORITHMS
+
+
+
+This is the home page for Computer Science 570, Analysis of Algorithms.
+During the spring of 1995, this class is taught by
+Prof. Doug Ierardi
+.
+
+Handouts
+,
+exams
+and
+problem sets
+may be found below and on linked
+documents.
+Futher information, including course notes, former exams and handouts,
+for Computer Science 570 may currently be found in the course
+directory (
+csci570
+) on
+scf.usc.edu
+.
+I'll note here that you may find
+the "algorithms course
+materials on the net"
+web page valuable and interesting.
+
+
+Grades
+
+Handouts
+
+
+
+Syllabus
+
+
+Red-Black trees
+
+
+Leftist Heaps
+
+
+Amortized Analysis
+, including Skew Heaps and Splay Trees
+
+Competative Analysis of Online Algorithms
+
+
+
+Assignments
+1
+,
+2
+,
+3
+,
+4
+and
+5
+
+
+
+
+
+
+Problem Set 1.
+1.3-7;
+1-2;
+2.1-2,3,8;
+2.2-6, 8;
+2-2,3,5;
+3-1;
+4-4,5,7
+
+Due:
+January 25, 1996
+
+Solutions:
+
+here
+
+
+
+
+
+Problem Set 2.
+
+
+
+(binary heaps)
+7.2-5; 7.5-6
+
+(binomial heaps)
+20.2-10; 20-1 and -2;
+
+(red-black trees)
+14-1 and -2;
+Problem on implementing
+DecreaseKey
+from
+handout on leftist heaps
+.
+
+Due:
+February 9, 1996
+
+Solutions:
+
+here
+
+
+
+
+Problem Set 3.
+
+
+18-2,3
+Show that MoveToFront is not
+c
+-competitive for any
+c < 2
+. (
+I.e.
+this is a tight bound.)
+Give a tight bound on the competitiveness of LRU for the
+caching problem, assuming that your cache can hold at most
+k
+pages. (Here you're counting the number of cache
+misses
+.)
+Read 15.3. Do 15.3-5.
+Read 22. Do 22-2.
+A few fun problems.
+
+
+Due:
+Monday, February 26th
+
+Solutions:
+
+here
+
+
+
+
+Problem Set 4.
+
+
+A
+skip list
+is constructed as follows.
+Every element has a pointer at level 0, which connects
+all of them into a sorted linked list.
+For each i > 0, some subset of the elements at level (i-1)
+have level i pointers, which connect them into a
+sorted linked list.
+The structure is constructed as follows. Suppose you're
+given such a list; to insert the next element
+x
+into the
+list, search for where it goes in the level 0 list and
+splice it in. Then
+i = 1;
+while (flip() != tails) {
+add x to the list at level i;
+i++;
+}
+
+Sketch
+a proof that
+(1) the resulting list has height
+O(lg n)
+with
+high probability, assuming that the probability of heads
+is
+p
+, 0 &
+<
+
+p
+&
+<
+1; and
+(2) inserting or finding an element in a data structure
+constructed in this way requires
+O(lg n)
+time.
+
+Suppose that you have access to a biased coin, with
+unknown bias (althogh probability of heads is strictly
+between 0 and 1). Show how to use this coin to simulate
+a fair coin.
+
+Suppose that i give you a piece of paper with
+n
+lines drawn across its surface. (They're arbitrarily
+oriented, and each goes from edge to edge.) There's
+a dot drawn somewhere on the paper, representing the
+origin. You repeat the following: choose one of the
+remaining lines at random, and cut the paper along it.
+Then hold onto the piece that has the dot (origin) and
+throw the rest away. Repeat this until all lines have
+been cut. So you're left with the smallest convex
+region containing the origin that is bounded by the
+given line segments.
+
+Fact.
+Throughout this process, the total number of
+times that you cut across any of the remaining lines is expected to be
+O(n ln n)
+.
+Use this fact to design an algorithm which, given
+n
+half-planes, each containing the origin, computes their
+intersection in expected time
+O(n lg n)
+by incrementally
+adding one half-plane at a time.
+
+Recall the description of
+treaps
+given in class.
+Briefly, every element has a key and a priority.
+They are put into a binary tree such that they have
+an inorder ordering (binary search tree property) with
+respect to keys, and a heap ordering with respect to
+priorities.
+A random treap is one where the priorities have been
+assigned randomly. For this problem, we'll just assume
+that the prioirities are given by some random permutation.
+
+
+Let
+x
+be any element and
+A
+the set of ancestors of
+x
+in the random treap. Let
+X
+be the length of the path
+from the root to
+x
+. Then
+
+X = # {keys
+<
+x and in A}
++ #{keys > x and in A}
+
+Use this obvious fact to give a
+precise
+value for the expected
+depth of
+x
+, when
+x
+is the
+m
+th largest element in the
+tree. (
+I.e.
+solve for the leading constants as well.
+You can tack on a
+O(1)
+at the end if you'd like.)
+
+Recall that to insert an element, you proceed
+as in a binary search tree, then attach a random
+priority, and rotate up the tree until heap-ordering
+has been restored.
+Argue that the expected number of rotations on an
+insertion is 2.
+
+Deletion in a treap is handled in a rather odd
+way: to delete
+x
+, rotate it down the tree until it
+is a leaf and remove it.
+Describe this procedure in more detail. Then show
+that the expected number of rotations is 2.
+
+
+
+Due:
+Monday March 18th
+
+Solutions:
+
+here
+
+
+
+
+Problem Set 5.
+
+
+34.1-5
+Also consider the following variant, which is an optimization problem:
+find a match which minimizes the number of characters matched to
+"gap characters".
+
+34.2-4
+This suggestions came up a few times in class:
+34.4-4
+* 34.5-3
+
+Graph review:
+23.4-3 and 4, 25.2-3
+
+Due:
+Thursday April 10th
+
+Solutions:
+
+here
+
+
+
+Exams
+
+
+take-home midterm exam
+
+take-home final exam, available
+in html
+or
+in postscript
+.
+
+
+Demos
+If you have a Java-enhanced browser, check these out.
+
+Interactive Binary Search Tree Demos
+
+
+
+
+
+DJ Ierardi
+/
+langevin.usc.edu
+
+Mon 13 May 1996 at 06:55:06 PM
+
+
+
+

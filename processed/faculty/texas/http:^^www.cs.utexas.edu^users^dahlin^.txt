@@ -1,0 +1,159 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:23:19 GMT
+Content-Type: text/html
+Content-Length: 3050
+Last-Modified: Friday, 20-Dec-96 17:25:45 GMT
+
+Mike Dahlin
+
+
+
+
+
+
+
+
+
+
+
+
+
+M
+IKE
+
+D
+AHLIN
+
+
+
+
+
+
+General information
+Assistant professor of
+Computer Sciences
+,
+
+
+The University of Texas at Austin
+.
+
+
+Ph.D. in
+Computer Science
+,
+
+
+UC Berkeley
+, 1995.
+
+M.S. in
+Computer Science
+,
+
+
+UC Berkeley
+, 1993.
+
+B.S. in
+Electrical Engineering
+,
+
+
+Rice University
+, 1991.
+
+
+
+
+
+Teaching
+
+
+Fall 1996: 395T Web Operating Systems
+
+
+
+Spring 1997: 382M Advanced Computer Architecture
+
+
+Everyone should read these
+"Technical Classics"
+
+
+Research
+
+
+xFS: A "Serverless" Network File System
+
+
+
+Web Operating Systems
+
+
+
+The Lab for Experimental Software Systems (LESS)
+
+
+
+Publications list.
+
+
+Other Information
+
+Technology Trends Page
+
+This page
+summarizes some recent technology trends that may be of interest to operating
+systems researchers and compter architects, including
+historical data I've gathered about the
+prices and capacity/prices of disks and memory.
+
+Personal Information
+
+If this page seems boring, you probably want
+my working internet root page.
+(Links to the world.)
+
+
+
+
+
+
+
+Email:
+
+dahlin@cs.utexas.edu
+
+
+
+
+
+Office:
+
+Taylor Hall 4.136
+(512)471-9549
+
+
+Postal:
+
+Taylor Hall 2.124
+The University of Texas at Austin
+Austin, TX 78712-1188
+
+
+
+
+
+bye...
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+Date: Tue, 26 Nov 1996 00:13:17 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 26 Aug 1996 14:15:23 GMT
+Content-length: 1238
+
+Ulrich Kremer's Home Page
+
+
+
+Ulrich Kremer
+
+
+
+
+Ulrich (Uli) Kremer
+is an
+assistant professor at the Department of Computer Science. In 1987, he
+graduated with highest distinction (ausgezeichnet) with a Diplom in
+Informatik from the University of Bonn. He went on to receive a M.S. and
+Ph.D. in Computer Science from Rice University in 1993 and 1995, respectively.
+His research interests include compilation techniques and interactive
+programming environments for distributed-memory and shared-memory multiprocessors.
+For contact info,
+finger
+uli@cs.rutgers.edu.
+Uli Kremer's home page has moved to
+http://www.cs.rutgers.edu/~uli
+.
+
+Address
+
+
+
+Department of Computer Science
+
+Hill Center, Busch Campus
+
+Rutgers University
+
+Piscataway, NJ 08855
+
+
+http://www.cs.rice.edu/~kremer/
+

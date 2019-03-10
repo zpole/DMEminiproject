@@ -1,0 +1,84 @@
+Date: Thursday, 21-Nov-96 23:39:02 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Monday, 04-Nov-96 14:21:38 GMT
+Content-length: 2033
+
+
+Amanda Stent's URCS Home Page
+
+
+
+
+
+
+
+
+Amanda Stent
+
+Department of Computer Science
+University of Rochester
+Rochester, NY, USA 14627-0226
+
+
+
+Introduction
+Hi!  I am a first-year graduate student in the Department of Computer
+Science of the University of Rochester.  In May '96 I graduated from
+Houghton College
+with a BA in
+Math and Music.  I also studied for a year at
+the University of Edinburgh
+.  My
+current area of interest is natural language processing, and I am
+involved in some work on the
+TRAINS Project
+.
+
+
+Other pages
+
+
+TRAINS evaluation sign-up
+
+URCS
+Speech corpora holdings
+
+The TRAINS Project Home Page
+
+U. Rochester Computer Science Dept. Home Page
+
+URCS WWW Server Stats
+
+MK Connection
+
+MCS
+
+Common
+Lisp, The Language, 2nd ed.
+
+
+
+
+You can
+send me mail
+.
+
+
+
+
+
+URCS Grads Dir
+
+URCS Home Page
+
+
+
+
+
+Last change: 10 September 1996 by Owl
+
+
+
+

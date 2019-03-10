@@ -1,0 +1,71 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:46:25 GMT
+Content-Type: text/html
+Content-Length: 2279
+Last-Modified: Wednesday, 25-Dec-96 17:58:45 GMT
+
+
+
+Don Batory
+
+
+
+
+Don Batory
+
+Software generation
+is a key to improved programmer productivity, reduced
+maintenance costs, and enhanced application performance. I and my students
+are investigating ways to realize practical, domain-specific component-based
+design methodologies and technologies for large scale software system
+synthesis. This spans the topics of: software architectures, design patterns,
+extensible languages, subjectivity, domain modeling, parameterized
+programming, object-oriented programming, frameworks. The domains of
+current interest are database management, data structures, and avionics.
+
+My current research is building a programming language to support software
+generation. The goal of the
+Jakarta
+Project is to build an extensible preprocessor for the Java language.
+Domain-specific generators would be encapsulated, pluggable extensions to Jakarta.
+
+Research funding is from DARPA, Microsoft Research, the University of Texas Applied Research
+Laboratories, and Schlumberger.
+
+Publications, Projects, Students, Software
+
+Contact Information
+
+
+
+
+Office:
+
+Taylor Hall 3.104B
+
+
+Email address:
+
+batory@cs.utexas.edu
+
+
+Phone Numbers
+
+512-471-9713 (Office)
+512-471-8885 (Fax)
+
+
+Postal address:
+
+The University of Texas at Austin
+
+Department of Computer Sciences
+, TAY 2.124
+Austin, TX 78712-1188
+
+
+
+
+
+

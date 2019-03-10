@@ -1,0 +1,99 @@
+Date: Wed, 15 Jan 1997 00:07:09 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 08 Jan 1997 18:03:16 GMT
+Content-length: 2365
+
+
+CSc425/525 Home Page
+
+
+
+
+
+CSc 425/525
+Principles of Computer Networking
+
+
+This course is an introduction to the principles of computer
+networking.  It emphasizes network software and the Internet
+architecture. Topics include:
+
+statistical multiplexing
+framing
+switching
+routing
+internetworking
+transport protocols
+presentation formatting
+congestion control
+real-time services
+Example technologies and protocols studied include TCP/IP, RPC,
+Ethernet, FDDI, ATM, and JPEG/MPEG. Involves non-trivial programming
+assignments using the
+x
+-kernel.
+This course assumes a working understanding of basic OS concepts
+(e.g., process synchronization), and proficiency in C/Unix. CSc
+CSc 452
+(Principles of Operating Systems) is a co-requisite for this class.
+Instructor
+
+Larry Peterson
+Office: Gould-Simpson 746
+Phone: 621-4231
+Office Hours: TT 3:30-4:30
+Email:
+llp@cs
+Grader: Don Waugaman (
+dpw@cs
+)
+
+Lectures
+
+TT 2:00-3:15
+BioWest 208
+
+Text & Reference Material
+
+Computer Networks:
+A Systems Approach
+
+Papers from the Literature
+
+cs.course525
+
+Lecture Slides
+
+
+x
+-kernel Documentation
+
+Assignments & Important Dates
+Final: May 15th, 2:00 - 4:00
+Grading
+
+Current Grades
+
+
+
+Programming Assignments (3-4)
+50%
+
+Final Exam
+25%
+
+Midterms (2)
+25%
+
+Grading algorithm is subject to (i) change, and (ii) subjective
+influences based on class participation.
+Example Exams
+
+Quiz 1
+
+Quiz 2
+
+Final
+
+

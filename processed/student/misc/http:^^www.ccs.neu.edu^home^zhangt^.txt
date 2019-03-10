@@ -1,0 +1,74 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:29:33 GMT
+Content-Type: text/html
+Content-Length: 1925
+Last-Modified: Friday, 17-May-96 20:44:42 GMT
+
+Welcome to Tianxiang Zhang's Personal Web Page
+
+
+
+
+
+This home page is maintained by
+
+Tianxiang Zhang
+
+
+
+Greeting
+
+Hi, this is Tian. Welcome to my home page. I am a grad student in the College of Computer Science at Northeastern University and expected to graduate in 1997. This page is under construction and hopefully will have more fun stuffs. Have a good visit!
+
+
+Would you mind reading my resume?
+
+
+
+click here
+
+
+
+Here're some useful documents
+
+
+Java
+
+Unix help desk
+
+Tutorial on C/C++, UNIX and more
+
+
+
+Here are some of my favorite links:
+
+
+Northeastern University
+
+NCSA
+
+Cern
+
+Newspaper in Chinese
+
+Almost anything in Chinese(most in GB code)
+
+
+
+
+
+
+
+
+Thanks for checking out my personal Web Pages, come back again soon!
+
+
+
+
+zhangt@
+ccs.neu.edu
+
+
+
+

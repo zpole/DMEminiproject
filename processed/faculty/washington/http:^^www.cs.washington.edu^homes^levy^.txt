@@ -1,0 +1,138 @@
+Date: Thu, 21 Nov 1996 20:22:58 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sat, 19 Oct 1996 02:18:35 GMT
+Content-length: 5061
+
+Hank Levy's Home Page
+
+
+
+
+
+Henry M. Levy
+, Professor,
+joined the faculty in 1983.  Hank's current research
+projects focus on operating systems,
+on parallel and
+distributed computing
+, on computer architecture (particularly
+"
+Simultaneous Multithreading
+" architectures)
+and on object-based languages and environments.  A recent project
+called
+Opal
+deals with single-address space operating systems for
+64-bit computer architectures.  The
+Etch
+project
+is producing a tool for performance instrumentation and optimization of
+x86 binary executables.
+Levy is author of two books
+and numerous papers on computer systems, including
+``outstanding paper''selections from four consecutive
+ACM Symposia on Operating Systems Principles.  He
+is former chair of
+ACM SIGOPS
+(the Special Interest Group on
+Operating Systems), and program chair for the
+16th ACM Symposium on Operating Systems Principles
+, to
+be held in 1997.  He holds a B.S. from Carnegie-Mellon University
+and an M.S. from the University of Washington.
+Before coming to Washington, he was a Consulting Engineer with
+Digital Equipment Corporation, where his work spanned the range
+from operating systems to architectures for distributed systems
+and workstations.  Hank is a Fellow of the
+Association for Computing Machinery
+and recipient of a
+Fulbright
+Research Scholar Award.
+Eleven Master's students and nine Ph.D. students have survived
+Levy's supervision;  the Ph.D. students have
+all escaped to academic positions or major research labs.
+When not glued to his workstation, Hank can usually be
+found skiing, biking, playing tennis, helping to lead the
+department's infamous softball team (the
+Smiling
+Potatoes of Death
+), or sampling desserts at one of
+Seattle's many dessert parlors.
+
+
+
+Some Recent Publications
+
+
+Reducing Network Latency Using Subpages in a Global Memory Environment.
+H.A. Jamrozik, M.J. Feeley, G.M. Voelker, J. Evans II, A.R. Karlin, H.M. Levy, and M.K. Vernon.  In
+
+Proceedings of the Seventh ACM Conference on Architectural Support for Programming Languages and Operating Systems,
+October 1996.
+[postscript]
+
+
+
+Implementing Global Memory Management in a Workstation Cluster.
+Michael M. Feeley, William E. Morgan, Frederic H. Pighin, Anna R. Karlin,
+Henry M. Levy, and Chandramohan A. Thekkath.
+To appear in
+Proc. of the 15th ACM Symposium on Operating Systems Principles
+, December 1995.
+
+
+Simultaneous Multithreading: Maximizing On-Chip Parallelism.
+Dean Tullsen, Susan Eggers, and Henry Levy.
+In.
+Proc. of the 22nd Annual International Symposium
+on Computer Architecture
+, June 1995.
+
+
+Exploiting Choice:  Instruction Fetch and Issue on an Implementable
+Simultaneous Multithreading Processor.
+Dean Tullsen,
+Susan Eggers, Joen Emer, Henry Levy, Jack Lo, and Rebecca Stamm.  In
+Proc.
+of the 23rd International Symposium on Computer Architecture
+,
+May 1996.
+
+
+Sharing and Protection in a Single-Address-Space Operating System.
+Jeffrey S. Chase, Henry M. Levy, Michael J. Feeley, and Edward
+D. Lazowska.
+ACM Transactions on Computer Systems
+, 12(4),
+November 1994.
+
+
+Integrating Coherency and Recoverability in Distributed Systems.
+Michael J. Feeley, Jeffrey S. Chase, Vivek R. Narasayya,
+and Henry M. Levy.  In
+Proc. of the First Symposium on
+Operating Systems Design and Implementation,
+November 1994.
+
+
+Hardware and Software Support for Efficient Exception Handling.
+C. Thekkath and H. Levy.
+Proc. of the 6th Int. Conf. on Arch.
+Support for Prog. Languages and Operating Systems
+(ASPLOS),
+October 1994.
+
+
+Separating Data and Control Transfer in Distributed Operating Systems.
+C. Thekkath, H. Levy, and E. Lazowska.
+Proc.
+of the 6th Int. Conf. on Arch. Support for Prog.
+Languages and Operating Systems
+(ASPLOS), October 1994.
+
+
+
+
+levy@cs.washington.edu
+

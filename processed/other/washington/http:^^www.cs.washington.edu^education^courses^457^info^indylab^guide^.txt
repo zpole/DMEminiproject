@@ -1,0 +1,35 @@
+Date: Thu, 16 Jan 1997 03:25:59 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+Using the Indys
+
+
+
+
+
+
+
+
+1997 Winter Quarter
+
+
+
+
+
+Using the Indys
+
+
+IndyLab Rules
+
+SGI Tips & Tools
+
+OpenGL Example Programs
+
+
+Note
+: The Indys are primarily intended for use by 457 students working on 457
+assignments. If you are not a 457 student working on a 457 assignment, anyone
+working on a 457 assignment has the right to bump you off of your machine.
+
+

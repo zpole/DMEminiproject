@@ -1,0 +1,72 @@
+Server: Netscape-Communications/1.1
+Date: Monday, 06-Jan-97 22:59:00 GMT
+Last-modified: Monday, 23-Sep-96 22:36:23 GMT
+Content-length: 2078
+Content-type: text/html
+
+
+UT Parallel and Distributed Systems Lab
+
+
+
+
+
+
+The Parallel and Distributed Systems Laboratory
+at the University of Texas at Austin
+
+
+
+Laboratory Research:
+
+Technical Reports
+
+Project Groups
+
+
+Faculty Members:
+
+Craig Chase
+
+Vijay Garg
+
+Aleta Ricciardi
+
+
+Graduate Students:
+
+Om Damani
+
+Brian Grayson
+
+Richard Kilgore
+
+Yufeng Luo
+
+Roger Mitchell
+
+Venkatesh Murty
+
+Eric Rothfus
+
+Aman Sinha
+
+Chakarat Skowratananont
+
+Pawan Uppuluri
+
+
+Former Graduate Students:
+
+Darren Cofer
+Alex Tomlinson
+
+
+
+
+If you have questions about this page, send email to:
+mitchell@pine.ece.utexas.edu
+
+Last modified Fri March 8, 1996.
+
+

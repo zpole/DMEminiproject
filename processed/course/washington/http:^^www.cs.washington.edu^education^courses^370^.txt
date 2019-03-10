@@ -1,0 +1,70 @@
+Date: Mon, 02 Dec 1996 14:34:25 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 370 Index Page
+
+
+
+
+CSE 370 Index Page
+
+
+
+Current Quarter
+
+The web for the current quarter of CSE 370 is
+here
+.
+
+Previous Quarters
+
+Course webs from earlier quarters should be intact (more or less; if you
+notice problems, for instance links that don't work, please send mail to
+cse370-webmaster@cs.washington.edu).
+
+
+
+
+
+Spring 1996
+
+
+
+
+
+
+Other information
+is available about
+
+the
+University of Washington,
+
+the
+Department of Computer Science and Engineering,
+
+the
+Computer Science degree program
+(offered through the College
+of Arts and Sciences),
+the
+Computer Engineering degree program
+(offered through the College
+of Engineering).
+
+
+Portions of the CSE 370 Web may be reprinted or adapted for academic
+nonprofit purposes, providing the source is accurately quoted and duly
+credited.  The CSE 370 Web: Copyright 1996, Department of Computer
+Science and Engineering, University of Washington.
+
+
+Comments to:
+cse370-webmaster@cs.washington.edu
+(Last Update:
+11/17/96
+)
+
+
+

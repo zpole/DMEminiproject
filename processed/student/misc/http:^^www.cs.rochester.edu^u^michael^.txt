@@ -1,0 +1,205 @@
+Date: Thursday, 21-Nov-96 23:39:52 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Wednesday, 13-Nov-96 17:59:30 GMT
+Content-length: 6674
+Maged Michael's URCS Home Page
+
+
+
+
+Maged Michael,  Ph.D. Student
+
+
+
+Journal and Conference Papers
+
+
+
+G. Hunt, M. Michael, S. Parthasarathy, and M. Scott,
+``An
+Efficient Algorithm for Priority Queue Heaps,''
+Technical
+Report 560, Department of Computer Science, University of
+Rochester, December 1994. A revised version to appear in
+Information Processing Letters
+(
+IPL
+).
+postscript
+.
+A. Nguyen, M. Michael, A. Sharma, and J. Torrellas,
+``The
+Augmint Multiprocessor Simulation Toolkit for Intel x86
+Architectures,''
+In
+Proceedings of the 1996 IEEE
+International Conference on Computer Design
+(
+ICCD
+),
+Austin, TX, October 1996.
+postscript
+.
+M. Michael and M. Scott,
+``Simple, Fast, and Practical
+Non-Blocking and Blocking Concurrent Queue
+Algorithms,''
+In
+Proceedings of the 15th ACM Symposium on
+Principles of Distributed Computing
+(
+PODC
+),
+pp. 267-275, Philadelphia, PA, May 1996.
+postscript
+.
+M. Michael and M. Scott,
+``Implementation of Atomic
+Primitives on Distributed Shared Memory Multiprocessors,''
+In
+Proceedings of the First IEEE International Symposium on
+High Performance Computer Architecture
+(
+HPCA
+),
+pp. 222-231, Raleigh, NC, January 1995.
+postscript
+.
+
+Posters and Workshops
+
+
+A. Nguyen, M. Michael, A. Sharma, and J. Torrellas,
+``Augmint: An Execution-driven Multiprocessor Simulation
+Toolkit for Intel x86 Architecture,''
+Poster,
+Supercomputing '96
+(
+SC'96
+),
+Pittsburgh, PA, November 1996.
+M. Michael, B. Lim, A. Nanda, and M. Scott,
+``Protocol
+Processors vs. Custom Hardware Coherence Adaptors for
+SMP-based CC-NUMA Multiprocessor Architectures,''
+
+Sixth
+International Workshop on Scalable Shared Memory
+Multiprocessors
+(
+SSMM
+),
+Cambridge, MA, October 1996.
+M. Scott, W. Li, S. Dwarkadas, L. Kontothanassis, G. Hunt,
+M. Michael, R. Stets, N. Hardavellas, W. Meira, A. Poulos,
+M. Cierniak, S. Parthasarathy, and M. Zaki,
+``Implementation of Cashmere,''
+
+Sixth International
+Workshop on Scalable Shared Memory Multiprocessors
+(
+SSMM
+),
+Cambridge, MA, October 1996.
+html
+.
+M. Michael and M. Scott,
+``Scalable Atomic Primitives for
+Distributed Shared Memory Multiprocessors,''
+In
+Proc. of the Fourth International Workshop on Scalable
+Shared Memory Multiprocessors
+(
+SSMM
+), Chicago, IL,
+April 1994.
+postscript
+.
+
+
+Technical Reports and Submitted for Publication
+
+
+M. Michael and M. Scott,
+``Concurrent Update on
+Multiprogrammed Shared Memory Multiprocessors,''
+Technical
+Report 614, Dept. of Computer Science, Univ. of Rochester,
+April 1996.
+postscript
+.
+M. Scott and M. Michael,
+``The Topological Barrier: A
+Synchronization Abstraction for Regularly-Structured Parallel
+Applications,'
+'
+Technical Report 605, Dept. of
+Computer Science, Univ. of Rochester, January 1996.
+postscript
+.
+M. Michael and M. Scott,
+``Correction of a Memory Management
+Method for Lock-Free Data Structures,''
+Technical Report
+599, Dept. of Computer Science, Univ. of Rochester, December
+1995.
+postscript
+.
+M. Michael and M. Scott,
+``Fast Mutual Exclusion Even with
+Contention,''
+Technical Report 460, Dept. of Computer
+Science, Univ. of Rochester, June 1993.
+postscript
+.
+
+Research Interests
+
+
+Thesis topic: Atomic Update on Shared Memory Multiprocessors.
+Advisor
+Prof. Michael L. Scott
+.
+Multiprocessor Simulation Tools.
+Medium and Large-Scale Shared Memory Multiprocessor Design.
+CC-NUMA Cache Coherence Protocols.
+
+Augmint
+
+
+
+Augmint
+is a multiprocessor simulation toolkit for Intel
+x86 architectures.  It was developed in collaboration
+with Anthony-Trung Nguyen and Arun Sharma, while working as
+summer interns for Intel Corporation in the summer of 1995.
+
+Algorithms
+
+
+
+Fast Non-Blocking and
+Lock-Based Concurrent Queue Algorithms
+.
+
+Multiple-Lock Concurrent
+Priority Heap Algorithm
+.
+
+Fast Mutual Exclusion Lock
+Algorithm
+.
+
+
+
+
+Back to URCS Grads directory
+
+
+Back to URCS Home Page
+
+.
+
+

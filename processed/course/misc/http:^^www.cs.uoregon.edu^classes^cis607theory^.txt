@@ -1,0 +1,78 @@
+Date: Tue, 26 Nov 1996 19:16:42 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2711
+Last-modified: Fri, 04 Oct 1996 20:10:00 GMT
+
+CIS607 Quantum Computing
+
+
+
+
+CIS 607, Fall 1996
+
+Quantum Computing Seminar
+
+
+
+The purpose of this page is to provide some web links relevant to the
+seminar on quantum computing.
+
+In the directory /cs/classes/cis607theory/papers/ you can find
+downloaded copies of some relevant papers.  Admittedly, this is of
+no help for those of you on machines outside the CIS department.
+
+If you have downloaded a potentially interesting paper, feel free
+to move or copy it to that directory (and amend the README file
+appropriately).  This can help avoid saving multiple copies of
+these files.
+
+The followng links were provided by Bill Kantor:
+
+
+http://netlib.bell-labs.com/netlib/att/math/people/shor/links.html
+
+
+http://xxx.lanl.gov/find/quant-ph
+
+
+http://vesta.physics.ucla.edu/~smolin/
+
+
+http://chemphys.weizmann.ac.il/~schmuel/comp/comp.html
+for SHOR'S factoring algorithm presented perhaps more slowly.
+This all would need to be printed out, I suppose.  But it starts out assuming you know what
+dopant impurities
+are??
+also
+http://eve.physics.ox.ac.uk/QCresearch/communication/communication.html
+
+long list in
+http://feynman.stanford.edu/qcomp/artlist.html
+
+tooooo much stuff
+and seems to require SOMEONE whol knows some physics just to
+translate the lingo.
+
+There is also a
+Scientific American article
+which itself is short but has some interesting looking links
+(which are likely duplicated above).
+Here is a link to the
+Measurement in quantum mechanics FAQ
+.
+
+Charlie Wright mentions, concerning a tutorial available from a site
+in Israel:
+The tutorial looks eminently readable to me, and not as frighteningly
+technical as it might at first appear. [Ignore the stuff about doping.]
+It takes FOREVER to download it from Israel, but it's quite fast to get
+from
+www.ph.unimelb.edu.au/~schmuel
+
+
+If you come across other pages that should be mentioned here,
+send me mail at
+cwilson@cs.uoregon.edu
+.
+

@@ -1,0 +1,95 @@
+MIME-Version: 1.0
+Server: WebSTAR/1.2.1 ID/28
+Message-ID:
+Date: Sunday, 01-Dec-96 13:21:05 GMT
+Last-Modified: Thursday, 21-Nov-96 05:23:20 GMT
+Content-type: text/html
+Content-length: 3512
+
+Cornell Nanofabrication Facility Home Page
+
+
+
+
+
+
+
+
+
+The Cornell Nanofabrication Facility (CNF), formerly known as the
+National Nanofabrication Facility at Cornell University (NNF)
+and prior to that the
+National Research and Resource Facility for
+Submicron Structures (NRRFSS)
+, has served the US research community for
+more than 15 years by providing nanofabrication services to over 500 research
+projects.  Subject areas of projects completed are as diverse as Astronomy to
+Plant Pathology, as well as the more conventional Micro-electronics, Physics and
+Materials Research, and emerging fields of Integrated Optics and
+Micro-Electro-Mechanical Structures (MEMS).
+
+The CNF is a member of the
+National Nanofabrication Users Network
+,
+along with
+Stanford
+,
+UC Santa Barbara
+,
+Penn State
+, and
+Howard University
+.
+
+The NNUN is an integrated partnership of these
+user facilities, supported by the National Science Foundation, providing
+unparalleled opportunities for creative researchers to turn new ideas into
+experimental reality.  The network provides to the US research community a
+new dimension in fabrication capabilities and services, a knowledge resource and
+a source of instruction to the community.
+There are items of general interest:
+
+We are in the final stages of bringing our new
+Leica VB6
+E-beam lithography system on-line.
+And there are other
+changes
+as well.
+
+Cleanliness Procedures
+
+Current Lab Info
+- status, activity, scheduling, and directory.
+
+Process Info
+
+There are documents loosely organized by audience:
+
+Local Users
+- of likely interest to local, Cornell-based CNF researchers.
+
+Remote Users
+- of likely interest to remote, non-Cornell-based CNF researchers.
+
+CNF Industrial Affiliates
+- of likely interest to to members and potential members of the CNF's Industrial Affiliates Program.
+
+Or, you can get a listing of everything in our webserver from our:
+
+Index
+
+We also have links to
+other servers
+which might be of interest.
+Send comments, feedback, or inquiries to:
+webmaster@cnf.cornell.edu
+Or, if all else fails, we can be reached at:
+Cornell Nanofabrication Facility
+Cornell University
+Knight Lab
+Ithaca, NY 14853
+(607) 255-2329
+
+Updated 14-Nov-96
+
+

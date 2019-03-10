@@ -1,0 +1,11 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Server: Netscape-Enterprise/2.01
+Date: Fri, 04 Apr 1997 22:15:07 GMT
+Location: http://dpweb1.dp.utexas.edu/lib/utnetcat/
+Content-type: text/html
+Content-length: 227
+Found
+Found
+This document has moved to a new
+location
+. Please update your documents and hotlists accordingly.

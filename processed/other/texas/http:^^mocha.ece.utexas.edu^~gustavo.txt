@@ -1,0 +1,13 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Fri, 04 Apr 1997 22:17:01 GMT
+Server: NCSA/1.4.2
+Location: http://mocha.ece.utexas.edu/~gustavo/
+Content-type: text/html
+Document moved
+
+Document moved
+This document has moved
+here
+.
+
+

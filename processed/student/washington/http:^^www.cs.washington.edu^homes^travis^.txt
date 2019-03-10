@@ -1,0 +1,73 @@
+Date: Thu, 21 Nov 1996 23:02:55 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 10 Oct 1995 00:27:28 GMT
+Content-length: 1426
+
+
+Travis Craig's Home Page
+
+
+
+
+Travis Craig
+
+
+
+travis@cs.washington.edu
+
+
+Computer Science & Engineering Department,
+
+
+University of Washington,
+FR-35,
+
+Seattle, WA
+98195 USA
+
+
+
+Research interests:
+
+
+mechanisms for predictability in real-time systems
+cache restoration
+queuing spin locks
+Arctic submarine currents
+
+
+Courses I'm taking this quarter:
+
+
+
+CSE 800: Dissertation
+,
+where I'm working on real-time systems.
+
+
+
+Time consuming side projects are:
+
+
+working half-time at ESCA Corporation
+helping keep the Volvo 1800ESs (5055 and 7135) running
+
+Press Here for Latest Motor Pool Status
+
+
+
+
+How to understand Computer Science:
+
+
+
+
+
+
+Travis Craig
+
+Last modified:
+Oct 9, 1995
+
+

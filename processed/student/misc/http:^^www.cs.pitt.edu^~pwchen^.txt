@@ -1,0 +1,54 @@
+Date: Tue, 26 Nov 1996 17:54:49 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 23 Oct 1996 22:46:06 GMT
+Content-length: 1149
+Information about Ping-Wen Chen.
+
+Home Page of Ping-Wen Chen
+
+
+Graduate Student
+Department of Computer Science
+
+University of Pittsburgh
+Pittsburgh, PA 15260
+
+
+Research Interest
+
+Multimedia
+
+WWW Information Retrieval
+
+
+Berkeley
+
+
+
+Sverker Janson,
+Intelligent Software Agents.
+
+
+
+Steve Gant,
+Intelligent Software Agent Bibliography.
+
+
+
+Alf-Christian Achilles,
+Bibliography on intelligent agents and multi-agent systems.
+
+
+
+Martijn Koster,
+World Wide Web Robots, Wanderers, and Spiders.
+
+
+
+
+Office:  218 MIB
+Phone:   624-8836
+pwchen@cs.pitt.edu
+
+

@@ -1,0 +1,74 @@
+Date: Thu, 21 Nov 1996 22:51:23 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 12 Oct 1995 19:43:56 GMT
+Content-length: 1522
+
+
+Joe Sherman's Home Page
+
+
+
+Joe Sherman
+
+
+
+
+joebob@cs.washington.edu
+
+
+
+
+Department of Computer Science and Engineering
+
+University of Washington
+Box 352350
+
+Seattle, WA
+98195-2350   USA
+
+
+
+My research interests are:
+
+
+User Interface design
+Information navigation and visualization
+
+
+Projects and Activities:
+
+
+User Interfaces for . . .
+
+An informal, local survey of Web use
+
+Class project for CSE 590H
+
+Creating an impressive Home Page
+Quality time with Pam, Tim and
+Sarah
+
+Softball
+
+Stuff I might want to see:
+
+
+
+Automatic suggestions
+via SEW page
+
+Links to User Interface Research and related
+topics
+
+
+Directory
+of useful Web Pages
+
+
+If your browser supports it, you can send mail to
+joebob@cs.washington.edu
+.
+
+
+

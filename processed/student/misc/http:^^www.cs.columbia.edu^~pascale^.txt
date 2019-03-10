@@ -1,0 +1,198 @@
+Date: Tue, 26 Nov 1996 02:52:14 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 6094
+Last-modified: Mon, 08 Jul 1996 23:47:30 GMT
+
+Pascale FUNG
+
+Pascale FUNG
+
+
+PhD candidate
+
+I am currently a PhD candidate in
+Computer Science
+at
+Columbia
+University
+. I received my MSc in Computer Science from Columbia in 1993
+and my BS in Electrical Engineering from
+Worcester
+Polytechnic Institute
+in Massachusetts in 1988.
+I have been a research
+affiliate with
+AT&T Bell Laboratories
+(Murray Hill, New Jersey) since 1993. I was a teaching faculty at the
+Department of Electrical and Electronic Engineering
+of the
+Hong Kong
+University of Science and Technology
+.
+During 1991-1992, I was associate scientist at
+BBN Systems & Technologies
+(Cambridge, Mass.), participating
+in the design and implementation of the BYBLOS speech recognition system.
+I was a visiting researcher at
+LIMSI, Centre National de la Recherche Scientifique
+(France) in
+1991. From 1989-1991, I was a research student in the
+Department of Information Science, Kyoto University
+(Japan).
+Prior to that, I was a visiting researcher at
+Ecole Centrale Paris
+(France).
+
+Research interests:
+Statistical machine translation and natural language processing; speech
+processing; speech recognition; speaker adaptation; pattern recognition;
+signal processing.
+
+
+Recent publications:
+
+
+Pascale Fung
+and Kathleen McKeown:
+"
+A Technical Word and Term Translation Aid using Noisy Parallel Corpora Across Language Groups
+".
+The Machine Translation Journal
+, To appear
+Pascale Fung
+, Min-yen Kan, and Yurie Horita:
+"
+Extracting Japanese Domain and Technical Terms is Relatively Easy
+".
+Second International Conference in New Methods for Language Processing,
+Bilkent, Turkey: Sep. 1996, to appear.
+Pascale Fung
+:
+"
+Domain Word Translation by Space-Frequency Analysis of Context Length Histograms
+",
+ICASSP96: International Conference on Acoustics, Signal and Speech Processing,
+Atlanta, Georgia: May 1996, vol. I,  184-187.
+
+Pascale Fung
+:
+"
+Compiling Bilingual Lexicon Entries from a Non-Parallel English-Chinese Corpus
+",
+The 3rd Annual Workshop on Very Large Corpora,
+Boston, Massachusettes: June 1995, 173-183
+
+Pascale Fung
+:
+"
+A Pattern Matching Method for Finding Noun and Proper Noun Translations from Noisy Parallel Corpora
+",
+The 33rd Annual Conference of the Association for Computational Linguistics,
+Boston, Massachusettes: June 1995, 236-233
+
+Pascale Fung
+and Dekai Wu:
+"
+Coerced Markov Models for Cross-lingual Lexical-Tag Relations
+",
+The Sixth International Conference on Theoretical and Methodological Issues in Machine Translation,
+Leuven, Belgium: Jul. 1995, 240-255
+
+Pascale Fung
+and Kathleen McKeown:
+"
+Aligning Noisy Parallel Corpora across Language Groups: Word Pair Feature Matching by Dynamic Time Warping
+",
+AMTA 94: Partnerships in Translation Technology,
+Columbia, Maryland: Oct. 1994, 81-88.
+
+Pascale Fung
+and Dekai Wu:
+"
+Statistical Augmentation of a Chinese Machine-Readable Dictionary
+",
+Second Annual Workshop on Very Large Corpora,
+Kyoto: Aug. 1994, 69-85
+
+Pascale Fung
+and Kenneth Church:
+"
+K-vec: A New Approach for Aligning Parallel Texts
+",
+COLING 94: 15th International Conference on Computational Linguistics,
+Kyoto: Aug 94, 1096-1102.
+
+Dekai Wu and
+Pascale Fung
+:
+"
+Improving Chinese Tokenization with Linguistic Filters on Statistical Lexical Acquisition
+",
+ANLP-94: 4th Conference on Applied Natural Language Processing,
+Stuttgart: Oct. 1994, 180-181.
+
+K. Church, I. Dagan, W. Gale,
+P. Fung
+, J. Helfman, B. Satish:
+"
+Aligning Parallel Texts: Do Methods Developed for English-French generalize to Asian Languages?
+",
+PacfoCol93:  ,
+Taipei: Aug 93
+
+Paul Placeway, Richard Schwartz,
+Pascale Fung
+, Long Nguyen:
+"
+The Estimation of Powerful Language Models from Small and Large Corpora,
+",
+ICASSP 93: International Conference on Acoustics, Signal and Speech Processing,
+San Francisco: Apr. 1993,
+
+M. Bates, R. Borrow,
+P. Fung
+, R. Ingria, F. Kubala, J. Makhoul, L. Nguyen, R. Schwartz, D. Stallard:
+"
+The BBN/HARC Spoken Language system
+",
+ICASSP 93: International Conference on Acoustics, Signal and Speech Processing,
+San Francisco: Apr. 1993,
+
+M. Bates, R. Borrow,
+P. Fung
+, R. Ingria, F. Kubala, J. Makhoul, L. Nguyen, R. Schwartz, D. Stallard:
+"
+Design and Performancce of HARC, the BBN Spoken Language Understanding System
+",
+ICSLP 92: Second International Conference on Spoken Language Processing,
+Banff: Oct. 1992,
+
+Pascale Fung
+, Tatsuya Kawahara, Martine Adda, Shuji Doshita:
+"
+Improved Speaker Markov Modeling for Unsupervised Speaker Normalization
+",
+Studia Phonologica, XXV, Japan
+
+
+Pascale Fung
+, Tatsuya Kawahara and Shuji Doshita:
+"
+Unsupervised Speaker Normalization by Speaker Markov Model Converter for Speaker-Independent Speech Recognition
+",
+Eurospeech 91: Second European Conference on Speech Communication and Technology,
+Genova: Sep. 1991, 1111-1114.
+
+
+pascale@cs.columbia.edu
+
+Computer Science Department
+
+Columbia University
+
+New York, NY 10027
+
+
+
+

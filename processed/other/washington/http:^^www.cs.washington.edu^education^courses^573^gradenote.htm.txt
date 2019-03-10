@@ -1,0 +1,38 @@
+Date: Mon, 02 Dec 1996 15:38:48 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 15 Oct 1996 19:40:57 GMT
+Content-length: 754
+
+
+
+Grading Note
+
+
+
+
+Here's the breakdown for what gets how much in CSE 573
+
+
+Reading
+Discussion
+Problem Sets
+Project
+Final
+
+25%
+10%
+20%
+25%
+25%
+
+
+Yes, yes, I know. The percentages sum to more than 100%, but this just
+makes it easier to get a good grade, right?
+
+
+
+Problem Set 1 Solutions
+
+
+

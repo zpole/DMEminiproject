@@ -1,0 +1,423 @@
+Date: Tue, 26 Nov 1996 19:11:33 GMT
+Server: Apache/1.1-dev
+Content-type: text/html
+Set-Cookie: Apache=gs35934984903549329; path=/
+
+
+EECS 380 Information
+
+
+
+
+
+EECS 380 - Data Structures and Algorithms
+
+Fall 1996
+
+
+
+Instructors
+
+
+
+
+Prof. C.V. Ravishankar
+
+
+Lecture : Tue, Thu 10:30-12 in 1200 EECS
+Office : 2239 EECS
+Office hours : Tue, Thu 3:00-4:30
+Phone : 647-1806
+E-mail :
+ravi@eecs.umich.edu
+
+
+Prof. Sang Lee
+
+
+Lecture : Tue, Thu 10:30-12 in 1504 GGBL
+Office : 154 ATL
+Office hours : Tue, Thu 2:00-3:00
+Phone : 936-2831
+E-mail :
+swlee@eecs.umich.edu
+
+
+Teaching Assistants
+
+
+
+
+Name
+E-mail
+
+Discussion
+Office hours
+in 2420 EECS ("TA zoo")
+
+
+
+Jialei Jin
+
+universe@eecs.umich.edu
+
+Mon, Wed 2:30-3:30
+in 1003 EECS
+
+Mon 12:30-2:30
+
+
+
+Aleksandr Oysgelt
+
+aleks@eecs.umich.edu
+
+Wed 1:30-2:30
+in 1371 GGBL
+
+Tue 12:00-1:00,
+Wed 2:30-4:30
+
+
+
+Niranjan Ramakrishnan
+
+niranjan@eecs.umich.edu
+
+Fri 1:30-2:30
+in 1303 EECS
+
+Thu 4:30-5:30,
+Fri 10:30-12:30
+
+
+
+Nancy Scala
+
+nscala@eecs.umich.edu
+
+Tue, Thu 3:30-4:30
+in 1301 EECS
+
+Tue 4:30-6:30
+
+
+
+
+
+
+Announcements
+
+
+Please make sure you have a
+CAEN account
+
+To get your class directory set up, you must provide us with your
+login information
+.
+Homework #4 due on Tuesday, Nov 26, at 10:40 a.m.
+
+
+Handouts
+
+
+Syllabus
+
+Midterm course material
+
+Winter '96 midterm
+
+Schedule
+after the midterm
+Grades
+
+
+
+Exam schedule
+
+
+
+
+Exam
+Date
+Time
+Room
+
+
+
+Midterm
+10/24/96
+10:40-12:00 p.m.
+class
+
+
+
+Final
+12/18/96
+4:00-6:00 p.m.
+TBA
+
+
+
+
+
+
+Assignment schedule
+
+
+
+
+Assignment
+Assigned
+Due on
+
+
+
+Homework 1
+9/26/96
+10/3/96, 10:40 a.m.
+
+
+
+Program 1
+9/20/96
+9/30/96, 11:59 p.m.
+
+
+
+Homework 2
+10/3/96
+10/15/96, 10:40 a.m.
+
+
+
+Program 2
+10/3/96
+10/17/96, 11:59 p.m.
+
+
+
+Homework 3
+10/29/96
+11/5/96, 10:40 a.m.
+
+
+
+Program 3
+11/5/96
+11/19/96, 11:59 p.m.
+
+
+
+Homework 4
+11/19/96
+11/26/96, 10:40 a.m.
+
+
+
+Program 4
+11/26/96
+12/10/96, 11:59 p.m.
+
+
+
+
+
+
+Programs
+
+
+Program #1
+
+
+Description
+
+PostScript
+
+Text
+
+
+Source code
+
+Zipped files
+
+
+
+Program #2
+
+
+Description
+
+PostScript
+
+Text
+
+
+Other documentation
+
+Clarifications
+
+
+
+Program #3
+
+
+Description
+
+PostScript
+
+Text
+
+
+Other documentation
+
+Clarifications
+
+
+
+
+
+Homeworks
+
+
+Homework #0
+
+
+Description
+
+PostScript
+
+Text
+
+
+
+Homework #1
+
+
+Description
+
+PostScript
+
+Text
+
+
+Solutions
+
+PostScript
+
+Text
+
+
+
+Homework #2
+
+
+Description
+
+PostScript
+
+Text
+
+
+Solutions
+
+PostScript
+
+Text
+
+
+
+Homework #3
+
+
+Description
+
+PostScript
+
+Text
+
+
+
+Homework #4
+
+
+Description
+
+PostScript
+
+Text
+
+
+
+
+
+Useful Links
+
+
+Newsgroup
+
+
+umich.eecs.class.380
+
+
+Textbook Code
+
+
+Weiss
+
+Satir & Brown
+
+
+Unix
+
+
+CAEN Tech Notes
+
+Frequently used commands
+
+
+C++
+
+
+Yahoo's entry of WWW C++ resources
+
+Tutorial
+
+FAQ
+
+Some
+C++ features
+that aren't found in C
+
+Debuggers
+
+
+DDD
+
+GDB
+
+
+Editors
+
+
+
+GNU Emacs
+
+NEdit
+
+
+Compiler
+
+
+GCC/G++
+
+
+
+
+
+University of Michigan Department of Electrical Engineering and
+Computer Science
+
+
+
+

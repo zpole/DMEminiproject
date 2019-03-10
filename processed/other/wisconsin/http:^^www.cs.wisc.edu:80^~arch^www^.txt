@@ -1,0 +1,786 @@
+Date: Tue, 05 Nov 1996 22:04:39 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 05 Nov 1996 14:09:23 GMT
+Content-length: 31572
+
+
+WWW Computer Architecture Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+WWW
+
+C
+omputer
+
+A
+rchitecture
+
+H
+ome
+
+P
+age
+
+
+
+
+
+Table of Contents
+
+
+
+Top ten newest links
+
+
+Architecture groups and projects
+
+
+People in computer architecture
+
+
+Calls for papers
+
+
+Calls for participation
+
+
+Technical organizations
+
+
+Commercial information
+
+
+Relevant literature
+
+
+On-line publications
+
+
+Miscellanea
+
+
+Usenet architecture-related newsgroups
+
+
+Eckert-Mauchly Award Winners
+
+
+Contributing to this page
+
+
+
+
+Top 10 Newest links
+
+
+Call for papers
+: September 1997 Special Issue of IEEE Computer - "Billion-Transistor Processors"
+IEEE Transactions on Parallel and Distributed Systems on-line
+
+Intel Pentium Pro design manuals
+
+Micro-28 on-line proceedings
+
+Micro-27 on-line proceedings
+
+Supercomputing '94 on-line proceedings
+
+Penn State - VLSI, Architecture and CAD group
+Federal University of Rio, Brazil - The NCP2 Project
+
+
+
+The purpose of this page is serve as index to information relevant
+to computer architecture researchers.  We plan to point to information
+rather than store it locally.  We will include all submissions that
+seem appropriate.  Thus, inclusion should not be interpreted as an
+endorsement of a contribution's accuracy or importance.
+
+
+Architecture Groups and Projects
+
+
+University of Amsterdam Architecture Research Group
+
+University of Arkansas Computer Architecture Group
+
+Barcelona - Computer Architecture Department (UPC)
+
+Berkeley BRASS (Berkeley Reconfigurable Architectures, System, and Software)
+
+Berkeley - IRAM (Intelligent DRAM)
+
+Berkeley - NOW
+
+Brigham Young Reconfigurable Logic Lab
+
+UC Davis Computer Architecture Research Laboratory
+
+California at Irvine Advanced Computer Architecture Lab: Superscalar Processors and Parallel Machines
+
+Carnegie Mellon Parallel Data Lab
+
+Cornell U-Net ATM cluster
+
+Data Diffusion Machine
+
+Digital Equipment Corporation: Western Research Laboratory
+
+Computer Architecture Section, Electrotechnical Laboratory, Japan
+
+FORTH (ICS), Crete, Greece: Computer Architecture and VLSI Systems
+Georgia Tech Computer Architecture and Parallel Simulation
+
+GMD FIRST - Manna
+
+Centre for Computer Architecture, Halmstad University, Sweden
+
+Harvard - HUBE Research Group
+
+University of Houston High Performance Computing
+
+Illinois - Aggressive COMA
+
+Illinois - IMPACT
+
+Illinois - PARADIGM
+
+Illinois - ProperCAD
+
+Advanced Languages and Architectures, Dept. of Computing, Imperial College, London, U.K.
+
+Iowa State Advanced Computer Architecture Research
+
+IRISA, CAPS team (Compiler, Parallel Architecture and Systems)
+
+APARA team
+, IRIT
+Kyushu University, Japan - PPRAM Project
+
+Loughborough University, United Kingdom - Electronic Systems Design Group
+
+Lund University, Sweden - Cachemire Project
+
+McGill-Concordia - EARTH
+
+McMaster University Advanced Computer Design Laboratory
+
+Michigan High Performance Microprocessor Project
+
+Minnesota - Agassiz
+
+Minnesota - DICE
+
+Minnesota High-Performance Parallel Computing Research Group
+
+MIT Computer Architecture Group
+
+MIT - Alewife
+
+MIT Concurrent VLSI Architecture
+
+MIT - StarT-NG
+
+University of Newcastle Virtual Memory research Group
+
+New Mexico State Parallel Architecture Research Lab
+
+NC State - TINKER
+
+Notre Dame Laboratory for Advanced Parallel Systems
+
+The NYU Ultracomputer Research Project
+
+Ohio State Parallel Architecture and Communication Group
+
+Hardware Compilation Group
+, Oxford University
+Dept. of Information Technology, University of Parma, Italy
+
+Penn State - VLSI, Architecture and CAD group
+Princeton - SHRIMP
+
+Purdue's Adapter for Parallel Execution and Rapid Synchronization
+
+University of Rhode Island - High Performance Computing Laboratory
+
+University of Rhode Island - Levo high ILP computer project
+
+Rice Treadmarks
+
+Federal University of Rio, Brazil - The NCP2 Project
+
+University of Rochester - The Cashmere Project
+
+Saarbrücken PRAM
+
+Scalable Coherent Interface
+
+Simple COMA
+
+USC Advanced Computer Architecture Laboratory
+
+Spark: Scalable Multiprocessor Research Group at USC
+
+USC SMART Interconnects Group
+
+The RPM Multiprocessor at USC
+
+U. South Florida - VLSI, Computer Architecture and Parallel Processing Group
+
+Stanford Architecture and Arithmetic Group
+
+Stanford - FLASH
+
+Stanford - Hydra
+
+SUNY at Stony Brook Experimental Computer Systems Lab
+
+Advanced Computer Architecture Laboratory
+, University of Southern California/Information Sciences Institute
+S3.mp Scalable Shared Memory Multiprocessor Group at Sun
+
+SUNY Buffalo High Performance Computing Laboratory
+
+Swedish Computer Architecture
+
+Swiss F.I.T. at Zurich - Electronics Laboratory
+
+Texas at San Antonio High Performance Computing Lab
+
+University of Toronto - NUMAchine multiprocessor
+
+University of Utah Avalanche Scalable Multiprocessor Design Project
+
+Technical University of Valencia, Spain: Parallel Architectures Group (GAP)
+
+University of Virginia Computer Architecture
+
+Washington Computer Architecture
+
+Washington - Simultaneous Multithreading Project
+
+Wisconsin - Galileo
+
+Wisconsin - Multiscalar
+
+Wisconsin Wind Tunnel
+
+Wisconsin Computer Architecture
+
+
+
+Calls for Participation
+
+
+1997
+
+
+WCAE-3
+- 3rd Annual Workshop on Computer Architecture Education
+
+1996
+
+
+ASPLOS VII
+- ACM Seventh International Conference on Architectural Support for Programming Languages and Operating Systems
+ASPLOS NOW Cluster workshop
+(also look
+here
+for information)
+FCRC
+Federated computing conference
+FCRC program
+Federated computing conference program
+Hot Interconnects
+
+HPCA-2 (Postscript)
+- High-Performance Computer Architecture
+Workshop on Interaction between Compilers and Computer Architectures
+(in conjunction with HPCA)
+ISCA
+- International Symposium on Computer Architecture
+MASCOTS
+- International Workshop on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems
+MICRO 29
+- International Symposium on Microarchitecture
+PAID '96
+- 1996 Workshop on Performance Analysis and Its Impact on Design
+PDW '96
+- 1996 ACM/SIGDA Physical Design Workshop
+
+Supercomputing '96
+
+
+1995
+
+
+EURO-PAR '95
+
+HPCA
+- International Symposium on High Performance Computer Architecture
+ICPP
+- International Conference on Parallel Processing
+IPPS
+- International Parallel Processing Symposium
+ISCA
+- International Symposium on Computer Architecture
+MICRO
+- International Symposium on Microarchitecture
+PACT '95
+- Parallel Architectures and Compilation Techniques
+PRFTS '95
+- Pacific Rim International Symposium on Fault-Tolerant Systems
+12th IEEE Symposium on
+Computer Arithmetic
+
+SCIzzL 4
+- 4th International Workshop on SCI-based High-Performance Low-Cost Computing
+SIGMETRICS
+- International Conference on Measurement and Modeling of Computer Systems
+
+1994
+
+
+ASPLOS VI
+- International Conference on Architectural Support for Programming Languages and Operating Systems
+MICRO
+- International Symposium on Microarchitecture
+
+Supercomputing '94
+
+
+
+Calls for Papers
+
+1997
+
+
+HPCA
+- International Symposium on High Performance Computer Architecture
+Workshop on Interaction between Compilers and Computer Architectures
+(at HPCA-3)
+
+ICS
+- International Conference on Supercomputing
+IEEE Computer - September 1997 Special Issue
+: Processors of the Future: How to use a Billion Transistors
+IPPS
+- International Parallel Processing Symposium
+ISCA
+- International Symposium on Computer Architecture
+PPoPP
+- ACM Symposium on Principles and Practices of Parallel Programming
+WCAE-3
+- 3rd Annual Workshop on Computer Architecture Education
+
+1996
+
+
+EURO-PAR'96
+
+FRONTIERS'96
+- The 6th Symposium on the Frontiers of Massively Parallel Computation
+Hot Chips 8
+
+HPCA
+- International Symposium on High Performance Computer Architecture
+Workshop on Computer Architecture Education
+(in conjunction with HPCA)
+IEEE Computer - special issue on
+Applications for Shared-Memory Multiprocessors
+
+ICA3PP
+- IEEE Second International Conference on Algorithms and Architectures for Parallel Processing
+ICS
+- International Conference on Supercomputing
+IJCSSE
+- Special issue on ATM Switching - International Journal of Computer Systems Science & Engineering
+ICSE '96
+- Session on Networks and Distributed Systems
+ISCA
+- International Symposium on Computer Architecture
+ISPAN
+- International Symposium on Parallel Architectures, Algorithms, and Networks
+IOPADS '96
+-  Workshop on I/O in Parallel and Distributed Systems
+MICRO
+- International Symposium on Microarchitecture
+PACT '96
+- International Conference on Parallel Architectures and Compilation Techniques
+PAID '96
+- 1996 Workshop on Performance Analysis and Its Impact on Design
+POS96
+- 7th International Workshop on Persistent Object Systems
+SPAA '96
+- Eighth Annual ACM Symposium on Parallel Algorithms and Architectures
+SPDP '96
+- Symposium on Parallel and Distributed Processing
+Special Issue on Special-Purpose Architectures for Real-Time Imaging
+- Journal of Real-Time Imaging
+Supercomputing '96
+
+
+1995
+
+
+HiPC
+- International Conference on High Performance Computing
+ICPP
+- International Conference on Parallel Processing
+IPPS
+- International Parallel Processing Symposium
+ISCA
+- International Symposium on Computer Architecture (also available in
+PostScript
+)
+MICRO
+- International Symposium on Microarchitecture
+SIGMETRICS
+- International Conference on Measurement and Modeling of Computer Systems
+PART'95
+- Second Australasian Conference on Parallel and Real-Time Systems
+SCIzzL 4
+- 4th International Workshop on SCI-based High-Performance Low-Cost Computing
+SPAA
+- Symposium on Parallel Algorithms and Architectures
+
+
+Organizations
+
+
+Advanced Research Projects Agency
+(ARPA), USA
+Association for Computing Machinery
+(ACM)
+ACM
+SIGARCH
+
+IEEE Computer Society
+
+IEEE TCCA
+(Technical Committee on Computer Architecture)
+IEEE TCCOSAE
+(Technical Committee on Operating Systems and Application Environments)
+IEEE TCSA
+(Technical Committee on Supercomputer Applications)
+IEEE Technical Committee application
+
+National Science Foundation
+(NSF), USA
+NSF Advanced Computational Infrastructure Program
+
+
+
+Commercial Information
+
+
+More Technical
+
+
+Alpha AXP Architecture and Systems
+
+Convex Exemplar SPP
+
+Cray Research Products
+
+IBM AS/400
+
+IBM Personal Computers
+
+IBM POWER Parallel
+
+IBM RS/6000
+
+IBM System/390
+
+Intel P6
+
+MIPS Products
+
+PA-RISC Instruction Manual
+
+SGI Power Challenge
+
+UltraSPARC Technical White Papers
+
+
+Less Technical
+
+
+Amdahl
+
+AP Circuits
+
+Apple
+
+Convex
+
+Datatape
+
+DEC
+
+Dolphin
+
+Exponential
+
+HaL
+
+HP
+
+IBM
+
+Intel
+
+Intel Supercomputer Systems Division
+
+Metaflow Technologies
+
+Microunity
+
+mPact
+(Chromatic Research)
+Motorola
+
+NEC
+
+NexGen
+
+PARSYTEC Computer, Germany
+
+Rambus Home Page
+
+Silicon Graphics
+
+Sun
+
+Tandem Computers
+
+Tera
+
+Virtual Computer Corporation
+
+
+
+Computer architecture-related books
+
+
+Macintosh Technology in the
+Common Hardware Reference Platform
+by Apple Computer Inc.
+PowerPC Microprocessor Common
+Hardware Reference Platform
+by Apple Computer Inc., International
+Business Machines Inc., and Motorola Inc.
+The Designer's Guide to
+VHDL
+by Peter J. Ashenden
+Alpha Implementations and Architecture
+by Dileep P. Bhandarkar
+The MIPS Programmer's
+Handbook
+by Erin Farquhar and Philip Bunce
+Computer Architecture: Pipelined and Parallel Processor Design
+by Michael J. Flynn
+The Cache Memory Book
+by Jim Handy
+Computer Architecture: A
+Quantitative Approach, Second Edition
+by John L. Hennessy and David A.
+Patterson
+The PowerPC Architecture: A
+Specification for a New Family of RISC Processors
+by International
+Business Machines Inc.
+RISC System/6000: PowerPC
+System Architecture
+by International Business Machines Inc.
+Computer Arithmetic Algorithms
+by Israel Koren
+Introduction to Parallel
+Algorithms and Architectures: Arrays, Trees, and Hypercubes
+by F.
+Thomson Leighton
+Scalable Shared-Memory
+Multiprocessing
+by Daniel E. Lenoski and Wolf-Dietrich Weber
+Parallel Processing from
+Applications to Systems
+by Dan I. Moldovan
+Computer Organization and
+Design: The Hardware/Software Interface
+by David A. Patterson and John
+L. Hennessy
+Cache and Memory Hierarchy
+Design: A Performance-Directed Approach
+by Steven A. Przybylski
+The DLX Instruction Set
+Architecture Handbook
+by Philip M. Sailer and David R. Kaeli
+The Architecture of Supercomputers: Titan, a case study
+by Daniel Siewiorek and Philip Koopman
+Computer Organization and Architecture, Fourth Edition
+by William Stallings
+POWER and PowerPC:
+Principles, Architecture, Implementation
+by Shlomo Weiss and James E. Smith
+
+
+Architecture-related on-line publication resources
+
+Bibliographies
+
+
+Architecture bibtex bibliographies
+
+ISCA Bibliographies
+
+
+Bibliographies
+
+
+Architecture bibtex bibliographies
+
+IEEE Transactions on Parallel and Distributed Systems
+
+ISCA Bibliographies
+
+
+Conference proceedings
+
+1996
+
+
+ASPLOS VII
+
+
+1995
+
+
+Micro-28
+
+Supercomputing '95
+
+
+1994
+
+
+Micro-27
+
+Supercomputing '94
+
+
+
+Miscellanea
+
+
+
+Augmint tracing-simulation tool
+
+Benchmarks FAQ
+
+BYU Trace Archive
+
+Chip List for IBM PCs and Compatibles
+
+CMU Multicomputer System Software
+
+Computer Pipelining: An overview with historical background
+
+CPU Info Center
+(UC-Berkeley)
+FAQ Roadmap: Embedded Systems Internet
+
+Historical Computers
+(University of Maryland)
+
+Instruction Set Simulation and Tracing Tools
+
+Intel Pentium Pro design manuals
+
+WWW Interconnection Network Homepage
+
+International Trace Archive
+(NMSU TraceBase)
+Minimal Instruction Set Computing
+
+Numerically Ordered Chip Directory
+
+Oral
+Presentation Advice, including David Patterson's
+How to Give a Bad Talk
+
+SEL-HPC Article Archive
+
+SimpleScalar processor simulation tool suite
+
+SPEC
+
+SPEC benchmark information
+
+Supercomputing Web server
+VLSI Information
+(University of Idaho)
+Wisconsin Architectural Research Tool Set
+(WARTS)
+
+News
+
+
+comp.arch
+
+comp.dsp
+
+comp.parallel
+
+comp.compilers
+
+comp.doc.techreports
+
+comp.sys.intel
+
+
+
+Contributing
+to this Page
+Send mail to
+www-arch@cs.wisc.edu
+.  Include the category
+under which you would like the item placed, the text of the link name, and
+the link pointer.  E.g.:
+
+Architecture Groups and Projects
+http://www.cs.wisc.edu/~arch/uwarch/
+University of Wisconsin-Madison Computer Architecture
+
+
+
+This page was created (and is maintained) by
+Doug Burger
+and
+Mark Hill
+,
+University of Wisconsin-Madison
+Computer Sciences Department
+.
+Last modified by
+dburger@cs.wisc.edu
+Mon Jan 8 14:04:00 CDT 1996
+
+
+
+
+
+

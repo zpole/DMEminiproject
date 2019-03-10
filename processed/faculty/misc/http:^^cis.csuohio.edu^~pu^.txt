@@ -1,0 +1,122 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 25-Nov-96 20:12:11 GMT
+Content-Type: text/html
+Content-Length: 3572
+Last-Modified: Thursday, 21-Nov-96 21:16:28 GMT
+
+
+Howard Pu's Home Page
+
+<!--
+function banner(msg,ctrlwidth) {
+// bring msg width to form control width.
+msg = " *** "+msg
+newmsg = msg
+while (newmsg.length < ctrlwidth) {
+newmsg += msg
+}
+// Set up the form and form field.
+document.write ('<!WA0><FORM NAME="Banner">')
+document.write ('<CENTER><INPUT NAME="banner" VALUE= "'+newmsg+'" SIZE= '+ctrlwidth+'></CENTER>')
+document.write ('</FORM>')
+var bannerid = null
+rollmsg()       //get the banner rolling
+}
+function rollmsg() {
+NowMsg=document.Banner.banner.value
+NowMsg=NowMsg.substring(1,NowMsg.length)+NowMsg.substring(0,1)
+document.Banner.banner.value = NowMsg
+bannerid=setTimeout("rollmsg()",250)
+}
+var bannerid = 0
+// done hiding -->
+
+
+
+
+
+
+Welcome to Howard Pu's Home Page
+
+banner("For God so loved the world, that he gave his only begotten Son, that whosoever believes in him should not perish, but have ever lasting life. (John 3:16)",70)
+
+
+
+
+
+
+1974 BE Computer Science,
+University of Tamkang, Taiwan
+
+1976 MBA Management Information Systems, University of Tamkang
+1988 Ph.D. Information Systems,
+University of Pittsburgh
+
+1988 Assistant Professor,
+Computer Information Science
+,
+CSU
+
+1995 Associate Professor, Computer Information Science, CSU
+
+
+
+
+
+
+CIS 306, Fall 1996
+
+
+
+
+What's Out There
+
+
+
+Using Sybase SQL Server on Grail
+
+
+
+
+
+Advanced HTML/Images/JavaScript Learning
+
+
+
+
+Dr. Howard Pu's Office: UC 483 Phone: (216)687-3685 Fax: (216)687-5448
+
+
+pu@cis.csuohio.edu
+
+
+Please type any questions, comments, or suggestions
+on how I can improve this site to better serve my readers, in the box below.
+Don't forget to include your return e-mail address if you're posting a
+question.
+
+
+
+Comment,
+Question, Suggestion
+:
+
+
+My e-mail address is
+
+
+
+
+
+
+<!--
+RightNow = new Date()
+document.write("<Center><H4>You visited this page at ",RightNow,
+"<BR>")
+document.write("This page was last modified at ",
+document.lastModified,"<BR></H4></Center> ")
+//-->
+
+
+

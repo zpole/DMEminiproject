@@ -1,0 +1,135 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:00:47 GMT
+Content-Type: text/html
+Content-Length: 2961
+Last-Modified: Thursday, 30-May-96 20:42:18 GMT
+Eve's Page
+
+Eve M. Schooler
+
+
+
+
+Status:
+survived my second year at Caltech (advanced to
+candidacy!)
+E-mail:
+schooler@cs.caltech.edu
+S-mail:
+Caltech 256-80, Pasadena, CA 91125
+Office:
+
+Booth
+10
+Phone:
+
+
+Office: (818) 395-6498
+Fax: (818) 792-4257
+
+Advisor:
+
+Mani Chandy
+
+
+
+
+Research Interests
+
+
+Distributed control for multiparty multimedia sessions
+Multicast user directory architectures
+Web-based session rendezvous
+Communication issues in wide-area telecollaboration, e.g.,
+the
+Multicast Backbone
+(MBone)
+Synchronization issues for continuous media
+
+Publications and Presentations
+
+
+Journals
+
+Conferences and Workshops
+
+Technical reports
+
+Early Drafts
+
+
+Background
+
+
+
+Education
+: famous last words,
+"I'm never going back to school"
+Work experience
+: in
+networking, distributed systems and multimedia
+
+Other Activities
+
+
+Music
+: How to avoid work
+Implementation of a session orchestration tool,
+MMCC
+, for
+explicit-invitation MBone teleconferences.
+Co-Chair of the Internet Engineering Task Force (IETF) working
+group on Multiparty Multimedia Session Control
+(
+MMusic
+).
+Consultant to
+Information Sciences Institute
+(
+ISI
+),
+a research institute affiliated with the University of Southern California
+(
+USC
+).
+Reading Groups:
+
+Readings on
+Issues in Networking
+
+Scalable I/O
+Discussion Series
+
+When not overwhelmed by graduate school servitude, I enjoy hanging
+out with my husband
+Bob Felderman
+:-)
+
+Humor
+
+
+
+
+The Dilbert Zone
+
+
+Collected quotes
+
+
+
+
+To return to the
+Caltech
+home, or
+CS
+home.
+
+
+schooler@cs.caltech.edu (Last updated Fri Sept 29 1995)
+
+
+
+
+California Institute of Technology, Pasadena, CA 91125.
+

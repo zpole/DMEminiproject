@@ -1,0 +1,137 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:44:51 GMT
+Content-Type: text/html
+Content-Length: 3790
+Last-Modified: Tuesday, 12-Nov-96 16:16:50 GMT
+Raymond J. Mooney's Homepage
+
+Raymond J. Mooney
+
+
+Associate Professor of
+Computer
+Sciences
+,
+The University of Texas at Austin
+.
+
+
+B.S. in
+Computer Engineering
+,
+University of Illinois at Urbana/Champaign
+, 1983
+M.S. in
+Computer Science
+,
+University of Illinois at Urbana/Champaign
+, 1985
+Ph.D. in
+Computer Science
+,
+University of Illinois at Urbana/Champaign
+,
+1988
+
+Research Interests
+My current research interests in artificial intelligence are primarily
+in the area of machine learning.  They include:
+
+Natural Language Acquisition: Learning parsers, lexicons,
+information extraction, and word sense disambiguation from examples.
+Inductive Logic Programming: Learning Prolog programs from examples.
+Knowledge-Base and Theory Refinement: Automatically modifying rule bases and Bayesian networks
+to fit empirical data.
+Search-Control Acquisition: Learning to improve planning efficiency and quality.
+Comparing and combining neural-network and symbolic learning.
+
+For more information and publications, see the
+machine learning home page
+.
+
+Here's my
+vita
+and my
+finger information
+.
+
+Course Information
+
+Fall 1996
+
+
+
+CS 351: LISP and Symbolic Programming
+
+
+CS 395T: Machine Learning
+
+
+Spring 1997
+
+
+
+CS 395T: Artificial Intelligence II
+
+
+Personal History
+I grew up in the 60's and 70's in the small town of
+O'Fallon Illinois
+where
+starting in 1975 I attended
+O'Fallon
+Township Highschool
+. Starting in the fall of 1979, I went to the
+University of Illinois
+in
+Champaign-Urbana
+to obtain all of the degrees listed above. In December 1987, I completed my
+Ph.D. thesis in the
+Explanation-Based Learning
+Group
+under the direction of
+Prof.
+Gerald Dejong
+and then began my position here in
+The Department of Computer Sciences
+at the
+The University of Texas at Austin
+.
+Contact Information
+
+
+Office:
+4.130B Taylor Hall, (512) 471-9558
+
+Email address:
+mooney@cs.utexas.edu
+Fax:
+(512) 471-8885
+Postal address:
+
+Department of Computer Sciences
+
+
+The University of Texas at Austin
+
+
+Austin
+,
+Texas
+78712-1188
+
+U.S.A.
+
+Home address:
+11919 Meadowfire Dr.
+
+
+Austin
+,
+Texas
+78758
+
+U.S.A.
+
+

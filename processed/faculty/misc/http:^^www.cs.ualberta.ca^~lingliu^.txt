@@ -1,0 +1,176 @@
+Date: Mon, 25 Nov 1996 22:55:41 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 5847
+Last-modified: Sun, 10 Nov 1996 22:25:16 GMT
+
+
+Ling Liu Home Page
+
+
+
+
+
+
+
+
+Ling Liu
+
+
+
+
+
+
+Assistant Professor
+Department of Computing Science
+Phone: (403) 492-9643
+University of Alberta
+
+lingliu@cs.ualberta.ca
+
+
+
+
+Hi!  I'm on the faculty of the
+Department of Computer Science
+at
+the
+University of Alberta
+. I'm a member of
+ACM
+and
+IEEE Computer Society
+
+Contents
+
+
+
+
+Areas of Research
+
+
+
+Projects
+
+
+
+Teaching
+
+
+
+Student Supervisions
+
+
+
+Publications
+
+
+
+Professional
+Services
+
+
+
+
+Distinguished
+Lecture Series
+
+
+
+Colloquia and Seminars
+
+
+
+Programme Committees
+
+
+
+
+Interesting Web Links
+
+
+
+
+
+
+
+Projects
+
+
+
+Diorama/DIOM
+(NSERC OGP0172859)
+
+DISIMA
+(NSERC STR0181014)
+
+Data
+Mining
+
+
+EVOLVE
+(CRF 81-53264)
+
+TAM: Transactional workflow Activity Management
+
+
+
+
+
+
+Research Groups
+
+
+
+
+Database
+Systems
+
+
+
+
+
+
+
+Courses
+
+
+
+CMPUT201
+Practical Programming Methodology
+(96/97 Term 1)
+
+
+CMPUT391 Database Management Systems
+(95/96 Term 2)
+
+
+CMPUT510
+Object-oriented Database Systems, Applications,
+and Beyond
+(96/97 Term 1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last updated November 21, 1995
+.
+Ling Liu <
+lingliu
+@cs.ualberta.ca
+>
+
+
+
+

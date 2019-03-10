@@ -1,0 +1,101 @@
+Date: Mon, 04 Nov 1996 23:43:57 GMT
+Server: NCSA/1.5.2
+Content-type: text/html
+WyrmWeather
+
+
+
+
+Visitors: 4930 since 10/04/96
+Latest Surface map
+
+Latest Composite IR map
+
+
+Long-range Forecasts
+and
+Other Weather Info
+.
+
+Current US Weather Conditions
+
+Choose a Topic (and a State for Topics 1 & 2)
+
+
+
+Topics:
+
+
+1 - Report State Weather
+2 - Get City Station Codes for State
+3 - ALL US City Station codes
+4 - List Canadian Station Codes
+5 - Earthquake Report
+A - Current Tornado & T-Storm Watches
+B - Current Tornado & T-Storm Warnings
+C - Flood Warnings (6 hours)
+D - Storm Reports (24 hours)
+E - Severe Weather Statements (6 hours)
+F - Winter Weather Statements (6 hours)
+G - Special Weather Statements (6 hours)
+H - 24 hr Log of Tornados & T-Storms
+I - Monthly Tornado Stats
+
+State:
+
+
+WI - Wisconsin
+AL - Alabama
+AK - Alaska
+AZ - Arizona
+AR - Arkansas
+CA - California
+CO - Colorado
+CT - Connecticut
+DE - Delaware
+FL - Florida
+GA - Georgia
+HI - Hawaii
+NJ - Hew Jersey
+ID - Idaho
+IL - Illinois
+IN - Indiana
+IA - Iowa
+KS - Kansas
+KY - Kentucky
+LA - Louisiana
+ME - Maine
+MD - Maryland
+MA - Massachusetts
+MI - Michigan
+MN - Minnesota
+MS - Mississippi
+MO - Missouri
+MT - Montana
+NE - Nebraska
+NV - Nevada
+NH - New Hampshire
+NM - New Mexico
+NY - New York
+NC - North Carolina
+ND - North Dakota
+OH - Ohio
+OK - Oklahoma
+OR - Oregon
+PA - Pennsylvania
+PR - Puerto Rico
+RI - Rhode Island
+SC - South Carolina
+SD - South Dakota
+TN - Tennessee
+TX - Texas
+UT - Utah
+VT - Vermont
+VA - Virginia
+WA - Washington
+DC - Washington, DC
+WV - West Virginia
+WY - Wyoming
+
+
+

@@ -1,0 +1,132 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:12:48 GMT
+Content-Type: text/html
+Content-Length: 4897
+Last-Modified: Friday, 17-May-96 03:19:37 GMT
+
+
+
+Self-Organization of Orientation Maps, Lateral Connections, and
+Dynamic Receptive Fields in the Primary Visual Cortex
+
+
+
+
+
+
+
+
+
+
+
+
+Next:
+
+Introduction
+
+Up:
+
+Lateral Interactions in the Cortex: Structure and Function
+
+
+
+
+Self-Organization of Orientation Maps, Lateral Connections, and
+Dynamic Receptive Fields in the Primary Visual Cortex
+
+
+Joseph
+Sirosh
+
+,
+Risto Miikkulainen
+,
+and
+James A. Bednar
+
+Department of Computer Sciences
+
+The University of Texas at Austin
+Austin, TX 78712
+
+
+sirosh
+,
+risto
+,
+jbednar@cs.utexas.edu
+
+
+
+
+
+Abstract
+
+Through massively parallel computational simulations, we studied how
+a large network of simple neural elements (the RF-LISSOM model) could
+develop a functional organization similar to that of the primary visual
+cortex.  It was found that starting from a 'tabula rasa' state, the
+afferent and lateral connections in the network self-organized
+cooperatively and simultaneously through a common Hebbian mechanism, and
+produced receptive fields (RFs), orientation maps, and patterns of
+lateral connections that follow the receptive field organization. Second,
+we hypothesized that similar self-organizing mechanisms continue
+operating in the adult cortex, maintaining it in a continuously-adapting
+dynamic equilibrium with the input, and tested this hypothesis on the
+self-organized model.  When the equilibrium was perturbed by a retinal
+scotoma, RFs expanded in size in a reversible fashion, matching recent
+neurobiological observations in the cat and psychophysical experiments
+in the human.  Third, a possible functional role for the lateral
+connections in the cortex was verified in the model. The lateral
+connections learned correlations in the network activity, and in
+processing retinal input, filtered out redundancies and established a
+sparse coding of the input. The conclusion is that the lateral
+connections in the cortex could act as as a negative filter that allows
+the cortex to efficiently process the massive amounts of visual
+information presented by the environment.
+
+
+
+Introduction
+
+
+The Receptive Field LISSOM (RF-LISSOM) model
+
+
+Self-Organization
+
+
+Dynamic Receptive Fields
+
+
+Functional Role of the Self-Organized Structures
+
+
+Conclusion
+
+
+Acknowledgements
+
+
+References
+
+
+
+
+
+
+Next:
+
+Introduction
+
+Up:
+
+Lateral Interactions in the Cortex: Structure and Function
+
+
+
+
+About this document ...
+
+

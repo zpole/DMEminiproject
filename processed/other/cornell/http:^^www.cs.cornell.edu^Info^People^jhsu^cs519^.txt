@@ -1,0 +1,59 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 20:03:53 GMT
+Content-Type: text/html
+Content-Length: 2019
+Last-Modified: Thursday, 19-Sep-96 03:54:57 GMT
+
+
+Course project
+
+
+
+Course project information
+
+
+
+Security Reference Library
+
+Has whitepapers on authetication (S/Key).  Also has a FAQ on security issues.
+Livingston RADIUS
+
+Whitepaper on RADIUS (Remote Authentication Dial-In User Service
+Security Dynamics White Papers
+
+Has papers on network security, internet security and kerberos.
+Five Paces
+
+Looks like a white paper with some stuff on electronic commerce.
+
+Computers, Information Technology, and the Law
+
+Links to laws (1) and articles (many) concerning legal issues.
+
+Financial transactions would have the following needs:
+
+Security on an unsecure network.
+Gut reaction would be that for any sort of financial transactions, data
+encryption and user authetication are the first and foremost concerns.
+On user authentication, adequate encryption would presumably allow for less
+robust authetication.  Otherwise, an S/Key or SNK (like they use for CS
+firewall) are definitely necessary due to the lack of security in the data
+transmission.
+
+Fault-tolerant systems
+Transactions can not be halted because one server is down.
+We need to make sure that transaction reports to the banks or whatever
+central database we are using filter out duplicates and all the standard
+mutual exclusion things so that transactions aren't missed.
+
+Guaranteed response time
+Or something resembling a guaranteed response time on an IP network.
+Having to wait 2-3 minutes for a transaction or having your packets
+dropped and timedout won't cut it for electronic commerce.
+
+
+Back to top
+
+
+

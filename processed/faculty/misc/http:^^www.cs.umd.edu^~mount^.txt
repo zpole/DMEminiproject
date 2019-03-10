@@ -1,0 +1,66 @@
+Date: Thu, 21 Nov 1996 20:28:49 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 1413
+Last-modified: Wed, 30 Oct 1996 13:19:18 GMT
+
+David Mount
+
+
+
+
+David Mount
+Associate professor at the
+University of Maryland
+, in the
+Department of Computer Science
+and the
+Institute for Advanced Computer
+Studies
+(UMIACS).
+
+Email:
+
+mount@cs.umd.edu
+
+
+Academic Degree:
+Ph.D. (1983) in Computer Science from
+Purdue University
+.
+
+Research Interests:
+Computational geometry, algorithm and data structure design for
+geometric problems.
+Teaching:
+
+
+
+Fall 1996:
+I'm be teaching
+CMSC 451
+,
+the Design and Analysis of Computer Algorithms.
+
+Spring 1997:
+I'll be teaching CMSC 427/828M, Computer Graphics.
+Check out the
+Neat Images
+from last year's class.
+
+Lecture Notes
+from some of my recent courses.
+
+
+Recent Publications
+
+
+Address:
+
+David Mount
+Department of Computer Science
+University of Maryland
+College Park, MD 20742
+(301) 405-2704
+
+

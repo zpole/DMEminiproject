@@ -1,0 +1,241 @@
+Date: Tuesday, 26-Nov-96 19:07:31 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+CS-650 Home Page
+
+
+CS-650
+
+Fall 1996
+
+
+
+
+General Information
+Your should become familiar with the
+general information
+about the conduct of this course.
+Here are the folks currently
+enrolled
+in the course.
+When I get mail from students with questions about any problems I will
+try to remember to post it so that all can get the benefit of any answers that I give.
+I'll post mail under the problem list below.
+
+
+I have placed generally
+useful stuff
+together - take a look at
+it from time to time.  It contains non-course related stuff of
+possible interest to CS students.
+Last Updated 11/25/96.
+
+
+Group Project
+Teams
+
+
+
+
+Problems for your Consideration
+
+
+
+
+Late Policy
+
+
+
+
+Problem # 1
+
+A Resume.
+
+[0.5 points, Required, Due: 9/3/96]
+
+
+
+Problem # 2
+- Formatting in Process
+Programming Style.
+
+[1.0 points, Required, Due: 9/10/96]
+
+
+
+Problem # 3
+
+A Talk.
+
+[1.5 points, Required, Due: 12/17/96]
+Talks
+
+Schedules
+
+
+
+
+Problem # 4
+
+Interval Arithmetic.
+
+[1.5 points, Required, Due: 10/8/96]
+Mail
+
+
+
+
+Problem # 5
+
+The Game of Life.
+
+[1.0 points, Optional, Due: 10/17/96]
+Mail
+
+An Interesting Link
+
+
+
+
+Problem # 6
+
+Sprouts and Brussel Sprouts.
+
+[0.5 - 2.0 points, Optional, Due: 10/24/96]
+Mail
+
+
+
+
+Problem # 7
+
+Compression / Decompression.
+
+[1.5 points, Optional, Due: 11/7/96]
+Mail
+
+
+
+
+Problem # 8
+
+Group Projects.
+
+[2.0 points, Required, Due: 12/10/96]
+Teams
+
+Mail
+
+
+
+
+Problem # 9
+
+Microprogrammable Constants.
+
+[1.0 points, Optional, Due: 10/31/96]
+Mail
+
+
+
+
+Problem # 10
+
+Weigh a Tree.
+
+[1.5 points, Optional, Due: 11/12/96]
+
+
+
+Problem # 11
+
+Area of a Region.
+
+[up to 2.0 points, Optional, Due: 11/12/96]
+
+
+
+Problem # 12
+
+Garwick's Algorithm.
+
+[1.0 points, Optional, Due: 11/28/96]
+
+
+
+Problem # 13
+
+ps to html filter.
+
+[1.5 points, Optional, Due: 11/19/96]
+Mail
+
+
+
+
+Problem # 14
+
+Advising Assistant.
+
+TO BE POSTED
+
+[2.0 points, Optional, Due: 12/12/96]
+
+
+
+Problem # 15
+
+Sorting Out Sorting, revisited.
+
+[2.0 points, Optional, Due: 11/26/96]
+Mail
+
+
+
+
+Problem # 16
+
+Thematic Maps
+
+[1.5 points, Optional, Due: 12/10/96]
+
+
+
+Problem # 17
+
+These Primes aren't Leo's the're Gemini
+
+[1.0 points, Optional, Due: 12/12/96]
+
+
+
+Problem # 18
+
+Read a Number
+
+[1.0 points, Optional, Due: 12/10/96]
+
+
+
+Problem # 19
+
+Multimedia via Browsers
+
+[1.5 points, Optional, Due: 12/17/96]
+
+
+
+Problem # 20
+
+Improved Interval Classes
+
+[1.0 points, Optional, Due: 12/17/96]
+
+
+
+Revised:  October 17, 1996
+All contents copyright © 1996 UK CS.  All rights reserved
+
+URL:  http://www.cs.engr.uky.edu/~tony/cs650/
+

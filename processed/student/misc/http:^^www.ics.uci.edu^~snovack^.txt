@@ -1,0 +1,257 @@
+Date: Thu, 21 Nov 1996 22:51:38 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+
+
+Steve Novack
+
+
+
+Information last modified November 7, 1995
+
+In memory of Israeli Prime Minister
+Yitzhak Rabin (1922-1995)
+,
+who had the courage
+to take a chance for peace
+.
+
+Steve Novack
+
+
+About this picture
+
+
+Area:
+Parallelizing Compiler Research:  The PS Project
+
+Advisor: Alex Nicolau
+Electronic Mail:
+snovack@csrd.uiuc.edu
+
+
+Curriculum vitae
+
+
+Contact Info:
+I am finishing my PhD
+in absentia
+at the University of Illinois,
+Urbana-Champaign.  My address there is:
+
+
+
+Center for Supercomputing Research and Development
+University of Illinois, Urbana-Champaign
+Room 410 CSRL, 1308 W. Main St., Urbana IL 61801
+office:  (217) 244-0070
+
+Research Project:
+As part of my thesis work I designed and developed
+EVE,
+a retargetable,
+parallelizing compiler for fine-grain parallel architectures
+.
+My general research interests include parallel algorithms and
+architectures, parallelizing compilers, and hardware/software
+codesign.
+
+Publications:
+
+Refereed Journal Articles and Book Chapters
+
+
+
+
+VISTA:  The Visual Interface for Scheduling Transformations and Analysis.
+
+(full text in postscript)
+
+Languages and Compilers for Parallel Computing
+.
+Lecture Notes in Computer Science No. 768,
+Springer-Verlag,
+pp. 449--460,
+1993,
+by S. Novack and A. Nicolau
+
+
+Mutation Scheduling:  A Unified Approach to Compiling for Fine-grain Parallelism
+
+(full text in postscript)
+
+Languages and Compilers for Parallel Computing
+.
+Lecture Notes in Computer Science No. 892,
+Springer-Verlag,
+pp. 16--30,
+1994,
+by S. Novack and A. Nicolau
+
+
+A Unified Code Generation Approach Using Mutation Scheduling
+
+Code Generation for Embedded Processors
+,
+Kluwer Academic Publishers,
+pp. 203--218,
+1995,
+by S. Novack, A. Nicolau, and
+N. Dutt
+
+
+
+A Simple Mechanism for Improving the Accuracy and Efficiency of Instruction-level
+Disambiguation
+
+(full text in postscript)
+
+Languages and Compilers for Parallel Computing
+.
+Lecture Notes in Computer Science No. 1033,
+Springer,
+pp. 289--303,
+1995,
+by S. Novack,
+J. Hummel
+,
+and A. Nicolau
+
+
+Resource-
+Directed
+Loop Pipelining
+
+(full text in postscript)
+To Appear in
+Languages and Compilers for Parallel Computing
+.
+Lecture Notes in Computer Science,
+Springer, 1996,
+by S. Novack and A. Nicolau
+
+
+A Hierarchical Approach to Instruction Level Parallelization
+
+(full text in postscript)
+
+International Journal of Parallel Programming
+,
+23(1),
+pp. 35--62.
+February 1995,
+by S. Novack and A. Nicolau
+
+
+Resource-constrained Software Pipelining
+
+IEEE Transactions on Parallel and Distributed Systems
+,
+6(12),
+pp. 1248--1270,
+December 1995,
+by
+A. Aiken
+, A. Nicolau, and S. Novack
+
+Refereed Conference Papers
+
+
+
+
+"An efficient global resource-constrained technique for exploiting instruction-level parallelism",
+
+(full text in postscript)
+
+In the proceedings of the International Conference on Parallel Processing
+,
+Volume II, pp. 297--301,
+St. Charles, Ill., Aug. 1992, by S. Novack and A. Nicolau
+
+
+"Interactive compilation in a percolation scheduling environment",
+
+In the proceedings of the Joint Symposium on Parallel Processing
+,
+pp. 411--418,
+Tokyo, Japan,  May 1993, by A. Nicolau and S. Novack
+
+
+"Trailblazing:  A hierarchical approach to percolation scheduling",
+
+(full text in postscript)
+
+In the proceedings of the International Conference on Parallel Processing
+,
+Volume II, pp. 120--124,
+St. Charles, Ill., Aug. 1993, by A. Nicolau and S. Novack
+
+
+"An Efficient Global Resource-Directed Approach to Exploiting Instruction-level Parallelism
+
+In the proceedings of the 1996 Conference on Parallel Architectures and Compilation
+Techniques (PACT '96)
+,
+pp. 87--96,
+Oct. 1996,
+by S. Novack and A. Nicolau
+
+Leisure Activities:
+Despite what my advisor may tell you, ;-) I don't actually have much free time,
+but I have been known to
+
+
+Dance Israeli folk dances (Favorite dance:  Shorashim)
+I don't go regularly any longer, but if you are interested
+in giving it a try, let me know.  I still enjoy going from
+time to time.
+
+Jump out of airplanes:  I've only done this twice, but I am
+totally hooked.  As soon as I scrape up the time and money
+I'm going again.  Anyone interested in joining me?  [I can
+get you $10 off... ;-)]
+
+Hurtle down mountainsides:  Skiing is a recent
+hobby for me.  Once I discovered the homomorphism that mapped my
+childhood sport of ice hockey to skiing, I was off (just imagine
+playing ice hockey with really long skates on an inclined surface ---
+everything else is the same, especially if you get in my way ;-> ).
+
+Ride a bike:  My wife and I are working up to our first "century"
+(100 mile) trip, from Newport Beach to San Diego.
+
+Read:  My favorite authors are Toni Morrison
+(especially her books "Song of Soloman" and "Beloved")
+and Don DeLillo (especially "The Names" and "Ratner's Star").
+
+Dabble in foreign languages:  Right now, I just
+try to re-acquire whatever limited foreign language abilities I ever had.
+Languages that I forget more and more of on a daily basis are
+Hebrew (I can still speak, read, and write, but not very well),
+Spanish (can't speak or write, but for some strange reason I can
+understand a lot), and Japanese (I just nod knowingly).
+
+
+Web links:
+
+
+
+Some other researchers in programming languages and compilers
+
+
+Computing Research Association
+
+
+Glimpse: a bibliographic search engine with over 300,000 entries
+
+
+
+
+
+Department of Information and Computer Science
+,
+University of California, Irvine
+CA 92717-3425
+
+
+

@@ -1,0 +1,308 @@
+Date: Tue, 26 Nov 1996 16:22:19 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 13 Nov 1996 21:45:06 GMT
+Content-length: 8507
+
+
+
+
+
+Rob's Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Me:
+
+
+Hello, I am
+Robert William Bryce
+, and I am a Ph.D. student in the Computer Science Department, at the
+University of Victoria
+.  My supervisor is
+Dr. G. C. Shoja
+.  I completed my B.Sc. at
+Brandon University, Manitoba
+, and my M.Sc. here at UVic.  I am also a member of the local
+PANDA
+research group.
+For more info about the UVic Computer Science department:
+
+For information on other grad students at UVic, click
+here
+.
+
+
+
+
+
+
+
+
+
+
+
+Research:
+
+
+My research area is presently in operating systems.
+For my M.Sc., I improved overall performance and added real-time support to an object-oriented distributed operating system called Apertos.  For more information on Apertos, visit
+Sony Computer Science Laboratory Inc.
+or
+here
+.
+For my Ph.D. topic, I will taking what was learned during my M.Sc. degree to design and document a new operating system which will have dynamically structured metaspaces; where the composition of any metaspace can be changed at any time.
+More to come...
+
+
+
+
+
+
+
+
+
+
+
+
+Hobbies and
+Interests:
+
+
+
+
+
+Offroading
+
+Camping: I enjoy backpacking and camping.  I am a member of the local outdoors club.  A lot of this has expanded into the offroading hobby.
+Steam Engines.  I run a 1916 Case 22-65 steam traction engine at the Manitoba Threshermen's Reunion.
+Music.  I play the fiddle, piano, french horn, and trumpet, though I have only played the fiddle for the past number of years.
+
+
+
+
+
+
+
+
+
+
+
+Friends:
+
+
+
+
+
+
+Neil Enns
+
+
+Michael Horie
+
+
+Siegfried Luft
+
+
+Roger Moar
+
+
+Kenichi Murata
+
+
+Wayne Robbins
+
+
+Larry Soo
+
+
+Chris Sutton
+
+
+Dave Voorhis
+
+
+Tobias Weingartner
+
+
+Michael Zastre
+
+
+
+
+
+
+
+
+
+
+
+
+Some
+interesting
+sites:
+
+
+
+
+
+
+
+
+
+
+
+What should be the
+official web page
+
+
+
+
+Fortean Times
+
+
+Navstar GPS Internet Connections
+
+
+
+
+
+
+
+
+
+
+
+
+Some useful
+sites for
+(re)searching:
+
+
+
+
+
+Infoseek
+
+
+OO Bibliography Keyword Queries
+
+
+Operating Systems Project Information
+
+
+Operating Systems Reading Group
+
+
+Networked Computer Science Technical Reports Library
+
+
+Cool new operating systems
+
+
+The Unified Computer Science Technical Report Index
+
+
+Computer Science Technical Reports Archive Sites List
+
+
+Local specs on the HTML 3.2 language
+
+
+
+
+
+
+
+
+
+
+
+
+
+Addresses:
+
+
+
+
+
+Home:
+
+Office:
+
+
+Robert W. Bryce
+4189 Buckingham Pl.
+Victoria, B.C., Canada
+V8N-5J4
+
+Robert W. Bryce
+University of Victoria
+Department of Computer Science
+PO Box 3055
+Victoria, B.C., Canada
+V8W-3P6
+
+
+Phone: (604)472-1808
+Fax: (604)721-5475
+
+Phone: (604)721-8766
+Email: brycerw@csr.csc.uvic.ca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Since April 1, 1996, you are currently visitor number:
+
+Please let me know what you think of these web pages.  To email me, press
+anywhere you see this button.
+
+
+
+
+
+
+
+This site is
+always
+under construction!
+
+
+
+Webology CSC586 page
+
+
+
+
+Robert Bryce (brycerw@csr.csc.uvic.ca)
+
+
+

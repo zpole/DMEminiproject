@@ -1,0 +1,63 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 18:58:25 GMT
+Content-Type: text/html
+Content-Length: 1625
+Last-Modified: Thursday, 24-Oct-96 17:36:53 GMT
+Joe Halpern's Home Page
+
+JOSEPH Y. HALPERN
+
+
+
+
+
+Professor
+
+Cornell University
+Computer Science Department
+4144 Upson Hall
+Ithaca, NY 14853
+Tel: (607) 255-9562; Fax: (607) 255-4428
+halpern@cs.cornell.edu
+
+My research focuses on reasoning about knowledge and uncertainty,
+and its applications to distributed computing, AI, and game theory,
+although I've also done work (and continue to be interested in) such
+topics as fault tolerance in distributed computing
+programming language semantics.
+My work lies at the boundary of a number of fields.
+I recently gave a talk in the economics department at Princeton where
+I described myself as someone with a Ph.D. in mathematics, who calls
+himself a computer scientist, and is giving a talk to economists about
+a subject mainly studied by philosophers.
+That's probably the best one-sentence description I can give.
+
+If you'd like more details,
+check my
+
+list of
+publications
+.
+It has pointers to abstracts of all my papers; in many cases, the paper itself is also available.  Other details of my activities are in my
+
+
+resume
+.
+
+In Fall, 1996, I'm teaching a course on
+
+
+Reasoning About Knowledge
+(COM S 676).
+In the fall of 1997, I'll teach a sequel on
+
+
+Reasoning About Uncertainty
+(COM S 677).
+
+
+
+Last updated, September 26, 1996 - Joe Halpern
+
+

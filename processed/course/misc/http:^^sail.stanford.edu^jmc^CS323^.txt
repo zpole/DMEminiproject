@@ -1,0 +1,86 @@
+Date: Wednesday, 20-Nov-96 22:53:36 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Wednesday, 24-Jan-96 07:10:12 GMT
+Content-length: 2871
+CS 323: Applications of Nonmonotonic Reasoning
+
+
+
+
+
+
+
+CS 323: Applications of Nonmonotonic Reasoning
+
+ERL 126, 1:15-2:30 Tuesday and Thursday.
+Professor:
+John
+McCarthy
+723-4430  (jmc@cs.stanford.edu).  Office 208 Gates.
+Phone for an appointment.
+TA:
+Eyal Amir
+725-1433
+(eyal@steam.stanford.edu).   Office hours: to be arranged with class.
+Secretary:
+Terry Rodriguez
+(tlr@cs.stanford.edu).  Office: 203 Gates.
+Phone: 723-6321.
+The course focuses on the following topics:
+systems of nonmonotonic
+reasoning emphasizing circumscription,  applications to formalizing
+common sense knowledge and reasoning,  situation calculus and its
+variants,  formalizing context, and  formalizing facts about knowledge.
+We will assign 4
+homeworks
+throughout
+the quarter and possibly a short paper
+at the end.  There will be no final or any other tests.  All the assignments,
+updates, and other relevant information will be added to this page.
+There is also an attached page on the
+students
+taking the course.
+Readings: we require the book by John McCarthy,
+Formalizing
+Common Sense
+, Ablex 1990, which is available at the bookstore.
+We have prepared a
+course
+reader
+which contains other relevant papers in electronic
+form.  Sections of
+lecture notes
+from the previous years might also be of interest;
+these too are available in electronic form.
+McCarthy's home page
+contains a number of papers on
+logical AI, both published and unpublished.
+The papers from the 1996 January symposium on Logical
+Formalizations of Commonsense Reasoning relate to the subject matter
+of this course.  They are accessible from the
+Formal Reasoning Group
+home page.
+
+
+
+The
+Formal Reasoning Group
+home page
+.
+
+
+The
+Computer Science Department
+home page
+
+
+
+The
+Stanford University
+home page
+
+
+webmaster@www-formal.stanford.edu
+

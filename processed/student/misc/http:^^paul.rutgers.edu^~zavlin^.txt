@@ -1,0 +1,49 @@
+Date: Tue, 26 Nov 1996 03:47:49 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 937
+Last-modified: Tue, 15 Oct 1996 17:14:43 GMT
+
+
+Boris Zavlin
+
+
+
+Boris Zavlin
+
+
+Abstracts of recitations:
+
+
+Week of 9/14
+
+Week of 9/21
+
+Week of 9/28
+
+
+
+Please, check your current grades for CS112:
+
+
+Section 1
+
+
+Section 2
+
+
+TD
+from last semester
+
+
+
+
+This is how many of your peers have looked at this page:
+
+
+If you have found a discrepancy, please contact me at
+zavlin@remus.rutgers.edu
+
+
+
+

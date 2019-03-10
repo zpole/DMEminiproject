@@ -1,0 +1,67 @@
+Server: Netscape-Commerce/1.1
+Date: Tuesday, 26-Nov-96 17:58:50 GMT
+Last-modified: Monday, 04-Nov-96 14:39:20 GMT
+Content-length: 1941
+Content-type: text/html
+
+
+Tamara's Home Page
+
+
+
+
+
+Tamara Balac
+
+
+
+Personal Information
+
+I am a graduate student in the department of
+Computer Science
+at
+Vanderbilt University
+.
+
+I received my B.S. in Computer Science from University of Novi Sad,
+Yugoslavia, and my M.S. degree in Computer Science from
+Middle Tennessee State University
+.
+My Master's thesis, "Stretched AVL-Trees" was done under the advisory of
+Dr. Thomas Cheatham
+.
+My primary interest at Vanderbilt is in Artificial Intelligence.
+Specifically, I am intrigued by the effects of mixing different areas of
+Artificial Intelligence with Cognitive Science. I am also interested in Neural Networks, Machine Learning,  Data Mining,
+Parallel (Distributed) Programming, some areas of Software Engineering and the Theory of Computer Science.
+My hobbies include working out, playing tennis, reading, hanging out with
+my friends
+...
+Click
+here
+if you would like to find out how to contact me.
+
+
+Favorite web sites
+
+
+Tamara's bookmarks
+
+
+My classes and projects
+
+
+I am RAing for
+Dr. Gautam Biswas
+
+Multimedia
+Programming
+
+Image Processing
+Individual Study
+with
+Dr. Doug Fisher
+
+
+
+

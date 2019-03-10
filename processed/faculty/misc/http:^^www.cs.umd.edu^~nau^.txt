@@ -1,0 +1,214 @@
+Date: Thu, 21 Nov 1996 20:28:43 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 4887
+Last-modified: Wed, 23 Oct 1996 20:57:39 GMT
+
+
+
+Dana S. Nau
+
+
+
+
+
+Dana
+S. Nau
+
+Professor at the
+University of Maryland
+,
+in the
+Department of Computer Science
+and the
+Institute for Systems Research
+(ISR)
+.
+
+
+co-leader, ISR
+Computer-Integrated
+Manufacturing Group
+
+
+co-leader, ISR Systems Integration research thrust
+
+
+Also affiliated with the
+Institute
+for Advanced Computer Studies
+(UMIACS) and the
+Department
+of Mechanical Engineering
+.
+
+Degrees
+
+
+B.S. (1974) in
+Applied Mathematics
+at the
+University of Missouri-Rolla
+
+
+A.M. (1976) and Ph.D. (1979) in
+Computer
+Science
+at
+Duke University
+
+
+
+Awards
+
+
+NSF
+graduate fellow, 1974-77
+
+James B. Duke
+graduate fellow, 1977-78
+
+NSF
+Presidential Young Investigator
+(PYI), 1984-89
+
+IBM
+faculty development award,
+1984-86
+
+Honorable
+mention
+for the best paper award,
+Texas
+Instruments
+call for papers on AI for industrial automation, 1987
+
+Honorable
+mention
+for the best paper award,
+AAAI
+National Conference on AI, 1991
+
+ISR
+Outstanding Systems Engineering
+Faculty, 1993-94
+
+Best
+paper award
+,
+ASME
+International Computers in Engineering Conference, 1994
+
+AAAI
+Fellow, 1996
+
+
+Educational activities
+
+
+My
+current and former
+students
+
+
+Class page for
+CMSC 420 (Data Structures),
+Section 0301
+
+
+Description of the
+AI courses at the University
+of Maryland
+
+
+
+Research activities
+
+Lists of publications, classified by area:
+
+
+Computer-Integrated Manufacturing
+(CIM)
+
+
+AI Planning
+
+
+Search Algorithms
+
+
+Other Areas
+
+
+
+Summaries of some of my recent research projects:
+
+
+Feature
+Recognition from CAD Models
+
+
+Hierarchical
+Task Network Planning: Formalization and Analysis
+
+
+IMACS (Interactive
+Manfacturability Analysis and Critiquing System)
+
+
+Virtual
+Factories for Electro-Mechanical Device Manufacturing
+
+
+An Assessment
+of Virtual Manufacturing Technologies
+
+
+
+Addresses
+
+
+My address:
+
+
+Dana S. Nau
+Department of Computer Science
+University of Maryland
+College Park, MD 20742
+
+Phone: (301) 405-2684
+Fax: (301) 405-6707
+Email: nau@cs.umd.edu
+URL: http://www.cs.umd.edu/~nau
+
+
+My secretary's address:
+
+
+Edna Walker
+Department of Computer Science
+University of Maryland
+College Park, MD 20742
+
+Phone: (301) 405-2741
+Fax: (301) 405-6707
+Email: edna@cs.umd.edu
+
+
+Other stuff
+
+
+Gargoyles at my
+alma mater
+
+
+No, this web site is
+not
+named after me!
+
+
+
+
+
+
+

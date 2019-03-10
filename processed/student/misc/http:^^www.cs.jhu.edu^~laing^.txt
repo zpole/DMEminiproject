@@ -1,0 +1,46 @@
+Date: Thu, 21 Nov 1996 22:25:39 GMT
+Server: NCSA/1.5.1
+Last-modified: Sat, 29 Jun 1996 02:59:48 GMT
+Content-type: text/html
+Content-length: 1391
+Ambrose Kofi Laing's Personal Home Page
+
+
+
+Ambrose Kofi Laing's Home Page
+
+My Address:
+3003 N. Charles St., #5QA,
+Baltimore, MD 21218-3855
+Here is my Contact information:
+Phone (Home):
+(410)323-0480
+
+Phone (Work):
+(410)516-4650
+
+Email:
+laing@cs.jhu.edu
+
+I'm now in the Ph.D. program of the
+Computer Science Department
+of
+The Johns Hopkins University
+.  I'm in the
+Concurrent Systems
+Lab
+which is in NEB 331A.  I've just finished a research project with
+Bob Cypher
+on
+Graph-Modelling of Fault Tolerant Architectures, a project sponsored in part
+by Siemens Corporate Research (Princeton, NJ).  I'm now working on the
+design of Buffer Reservation Algorithms for arbitrary graphs.
+
+
+Academic Background
+I attended the University Primary School in Legon (at the University of
+Ghana, Legon), and went on to the Achimota Secondary School.  I obtained a
+BSc. in Mathematics and Computer Science at the University of Ghana, Legon.
+
+Some useful references
+

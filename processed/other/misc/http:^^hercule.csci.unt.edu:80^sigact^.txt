@@ -1,0 +1,270 @@
+Date: Wednesday, 15-Jan-97 01:19:22 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Thursday, 31-Oct-96 17:59:30 GMT
+Content-length: 8023
+ACM SIGACT
+
+
+ACM SIGACT
+
+
+
+
+SIGACT, the Special Interest Group on Algorithms and Computation Theory,
+is the
+ACM
+special interest group for Theoretical Computer Science.
+Theoretical Computer Science provides the fundamental concepts, principles,
+and techniques needed to understand and cope with the rapidly changing field
+of computer technology.
+SIGACT members are interested in diverse topics such as
+algorithm design and analysis,
+automata and formal languages,
+complexity theory,
+computational geometry,
+computational learning theory,
+computational number theory,
+computability theory,
+cryptography,
+databases,
+logic of programs,
+parallel and distributed computation,
+semantics of programming languages,
+and
+VLSI layout and design.
+The membership is unified by their mathematically rigorous approach
+to computational problems.
+SIGACT's role is to foster and promote the
+discovery and dissemination of research results, and excellence in
+instruction at all levels.
+You are visitor number
+since November 1, 1995.
+
+Contents of This Document
+
+
+Membership Information
+
+Activities
+
+
+SIGACT News
+
+SIGACT News Online
+
+Sponsored Conferences
+
+WWW Pages
+
+
+TCS Virtual Address Book
+
+TCS Genealogy
+
+Theory Calendar
+
+Contributions of Theoretical Computer Science
+
+Other Useful Pages
+
+
+
+Committees
+
+Institutional Sponsors
+
+
+
+Membership Information
+Membership includes:
+
+Subscription to
+SIGACT News
+
+Subscription to
+SIGACT News Online
+
+Reduced-rate registration for
+SIGACT sponsored
+conferences
+
+Individually mailed Call for Papers and Conference Schedules for
+SIGACT sponsored
+conferences
+
+More information
+is available on
+how to
+join SIGACT
+.
+
+
+Activities
+
+SIGACT News
+
+
+
+
+
+
+SIGACT publishes a quarterly print newsletter,
+SIGACT News
+,
+which serves as a forum for issues of interest to the theoretical
+computer science community.  Readers can keep abreast of professional events
+and announcements, and benefit from regular technical columns written
+by respected professionals in key areas of theoretical computer science.
+In addition, the non-technical columns, letters to the Editor, and minutes
+of professional meetings help keep the reader up-to-date on issues of
+importance to professional theoretical computer scientists.  The
+Education Forum provides insight into the latest teaching methods and material,
+and provides previews of recent or upcoming textbooks.
+SIGACT News Online
+
+SIGACT News Online
+,
+the electronic version of
+SIGACT News
+,
+was launched in September 1996 with issue #100.
+Access is limited to current SIGACT members.
+Each issue of
+SIGACT News Online
+mirrors a print issue of
+SIGACT News
+,
+and is available as a collection of
+postscript documents and scanned images.
+
+Sponsored Conferences
+SIGACT sponsors a number of annual conferences, including:
+
+COLT: Annual Workshop on Computational Learning Theory
+(
+COLT 97
+)
+Annual ACM Symposium on Computational Geometry
+(
+SCG 97
+)
+PODC: Annual ACM Symposium on Principles of Distributed Computing
+(
+PODC 97
+)
+POPL: ACM Symposium on Principles of Programming Languages
+(
+POPL 97
+)
+SODA: ACM/SIGACT-SIAM Symposium on Discrete Algorithms
+(
+SODA 97
+)
+SPAA: ACM Annual Symposium on Parallel Algorithms and Architectures
+(
+SPAA 96
+)
+STOC: Annual ACM Symposium on the Theory of Computing
+(
+STOC 97
+)
+PODS: Principles of Database Systems
+(
+PODS 97
+)
+IOPADS: I/O in Parallel and Distributed Systems
+(
+IOPADS 97
+)
+More information
+is available about purchasing copies of
+conference
+proceedings
+.
+WWW Pages
+SIGACT maintains some web pages of general interest to
+theoretical computer scientists, including the following.
+TCS Virtual Address Book
+
+
+
+The
+TCS Virtual Address Book
+lists the WWW pages of theoretical computer scientists worldwide,
+and includes an electronic form to enter your URL.
+
+Theory Calendar
+
+
+
+The theory calendar is available in
+postscript
+format.
+There is also a
+hypertext
+document with links to the WWW pages for theory conferences.
+
+TCS Genealogy
+
+
+
+The SIGACT
+Theoretical
+Computer Science Genealogy
+lists information on the intellectual "family trees" of
+earned doctoral degrees (adviser, university, and year)
+of theoretical computer scientists worldwide.
+It includes an automatic form for you to submit entries
+for yourself and your students.  The database is updated
+several times a year.
+
+Contributions of Theoretical Computer Science
+
+Contributions
+of Theoretical Computer Science
+, prepared by the
+Long Range
+Planning Committee
+.
+Other Useful Pages
+
+Also available:
+A list of other useful
+WWW pages
+.
+
+
+
+Committees
+
+
+
+Executive
+Committee
+
+
+Long Range
+Planning Committee
+
+
+Electronic
+Publications Board
+
+
+
+
+Institutional Sponsors
+A list of
+institutional
+sponsors
+is available.
+
+
+Created by
+Ian Parberry
+,
+December 12, 1994.
+Last updated
+Thu Oct 31 10:53:06 CST 1996.

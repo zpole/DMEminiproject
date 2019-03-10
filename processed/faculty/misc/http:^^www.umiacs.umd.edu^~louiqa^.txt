@@ -1,0 +1,102 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 20:28:27 GMT
+Content-Type: text/html
+Content-Length: 3446
+Last-Modified: Tuesday, 03-Sep-96 05:02:00 GMT
+
+
+
+Louiqa Raschid
+
+
+
+
+
+
+
+
+
+
+
+
+
+Louiqa Raschid
+
+Email:
+
+louiqa@umiacs.umd.edu
+
+
+Current Position:
+Associate Professor in
+BMGT
+,
+UMIACS
+and
+Computer Science
+
+
+Academic Degree:
+Ph.D. in electrical engineering,
+University of Florida
+, 1987
+
+There have been
+visitors since 7/15/96.
+
+
+Research Interests:
+
+Current research interests include scalable architectures
+for interoperability of networked heterogeneous information servers;
+query interoperation between object and relational databases;
+query optimization and evaluation techniques for heterogeneous environments;
+higher-order wrapper languages for dynamic information servers;
+semantic query optimization for object databases;
+fixpoint and declarative semantics for rule-based programs and
+updates in database systems
+
+
+Interoperability of Networked Heterogeneous Information Servers
+
+
+Query optimization and evaluation in heterogenous environments;
+
+
+Semantics for rule languages and updates in DBMS
+
+
+Professor Raschid teaches classes in Database management systems,
+telecommunications and networking, programming, expert systems
+and knowledge base management systems and seminars in interoperable
+networked information servers.
+See
+Teaching Interests
+for details.
+
+Professor Raschid is a co-director of the
+CLIP Lab
+together with Professor
+Bonnie
+Dorr
+and Professor
+Amy Weinberg
+.
+She also collaborates with researchers of
+Projet RODIN
+at
+Institut National de Recherche en Informatique et en Automatique
+(
+INRIA
+).
+
+Recent Publications:
+
+
+Information Mediation
+
+
+Rules in DBMS
+
+

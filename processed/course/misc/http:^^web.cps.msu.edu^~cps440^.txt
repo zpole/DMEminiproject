@@ -1,0 +1,190 @@
+Date: Wed, 20 Nov 1996 22:40:11 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+
+
+
+CPS 440, Undergraduate Intro to AI, Fall 96
+
+
+
+
+CPS 440, Undergrad Intro to AI, Fall 96
+
+This is the CPS 440 web page. CPS 440 is the intro to AI undergrad course.
+As described in the course book, cps440 is supposed to be about:
+
+
+Machine intelligence. Heuristic programming. Representation and control
+in LISP and PROLOG. Applications to search, rule-based diagnosis, and parsing
+
+
+with the objectives:
+
+
+Study classic problems and approaches in machine intelligence. Symbolic
+and heuristic information processing. Obtain minimum competence in LISP
+programming. Develop foundations for further work in artificial intelligence.
+
+
+The difference this year is that we will be using
+Java
+as a programming
+language instead of lisp and prolog. These pages are here to support the
+class, this new language and to provide extra materials for the course.
+Make sure you stop in here to get updates on things going on in the class.
+
+
+Class Materials
+
+
+
+Class Syllabus
+in
+text form.
+
+
+A Java white paper
+in
+postscript format.
+
+
+Lab0.5
+, the
+first lab, and an
+example
+solution
+.
+
+
+Lab0.9
+, another
+warm-up lab, and an
+example
+solution
+
+
+Lab1
+, recursion
+and ai search, the triangle puzzle, and an
+an
+example solution
+.
+
+
+Lab2,
+a simple
+backward-chaining rule system, and a
+a
+solution
+, with an
+example
+ruleset
+and an
+example
+hypotheses
+set.
+
+
+Lab3,
+a frame
+data base. File is postscript. The
+fixed
+version
+of the lab.
+
+
+Lab4,
+an interactive
+game that you design (in postscript). The
+tank
+interface
+can be found here. The javadoc descriptions for
+Tank
+and for
+GameStatus
+can also be found here, as well as information on running the
+Tank
+simulator and demos
+and some
+sample
+Tank classes
+.
+
+
+Lab Last,
+A deterministic FSA parser.
+Other stuff
+
+
+Sample Report
+for the lab reports you must turn in.
+
+
+Helpful Stuff
+
+
+
+Sun Java Tutorial
+, a local copy for speed.
+
+
+Java 1.02 api
+docs
+, again a local copy for speed.
+
+
+Java
+tool man pages (javac, javadoc, etc)
+, local copy for speed.
+
+
+lang specification
+1.0
+, local copy for speed.
+
+
+virtual machine
+specification 1.0
+, local copy for speed.
+
+
+cps 440 newsgroup
+for discussions
+about class topics/projects.
+
+Interesting sites (offer more and I'll add them)
+
+
+Gamelan
+a site with
+lots
+of java examples
+.
+
+
+JavaSoft/Sun
+from whence
+all this stuff comes.
+
+
+a
+Java evaluation
+by Nasa engineers for the Hubble.
+
+
+examples
+of destructive applets
+WARNING !
+be careful running these!
+
+
+These pages are maintained by the instructor,
+Bill
+Punch
+. If you have any questions, please mail me at
+punch@cps.msu.edu
+
+
+
+

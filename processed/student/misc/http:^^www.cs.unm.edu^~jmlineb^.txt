@@ -1,0 +1,137 @@
+Date: Tue, 26 Nov 1996 17:48:15 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 04 Apr 1996 17:22:26 GMT
+Content-length: 4979
+
+
+Home Page for John M. Linebarger
+
+
+
+
+Home Page for John M. Linebarger
+
+
+(This page is optimized for Netscape Navigator 2.x)
+
+
+
+I work at
+Sandia National Laboratories
+in the
+Synthetic Environment Lab
+,
+doing virtual-reality visualization programming in
+C/C++
+and
+OpenGL
+on high-end
+Silicon Graphics
+(SGI) workstations that have far more main memory that I do.  My professional
+interests include software architecture, software engineering,
+object-oriented
+analysis, design, and programming, and enterprise data modeling.
+(In fact, I put myself through college as a data model.)
+I am pursuing a Master's degree in the
+Computer Science program
+at the
+University of New Mexico
+(UNM) under Sandia's University
+Part-Time (UPT) program.  UPT allows me to attend classes and study for 20 hours
+a week, work part-time for 20 hours a week, and remain a full-time
+Sandia employee.  What a deal!  I am scheduled to graduate in December 1997.
+A PhD in Computer Science is in my future, but so is a life ...
+I live in Cedar Crest,
+New Mexico
+, on a ridge at about 7100 feet
+with a great view of the east face of the
+Sandia mountains
+.
+I play
+classical guitar
+,
+enjoy
+hiking, camping
+, and
+whitewater canoeing
+,
+spend far more time hacking
+Linux
+than I should,
+and only date women who run 32-bit operating systems.
+I have just started
+mountain biking
+in order to get swimsuit-compatible for the summer.
+
+And like my mama always told me,
+
+"Nothing feels better against your skin than software."
+
+Quite a lady, my mama ...
+
+
+
+Professors and People I Work With
+
+
+
+Hear me pronounce my name in
+English
+or
+Spanish
+.
+
+Check out the animation of one of my
+visualization projects
+using
+Java
+.
+
+Here's great idea for a
+radio station
+that didn't quite take off,
+for some reason.
+
+
+Touring the Land of Enchantment
+
+
+
+
+
+
+
+E-mail:
+
+jmlineb@sandia.gov
+
+
+Phone:
+
+505/845-8282
+
+
+FAX:
+
+505/844-8558
+
+
+Lab Phone:
+
+505/844-1776
+
+
+Mailing Address:
+
+Sandia National Laboratories
+P.O. Box 5800, MS 0722
+Albuquerque, NM  87185-0722
+
+
+
+
+(Last updated 24-Mar-96)
+
+
+

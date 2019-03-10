@@ -1,0 +1,96 @@
+Date: Mon, 25 Nov 1996 22:57:40 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2428
+Last-modified: Sun, 22 Sep 1996 17:18:52 GMT
+
+
+William Ward Armstrong
+
+
+
+
+(Click to see a caricature by Dean Lewis -- 230 Kb)
+William Ward Armstrong ("Bill")
+
+Professor, Department of Computing Science, University of Alberta
+arms@cs.ualberta.ca
+http://www.cs.ualberta.ca/~arms
+
+
+Address
+
+
+Department of Computing Science
+
+University of Alberta
+615 General Services Building
+Edmonton, Alberta
+Canada  T6G 2H1
+Phone: (403) 492-2374
+Fax:   (403) 492-1071
+
+Office: 775 General Services Building
+
+
+To learn about adaptive logic networks:
+
+
+
+Consult the Atree 3.0 Educational Kit User Guide
+(HTML format)
+
+
+FTP the Atree 3.0 Educational Kit including the User's Guide
+to learn about ALNs (~900 Kb for Windows 3.x, 95, NT -- documentation
+is in HTML format)
+
+
+Upload the Atree 3.0 Educational Kit -- uuencoded version
+for persons who can't access FTP services
+
+
+Visit the website of Dendronic Decisions
+and find out more about Atree 3.0
+
+
+
+Read a bit about Adaptive Logic Networks (ALNs)
+
+
+Look at Aleks Kostov's home page
+and work on rehabilitation of spinal cord injured
+patients.
+
+
+FTP a paper on rehabilitation of patients with spinal cord
+injury using ALNs
+.
+
+FTP a paper on predictive maintenance of turbine-driven compressors
+using ALNs
+.
+
+Publications
+
+
+
+Courses
+
+Introduction to Numerical Methods (CMPUT 340)
+
+
+Topics in Adaptive Systems
+
+
+
+Personal Information
+
+
+Jump to personal information page
+
+
+
+September 20, 1996
+
+

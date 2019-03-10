@@ -1,0 +1,83 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 20:18:00 GMT
+Content-Type: text/html
+Content-Length: 2259
+Last-Modified: Thursday, 10-Oct-96 14:51:46 GMT
+
+
+
+CS314 Home Page
+
+
+
+
+
+
+Introduction to
+Digital Systems and
+Computer
+Organization
+
+Thorsten von Eicken
+
+Fall, 1997
+
+Tue/Thu 1:25pm-2:40pm, Kimball B11
+
+
+Topics include: representation of information; machine-assembly languages;
+processor organization; interrupts and I/O; memory hierarchies; combinatorial
+and sequential circuits; data path and control unit design; RTL; and
+microprogramming.
+
+
+HELP
+
+If you have a problem related to a lecture, a homework set, or a project,
+the
+best way to get help
+is to add an annotation at the appropriate point in the
+course materials. This will allow you to get help not only from the course staff, but
+also from your class mates. Otherwise, you should send email to
+cs314@cs.cornell.edu
+or talk to one of the consultants.
+
+
+Course Materials
+
+
+All course materials are on a separate web server (which you may want to
+bookmark) and uses CoNote to allow annotation of the Web documents.
+The course materials include lecture notes, section notes, homeworks, and
+project files.
+
+
+Course Information
+(out of date)
+
+
+For up-to-date information please check the course materials.
+CoNote account requests posted before saturday 9pm have been
+processed. Please
+send me email
+if you encounter difficulties.
+
+Read the course information for Homework 1. Follow the (hidden)
+instructions on how to sign up for the course materials.
+
+Sections start this monday (9/2)!
+
+
+CoNote registration list
+
+
+list of who's made it through the registration process.
+
+
+
+This page is maintained by
+Thorsten von Eicken
+
+
+

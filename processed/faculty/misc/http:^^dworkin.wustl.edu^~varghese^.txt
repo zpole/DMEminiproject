@@ -1,0 +1,179 @@
+Date: Thu, 21 Nov 1996 21:34:17 GMT
+Server: NCSA/1.4
+Content-type: text/html
+
+
+George Varghese's Home Page
+
+
+
+George Varghese
+
+
+
+Associate  Professor
+Washington University
+
+
+
+
+
+
+Snail mail:
+
+Washington University, Campus Box 1045/Bryan 509
+One Brookings Drive
+Saint Louis, MO 63130-4899
+
+Office: Bryan 405D
+314-935-4963 (office)
+314-935-7302 (fax)
+Email:
+varghese@askew.wustl.edu
+
+
+
+RESEARCH INTERESTS
+
+I spent 10 years designing real network protocols (some of which are in
+products) for DECNET.  However, I later did my Ph.D. research in the
+theory of protocol design.  For more details, see my
+vita
+.
+For recent papers, click
+here
+.
+My goal is to fruitfully combine my
+experience in distributed systems, both theory and practice.
+My most recent work in network protocols includes the first O(log(log(n))
+algorithm for fair queuing, new techniques for fragmentation and reassembly,
+and new load balancing protocols.  Recent work in distributed algorithms
+include a result that shows that crash failures can cause almost all
+asynchronous protocols to fail (assuming that nodes keep no NVRAM across
+crashes), and techniques for making window protocols self-stabilizing.
+Web pointers to .ps files can be found below.
+The work on distributed algorithms is supported by
+an ONR Young Investigator Award and a grant from NSF; the work in network
+protocols is supported by an NSF Research Initiation Award.
+Past work on network protocols includes techniques for speeding up
+packet processing based on adding fields to packets, making hop-by-hop
+flow control both efficient and reliable, efficient fair queuing
+using deficit round robin, and efficient timer algorithms.  Patents
+for past work include patents for bridge protocols, switch design, the OSI
+routing update protocol, and rate based flow control.
+Past work on distributed algorithms
+includes (together with colleagues at MIT and Univ of Texas) a set of
+general techniques to make protocols self-stabilizing. A protocol is
+self-stabilizing if it begins to work correctly regardless of what
+state the protocol starts in: thus self-stabilization is an
+abstraction of a strong fault-tolerance property.   Some of the
+techniques we have discovered (for making protocols self-stabilizing)
+include local checking and correction,
+local checking and global correction, compiling  synchronous protocol,
+counter flushing, and window washing.
+I hope that coupling these two themes
+(distributed algorithms and network protocols, theory and practice)
+will provide a rich synergy both in terms of research and coursework.
+For example, I have taught the network protocol class for senior Wash U
+undergraduates for three semesters, and have taught them some
+protocol design techniques.  I taught the Distributed Algorithms class in the
+Spring of 95 and taught a tutorial on applying techniques from
+distributed algorithms in SIGCOMM 95.   I illustrated the theory using many
+real-world protocol examples.  I will teach a tutorial on efficient
+protocol implementation techniques in SIGCOMM 96.
+
+
+RECENT PAPERS
+My recent papers on both networking and
+self-stabilization can be obtained from the web.
+To look at a brief description of
+available papers, and then navigate to papers you would like, please click
+here
+.
+
+QUOTES
+For some quotes on things I believe in, please click
+here
+.
+
+EDUCATION
+
+
+PhD in Computer Science -- MIT (2/93)
+MS in Computer Science -- NCSU (8/83)
+B.Tech in Electrical Engineering -- I.I.T. Bombay, India (8/81)
+
+
+STUDENTS
+
+
+
+Girish Chandranmenon
+.
+
+Current projects:
+trading packet headers for packet processing,
+efficient fair queuing, new techniques for fragmentation and reassembly.
+During Summer 96, working with Steve Deering on IPv6 related issues.
+
+Mahesh Jayaram
+.
+
+Current projects:
+Determining the fault-span of crash failures,
+efficient packet filters, and improving routing protocol performance.
+
+Adam Costello
+.
+
+Current projects:
+UNIX Implementation of Timing Wheels,
+Self-stabilization by window washing (making window protocols
+self-stabilizing), mobile networks.   From Fall 96, will be doing a
+Ph.D at Berkeley in the mobile computing group.
+
+CS 423 DOCUMENTS
+I"ll start trying to make CS 423 documents available on the web.
+
+To look at a sample midterm please click
+here
+.
+COURSE OUTLINE FOR CS564T
+In the spring of 1995, I taught a course on concurrent message
+passing algorithms, with emphasis on applications to network protocols.
+The course is designed to help students learn how to design protocols
+and to apply them to the problems of real networks.   Thus we
+illustrate the main ideas using actual protocols from existing networks.
+I taught an abbreviated version of that course as a tutorial in SIGCOMM 95.
+To look at a course outline for CS 564, please click
+here
+.
+To look at the slides for the SIGCOMM tutorial, please click
+here
+. Its in landscape format and you may have to "swap landscape"
+the file before viewing.
+
+
+SELF-STABILIZATION INTEREST GROUP
+
+User names registered as of Dec 13th 1994:
+sandeep@cs.albany.edu mischu@research.att.com herman@cs.uiowa.edu
+kutten@watson.ibm.com cowen@brutus.mts.jhu.edu
+burns@nova.bellcore.com loui@geisel.csl.uiuc.edu jhh@cwi.nl kirousis@cti.gr
+sriram@cs.uiowa.edu fischer-michael@cs.yale.edu masuzawa@is.aist-nara.ac.jp
+garay@watson.ibm.com zaks@cs.ust.hk marco@cs.utexas.edu prasad@cs.dartmouth.edu
+
+
+SHORT PROJECTS FOR NETWORKING CERTIFICATION COURSE
+I am offering only one project currently.  This project involves a
+detailed design of a fault-tolerant token ring protocol that can
+replace an existing token ring protocol like the IBM Token Ring or
+FDDI.  To look at a brief description of this project, please click
+here
+.
+
+Last updated on October 20, 1994.
+varghese@askew.wustl.edu
+
+
+

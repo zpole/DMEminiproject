@@ -1,0 +1,132 @@
+Date: Tue, 26 Nov 1996 18:51:26 GMT
+Server: NCSA/1.5
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Tue, 16 Apr 1996 17:09:13 GMT
+Content-length: 3721
+CSE341: Operating Systems Principles
+
+
+CSE 341: Operating systems Principles
+
+(This page is under construction)
+Introduction to all aspects of modern operating systems.
+Topics include process structure and synchronization,
+interprocess communication, memory management,
+file systems, security,  I/O and distributed file systems.
+UNIX system will be fully studied.
+Instructor
+
+
+
+Dr. Edwin Sha
+(esha@bach.helios.nd.edu)
+
+Basic Information
+
+
+Teaching Assistants:
+
+
+Karen Yan:
+hyan@bach.helios.nd.edu, Fitz. 355 , Wed. 3:00 - 4:00pm.
+(RESPONSIBLE FOR PROGRAMMING ASSIGNMENTS)
+
+Ovidiu Daessu:
+odaescu@bach.helios.nd.edu, Cushing 206,
+Mon. 3:00 - 4:00pm. (REPONSIBLE FOR ORDINARY ASSIGNMENTS)
+
+The directory /usr/local/courses/cse341 stores the files used
+in the course.
+Programming Assignments consist of 5 assignments.
+The first three study multiple threads using C++, the fourth is about
+memory paging methods and the fifth is about file system impelmentation.
+Ordinary Assignments include basic O.S. questions and each
+time may also include UNIX questions, so students will learn
+various UNIX system programming such as pipes, sockets, and
+remote procedure calls.
+
+More detailed information can be found in
+course outline
+.
+Most of the handouts and assignments
+used in the course may be found in
+/usr/local/courses/cse341.
+Summary of
+Lecture Notes
+
+
+Programming Assignments and Ordinary Assignments
+
+
+
+Ordinary Assignment 1
+
+
+Solutions for
+Ordinary Assignment 1
+
+
+Ordinary Assignment 2
+
+
+Programming Assignment 1
+
+
+Programming Assignment 2
+
+
+Ordinary Assignment 3
+
+
+Programming Assignment 3
+
+
+Ordinary Assignment 4
+
+
+Programming Assignment 4
+
+
+Ordinary Assignment 5
+
+
+Programming Assignment 5
+
+
+Ordinary Assignment 6
+
+
+Email to TA's  and Dr. Sha:
+cse341TA@cse.nd.edu
+
+
+Email to all the students, TA's  and Dr. Sha:
+cse341@cse.nd.edu
+
+
+Total number of visitors to this page, since resetting counter,
+is
+.
+Some Useful Links and Papers
+
+
+
+A Tour of the Internet Worm
+
+
+Analysis of the Internet Worm
+
+
+An Introduction to C++
+
+
+A Beginner Guide to HTML
+
+
+
+
+
+
+Revised by Edwin Sha - Jan. 15, 1996.
+

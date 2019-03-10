@@ -1,0 +1,188 @@
+Date: Tue, 10 Dec 1996 03:29:08 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+ZPL Papers and Manuals
+
+
+
+
+ZPL Papers and Manuals
+
+
+ZPL-specific Papers and manuals
+
+Language Description Papers
+
+
+
+ZPL: An Array Sublanguage
+(August, 1993)
+Introduction to the ZPL language.  Very old and somewhat out of date.
+
+A ZPL Programming Guide
+(July, 1996)
+An intuitive introduction to the language that walks through several
+scientific programming examples.
+
+ZPL Language Reference Manual (DRAFT)
+(June, 1996)
+The most complete description of the language (includes an index).
+
+
+Implementation Papers
+
+
+
+Factor-Join: A Unique Approach to Compiling Array Languages for Parallel Machines
+(May 1996)
+A framework for compiling array languages.
+
+The Implementation of a Machine-Independent Array Language
+(November, 1995)
+Implementation of ZPL.
+
+
+Benchmark Performance Evaluation Papers
+
+
+
+
+ZPL vs. HPF: A Comparison of Performance and Programming Style
+(May, 1995)
+Compares ZPL and HPF using a set of NAS, NASA and GENESIS benchmark
+programs.
+
+SIMPLE Performance Results in ZPL
+(August, 1994)
+Performance comparisons against hand-coded programs.
+
+
+Real-world Applications of ZPL
+
+
+
+
+A Portable Parallel N-Body Solver
+(1995)
+Describes how ZPL is used to solve n-body solver.
+
+The Portable Parallel Implementation of Two Novel Mathematical Biology
+Algorithms in ZPL
+(July, 1995)
+Describes how ZPL is used to solve two mathematical biology problems.
+
+
+
+Foundations of ZPL
+
+Machine Model Papers
+
+
+
+
+Type Architecture, Shared Memory and the Corollary of Modest Potential
+(1986)
+Discusses the need for accurate abstract machine models when
+developing efficient algorithms.  Introduces the CTA abstract machine
+model.
+
+
+
+Programming models -- shared- vs. nonshared-memory models
+
+
+
+A Comparison of Programming Models for Shared Memory Multiprocessors
+(1990)
+Empirical comparison of how the shared memory and non-shared memory
+programming models effect the performance of programs on shared memory
+multiprocessors.
+
+A Comparison of Shared and Nonshared Memory Models of Parallel Computation
+(1991)
+Theoretical comparison of the shared memory and non-shared memory
+programming models and their influence on parallel algorithm performance.
+
+On the Influence of Programming Models on Shared Memory Computer Performance
+(1992)
+Experimental comparsion of shared memory and non-shared memory programming
+models for three machines and two applications (LU decomposition and WATER).
+
+
+
+Programming models -- Abstractions and A-ZPL (formerly Orca C)
+
+
+
+Scalable Abstractions for Parallel Programming
+(1990)
+Introduces the notion of
+ensembles
+that provides scalability.
+
+A Flexible Communication Abstraction for Nonshared Memory Parallel Computing
+(November, 1990)
+Introduces the notion of
+port ensembles
+that separates the
+specification of communication from computation.
+
+Abstractions for Portable, Scalable Parallel Programming
+(December, 1993)
+Extensive discussion of the Phase Abstractions programming model.
+
+Foundations of Practical Parallel Programming Languages
+(1993)
+Describes the relation between ZPL and Orca C, and describes the underlying
+models for these languages.
+
+A Portable Implementation of SIMPLE
+(1991)
+Detailed description of how the SIMPLE CFD benchmark is written in Orca C.
+
+
+Optimized Interprocessor Communication
+
+
+
+
+Quantifying the Effects of Communication Optimizations
+(May 1996)
+An evaluation of communication optimizations.
+
+IRONMAN: An Architecture Independent Communication Interface for Parallel Computers
+(March 1996)
+A machine-independent interface for custom interprocessor communication.
+
+
+Miscellany
+
+
+
+
+Accommodating Polymorphic Data Decompositions in Explicitly Parallel
+Programs
+(April, 1994)
+Why message passing libraries alone are not sufficient for portability.
+
+
+
+
+
+
+
+[
+ZPL
+|
+UW CSE
+|
+UW
+]
+
+zpl-info@cs.washington.edu
+
+
+
+

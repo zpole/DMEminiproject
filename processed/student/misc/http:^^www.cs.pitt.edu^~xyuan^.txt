@@ -1,0 +1,114 @@
+Date: Tue, 26 Nov 1996 17:50:40 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 16 Sep 1996 15:55:27 GMT
+Content-length: 3011
+Xin Yuan's Home Page
+
+
+Xin Yuan
+
+
+
+This page is under construction.
+
+
+General Information
+
+
+4th year Ph.D student            Email:
+xyuan@cs.pitt.edu
+
+Department of Computer Science
+Phone: (412)624-1267
+University of Pittsburgh
+Office: 302MIB
+Pittsburgh
+,
+PA
+15260
+
+
+
+Current Activities
+
+I am currently working on compile communication and grand challenge
+projects. My advisors are
+Dr. Rami Melhem
+and
+Dr. Rajiv Gupta
+. Here
+are my
+Papers
+. God, i wish it were a long
+long list. My
+research links
+contains the
+web sites of optical computing and compiler research.
+
+Finger me
+to see if I am in my office.
+
+
+Other stuffs
+
+I was born in Fuzhou,
+Fujian province
+,
+P.R.China
+.
+Before I came here, I spent 6 years in Department of Computer Science and
+Engineering ,
+Shanghai JiaoTong University
+,
+Shanghai
+where I received BS and MS degree. Here is my
+personal data
+and a
+photograph
+of my lovely girlfriend and
+I in stone mountain, Atlanta.
+My favorite passtimes are
+GO
+game and
+
+tennis
+. Check out
+IGS(Internet Go Server)
+where I play go regularly as a 2d*. Well. i am a
+3d* now. There is also a new go server
+NNGS(No Name Go Server)
+available.
+Here are some of my
+friends' homes
+including
+the people from 3035x class, SJTU.
+
+
+
+Dictionaries
+
+
+Webster at CMU
+
+
+Webster at NWU
+
+
+
+
+Back to Graduate
+Student Index
+
+
+
+
+
+To drop me a line, click here.
+
+
+There are
+visits since
+March 17, 1996.
+Last update May 13, 1996.
+

@@ -1,0 +1,85 @@
+Date: Wed, 20 Nov 1996 23:04:13 GMT
+Server: NCSA/1.5.1
+Last-modified: Fri, 08 Dec 1995 15:04:50 GMT
+Content-type: text/html
+Content-length: 2922
+Smaragda Konstantinidou
+
+Smaragda Konstantinidou
+
+Assistant Professor
+
+Computer Science Department, Johns Hopkins University
+Office: NEB 314, E-mail: konstant@cs.jhu.edu
+Laboratory:
+Concurrent Systems Lab
+
+Education
+
+Ph.D.  Computer Science, University of Washington         1991
+M.S.   Computer Science, University of Washinton          1988
+B.S.   Electrical and Electronic Engineering,             1984
+National Technical University of Athens, Greece
+Research Interests
+
+Scalable parallel architectures, interconnection networks,
+routing algorithms, communication protocols and
+parallel computer interfaces.
+Selected Publications
+
+
+S. Konstantinidou, "On the effect of queue sizes and channel
+scheduling policies in the Segment router",
+Parallel Computer Routing and Communication Workshop
+, 1994.
+S. Konstantinidou, "Segment router: a novel router design for
+parallel computers",
+ACM Symposium on Parallel Algorithms and Architectures
+, 1994.
+R. Cypher and S. Konstantinidou, "Bounds on the Efficiency of
+Message-Passing Protocols for Parallel Computers",
+SIAM Journal of Computing (to appear)
+, and
+ACM Symposium on Parallel Algorithms and Architectures
+, 1993.
+R. Cypher, A. Ho, S. Konstantinidou and P. Messina, "Architectural
+Requirements of Parallel Scientific Applications with Explicit Communication",
+The Journal of Supercomputing  (to appear)
+, and
+International Symposium on Computer Architecture
+, 1993.
+S. Konstantinidou, "The selective extra-stage butterfly",
+IEEE Transactions on VLSI Systems
+, 1993.
+S. Konstantinidou, L. Snyder, "The Chaos router",
+IEEE Transactions on Computers, vol. 43, no. 12, 1994
+.
+L. Snyder and S. Konstantinidou, ``Chaos Router System",
+US Patent 5,151,900
+, Sep. 29, 1992.
+S. Konstantinidou and L. Snyder, "Chaos router: architecture
+and performance",
+International Symposium on Computer Architecture
+, 1991.
+S. Konstantinidou, "Adaptive, minimal routing in hypercubes",
+6th MIT Conference on Advanced Research in VLSI
+, 1990.
+T.Derose, M. Bailey, B. Barnard, R. Cypher, D. Dobrikin, C. Ebeling,
+S. Konstantinidou, L. McMurchie, H. Mizrahie, B. Yost,
+"Apex: Two Architectures for Generating Parametric Curves and Surfaces",
+The Visual Computer
+, 1989.
+
+Work in progress
+
+
+S. Konstantinidou, "Communication Issues in Interactive
+Parallel Computing",
+Tech. Report 1995-08.
+
+S. Konstantinidou and G. Ngai, "Flow-Control Considerations
+in Network-Based Architectures",
+Tech. Report
+
+
+

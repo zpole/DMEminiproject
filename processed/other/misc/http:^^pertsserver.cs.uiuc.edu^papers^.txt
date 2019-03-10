@@ -1,0 +1,1119 @@
+Date: Tue, 14 Jan 1997 19:01:45 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 36709
+Last-modified: Thu, 12 Dec 1996 21:32:34 GMT
+
+
+
+
+RTSL Publications
+
+
+
+
+Publications of the Real-Time Systems Laboratory
+This is an incomplete bibliography of the publications of the members
+of the Real-Time Systems Laboratory.
+Many of these papers are available electronically.
+Some of the entries include a link to a PostScript version of the paper.
+In addition, many recent UIUC-DCS tech reports are available by ftp from
+ftp.cs.uiuc.edu
+in the
+directory /pub/dept/tech_reports.
+Older tech reports must be
+ordered
+from Engineering Documents Center.
+In addition to this list, there are two mechanisms to help you find a
+desired publication:
+
+A search engine.
+A
+version of this bibliography
+that includes abstracts
+for many of the papers.
+Finally, the
+bibtex-format version
+of the bibliography database is available.
+
+
+Search the Bibliography
+
+
+
+Keywords:
+Authors:
+
+
+
+
+
+
+
+
+100 references, last updated Thu Dec 12 15:32:31 US/Central 1996
+
+
+
+Christopher Thomas
+Bartz.
+Periodic-job schedulers and resource access control protocols.
+Master's thesis, University of Illinois at Urbana-Champaign, October 1992.
+Available as Technical Report UIUCDCS-R-92-1774.
+
+
+R. Bettati,
+D. Gillies,
+C. C. Han, K. J. Lin, C. L. Liu, J. W. S. Liu, and W. K. Shih.
+Recent results in real-time scheduling.
+In
+[van Tilborg and Koob, 1991]
+,
+chapter 4, pages 91-127.
+
+
+Riccardo
+Bettati.
+End-to-End Scheduling to Meet Deadlines in Distributed Systems
+.
+PhD thesis, University of Illinois at Urbana-Champaign, August 1994.
+Available as Technical Report UIUCDCS-R-94-1840.
+(
+Gzipped PostScript
+, 163 pages, 412874 bytes)
+
+
+Infan Kuok
+Cheong.
+Scheduling Imprecise Hard Real-Time Jobs with Cumulative Error
+.
+PhD thesis, University of Illinois at Urbana-Champaign, June 1992.
+Available as Technical Report UIUCDCS-R-92-1758.
+
+
+Jen-Yao
+Chung, Jane W. S.
+Liu, and Kwei-Jay Lin.
+Scheduling periodic jobs that allow imprecise results.
+IEEE Transactions on Computers
+, 39(9):1156-1174, September
+1990.
+
+
+Z. Deng,
+J. W.-S. Liu, and
+J. Sun.
+A sufficient schedulability condition of deadline-driven tasks with varying
+periods and execution times.
+Submitted to
+Real-Time Systems Journal
+, 1995.
+(
+PostScript
+, 13 pages, 191586 bytes)
+
+
+Z. Deng,
+J. W.-S. Liu, and
+M. Shankar.
+Constant utilization server in deadline-driven and fixed priority systems.
+Submitted to
+Real-Time Technology and Applications Symposium
+, 1996.
+(
+PostScript
+, 28 pages, 258505 bytes)
+
+
+Z. Deng,
+J. W.-S. Liu, and
+J. Sun.
+Dynamic scheduling of hard real-time applications in open system environment.
+Technical Report UIUCDCS-R-96-1981, Department of Computer Science, University
+of Illinois at Urbana-Champaign, October 1996.
+(
+PostScript
+, 24 pages, 209586 bytes)
+
+
+W. Feng
+and J. W.-S. Liu.
+An extended imprecise computation model for time-constrained speech processing
+and generation.
+In
+Proceedings of the IEEE Workshop on Real-Time Applications
+,
+pages 76-80, New York, New York, May 1993.
+(
+PostScript
+, 5 pages, 228403 bytes)
+
+
+
+W. Feng
+and J. W.-S. Liu.
+Algorithms for scheduling tasks with input error and end-to-end deadlines.
+Technical Report UIUCDCS-R-94-1888, Department of Computer Science, University
+of Illinois at Urbana-Champaign, September 1994.
+(
+PostScript
+, 30 pages, 285323 bytes)
+
+
+W. Feng
+and J. W.-S. Liu.
+Performance of a congestion control scheme on an ATM switch.
+In
+Proceedings of the International Conference on Networks
+,
+Orlando, Florida, January 1996. IASTED.
+(
+PostScript
+, 4 pages, 133906 bytes)
+
+
+W. Feng
+and J. W.-S. Liu.
+Performance of a two-level scheme for congestion control of real-time traffic.
+Submitted to
+International Conference on Distributed Computing Systems
+,
+June 1996.
+(
+PostScript
+, 24 pages, 317688 bytes)
+
+
+Wu-chun
+Feng.
+Applications and Extensions of the Imprecise-Computation Model
+.
+PhD thesis, University of Illinois at Urbana-Champaign, May 1996.
+
+
+Donald W.
+Gillies and
+Jane W.-S. Liu.
+Greed in resource scheduling.
+Acta Informatica
+, 28(8):755-775, November 1991.
+
+
+Donald W.
+Gillies and
+Jane W.-S. Liu.
+Scheduling tasks with and/or precedence constraints.
+SIAM Journal on Computing
+, 24(4):797-810, August 1995.
+(
+PostScript
+, 16 pages, 309953 bytes)
+
+
+Donald William
+Gillies.
+Greed in resource scheduling.
+Master's thesis, University of Illinois at Urbana-Champaign, 1990.
+
+
+Donald William
+Gillies.
+Algorithms to Schedule Tasks with AND/OR Precedence Constraints
+.
+PhD thesis, University of Illinois at Urbana-Champaign, 1993.
+
+
+Donald William
+Gillies.
+A new heuristic for UET and pipeline scheduling.
+In
+Proceedings of the Sixth SIAM Conference on Parallel Processing for
+Scientific Computing
+, volume 2, pages 983-991, Norfolk, Virginia,
+March 1993.
+
+
+Rhan
+Ha and Jane W. S. Liu.
+Validating timing constraints in heterogeneous multiprocessor and distributed
+systems.
+Submitted to
+Journal of Real-Time Systems
+.
+(
+PostScript
+, 29 pages, 279538 bytes)
+
+
+Rhan
+Ha and Jane W. S. Liu.
+Validating timing constraints in multiprocessor and distributed real-time
+systems.
+Technical Report UIUCDCS-R-93-1833, Department of Computer Science, University
+of Illinois at Urbana-Champaign, October 1993.
+(
+PostScript
+, 46 pages, 416538 bytes)
+
+
+Rhan
+Ha and Jane W. S. Liu.
+Validating timing constraints in multiprocessor and distributed real-time
+systems.
+In
+Proceedings of the 14th IEEE International Conference on Distributed
+Computing Systems
+, June 1994.
+(
+PostScript
+, 10 pages, 243378 bytes)
+
+
+Rhan
+Ha.
+Validating Timing Constraints in Multiprocessor and Distributed
+Systems
+.
+PhD thesis, University of Illinois at Urbana-Champaign, August 1995.
+Available as Technical Report UIUCDCS-R-95-1907.
+
+
+Ching-Chih
+Han, Kwei-Jay Lin,
+and Jane W.-S. Liu.
+Scheduling jobs with temporal distance constraints.
+SIAM Journal on Computing
+, 24(5):1104-1121, October 1995.
+
+
+Ching-Chih
+Han.
+Scheduling Real-Time Computations with Temporal Distance and Separation
+Constraints and with Extended Deadlines
+.
+PhD thesis, University of Illinois at Urbana-Champaign, June 1992.
+Available as Technical Report UIUCDCS-R-92-1748.
+
+
+Tai-Yi
+Huang and Jane W.-S.
+Liu.
+Predicting the worst-case execution time of the concurrent execution of
+instructions and cycle-stealing DMA I/O operations.
+In
+Proceedings of the ACM SIGPLAN 1995 Workshop on Languages, Compilers,
+and Tools for Real-Time Systems
+, pages 1-6, La Jolla, California,
+June 1995.
+(
+PostScript
+, 6 pages, 191781 bytes)
+
+
+Tai-Yi
+Huang, Jane W.-S.
+Liu, and Jen-Yao Chung.
+Allowing cycle-stealing direct memory access I/O concurrent with
+hard-real-time programs.
+In
+Proceedings of the 1996 International Conference on Parallel and
+Distributed Systems
+, pages 422-429, Tokyo, Japan, June 1996. IEEE.
+(
+PostScript
+, 8 pages, 277396 bytes)
+
+
+Tai-Yi
+Huang, Jane W.-S.
+Liu, and David Hull.
+A method for bounding the effect of DMA I/O interference on program
+execution time.
+To appear in
+Real-Time Systems Symposium
+, December 1996.
+(
+PostScript
+, 23 pages, 405319 bytes)
+
+
+Tai-Yi
+Huang.
+Evaluation of timing analysis and measurement tools.
+Master's thesis, University of Illinois at Urbana-Champaign, 1994.
+
+
+David
+Hull and Jane W. S.
+Liu.
+ICS: A system for imprecise computations.
+In
+Proceedings, AIAA Computing in Aerospace 9
+, pages 371-374, San
+Diego, California, October 1993.
+(
+Gzipped PostScript
+, 73526 bytes)
+
+
+D. Hull,
+W. Feng, and J. W. S.
+Liu.
+Enhancing the performance and dependability of hard real-time systems.
+In
+IEEE Computer Performance and Dependability Symposium
+, pages
+174-182, Erlangen, Germany, April 1995. IEEE.
+(
+PostScript
+, 9 pages, 148838 bytes)
+
+
+David
+Hull, Wu chun Feng, and
+Jane W. S. Liu.
+Operating system support for imprecise computation.
+To appear in
+AAAI Fall Symposium on Flexible Computation
+, Cambridge,
+Massachusetts, 9-11 November 1996.
+(
+PostScript
+, 4 pages, 349532 bytes)
+
+
+T. Kim,
+C. L. Liu, and J. W. S.
+Liu.
+A scheduling algorithm for conditional resource sharing--a hierarchical
+reduction approach.
+IEEE Transactions on Computer-Aided Design
+, 13(4):425-438, April
+1994.
+
+
+Kwei-Jay
+Lin, Swami Natarajan,
+Jane W.-S. Liu, and Tim Krauskopf.
+Concord: A system of imprecise computations.
+In
+Proceedings, Computer Software and Applications Conference
+,
+pages 75-81, Tokyo, Japan, October 1987. IEEE.
+
+
+Kwei-Jay
+Lin, Swaminathan
+Natarajan, and Jane W.-S. Liu.
+Imprecise results: Utilizing partial computations in real-time systems.
+In
+Proceedings, Real-Time Systems Symposium
+, San Jose, California,
+December 1987. IEEE.
+
+
+Jane
+W. S. Liu and Rhan Ha.
+Efficient methods for validating timing constraints in multiprocessor and
+distributed systems.
+In
+Proceedings of the 4th Systems Reengineering Technology
+Workshop
+, February 1994.
+(
+PostScript
+, 12 pages, 228622 bytes)
+
+
+J. W. S.
+Liu and R. Ha.
+Efficient methods for validating real-time constraints.
+In Sang H. Son, editor,
+Advances in Real-Time Systems
+.
+Prentice-Hall, 1995.
+(
+PostScript
+, 25 pages, 300837 bytes)
+
+
+Jane
+W. S. Liu and Rhan Ha.
+Methods for validating real-time constraints.
+The Journal of Systems and Software
+, 30(1-2):85-98, July-August
+1995.
+(
+PostScript
+, 34 pages, 278956 bytes)
+
+
+Changwen
+Liu and Jane W. S. Liu.
+Imprecise computation and robust stability in control systems.
+Submitted to
+IEEE Transactions on Automatic Control
+.
+(
+PostScript
+, 29 pages, 275841 bytes)
+
+
+Changwen
+Liu and Jane W. S.
+Liu.
+Effects of imprecise computation in time-invariant control systems.
+In
+Proceedings of the Twenty-Ninth Annual Conference on Information
+Sciences and Systems
+, pages 297-302, Baltimore, Maryland, March 1995.
+(
+PostScript
+, 6 pages, 819351 bytes)
+
+
+J. W. S.
+Liu, K. J. Lin, and
+C. L. Liu.
+A position paper for the IEEE 1987 workshop on real-time operating systems.
+In
+Proceedings of the 1987 IEEE Workshop on Real-Time Operating
+Systems
+, Cambridge, Massachusetts, May 1987.
+
+
+Jane
+W. S. Liu, Kwei-Jay Lin,
+and Swaminathan Natarajan.
+Scheduling real-time, periodic jobs using imprecise results.
+In
+Proceedings, Real-Time Systems Symposium
+, pages 252-260, San
+Jose, California, December 1987. IEEE.
+
+
+J. W. S.
+Liu, K. J. Lin, W. K.
+Shih, A. C. Yu, J. Y. Chung, and W. Zhao.
+Algorithms for scheduling imprecise computations.
+In
+[van Tilborg and Koob, 1991]
+,
+chapter 8, pages 203-249.
+
+
+Jane
+W. S. Liu, Kwei-Jay Lin,
+Wei-Kuan Shih, Albert Chuang-shi Yu, Jen-Yao Chung, and Wei Zhao.
+Algorithms for scheduling imprecise computations.
+IEEE Computer
+, 24(5):58-68, May 1991.
+
+
+J. W. S.
+Liu, K. J. Lin, C. L.
+Liu, and W. K. Shih.
+Imprecise computations: A means to provide scheduling flexability and enhance
+dependability.
+Readings on Real-Time Systems
+, 1992.
+
+
+J. W. S.
+Liu, J. L. Redondo,
+Z. Deng, T. S. Tia, R. Bettati, A. Silberman, M. Storch, R. Ha, and W. K.
+Shih.
+PERTS: A prototyping environment for real-time systems.
+In
+Proceedings of the 14th IEEE Real-Time Systems Symposium
+, pages
+184-188, Raleigh-Durham, North Carolina, December 1993.
+
+
+J. W. S.
+Liu, J. L. Redondo,
+Z. Deng, T. S. Tia, R. Bettati, A. Silberman, M. Storch, R. Ha, and W. K.
+Shih.
+PERTS: A prototyping environment for real-time systems.
+Technical Report UIUCDCS-R-93-1802, Department of Computer Science, University
+of Illinois at Urbana-Champaaign, May 1993.
+(
+PostScript
+, 238795 bytes)
+
+
+Jane
+W. S. Liu, Kwei-Jay Lin,
+Riccardo Bettati, David Hull, and Albert Yu.
+Use of imprecise computation to enhance dependability of real-time systems.
+In Gary M. Koob and Clifford G. Lau, editors,
+Foundations of Dependable
+Computing: Paradigms for Dependable Applications
+, chapter 3.1, pages
+157-182. Kluwer Academic Publishers, 1994.
+
+
+Jane
+W. S. Liu, Wei-Kuan Shih,
+Kwei-Jay Lin, Riccardo Bettati, and Jen-Yao Chung.
+Imprecise computations.
+Proceedings of the IEEE
+, 82(1):83-94, January 1994.
+
+
+J. W. S.
+Liu, C. L. Liu,
+Z. Deng, T. S. Tia, J. Sun, M. Storch, D. Hull, J. L. Redondo, R. Bettati,
+and A. Silberman.
+PERTS: A prototyping environment for real-time systems.
+International Journal of Software Engineering and Knowledge
+Engineering
+, 6(2):161-177, 1996.
+
+
+Jane
+W. S. Liu.
+Issues in distributed real-time systems.
+In
+Proceedings of the IDA Workshop on Large, Distributed, Parallel
+Architecture of Real-Time Systems
+, Fairfax, Virginia, March 1993. IDA.
+(
+PostScript
+, 9 pages, 71616 bytes)
+
+
+C. L.
+Liu.
+Fundamentals of real-time scheduling (extended abstract).
+In Wolfgang A. Halang and Alexander D. Stoyenko, editors,
+Real Time
+Computing
+, pages 1-7. Springer-Verlag, 1994.
+
+
+Changwen
+Liu.
+Imprecise Computation in Real-Time Control Systems
+.
+PhD thesis, University of Illinois at Urbana-Champaign, December 1995.
+Available as Technical Report UIUCDCS-R-95-1905.
+
+
+
+V. Lopez-Millan,
+W. Feng, and J. W.-S. Liu.
+Using the imprecise-computation technique for congestion control on a real-time
+traffic switching element.
+In
+Proceedings, International Conference on Parallel and Distributed
+Systems
+, Taiwan, December 1994. IEEE.
+(
+PostScript
+, 7 pages, 180662 bytes)
+
+
+Victor Manuel
+Lopez-Millan.
+A congestion control scheme for a real-time traffic switching element using the
+imprecise computations technique.
+Master's thesis, University of Illinois at Urbana-Champaign, 1993.
+
+
+Chen
+Lu and J. W. S. Liu.
+Process migration in homogeneous UNIX environments.
+In
+Proceedings ICPADS'93, 1993 International Conference on Parallel and
+Distributed Systems
+, pages 16-23, Taipei, Taiwan, December 1993.
+National Taiwan University.
+
+
+Pilar
+Manzano.
+Imprecise-computation schedulers.
+Master's thesis, University of Illinois at Urbana-Champaign, February 1993.
+Available as Technical Report UIUCDCS-R-93-1795.
+
+
+H. Nakazato,
+T. Kim, and
+J. W. S. Liu.
+A scheduling strategy for tasks with precedence and conditional execution.
+To appear in
+Transactions of Information Processing Society of Japan
+.
+
+
+Hidenori
+Nakazato.
+Issues on Synchronizing and Scheduling Tasks in Real-Time Database
+Systems
+.
+PhD thesis, University of Illinois at Urbana-Champaign, January 1993.
+Available as Technical Report UIUCDCS-R-93-1786.
+
+
+Joseph
+Kee-Yin Ng.
+Performance of High-Speed Networks for Real-Time Applications
+.
+PhD thesis, University of Illinois at Urbana-Champaign, June 1993.
+Available as Technical Report UIUCDCS-R-93-1812.
+
+
+Ian R.
+Philp and Jane W. S. Liu.
+A switch scheduling problem for real-time periodic messages.
+Submitted to
+Telecommunications Systems Journal
+.
+(
+PostScript
+, 21 pages, 212550 bytes)
+
+
+Ian R.
+Philp and Jane
+W. S. Liu.
+End-to-end scheduling in real-time packet switched networks.
+In
+Proceedings, International Conference on Network Protocols
+,
+pages 23-30, Columbus, Ohio, October 1996.
+(
+PostScript
+, 8 pages, 126262 bytes)
+
+
+Ian R.
+Philp and Jane
+W. S. Liu.
+SS/TDMA scheduling of real-time periodic messages.
+In
+Proceedings, 4th International Conference on Telecommunication
+Systems
+, pages 244-251, Nashville, Tennessee, March 1996.
+(
+PostScript
+, 14 pages, 164778 bytes)
+
+
+Ian R.
+Philp, Klara
+Nahrstedt, and Jane W. S. Liu.
+Scheduling and buffer management for soft real-time VBR traffic in packet
+switched networks.
+In
+Proceedings, 21st Conference on Local Computer Networks
+, pages
+143-152, Minneapolis, Minnesota, October 1996.
+(
+PostScript
+, 10 pages, 208054 bytes)
+
+
+Ian Ramsay
+Philp.
+Scheduling Real-Time Messages in Packet-Switched Networks
+.
+PhD thesis, University of Illinois at Urbana-Champaign, 1996.
+(
+Compressed PostScript
+, 102 pages, 273027 bytes)
+
+
+Juan Luis
+Redondo.
+Schedulability analyzer tool.
+Master's thesis, University of Illinois at Urbana-Champaign, February 1993.
+Available as Technical Report UIUCDCS-R-93-1791.
+
+
+Wei-Kuan
+Shih and Jane W. S.
+Liu.
+On-line scheduling of imprecise computations to minimize error.
+In
+Proceedings, Real-Time Systems Symposium
+, pages 280-289,
+Phoenix, Arizona, December 1992. IEEE.
+
+
+Wei-Kuan
+Shih and Jane W. S.
+Liu.
+Algorithms for scheduling imprecise computations with timing constraints to
+minimize maximum error.
+IEEE Transactions on Computers
+, 44(3):466-471, March 1995.
+(
+PostScript
+, 91874 bytes)
+
+
+Wei-Kuan
+Shih, Jane W. S. Liu,
+and Jen-Yao Chung.
+Algorithms for scheduling imprecise computations with timing constraints.
+SIAM Journal on Computing
+, 20(3):537-552, June 1991.
+
+
+Wei Kuan
+Shih, J. W. S. Liu,
+and C. L. Liu.
+Modified rate-monotonic algorithm for scheduling periodic jobs with deferred
+deadlines.
+IEEE Transactions on Software Engineering
+, 19(12):1171-1179,
+December 1993.
+(
+PostScript
+, 203075 bytes)
+
+
+Wei-Kuan
+Shih.
+Scheduling in Real-Time Systems to Ensure Graceful Degradation: The
+Imprecise-Computation and the Deferred-Deadline Approaches
+.
+PhD thesis, University of Illinois at Urbana-Champaign, December 1992.
+Available as Technical Report UIUCDCS-R-92-1765.
+
+
+Ami Abraham
+Silberman.
+CPSS: A communications protocol specification system.
+Master's thesis, University of Illinois at Urbana-Champaign, 1989.
+
+
+X. Song
+and J. W. S. Liu.
+Maintaining temporal consistency: Pessimistic vs. optimistic concurrency
+control.
+In
+Proceedings of the IEEE Symposium on Computer-Aided Control System
+Design
+, Napa, California, March 1992.
+(
+PostScript
+, 28 pages, 508132 bytes)
+
+
+Xiaohui (Carol)
+Song and Jane
+W. S. Liu.
+Maintaining temporal consistency: Pessimistic vs optimistic concurrency
+control.
+IEEE Transactions on Knowledge and Data Engineering
+,
+7(5):786-796, October 1995.
+
+
+Xiaohui
+Song.
+Data Temporal Consistency in Hard Real-Time Systems
+.
+PhD thesis, University of Illinois at Urbana-Champaign, May 1992.
+Available as Technical Report UIUCDCS-R-92-1753.
+
+
+M. F.
+Storch and J. W. S.
+Liu.
+Heuristic algorithms for periodic job assignment.
+In
+Proceedings of the Workshop on Parallel and Distributed Real-Time
+Systems
+, Newport Beach, California, April 1993.
+(
+PostScript
+, 131768 bytes)
+
+
+Matthew F.
+Storch and
+Jane W.-S. Liu.
+DRTSS: A simulation framework for complex real-time systems.
+In
+Proceedings of the Complex Systems Design and Synthesis Technology
+Workshop
+, Calverton, Maryland, July 1994.
+(
+PostScript
+, 8 pages, 106501 bytes)
+
+
+Matthew F.
+Storch and
+Jane W.-S. Liu.
+A simulation environment for distributed real-time systems.
+In
+Proceedings of the SCS Simulation Multiconference
+, La Jolla,
+California, April 1994.
+(
+PostScript
+, 8 pages, 100100 bytes)
+
+
+Matthew F.
+Storch and
+Jane W.-S. Liu.
+DRTSS: A simulation framework for complex real-time systems.
+In
+Proceedings, Real-Time Technology and Applications Symposium
+,
+pages 160-169, Brookline, Massachusetts, June 1996. IEEE.
+(
+PostScript
+, 20 pages, 193375 bytes)
+
+
+Matthew Francis
+Storch.
+A Framework for the Simulation of Complex Real-Time Systems
+.
+PhD thesis, University of Illinois at Urbana-Champaign, November 1996.
+Available as Technical Report UIUCDCS-R-96-1983.
+(
+Compressed PostScript
+, 159 pages, 346497 bytes)
+
+
+
+Jun
+Sun and Jane W. S. Liu.
+Bounding the end-to-end response time in multiprocessor real-time systems.
+In
+Proceeding of Workshop on Parallel and Distributed Real-Time
+Systems
+, pages 91-98, Santa Barbara, California, April 1995.
+(
+PostScript
+, 8 pages, 148826 bytes)
+
+
+Jun
+Sun and Jane Liu.
+Bounding the end-to-end response times of tasks in a distributed real-time
+system using the direct synchronization protocol.
+Technical Report UIUCDCS-R-96-1949, Department of Computer Science, University
+of Illinois at Urbana-Champaign, June 1996.
+(
+PostScript
+, 16 pages, 208754 bytes)
+
+
+Jun
+Sun and Jane Liu.
+Synchronization protocols in distributed real-time systems.
+In
+The 16th International Conference on Distributed Computing
+Systems
+, Hong Kong, May 1996.
+(
+PostScript
+, 8 pages, 222231 bytes)
+
+
+Jun
+Sun and Jane W. S. Liu.
+Bounding completion times of jobs with arbitrary release times and variable
+execution times.
+In
+Real-Time Systems Symposium
+, Washington, D. C., December 1996.
+IEEE.
+(
+PostScript
+, 11 pages, 205446 bytes)
+
+
+
+Jun
+Sun, Riccardo Bettati, and
+Jane W.-S. Liu.
+An end-to-end approach to schedule tasks with shared resources in
+multiprocessor systems.
+In
+Proceedings of the 11th IEEE Workshop on Real-Time Operating Systems
+and Software
+, Seattle, Washington, May 1994.
+(
+PostScript
+, 5 pages, 121161 bytes)
+
+
+Jun
+Sun.
+Fixed-priority scheduling of periodic tasks with end-to-end deadlines.
+This is an draft version of Jun Sun's PhD Thesis., 1996.
+(
+Compressed PostScript
+, 174 pages, 437182 bytes)
+
+
+Too-Seng
+Tia and Jane W.-S. Liu.
+Assigning real-time tasks and resources to distributed systems.
+To appear in
+International Journal of Mini and Microcomputers
+.
+(
+PostScript
+, 10 pages, 181422 bytes)
+
+
+T. S.
+Tia and J. W. S. Liu.
+Task and resource assignment in distributed real-time systems.
+In
+Proceedings of the 2nd Workshop on Parallel and Distributed Real-Time
+Systems
+, Cancun, Mexico, April 1994.
+
+
+Too-Seng
+Tia, Jane W.-S. Liu, Jun Sun,
+and Rhan Ha.
+A linear-time optimal acceptance test for scheduling of hard real-time tasks.
+Submitted to
+IEEE Transactions on Software Engineering
+.
+(
+PostScript
+, 17 pages, 173937 bytes)
+
+
+Too-Seng
+Tia, Jane W.-S. Liu,
+and Mallikarjun Shankar.
+Aperiodic request scheduling in fixed-priority preemptive scheduling.
+Technical Report UIUCDCS-R-94-1859, Department of Computer Science, University
+of Illinois at Urbana-Champaign, July 1994.
+(
+PostScript
+, 43 pages, 338922 bytes)
+
+
+T.-S.
+Tia, Z. Deng, M. Shankar,
+M. Storch, J. Sun, L.-C. Wu, and J. W.-S. Liu.
+Probabilistic performance guarantee for real-time tasks with varying
+computation times.
+In
+Proceedings, Real-Time Technology and Applications Symposium
+,
+pages 164-173, Chicago, Illinois, May 1995. IEEE.
+(
+PostScript
+, 12 pages, 199015 bytes)
+
+
+Too-Seng
+Tia, Jane W.-S. Liu,
+and Mallikarjun Shankar.
+Algorithms and optimality of scheduling soft aperiodic requests in
+fixed-priority preemptive systems.
+Real-Time Systems
+, 10(1):23-43, January 1996.
+(
+PostScript
+, 21 pages, 220256 bytes)
+
+
+Too-Seng
+Tia.
+Utilizing Slack Time for Aperiodic and Sporadic Requests Scheduling in
+Real-Time Systems
+.
+PhD thesis, University of Illinois at Urbana-Champaign, April 1995.
+Available as Technical Report UIUCDCS-R-95-1906.
+
+
+André M.
+van
+Tilborg and Gary M. Koob, editors.
+Foundations of Real-Time Computing: Scheduling and Resource
+Management
+.
+Kluwer Academic Publishers, Norwell, Massachusetts, 1991.
+
+
+Susan V.
+Vrbsky and
+Kwei-Jay Lin.
+Recovering imprecise transactions with real-time constraints.
+In
+Proceedings, Seventh Symposium on Reliable Distributed Systems
+,
+pages 185-193, Columbus, Ohio, October 1988. IEEE.
+
+
+Susan V.
+Vrbsky and Jane
+W. S. Liu.
+APPROXIMATE: A query processor that produces monotonically improving
+approximate answers.
+IEEE Transactions on Knowledge and Data Engineering
+,
+5(6):1056-1068, December 1993.
+
+
+Susan V.
+Vrbsky and Jane
+W. S. Liu.
+Producing approximate answers to set- and single-valued queries.
+The Journal of Systems and Software
+, 27(3):243-251, December
+1994.
+
+
+S. V.
+Vrbsky, J. W. S.
+Liu, and K. P. Smith.
+An object-oriented query processor that returns monotonically improving
+approximate answers.
+Technical Report UIUCDCS-R-90-1568, Department of Computer Science, University
+of Illinois at Urbana-Champaign, 1990.
+
+
+Susan Vlasta
+Vrbsky.
+Approximate: A Query Processor that Produces Monotonically Improving
+Approximate Answers
+.
+PhD thesis, University of Illinois at Urbana-Champaign, June 1993.
+Available as Technical Report UIUCDCS-R-93-1816.
+
+
+Albert C.
+Yu and Kwei-Jay Lin.
+Scheduling parallelizable imprecise computations on multiprocessors.
+In
+Proceedings, the Fifth International Parallel Processing
+Symposium
+, pages 531-536, Anaheim, California, April 1991. IEEE.
+
+
+Albert
+Chuang-Shi Yu.
+Scheduling Parallel Real-Time Tasks That Allow Imprecise Results
+.
+PhD thesis, University of Illinois at Urbana-Champaign, March 1992.
+Available as Technical Report UIUCDCS-R-92-1738.
+
+
+
+
+
+David Hull
+<hull@cs.uiuc.edu>
+
+Last modified: Mon Nov  4 15:41:48 CST 1996
+
+

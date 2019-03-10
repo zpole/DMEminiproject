@@ -1,0 +1,51 @@
+Date: Mon, 25 Nov 1996 23:25:41 GMT
+Server: NCSA/1.5.1
+Last-modified: Fri, 09 Aug 1996 17:22:57 GMT
+Content-type: text/html
+Content-length: 1420
+Derek Eager Home Page
+
+Derek Eager
+B.Sc. (
+Regina
+),
+M.Sc., PhD.  (
+Toronto
+)
+
+Professor and Head,
+Department of Computer Science
+,
+University of Saskatchewan
+Room 1c128 Engineering
+(306) 966-4899
+
+eager@cs.usask.ca
+
+
+
+
+My research concerns distributed and parallel computing systems,
+particularly design issues with a performance orientation.
+Check out the
+DISCUS
+pages for further information and recent publications.
+I am an active participant in SIGMETRICS
+(the
+ACM
+Special Interest Group on
+performance evaluation),
+serving on the Program Committee of the annual SIGMETRICS conference
+in 1986,1989,1991,1993, and 1997, and as Program Chair in 1987.
+I am currently a member of the editorial board of
+IEEE
+Transactions
+on Software Engineering, and am in the final year of a three year term on the
+NSERC
+Grant Selection Committee for Computing and Information Sciences.
+
+In 1996/97, I'm teaching
+CMPT 422.3
+.
+
+

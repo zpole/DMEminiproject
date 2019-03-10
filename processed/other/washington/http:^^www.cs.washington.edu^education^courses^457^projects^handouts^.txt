@@ -1,0 +1,42 @@
+Date: Mon, 02 Dec 1996 16:10:51 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+Project handouts
+
+
+
+
+
+
+
+
+1996 Autumn Quarter
+
+
+
+
+
+Project Handouts
+
+Note: The following project descriptions are subject to change
+without notice up until the day they are assigned.
+However, you're
+welcome to look ahead at the descriptions, as they exist now, to get an
+idea of what's coming....
+
+Project 0:
+Mandelbrot
+
+Project 1:
+Morph
+
+Project 2:
+Sweeper
+
+Project 3:
+Trace
+
+
+
+

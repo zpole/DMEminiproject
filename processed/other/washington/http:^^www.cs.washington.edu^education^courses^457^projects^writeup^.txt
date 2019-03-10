@@ -1,0 +1,151 @@
+Date: Mon, 02 Dec 1996 16:09:56 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+Sample write-up
+
+
+
+
+
+
+
+
+1996 Autumn Quarter
+
+
+
+
+
+Below is a sample project write-up, written for a wavelet-based
+image compression program (a project in a previous offering of 457).
+Your write-up should use a similar outline:
+
+
+Abstract
+
+An introduction to the project: what it does,
+why it's useful, etc.
+Implementation
+
+How your group implemented the project.  You should discuss the
+basics of the algorithms and how they were implemented.
+Personal implementation
+
+Discuss what you contributed to
+the project, including the required parts and any bells and
+whistles that you worked on.
+Results
+
+How well does your program work?  Does it produce interesting results?
+What might you change or add, given more time?
+
+
+
+
+
+
+Project 1 :
+Wavelet
+
+
+
+Brad West
+Group 6
+10 Oct 95
+
+
+
+
+Abstract
+Wavelets, originally developed as a mathematical concept and a method
+for signal processing, are quickly becoming a standard tool in
+computer graphics.  The wavelet transform has many advantages: it
+allows the storage of information at multiple resolutions, is easy to
+implement, and is very fast to compute.
+In this project we investigated the use of wavelets for image
+compression.  Wavelets are a natural tool for compression because they
+isolate the parts of the image that contain a lot of detail.  With
+wavelets, it is possible in many cases to display a recognizable image
+using only five percent of the original data.  In addition, the
+coefficients of a wavelet-transformed image can be ordered from most
+to least significant, allowing for progressive transmission in
+bandwidth-limited applications, such as when sending an image over the
+Web.
+Implementation
+Our group implemented a wavelet compression program on an Indy R4400,
+using the
+libui
+user interface library.  The program
+allows a user to load an
+.rgb
+image, and then compress
+that image (with a selectable degree of compression) using the wavelet
+transform.
+We chose to use the
+Haar
+wavelet basis because it is very
+easy to implement and fast to compute.  To represent a signal in the
+Haar basis, the basic algorithm is to take two neighboring samples and
+average them.  Then, in place of the two original samples, you instead
+store their average and difference.  A two-dimensional image can be
+treated in the same way as a one-dimensional signal by concatenating
+the scan lines end to end.  Performing this procedure recursively on
+the computed averages transforms an image down to a single overall
+average and an array of differences.  Though no information is saved
+in the transform itself, throwing out the smallest differences
+provides a compressed representation.
+A compressed image, then, is basically an overall average, a few
+important details, and a lot of zeroed-out coefficients.  When saving
+the transformed image to a file, we perform
+run-length encoding
+to get a concise representation.
+Personal implementation
+Though our group worked together on the basic wavelet-transform
+algorithm, my personal responsibility was saving this transformed
+image to a file (and, consequently, being able to read that file back
+in).  This turned out to be a rather substantial task.  First, it
+turns out that although the basic wavelet transform theoretically
+results in no change in the amount of data, there is initially a
+substantial
+increase
+in the amount of memory used.  This is
+because an image is stored as an array of three-
+byte
+(8-bit)
+pixels, but a wavelet-transform results in an array of
+three-
+float
+(32-bit) values.  Already we have increased the
+amount of memory required by a factor of four!
+To actually reduce the total amount of storage, we first quantized
+the floats into 15-bit values.  Though this is still almost twice the
+original amount of storage required, with this change the subsequent
+compression step, in which small coefficients are zeroed out, then
+yields a net reduction in storage.
+When writing the wavelet coefficients to disk, each value is
+proceeded by a flag bit that encodes whether the value is a wavelet
+coefficient (1) or a series of zeros (0).  When the value represents a
+series of zeros, the remaining 15-bits encode how many zeros in the
+series.
+Results
+The biggest problem in achieving a high compression rate is in
+encoding the compressed image on disk.  For example, compressing
+mona.rgb
+with a 3% loss of quality allowed us to discard
+about 95% of the coefficients.  The resulting file, however, was still
+about 33% the size of the original.  Though we have achieved a fairly
+high compression, it would seem that we should still be able to do
+much better.
+For future work, it would be interesting to investigate other
+methods of tranforming the original two-dimensional data into a
+one-dimensional signal.  For example, instead of simply reading the
+data from left to right and top to bottom, we might try reading it in
+a "serpentine" order that goes first from left to right and then from
+right to left as it goes down the screen, or in a space-filling-curve
+order that winds through the image.  Such methods might produce larger
+strings of zeros, resulting in more compression.  We also wanted to
+try using different amounts of compression on each color channel, for
+example, compressing more of the blue channel (which our eyes are less
+sensitive to) than the red.
+

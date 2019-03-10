@@ -1,0 +1,108 @@
+Date: Tue, 26 Nov 1996 17:53:52 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 01 Jun 1995 18:28:32 GMT
+Content-length: 3189
+Vanathi's Home Page
+
+Vanathi Gopalakrishnan
+<
+vanathi@cs.pitt.edu
+>
+
+
+
+Welcome to my home page. Click
+here
+to learn about my roots.
+
+Etymology
+Tamil:
+Vaanam
+= "Sky" and
+Nadhi
+= "River"
+
+Vanathi
+= "The Milky Way" or "The river in the sky"
+
+
+Current Occupation:
+
+Tenured Graduate Student
+
+Where:
+103 Mineral Industries Bldg.
+
+Department of Computer Science
+
+University of Pittsburgh
+Pittsburgh, PA 15260
+
+(412) 624-4765
+
+
+
+PhD. Thesis advisor:
+
+Professor Bruce G. Buchanan
+
+
+Current Research Interests:
+Symbolic Inductive Learning from Temporal Data, Scientific Experiment Design and
+Planning, Sequence Extrapolation, Macromolecular Crystallography.
+
+Background:
+Have spent the past ten years in Computer Science and Engineering disciplines.
+
+Livelihood Means:
+Keck Fellowship in Computational Biology.
+
+Publications:
+
+
+Vanathi Gopalakrishnan, Daniel Hennessy, Bruce Buchanan, Devika Subramanian,
+Patricia A. Wilcosz, K. Chandrasekhar, John M. Rosenberg.
+Preliminary Tests of Machine Learning Tools for the Analysis of Biological
+Macromolecular Crystallization Data. Tech Report ISL-94-17.
+Modified version being submitted for review to the Journal of Crystal Growth.
+Daniel Hennessy, Vanathi Gopalakrishnan, Bruce G. Buchanan, Devika Subramanian,
+John M. Rosenberg.
+Induction of Rules for Biological Macromolecule
+Crystallization
+. In
+Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology
+, pages 179-187,
+Palo Alto, California, August, 1994.
+Vanathi Gopalakrishnan, Daniel Hennessy, Bruce Buchanan, Devika Subramanian.
+The Crystallographer's Assistant
+. Abstract in
+Proceedings of the Twelfth National Conference on Artificial Intelligence
+, page 1451,
+Seattle, Washington, August, 1994.
+Vanathi Gopalakrishnan, Dan Hennessy. The Crystallographer's Assistant.
+Abstract in the
+Proceedings of the Fourth Keck Symposium on Computational Biology
+, Pittsburgh, Pennsylvania, 1993.
+Vanathi Gopalakrishnan, Bruce Buchanan.
+Determining the Effectiveness of Using Expert Systems to Enable Rapid Response During Emergencies. In
+Proceedings of the World Congress on Expert Systems
+, pages 1983-1991, Orlando, Florida, 1991.
+Bruce Buchanan, Vanathi Gopalakrishnan.
+A Distributed Problem Solving Model for Emergency Response.
+Poster Presentation. In
+Proceedings of the Second IEEE Symposium on Parallel and
+Distributed Processing
+. Dallas, TX, December 1990.
+
+
+State of mind:
+
+Always happy :-) Why? Click on my
+activities
+
+
+
+vanathi@cs.pitt.edu
+

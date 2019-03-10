@@ -1,0 +1,72 @@
+Date: Tue, 26 Nov 1996 19:13:25 GMT
+Server: Apache/1.1-dev
+Content-type: text/html
+Set-Cookie: Apache=gs359347849035605646; path=/
+
+EECS270 Home Page
+
+EECS270 - Introduction to Logic Design
+
+Fall 1996
+
+
+Announcements:
+
+Sept. 30
+
+Don't forget to check the EECS270 USENET group regularly.
+
+Oct. 28
+
+If you took a TTL data book with you, please return it to the 270 lab.
+
+Nov. 22
+
+The problem with QuickSim crashing on Sparc 10's and 20's has been fixed.
+
+Nov. 22
+
+Please be sure to clean off and check out your breadboard if you haven't
+already done so.
+
+Nov. 22
+
+For the week of Thanksgiving, the 270 lab will be open during regular hours
+on Monday and Tuesday, and during regular hours until 2:30pm on Wednesday.
+Closed Thursday and Friday.
+
+
+General Information:
+
+Course Description
+
+Lab Schedule & Meeting Times
+
+Instructors & Office Hours
+
+First-Day Handout
+
+Homework Solutions
+
+umich.eecs.class.270 Newsgroup
+
+
+Lab Information:
+
+Data Sheets
+
+Lab Experiment Cover Sheets
+
+CAD Quick Reference Hints
+
+
+Please send comments on this home page to Howard at
+hmyeh@eecs.umich.edu
+.
+
+
+
+University of Michigan Department of Electrical Engineering and Computer Science
+
+
+

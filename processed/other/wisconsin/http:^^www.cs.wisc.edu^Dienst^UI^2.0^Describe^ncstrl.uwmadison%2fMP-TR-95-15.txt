@@ -1,0 +1,54 @@
+Server: Dienst V4-1-1
+MIME-version: 1.0
+Content-type: text/html
+The Ill-Posed Linear Complementarity Problem
+
+The Ill-Posed Linear Complementarity Problem
+O. L. Mangasarian
+MP-TR-95-15
+August 1995
+A regularization of the linear complementarity problem (LCP) is proposed that leads to an exact solution, if one exists, otherwise a minimizer of a natural residual of the problem is obtained. The regularized LCP (RLCP) turns out to be a linear program with equilibrium constraints (LPEC) that is always solvable. For the case when the underlying matrix
+M
+of the LCP is in the class
+Q_0
+(LCP solvable if feasible), the RLCP can be solved by a quadratic program, which is convex if
+M
+is positive semidefinite. An explicitly exact penalty of the RLCP formulation is also given when
+M\in Q_0
+and implicitly exact otherwise. Error bounds on the distance between an arbitrary point to the set of LCP residual minimizers follow from LCP error bound theory. Computational algorithms for solving the RLCP consist of solving a convex quadratic program for positive semidefinite
+M,
+otherwise a generally nonconvex quadratic program when
+M\in Q_0,
+for which a potentially finitely terminating Frank-Wolfe method is proposed. For a completely general
+M,
+a parametric method is proposed wherein for each value of the parameter a Frank-Wolfe algorithm is carried out.
+
+
+How to view this document
+
+
+
+Display the
+whole
+document in one of the following formats.
+
+PostScript
+53111 bytes. (compressed on disk, will be sent uncompressed)
+
+
+
+Print or download all or selected pages.
+
+
+
+You are granted permission for the non-commercial reproduction, distribution,display, and performance of this technical report in any format, BUT thispermission is only for a period of 45 (forty-five) days from the most recenttime that you verified that this technical report is still available fromthe Computer Science Department of the University of Wisconsin - Madison underterms that include this permission.  All other rights are reserved by theauthor(s).
+[
+Search
+]
+
+NCSTRL
+This server operates at UW Madison Computer Sciences Technical Reports .
+
+Send email to
+www@cs.wisc.edu
+

@@ -1,0 +1,185 @@
+Date: Tue, 26 Nov 1996 18:55:20 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 5100
+Last-modified: Tue, 19 Nov 1996 18:17:20 GMT
+
+
+Welcome to Dr. Wei Zhao's Home Page
+
+
+
+
+
+Professor Wei Zhao's Home Page
+
+
+
+Department of Computer Science
+
+Texas A&M University
+
+College Station
+,
+TX
+77843-3112
+
+Office: 509B  H. R. Bright Building
+Phone: (409)845-5098
+Fax: (409) 847-8578
+Email:
+zhao@cs.tamu.edu
+
+Welcome to visit my home page. You can read my
+
+GUESTBOOK
+.
+I am grateful if you kindly
+
+ADD
+
+your name, email, URL, and comments to the book.
+
+This page has been visited
+
+times since Sept 16, 1996.
+
+
+
+Education
+
+Wei Zhao
+received his B.Sc. of physics from Shaanxi Normal
+University, Xian, China, M.Sc. degree and Ph.D in computer and
+information science
+from the University of Massechussetts, Amherst, MA,
+in 1983 and 1986, respectively. In 1990 he joined the Department of
+Computer Science at Texas A&M University, where he
+is currently a Full Professor.
+
+Honors & Professional Activities
+
+Society Memberships
+Association for
+Computing Machinery, IEEE and its Computer Society and
+Communications Society;
+Reviewer
+, National Science Foundation, USA, 1994;
+Guest Editor
+, Special Section on Real-Time Technology
+and Applications, IEEE Transactions on Computers, 1996;
+Guest Editor
+, the Special Issue on Real-Time
+Operating Systems,
+ACM Operating Systems Review
+, Vol. 23, No.
+3, July 1989;
+Editor
+: the IEEE Transactions on Computers;
+Paper Award
+: In 1992, the Outstanding Paper Award in the IEEE
+International Conference on Distributed Computing Systems for the
+paper, "Guaranteeing Synchronous Message Deadlines with the Timed
+Token Medium Access Control Protocol";
+Program Committee
+, IEEE Real-Time Operating System
+Workshop, 1991,
+IEEE Real-Time System Symposiums, 1989-1990-1991;
+Session Chairman
+, IEEE
+Real-Time Systems Symposium, 1988 & 1990, IEEE Workshop on
+Real-Time Operating Systems, 1987;
+Vice-Chair
+: IEEE International Conference on Distributed
+Computing Systems, in 1994 and 1995;
+Program Committee Chair
+: the first IEEE Real-Time
+Technology and Applications Symposium, 1995;
+General Chair
+: the second IEEE Real-Time Technology and
+Applications Symposium, June 1996;
+Patent
+: inventor of two U.S. patents on using high speed
+networks for time-critical applications;
+Invited Talk
+, Stanford University, March 1990;
+University of Michigan at Ann Arbor, March 1990; University of
+Rochester, March 1990; University of Washington, February 1990;
+Referee,
+National Science
+Foundation 1988 & 1990; IEEE Transactions on Computers,
+1985-present; International Journal of Real-Time Systems,
+1988-present; IEEE Real-Time Systems Symposium, 1985-present;
+IEEE International Conferences on Distributed computing Systems,
+1987 & 1991; Australian Computer Science Conferences,
+1989-present; IEEE Computer 1990 & 1991; Australian Joint
+Artificial Intelligence Conferences, 1988 & 1990.
+
+
+
+Research Interests and Areas of Expertise
+
+
+Real-Time Computing Systems
+
+Distributed Operating Systems
+
+Communications  Networks
+
+Database Systems
+
+Fault-Tolerant Systems
+
+
+
+Courses at Texas A&M University
+
+
+CPSC 410: Operating Systems
+
+CPSC 662: Distributed Processing Systems
+
+CPSC 663: Real-Time Systems
+
+
+
+
+Past and Present Students
+
+
+Nicholus J. Malcolm
+
+Sanjay D. Kamat
+
+Lijun Yao
+
+Fang Feng
+
+Biao Chen
+
+Amitava Raha
+
+
+
+Publications
+
+Wei Zhao
+has published 100 journal and conference
+papers, and book chapters.
+The selected publications can be found from the home page of
+The
+Real-Time Computing and Communications Research Group
+. A complete
+list of the published papers can be found
+here
+.
+
+Wei Zhao is the general chair of
+The Second IEEE Real-Time Technology and
+Applications Symposium
+to be held in Boston in June 1996.
+
+
+.
+
+

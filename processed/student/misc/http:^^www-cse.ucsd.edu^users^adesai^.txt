@@ -1,0 +1,73 @@
+Date: Thu, 21 Nov 1996 23:09:12 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 14 Nov 1996 08:36:49 GMT
+Content-length: 1808
+
+Anand Desai's Home Page
+
+Anand Desai
+
+
+Contact information
+
+Email:
+
+adesai@cs.ucsd.edu
+
+Phone:
+(619) 587-0951
+
+Mailing Address:
+7655 Palmilla Drive, #4210, San Diego, CA 92122
+
+Office:
+AP&M 3313
+
+Phone:
+(619) 822-1415
+
+Mailing Address:
+Department of Computer Science & Engineering,
+Mail Code 0114, University of California at San Diego,
+9500 Gilman Drive, La Jolla, CA 92093-0114.
+
+
+Research
+I am currently working with
+Mihir Bellare
+and
+Eron Jokipii
+investigating cryptography. We are a part of the
+Cryptograph and Security Laboratory
+.
+Courses
+
+I am a TA for CSE 105 for this quarter.
+
+
+CSE 105: Intro theory of computation:
+Information and handouts are
+available on the
+Course web page
+
+
+CSE 203: Combinatorial Algorithms
+
+
+CSE 291E: Distributed Systems Security:
+Course web page
+
+Click
+here
+for the courses I have taken in previous quarters.
+
+
+Biographical sketch
+I am a graduate student in the second year of the Ph.D program in
+Computer Science
+at the
+University of California, San Diego
+. I received my BE (in Computer Engineering) from the University of Bombay in 1994. From 1994 to 1995 I worked at Digital Equipment Corporation in Bombay and at
+CommQuest Technologies Inc.
+, Encinitas, CA.

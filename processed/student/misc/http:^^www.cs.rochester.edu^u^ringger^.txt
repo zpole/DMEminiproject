@@ -1,0 +1,305 @@
+Date: Thursday, 21-Nov-96 23:39:29 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Thursday, 21-Nov-96 17:10:24 GMT
+Content-length: 10104
+
+
+Eric Ringger's Home Page
+
+
+
+
+
+
+
+
+
+Department of Computer Science
+University of Rochester
+Rochester, NY, USA 14627-0226
+
+tel: (716) 275-0922
+fax: (716) 461-2018
+
+
+
+
+
+
+
+B.S. (1992)
+Mathematics
+,
+Brigham Young University
+.
+Provo, Utah
+.
+M.S. (1994)
+Computer Science
+,
+University of Rochester
+.
+Rochester, New York
+.
+
+I'm a Ph.D. student working on
+the interface between
+Speech Recognition
+and
+Natural Language Understanding
+,
+incorporating
+Prosody
+.  I work with
+Prof. James Allen
+and other members of the
+TRAINS
+research group.  Visit our
+Speech research page
+.
+My other research interests include:
+
+Pattern Recognition,
+Statistical Language Learning and Processing,
+Human-Computer Interaction,
+Multimodal Interfaces.
+
+Most recently,
+James
+,
+Brad Miller
+,
+George Ferguson
+, and I have been
+working on a
+conversationally proficient logistical planning
+assistant
+.
+"TRAINS-96"
+.
+The '96 system involves several modes of transportation, cargo, and a
+sophisticated model of cost.  Depending on the research perspective,
+we also call the system a "natural dialgoue system" and a
+"mixed-initiative planning assistant"
+
+In the not too distant future, we hope to put TRAINS here on the Web.
+For the time being, a
+QuickTime movie (10 MB)
+of a dialogue with TRAINS-95 will
+have to do.
+
+During recent summers, I have worked with the
+Natural Language Processing research group
+at
+Microsoft Research
+.
+The
+Speech Recognition group
+there is also doing some
+interesting work
+.  Likewise for the
+User Interfaces group
+.
+Professional Associations:
+
+
+
+ACL
+
+
+
+AAAI
+
+
+
+IEEE and its Signal Processing Society
+
+
+
+
+
+
+
+
+Eric K. Ringger and James F. Allen.
+"A Fertility Channel
+Model for Post-Correction of Continuous Speech Recognition."
+In
+Proceedings of the
+Fourth International Conference on Speech and Language Processing
+(ICSLP'96)
+.  October 1996.
+
+
+James F. Allen, Bradford W. Miller, Eric K. Ringger, and Teresa Sikorski.
+"A Robust System for
+Natural Spoken Dialogue."
+In
+
+Proceedings of the 34th Annual Meeting of the Association for
+Computational Linguistics (ACL'96)
+.  Santa Cruz, CA.
+June 1996.
+
+
+Eric K. Ringger and James F. Allen.
+"Error Correction via a
+Post-Processor for Continuous Speech Recognition."
+In
+Proceedings of the
+1996 IEEE International Conference on Acoustics, Speech,
+and Signal Processing (ICASSP'96)
+.  May 1996.
+
+
+Eric K. Ringger.
+"A Robust Loose
+Coupling for Speech Recognition and Natural Language
+Understanding."
+University of Rochester Computer Science
+Department Technical Report TR-592.  A revision of the author's
+Thesis Proposal, presented and defended on May 23, 1995.
+Dissertation committee members:
+James Allen
+,
+Len Schubert
+, and
+Richard Aslin
+.
+
+
+James F. Allen, George Ferguson, Bradford W. Miller, and Eric K. Ringger.
+"Spoken Dialogue
+and Interactive Planning."
+In
+Proceedings of the 1995 ARPA
+Spoken Language Systems Technology (SLST) Workshop
+in Austin, Texas.
+January 1995.
+
+
+
+
+
+
+
+Family
+
+I married
+Kirsti Asplund
+on
+August 15, 1990.  If you know her,
+send her a note
+at the
+George
+Eastman House, International Museum of Photography and Film.
+
+
+
+
+
+
+
+I'm a member of the
+
+Church of Jesus Christ of Latter-Day Saints
+("LDS"
+or "Mormon").
+The folks at Infobases maintain
+a great page
+with all kinds of LDS-related information.
+
+
+
+
+
+
+
+I served a full-time mission for the LDS church in
+Munich, Germany
+.
+David Bowie maintains the
+Munich Mission Home-page
+.
+
+
+
+
+
+
+I'm an avid
+NEXTSTEP
+user and programmer.
+Check out
+StepWise
+for
+NEXTSTEP-related resources.
+
+
+
+
+
+
+I refuse to work without
+Perl
+!
+
+
+
+
+
+
+
+Click here for my PGP Public Key.
+
+
+
+
+Plan
+
+
+
+Click here for my .plan file.
+
+
+
+
+
+
+
+[
+The TRAINS Project
+]
+[
+UR CS Grads
+]
+[
+UR CS Dept. Home
+]
+[
+UR Home
+]
+[
+Rochester, NY
+]
+
+
+
+
+
+
+
+
+
+
+
+Last Change 96 Nov 21 by
+-->
+Stylized text courtesy of
+Pixelsight.
+
+
+
+

@@ -1,0 +1,185 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 19:19:58 GMT
+Content-Type: text/html
+Content-Length: 5555
+Last-Modified: Thursday, 03-Oct-96 19:19:20 GMT
+
+
+Mitchell Wand
+
+
+
+Mitchell Wand
+
+
+
+
+
+
+
+
+
+Mitchell Wand
+College of Computer Science, Northeastern University
+360 Huntington Avenue #161CN,
+Boston, MA 02115
+Internet: wand@ccs.neu.edu
+Phone: (617) 373-2072 / Fax:   (617) 373-5121
+
+
+[
+personal
+|
+teaching
+|
+research
+|
+miscellaneous
+|
+bibliography
+]
+[
+CNN
+|
+Weather
+|
+Altavista
+|
+Language
+People
+|
+CS Glimpse Server
+|
+Hypatia archive
+|
+favorite links
+]
+
+Information about
+Continuations Workshop '97
+, to
+be held in January 1997 in conjunction with
+POPL '97
+in Paris.
+
+
+Personal
+
+Click here for the home pages for
+Northeastern
+University
+and the
+College of Computer
+Science
+.
+Click here for information about the
+graduate program
+in Computer Science at
+Northeastern.
+
+Finger me
+to see if I am
+currently logged in.
+A 1994
+picture of my
+family
+.  You can also look at home pages for my daughter
+Jennifer
+and my son
+Joshua
+.
+As someone who can write HTML, I've stopped using hotlists,
+bookmarks, or what have you.  Instead, I've got a
+jump table
+to the places I like to
+go.  (I've actually told my browser that this is my home page).
+I've recently discovered that my  Erdös number is 3.  The
+path
+is based on data from the
+Erdös
+Number Project
+.
+
+
+Teaching
+Information on my Programming Languages course
+COM 3351
+Materials related to our book
+
+Essentials of Programming Languages
+Information on my Semantics Course
+COM 3357
+
+
+
+Research
+
+Semantics research at NU
+.  This
+includes links to other people here at NU.  We run a weekly
+seminar
+.
+My
+ftp directory.
+An
+experimental bibliography
+of my papers,
+with links to the documents.  This document is also available in Bibtex form
+here
+.  This document was produced by the
+bibtex style
+html.bst
+.
+
+A large Bibtex database
+of references in
+semantics, etc.
+
+Computer Science Bibliography Glimpse Server
+
+The Scheme
+FAQ
+, including information on how to get an implementation of Scheme for your
+favorite machine.
+Some useful pages at CMU:  The
+CMU CS Fox Project
+,
+Programming Language Research
+, and
+Semantics-Based Program Analysis and Manipulation
+.  Also
+Researchers in Programming Languages and Compilers
+.
+The
+Scheme
+repository
+, formerly administered by oz (Ozan Yigit), but now moved to
+Indiana University, and administered by John Zuckerman and David Eby.
+
+An enlightening report on the
+Ariane 5 disaster
+.
+
+Miscellaneous
+
+My Mosaic
+hotlist
+, with links to
+many more places that seemed interesting at one time or another.  This is
+updated nightly.
+My current Netscape
+bookmark list
+.
+
+The
+bylaws
+of the
+Northeastern University Graduate Council.  These were produced by
+latex2html
+.
+Play URL
+roulette
+
+
+

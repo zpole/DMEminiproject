@@ -1,0 +1,58 @@
+Server: Netscape-Communications/1.1
+Date: Tuesday, 10-Dec-96 14:45:36 GMT
+Content-type: text/html
+
+UW Department of Atmospheric Sciences Home Page
+
+
+
+
+
+Department of Atmospheric Sciences
+We are located in the Atmospheric Sciences Building on the
+University of Washington
+(affectionately known as the U dub) campus in Seattle, Washington.
+The
+weather observations on the top of the building
+on
+1444 10 December 1996
+UTC
+are:
+
+Temperature 47 F ( 8.3 C), Wind S at 11 gusting to 16 knots, Pressure 986 millibars
+
+
+
+Current infrared satellite image and surface map
+
+
+
+Department Information
+
+Weather data and forecasts
+
+Local resources on this server
+
+Other weather servers
+
+Other WWW servers
+
+
+harry@atmos.washington.edu
+(Harry Edmon)
+
+Numbers That May Interest You
+As of now (1445 10 December 1996 UTC):
+
+This page has been retrieved from the server
+441608
+times since 2320 8 May 1995 UTC.
+A total of
+82719
+different computers have retrieved this page.
+LUNG.LEARNING.CS.CMU.EDU
+has retrieved this page
+1
+times.
+
+

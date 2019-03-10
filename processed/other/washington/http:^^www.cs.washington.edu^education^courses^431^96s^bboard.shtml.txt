@@ -1,0 +1,1536 @@
+Date: Mon, 02 Dec 1996 14:44:42 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 431 Bboard/Mail Log
+
+
+
+CSE 431 - Intro to Theory of Computation
+Bboard/Mail Log
+Spring 1996
+This page contains a log of all email sent to the CSE431 class
+mailing list
+cse431@cs
+.  We will use this list for
+announcements of general interest to the class.  Students should
+also feel free to use it to ask questions, post information, or
+initiate discussions  of general interest to the class.  Of course,
+questions or comments that don't seem of general interest can be
+directed to the
+TA         (
+jayram@cs
+) or
+instructor (
+ruzzo@cs
+),
+instead.
+Following usual Internet conventions, administrative requests
+concerning the mailing list itself, such as add/delete/address
+change requests, should be addressed to
+cse431-request@cs
+.
+Index of Messages
+(Latest message Friday, 31-May-96 22:25:08 PDT.)
+
+
+26 Mar 96 ruzzo@cs ______ CSE 431 mailing list & web
+
+28 Mar 96 ruzzo@cs ______ textbook errata
+
+3 Apr 96 jayram@curie __ hw1
+
+3 Apr 96 ruzzo@cs ______ HW1
+
+4 Apr 96 roske@cs ______ HW 1 #3.2
+
+4 Apr 96 claym@cs ______ Re: HW1
+
+4 Apr 96 claym@cs ______ Re: HW 1 #3.2
+
+4 Apr 96 jmur@cs _______ Re: HW1
+
+4 Apr 96 jmur@cs _______ Re: HW1
+
+4 Apr 96 claym@cs ______ Re: HW1
+
+4 Apr 96 ruzzo@cs ______ Re: HW 1 #3.2
+
+4 Apr 96 ruzzo@cs ______ Re: HW1
+
+4 Apr 96 ruzzo@cs ______ Re: HW1
+
+4 Apr 96 claym@cs ______ Re: HW1
+
+7 Apr 96 ruzzo@cs ______ Office Hours This week
+
+16 Apr 96 ruzzo@cs ______ Re: CSE431: Hw #2 questions
+
+16 Apr 96 ruzzo@cs ______ Re: CSE431: Hw #2 questions
+
+17 Apr 96 roske@cs ______ Re: CSE431: Hw #2 questions
+
+17 Apr 96 jayram@cs _____ Re: CSE431: Hw #2 questions
+
+17 Apr 96 ruzzo@cs ______ Re: CSE431: Hw #2 questions
+
+18 Apr 96 jayram@cs _____ statistics for hw1
+
+19 Apr 96 jayram@curie __ office hours today
+
+22 Apr 96 ruzzo@cs ______ Office hours/Midterm
+
+23 Apr 96 ruzzo@cs ______ Re: Homework #3, 5.7
+
+25 Apr 96 ruzzo@cs ______ Partner's
+
+26 Apr 96 claym@cs ______ Apr
+
+27 Apr 96 ruzzo@cs ______ exercise
+
+2 May 96 roske@cs ______ HW #3 Problem 5.7
+
+2 May 96 ruzzo@cs ______ Re: HW #3 Problem 5.7
+
+4 May 96 roske@cs ______ HW Solution Questions
+
+7 May 96 ruzzo@cs ______ talk today
+
+7 May 96 ruzzo@cs ______ Re: talk today
+
+13 May 96 ruzzo@cs ______ book review
+
+15 May 96 roske@cs ______ HW #4
+
+16 May 96 roske@cs ______ HW 4 Prob. 7.30
+
+17 May 96 jayram@cs _____ Re: NP vx. NP
+
+17 May 96 ruzzo@cs ______ late HW policy
+
+28 May 96 jayram@cs _____ Re: Proofs
+
+29 May 96 ruzzo@cs ______ Re: Handout 6
+
+29 May 96 jayram@cs _____ hws etc.
+
+30 May 96 roske@cs ______ HW #5 #7 part (3)
+
+30 May 96 jayram@cs _____ Re: HW #5 #7 part (3)
+
+30 May 96 jayram@cs _____ hint for UHAMPATH
+
+30 May 96 jayram@cs _____ hw4
+
+30 May 96 fineman@grizzly A little end-of-the-quarter thought
+
+31 May 96 jayram@hobbes _ solutions for the 3-COLOR and UHAMPATH
+
+31 May 96 jayram@hobbes _ hot off the oven
+
+31 May 96 ruzzo@cs ______ Midterm solution
+
+31 May 96 jayram@cs _____ hw5 solutions
+
+31 May 96 jayram@cs _____ solutions to 3-COLOR and UHAMPATH
+
+31 May 96 jayram@cs _____ class web
+
+
+
+
+Messages
+
+
+Date: 26 Mar 1996 20:59 PST
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+CSE 431 mailing list & web
+
+Welcome to CSE 431!
+
+If you got this message, you're on the CSE 431 class mailing list
+for Spring '96.  We will use this list for announcements of general
+interest to the class, and you should also feel free to use it to
+ask questions, post information, or initiate discussions.  Of
+course, questions or comments that don't seem of general interest
+can be directed to jayram@cs or ruzzo@cs, instead.
+
+All mail is also logged to the course web, in case you want to
+scroll back though messages you didn't save, etc.
+
+Following usual Internet conventions, administrative requests
+concerning the mailing list itself, such as add/delete/address
+change requests, should be addressed to cse431-request@cs.
+
+Hope you enjoy the course!
+Date: 28 Mar 1996 23:49 PST
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+textbook errata
+
+I've added a link from the class home page to Sipser's page of
+errata for his book.  If you see things that look wrong in the text,
+check his list to see if you've found a reported bug.  (There are a
+handfull in chapter 3, for example.)  If it has not been reported,
+and you're pretty sure it's wrong, please send email to me and/or
+sipser@math.mit.edu.  [Mike is very meticulous.  I'm sure he'd like
+to hear about even tiny things like commas out of place before he
+creates the final edition of the book.]
+Date: Wed, 3 Apr 1996 13:06:52 -0800
+From:
+jayram@curie (Jayram Thathachar)
+To: cse431@cs
+Subject:
+hw1
+
+Exercise 3.3 deals with enumerators which have not been talked about
+in class as yet. That section is quite readable though and you should
+be able to understand the proof of Theorem 3.9 quite easily.
+Both LArry and I feel that you should be ableto solve Problem 3.3
+after going through that material. So it will still be part of the
+turn-in on Friday. But if any of you have problems, let me know
+and you can submit the solution to that problem alone on Monday.
+
+For Exercise 3.2, go through the definition of  a non-deterministic
+decider quite carefully to understand exactly what you need to show.
+
+-jayram
+Date: 3 Apr 1996 13:32 PST
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+HW1
+
+#3.3 ps: there is no late penalty for turning in #3.3 on monday.  Take
+a stab at it, I think many of you will have no trouble with it.  But
+if you do, don't panic!  I'll talk about enumerators 1st thing
+friday .
+
+#3.2: There's a crucial bug in the text related to this problem ---
+in the first sentence in the paragraph preceeding corollary 3.8
+(p122), it is *NOT* true that D will always halt if N does.  In
+particular, D will run forever on any input w that N rejects, even
+though N halts on all paths on input w.
+Date: Thu, 4 Apr 1996 17:14:30 -0800 (PST)
+From:
+Larry Roske <roske@lynx.cs.washington.edu>
+To: cse431@lynx.cs.washington.edu
+Subject:
+HW 1 #3.2
+
+Hi, I have questions regarding Homework #1:
+
+First, I don't understand why D will run forever on any input w
+that N rejects.  N rejects a string w if it reaches the end of
+w and is not in q_accept.  D simulates N with a copy of w on
+tape 2, and by following a particular branch of N via the
+node addresses given on tape 3.  If some branch results in a
+rejecting configuration, why shouldn't D also reject?
+
+Second, I'm not sure what is meant by the last sentence on
+page 121:  "Sometimes a symbol may not correspond to any choice
+if too few choices are available for a configuration."
+
+Third, some clarification on #5 (b):  the example ADD instruction
+given combines the use of literal and indirect addressing?  Where
+literal addressing refers to, what I learned as, an immediate
+instruction in CSE 378.  So I take it that the "=" symbol means
+that j is a literal or constant, and k up-arrow is an address?
+
+Thanks,
+
+--Larry
+Date: Thu, 4 Apr 1996 18:36:17 -0800 (PST)
+From:
+Michael Clay <claym@wolf.cs.washington.edu>
+To: Larry Ruzzo <ruzzo@cs.washington.edu>
+cc: cse431@cs.washington.edu
+Subject:
+Re: HW1
+
+On 3 Apr 1996, Larry Ruzzo wrote:
+
+> #3.2: There's a crucial bug in the text related to this problem ---
+> in the first sentence in the paragraph preceeding corollary 3.8
+> (p122), it is *NOT* true that D will always halt if N does.  In
+> particular, D will run forever on any input w that N rejects, even
+> though N halts on all paths on input w.
+
+Why does N run forever?  What is it doing, once it has run out
+of "lexicographically next strings"?  Besides halting in a reject
+state, that is.
+
+> #3.3 ps: there is no late penalty for turning in #3.3 on monday.  Take
+> a stab at it, I think many of you will have no trouble with it.  But
+> if you do, don't panic!  I'll talk about enumerators 1st thing
+> friday .
+
+I think that this text has enough bugs and the rug has been pulled
+out from under us enough times on this assignment, that the entire
+*assignment* should be due Monday, not just 3.3.
+
+Please advise,
+
+Michael (claym@wolf.cs.washington.edu)
+Date: Thu, 4 Apr 1996 18:46:38 -0800 (PST)
+From:
+Michael Clay <claym@wolf.cs.washington.edu>
+To: Larry Roske <roske@cs.washington.edu>
+cc: cse431@lynx.cs.washington.edu
+Subject:
+Re: HW 1 #3.2
+
+On Thu, 4 Apr 1996, Larry Roske wrote:
+
+> Hi, I have questions regarding Homework #1:
+>
+> First, I don't understand why D will run forever on any input w
+> that N rejects.
+
+Neither do I, and I've put my 2 cents in about it.
+
+>                  N rejects a string w if it reaches the end of
+> w and is not in q_accept.  D simulates N with a copy of w on
+> tape 2, and by following a particular branch of N via the
+> node addresses given on tape 3.  If some branch results in a
+> rejecting configuration, why shouldn't D also reject?
+
+Reread the last two sentences of stage 3 on page 122.  It should
+become clear.
+
+> Second, I'm not sure what is meant by the last sentence on
+> page 121:  "Sometimes a symbol may not correspond to any choice
+> if too few choices are available for a configuration."
+
+The sentence following clarifies what sentence in question means.
+The real question is how you get into a situation where a symbol
+does not correspond to any choice in the first place.  Reread the
+last paragraph on page 121 a few times and you'll figure it out.
+
+Hoping I have enlightened more than confused,
+
+Michael (claym@wolf.cs.washington.edu)
+Date: Thu, 4 Apr 1996 20:00:59 -0800 (PST)
+From:
+Jason Murray <jmur@grizzly.cs.washington.edu>
+To: Michael Clay <claym@cs.washington.edu>
+cc: Larry Ruzzo <ruzzo@cs.washington.edu>, cse431@cs.washington.edu
+Subject:
+Re: HW1
+
+On Thu, 4 Apr 1996, Michael Clay wrote:
+
+>
+>
+> On 3 Apr 1996, Larry Ruzzo wrote:
+>
+> > #3.2: There's a crucial bug in the text related to this problem ---
+> > in the first sentence in the paragraph preceeding corollary 3.8
+> > (p122), it is *NOT* true that D will always halt if N does.  In
+> > particular, D will run forever on any input w that N rejects, even
+> > though N halts on all paths on input w.
+>
+> Why does N run forever?  What is it doing, once it has run out
+> of "lexicographically next strings"?  Besides halting in a reject
+> state, that is.
+
+It doesn't run out of lexicographical next strings.  It doesn't say
+anywhere that it halts in a reject state.  The only way to make it halt
+is with an excepting state.
+
+
+
+Jason
+Date: Thu, 4 Apr 1996 20:04:18 -0800 (PST)
+From:
+Jason Murray <jmur@grizzly.cs.washington.edu>
+To: Michael Clay <claym@cs.washington.edu>,
+Larry Ruzzo <ruzzo@cs.washington.edu>, cse431@cs.washington.edu
+Subject:
+Re: HW1
+
+On Thu, 4 Apr 1996, Jason Murray wrote:
+
+>
+> On Thu, 4 Apr 1996, Michael Clay wrote:
+>
+> >
+> >
+> > On 3 Apr 1996, Larry Ruzzo wrote:
+> >
+> > > #3.2: There's a crucial bug in the text related to this problem ---
+> > > in the first sentence in the paragraph preceeding corollary 3.8
+> > > (p122), it is *NOT* true that D will always halt if N does.  In
+> > > particular, D will run forever on any input w that N rejects, even
+> > > though N halts on all paths on input w.
+> >
+> > Why does N run forever?  What is it doing, once it has run out
+> > of "lexicographically next strings"?  Besides halting in a reject
+> > state, that is.
+>
+> It doesn't run out of lexicographical next strings.  It doesn't say
+> anywhere that it halts in a reject state.  The only way to make it halt
+> is with an excepting state.
+>
+>			Jason
+>
+
+
+Oops, I mean accepting........ :)
+
+
+Jason
+Date: Thu, 4 Apr 1996 20:45:37 -0800 (PST)
+From:
+Michael Clay <claym@wolf.cs.washington.edu>
+To: Jason Murray <jmur@cs.washington.edu>
+cc: Larry Ruzzo <ruzzo@cs.washington.edu>, cse431@cs.washington.edu
+Subject:
+Re: HW1
+
+On Thu, 4 Apr 1996, Jason Murray wrote:
+
+> > It doesn't run out of lexicographical next strings.  It doesn't say
+> > anywhere that it halts in a reject state.  The only way to make it halt
+> > is with an excepting state.
+>
+> Oops, I mean accepting........ :)
+
+Yeah, I figured that out while trying to answer Larry's questions.
+Like Prof. Ruzzo said, this is pretty dense reading.  The more I
+read, the denser I feel. ;^)
+
+Thanks,
+Michael (claym@u.washington.edu)
+Date: 4 Apr 1996 20:23 PST
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: Larry Roske <roske@lynx.cs.washington.edu>
+Subject:
+Re: HW 1 #3.2
+Cc: cse431@lynx.cs.washington.edu
+other students nicely answered most of this.  I have just a few more
+comments.
+
+> Subject: HW 1 #3.2
+>
+> Hi, I have questions regarding Homework #1:
+>
+> First, I don't understand why D will run forever on any input w
+> that N rejects.  N rejects a string w if it reaches the end of
+> w and is not in q_accept.
+
+You're confusing TM's with finite automata and PDA's, where reaching
+the end of the input was part of the definition of acceptance.  It's
+NOT part of the definition for TM's.  (Where IS the end of the input
+after I erase it, or add to it or otherwise mangle it?  We could
+define it, I suppose, but the TM definition is simpler without it --
+you accept if you enter q_accept.  Period.
+
+> D simulates N with a copy of w on
+> tape 2, and by following a particular branch of N via the
+> node addresses given on tape 3.  If some branch results in a
+> rejecting configuration, why shouldn't D also reject?
+
+There are perhaps 2 questions here.  (1) why doesn't it accept:
+because D is programmed to do something else when it determines that
+N has reached q_reject.  (2) why couldn't we change it to reject:
+because then D would accept a different language than N does.  This
+is a really important (and often misunderstood) feature of nondet
+machines.  In an NTM, q_reject is sort of poorly named.  q_dead-end
+might be a better name.  Think about the example of accepting
+polynomials p(x) having integer roots.  Give it, say x^2-1.  What
+happens on the path in the tree where it "guesses" x=5?  It
+evaluates p(5), gets 25-1 = 24 != 0, and so enters q_reject.  Does
+that mean p has no integer root?  NO!  it just means the particular
+guess it was following on that path didn't pan out, but by no means
+does it mean that some/many other guesses couldn't work (e.g. x=+-1
+in this case).  So bazillions of paths ending in q_reject don't mean
+the input is rejected; only the total absence of paths ending in
+q_accept mean that it rejects.  Yes, very asymmetric.  Think of it
+like Lotto tickets -- just because me and everyone else I happen to
+know buy loosing tickets, doesn't mean there isn't a winner.  Can I
+tell whether there is a winner by looking only at my ticket?  I can
+if I'm one of the lucky winners, but not if I'm a looser; you have
+to look at ALL the tickets to verify they're all loosers before you
+know for sure there is no winner.
+
+> Second, I'm not sure what is meant by the last sentence on
+> page 121:  "Sometimes a symbol may not correspond to any choice
+> if too few choices are available for a configuration."
+>
+> Third, some clarification on #5 (b):  the example ADD instruction
+> given combines the use of literal and indirect addressing?  Where
+> literal addressing refers to, what I learned as, an immediate
+> instruction in CSE 378.  So I take it that the "=" symbol means
+> that j is a literal or constant, and k up-arrow is an address?
+
+Yes.  (The syntax isn't important, of course, just happens to be what
+I remember from the Tyranasauriac assembler.)
+Date: 4 Apr 1996 21:13 PST
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: Michael Clay <claym@wolf.cs.washington.edu>
+Subject:
+Re: HW1
+Cc: cse431@cs.washington.edu
+I think that this text has enough bugs and the rug has been pulled
+out from under us enough times on this assignment, that the entire
+*assignment* should be due Monday, not just 3.3.
+
+hmmm...  I think there was only that one bug relevant to this
+assignment (which is listed on sipser's web errata page by the way),
+so I don't think you should need more time, but if you really really
+want it, I guess I could take #3.2 on monday also.
+
+By the way, I hate having a book with errors, too.  So far, even
+though this one is labeled "Preliminary edition", I havn't found it
+any worse that 10 year old n-th editions I've used, and the online
+errata list is much better than usual.  The good news should be that
+KNOWING there are errors in the book might nudge us all to read
+it more carefully -- not an altogether bad habit.
+Date: 4 Apr 1996 21:42 PST
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: Jason Murray <jmur@grizzly.cs.washington.edu>
+Subject:
+Re: HW1
+Cc: cse431@cs.washington.edu
+> Date: Thu, 4 Apr 1996 20:00:59 -0800 (PST)
+> From: Jason Murray <jmur@grizzly.cs.washington.edu>
+> To: Michael Clay <claym@cs.washington.edu>
+> cc: Larry Ruzzo <ruzzo@cs.washington.edu>, cse431@cs.washington.edu
+> Subject: Re: HW1
+>
+> On Thu, 4 Apr 1996, Michael Clay wrote:
+>
+> > On 3 Apr 1996, Larry Ruzzo wrote:
+> >
+> > > #3.2: There's a crucial bug in the text related to this problem ---
+> > > in the first sentence in the paragraph preceeding corollary 3.8
+> > > (p122), it is *NOT* true that D will always halt if N does.  In
+> > > particular, D will run forever on any input w that N rejects, even
+> > > though N halts on all paths on input w.
+> >
+> > Why does N run forever?  What is it doing, once it has run out
+> > of "lexicographically next strings"?  Besides halting in a reject
+> > state, that is.
+>
+> It doesn't run out of lexicographical next strings.  It doesn't say
+> anywhere that it halts in a reject state.  The only way to make it halt
+> is with an excepting state.
+
+small clarification: that particular algorithm never enters a reject
+state; other TM's sometimes do and they always halt if they do.  (I
+was afraid someone would misread your statement as saying that
+q_reject is not a halting state; it is.)
+Date: Thu, 4 Apr 1996 22:09:19 -0800 (PST)
+From:
+Michael Clay <claym@wolf.cs.washington.edu>
+To: Larry Ruzzo <ruzzo@cs.washington.edu>
+cc: cse431@cs.washington.edu
+Subject:
+Re: HW1
+
+On 4 Apr 1996, Larry Ruzzo wrote:
+
+>     I think that this text has enough bugs and the rug has been pulled
+>     out from under us enough times on this assignment, that the entire
+>     *assignment* should be due Monday, not just 3.3.
+>
+> hmmm...  I think there was only that one bug relevant to this
+> assignment (which is listed on sipser's web errata page by the way),
+
+It wasn't in the errata last week (last updated 2/5/96.)
+Interestingly enough, the errata (last updated 3/27/96) now
+shows that you submitted this bug 3/29/96.  Is the author
+psychic or do we need errata for the errata.
+
+> so I don't think you should need more time, but if you really really
+> want it, I guess I could take #3.2 on monday also.
+
+Am I the only one who has gotten stuck beating his head on the
+first (buggy) problem and second (not covered yet) problem?
+If so, I would have expected to see more questions on the following
+problems than have been posted to the group.
+
+I personally didn't finish the third problem till just a few minutes
+ago and am not looking forward to working on the fourth and fifth
+problems till the wee hours of the morning.
+
+> By the way, I hate having a book with errors, too.  So far, even
+> though this one is labeled "Preliminary edition", I havn't found it
+> any worse that 10 year old n-th editions I've used, and the online
+> errata list is much better than usual.
+
+My more cynical side suggests that the errata list is short because
+the text hasn't been around long enough to collect many bug reports.
+(The earliest listed erratum is only 11/22/95!)
+
+>                                         The good news should be that
+> KNOWING there are errors in the book might nudge us all to read
+> it more carefully -- not an altogether bad habit.
+
+This would be pretty dense reading even without the bugs.
+Just my 2 cents worth.
+
+See you after problem# 4.
+
+Michael (claym@wolf.cs.washington.edu)
+Date: 7 Apr 1996 23:39 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+Office Hours This week
+
+Jayram and I are switching our monday/friday hours this week:
+Monday 4/8 : 1:00-2:00 ruzzo  sieg 415
+Friday 4/12: 1:00-2:00 jayram sieg 326 (I think)
+Date: 16 Apr 1996 21:18 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+Re: CSE431: Hw #2 questions
+
+I have a couple of questions I hope you can answer for me.  In
+ex. 4.17 is the language C accepting prefixes of the strings D
+accept?
+
+Not quite.  In "xy", x is a prefix, perhaps without any clear
+boundary marking the end of x from the begining of y, but in "<x,y>"
+they're encoded so that the boundary between x and y is clearly
+visible.  E.g. perhaps x and y are from an alphabet like {0,1} that
+lacks the ",", "<", and ">" characters, and "<x,y>" means literally
+stick x and y together with those three punctuation characters.
+
+In doing our proof I assume we as usual have got to show both
+directions of the statement we are to prove.  In this case, we
+would have to show 1) when C is enumerable we must construct D
+and 2) when we have D that C is enumberable, is this correct or
+am I totally off on a tangent here?
+
+Just right.
+Date: 16 Apr 1996 23:20 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+Re: CSE431: Hw #2 questions
+
+In ex. 3.9 & 3.10 is it sufficient to give informal descriptions
+of the TM's that would accept these languages?  Also I have some
+trouble seeing the difference between 3.9 & 3.10.  When doing
+3.9 I'm constructing TM's that accept these languages (i.e. when
+concatenating L=L1L2) and using the "sublanguages" (in this case
+L1 and L2) as subroutines.  In 3.10 couldn't I just do the same
+while just being careful from depending on subroutines that
+might loop?
+
+Yes, the key difference between 3.9 and 3.10, i.e. between deciders
+and acceptors, is that you must be careful that the former
+always halt, and that looping in the later doesn't cause inputs
+to be rejected when you don't want them to be rejected.
+
+"Informal descriptions": through out the rest of the quarter, unless
+otherwise specified, I want "high level descriptions" as discussed
+on page 127.
+
+Two small points:
+1) in 3.9 you're constructing TM's that "decide" these languages,
+not merely "accept".
+2) L1 and L2 aren't subroutines, although machines that
+decide or accept them can be.  I hate to be pedantic about small
+points like this, but I think students get themselves confused,
+sometimes deeply confused, by a collection of small things like
+this.  L1 is a language, i.e. a set of strings; if L1 is decidable
+there is some program/TM, say M1, that distinguishes those strings
+in L1 from those strings not in L1. (And there may be lots of other
+programs that can also do this job.)
+Date: Wed, 17 Apr 1996 04:53:23 -0700 (PDT)
+From:
+Larry Roske <roske@lynx.cs.washington.edu>
+To: Larry Ruzzo <ruzzo@cs.washington.edu>
+cc: cse431@cs.washington.edu
+Subject:
+Re: CSE431: Hw #2 questions
+
+I see that for enumerable union we need to avoid looping to
+check acceptance by one OR the other TM, but is this necessary
+for enumerable cat, star, and intersection since if the
+first TM loops (in cat or intersection) this doesn't accept
+which is what we want anyway in these cases?
+
+On 16 Apr 1996, Larry Ruzzo wrote:
+
+> Yes, the key difference between 3.9 and 3.10, i.e. between deciders
+> and acceptors, is that you must be careful that the former
+> always halt, and that looping in the later doesn't cause inputs
+> to be rejected when you don't want them to be rejected.
+>
+To: Larry Roske <roske@lynx.cs.washington.edu>
+cc: cse431@cs.washington.edu
+Subject:
+Re: CSE431: Hw #2 questions
+In-reply-to: Your message of "Wed, 17 Apr 1996 04:53:23 PDT."
+<Pine.ULT.3.91.960417044845.956A-100000@lynx.cs.washington.edu>
+Date: Wed, 17 Apr 1996 08:38:40 PDT
+From:
+------------------------------------------------------------------------ <jayram@arnica.cs.washington.edu>
+
+>>>>> "LR" == Larry Roske <roske@lynx.cs.washington.edu> writes:
+
+LR> I see that for enumerable union we need to avoid looping to check
+LR> acceptance by one OR the other TM, but is this necessary for
+LR> enumerable cat, star, and intersection since if the first TM loops
+LR> (in cat or intersection) this doesn't accept which is what we want
+LR> anyway in these cases?
+
+You have to be careful about concatenation and star. Note that if w
+belongs to K.L for two languages K and L, w can be written as uv,
+where u is in K and v is in L. BUT the crucial thing is that the
+decomposition is **not known in advance**, meaning that
+w itself does not encode where u ends and v begins.
+Furthermore, the decomposition may not be unique.
+
+Contrast this with the language
+{ <u,v> | u in K and v in L }
+where from the input w=<u,v>, we can extract the two parts u and v in
+a unique way.
+
+Similar remarks apply for star as well.
+
+-jayram.
+Date: 17 Apr 1996 08:49 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: Larry Roske <roske@lynx.cs.washington.edu>
+Subject:
+Re: CSE431: Hw #2 questions
+Cc: cse431@cs.washington.edu, Larry <ruzzo@cs.washington.edu>
+that's OK for intersection, but not clear to me for cat or star.
+To: cse431@cs
+Subject:
+statistics for hw1
+Date: Thu, 18 Apr 1996 11:07:46 PDT
+From:
+------------------------------------------------------------------------ <jayram@arnica.cs.washington.edu>
+
+Low: 22
+High: 48
+Avg: 39.1
+
+Each question was worth 10pts for a total of 50.
+-jayram.
+Date: Fri, 19 Apr 1996 11:58:00 -0700
+From:
+jayram@curie (Jayram Thathachar)
+To: cse431@cs
+Subject:
+office hours today
+
+Prof. Ruzzo will not be holding office hours today. Please send mail
+to him if you need to meet him.
+
+-jayram.
+Date: 22 Apr 1996 13:03 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+Office hours/Midterm
+
+1) Effective today, Mondays 1:00-2:00 office hour will  be Ruzzo
+(415 sieg) & Fridays 1:00-2:00 will be Jayram (sieg326).  I.e. times
+are unchanged, but we've traded days.  Other previously announced
+hours are unchanged.
+
+2) MIDTERM will be in class, Monday May 6.
+Date: 23 Apr 1996 21:57 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: David Mears <dmears@grizzly.cs.washington.edu>
+Subject:
+Re: Homework #3, 5.7
+Cc: cse431@cs
+> Date: Tue, 23 Apr 1996 21:28:37 -0700 (PDT)
+> From: David Mears <dmears@grizzly.cs.washington.edu>
+> Subject: Homework #3
+>
+> Problem 3 ( exercise 5.7 ) on the new homework has me wondering what the
+> definition of an 'enumerable problem' is.  It seems like it should go
+> something like this:
+>
+> We say that a problem is enumerable if it can be restated as a test for
+> membership in an enumerable language.
+>
+> Is this correct?
+
+yes.  I'd even go further and say, at least for purposes of this
+exercise, that "enumerable problem" and "enumerable language" are
+synonyms.
+Date: 25 Apr 1996 11:20 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+Partner's
+
+If you have NOT yet arranged a partner for prob 1 on the next HW
+assignment, please let me know as soon as possible.
+Date: Fri, 26 Apr 1996 09:55:11 -0700 (PDT)
+From:
+Michael Clay <claym@wolf.cs.washington.edu>
+To: cse431@cs.washington.edu
+The errata list has more than doubled since the start of class, including
+some new errata for chapter 5.  If you haven't downloaded the errata list
+recently, you should.
+
+Cheer,
+Michael <claym@wolf.cs.washington.edu>
+Date: 27 Apr 1996 15:10 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+exercise
+
+At the end of class on friday, I suggested you think about , before
+monday's class, what questions about C programs are decidable
+vs undecidable.  As another slant on this, what programming errors
+could you catch at compile time?  The following talk announcement
+that happened to come out yesterday may give you some food for
+thought.  Don't worry if you don't understand all the buzz words in
+this; I don't either.
+
+PS: Nelson's a good guy; the talk might be interesting (but I'm
+certainly not suggesting that it's part of your 431 homework).
+>  _________________________________
+> From voting-faculty-request@june Fri Apr 26 11:09:28 1996
+> Date: Fri, 26 Apr 1996 10:33:06 -0700 (PDT)
+> From: Scott Dakins <sjdakins@cs.washington.edu>
+> To: talks@cs.washington.edu
+> Subject: UW-CSE Colloq / 5-7-96 / Nelson / DEC Systems Research Center
+/ Extended Static Checking
+>
+> UNIVERSITY OF WASHINGTON
+> Seattle, Washington 98195
+>
+> Department of Computer Science and Engineering
+> Box 352350
+> (206) 543-1695
+>
+> COLLOQUIUM
+>
+> SPEAKER:	Greg Nelson
+> 		DEC Systems Research Center
+>
+> TITLE:		Extended Static Checking
+>
+> DATE:		Tuesday, May 7, 1996
+>
+> TIME:		3:30 pm
+>
+> PLACE:		134 Sieg Hall
+>
+> HOST:		Anna Karlin
+>
+> ABSTRACT:
+>
+> I'll describe a system for detecting at compile time certain programming
+> errors that are not normally detected until run time, and sometimes
+> not even then.  For example, array bounds errors and NIL dereferences.
+> A special novelty of the system is its ability to detect race conditions
+> and deadlocks in multi-threaded programs.
+>
+> The system requires the programmer to annotate procedure declarations
+> with simple preconditions and postconditions.  These annotations
+> are much less onerous than the annotations that would be required
+> for a full program correctness proof.
+>
+> The checking is totally automatic. The checker reports errors by line number.
+>
+> The system is implemented for Modula-3, and handles essentially
+> all features of the Modula-3 safe language, including references,
+> objects with single inheritance, and concurrency.  Many parts of
+> the standard library for Modula-3 have been checked with the system,
+> including the object-oriented input-output stream library and the
+> generic sequence library.
+>
+>
+> Refreshments to follow.
+>
+>
+> Email: talk-info@cs.washington.edu
+>
+> Info: http://www.cs.washington.edu
+>
+>
+Date: Thu, 2 May 1996 19:24:14 -0700 (PDT)
+From:
+Larry Roske <roske@lynx.cs.washington.edu>
+To: cse431@lynx.cs.washington.edu
+Subject:
+HW #3 Problem 5.7
+
+Since A_TM is enumerable, can't we just use Theorem 5.22 which
+says that if A <=m B, and B is enumerable, then A is enumerable?
+
+--Larry
+Date: 2 May 1996 21:39 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: Larry Roske <roske@lynx.cs.washington.edu>
+Subject:
+Re: HW #3 Problem 5.7
+Cc: cse431@lynx.cs.washington.edu
+theorem 5.22 is an "If", not an "If and only if".
+
+> Date: Thu, 2 May 1996 19:24:14 -0700 (PDT)
+> From: Larry Roske <roske@lynx.cs.washington.edu>
+> To: cse431@lynx.cs.washington.edu
+> Subject: HW #3 Problem 5.7
+>
+> Since A_TM is enumerable, can't we just use Theorem 5.22 which
+> says that if A <=m B, and B is enumerable, then A is enumerable?
+Date: Sat, 4 May 1996 21:17:28 -0700 (PDT)
+From:
+Larry Roske <roske@lynx.cs.washington.edu>
+To: cse431@lynx.cs.washington.edu
+Subject:
+HW Solution Questions
+
+Jayram,
+
+After more careful reading of the homework solutions I
+wanted to clarify a couple of things:
+
+HW #1 Solution:  (just errata I think)
+1. For Problem 4, part a., first sentence:  0,1* should be {0,1}* ?
+
+2. For same problem, part b., 4th line:  u^R should just be u ?
+
+HW #2 Solution:
+1. Problem 5:  You used a^t instead of just a number t.  Is this
+because you wanted to encode the number as a string?
+
+HW #3 Solution:
+1. 5.7:  How would we write the solution using the format used
+in text and lecture--as follows?
+
+The following machine F computes a reduction f:
+F = "On input x:
+1. If x != <M, w> for any TM <M, w>, then output some fixed
+y0 not_in A_TM.
+
+2. Otherwise, build M' and output <M', w'>, where
+
+M'(M_L) = "On input w:
+1. Run M_L on w
+2. If M_L accepts, then accept; else reject.
+
+Where M'(M_L) means M' is parameterized with M_L, a TM that
+accepts any enumerable language.
+
+Thanks,
+
+--Larry
+Date: 7 May 1996 11:30 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+talk today
+
+A reminder, on the off chance that you were interested in the talk I
+mentioned...
+>  _________________________________
+> From voting-faculty-request@june Tue May  7 11:21:55 1996
+> To: cs-grads@geoduck, uw-systems@geoduck, faculty@geoduck
+> Subject: Colloquium reminder
+> Date: Tue, 07 May 1996 11:19:37 PDT
+> From: Anna Karlin <karlin@geoduck.cs.washington.edu>
+>
+>
+> Greg Nelson from DEC Systems Research Center is giving a colloquium
+> today at 3:30 on Extended Static Checking.
+> He's a really good guy, who's done great work in numerous areas
+> of computer science including programming languages, theorem
+> proving and distributed systems.
+> It should be a really interesting talk.
+>
+>
+Date: 7 May 1996 13:02 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: Kestutis Sereiva <kestas@grizzly.cs.washington.edu>
+Subject:
+Re: talk today
+Cc: cse431@cs
+in 134 Sieg.
+Date: 13 May 1996 09:35 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+book review
+
+I think I told you I will be sending the publisher a review of
+Sipser's book (in preparation for his final edition).  I'll probably
+compose it next weekend.  If you have comments about the book,
+please send them to me and I'll forward them.
+Date: Wed, 15 May 1996 20:40:43 -0700 (PDT)
+From:
+Larry Roske <roske@lynx.cs.washington.edu>
+To: cse431@lynx.cs.washington.edu
+Subject:
+HW #4
+
+FYI, in problem 7.13, the A refers to some language in P.
+
+--Larry
+Date: Thu, 16 May 1996 22:09:20 -0700 (PDT)
+From:
+Larry Roske <roske@lynx.cs.washington.edu>
+To: cse431@lynx.cs.washington.edu
+Subject:
+HW 4 Prob. 7.30
+
+I'm trying to polynomially reduce 2SAT to PATH, and then
+by Theorem 7.25, (if A <=P B, and B is in P, then A is in P)
+2SAT would be in P as desired, but am having difficulty.
+Any suggestions/insight, or would another strategy be easier?
+
+Thanks,
+
+--Larry
+To: Wade Barrett <wbarrett@wolf.cs.washington.edu>
+Cc: ruzzo@cs, cse431@cs
+Subject:
+Re: NP vx. NP
+In-reply-to: Your message of "Fri, 17 May 1996 11:45:15 PDT."
+<Pine.ULT.3.91.960517113836.21494B-100000@wolf.cs.washington.edu>
+Date: Fri, 17 May 1996 12:20:50 PDT
+From:
+"Jayram S. Thathachar" <jayram@arnica.cs.washington.edu>
+
+>>>>> "WB" == Wade Barrett <wbarrett@wolf.cs.washington.edu> writes:
+
+WB> Could you please tell me exactly what was being proved at the end
+WB> of class?  I would like to try to prove it myself.
+
+The two formulations of NP were
+
+L is in NP if
+
+(*) There is a poly-time verifier for L.
+
+(**) There is a poly-time NTM that decides L.
+
+Proof:
+(*) ==> (**)
+
+Suppose there is a verifier V for L that takes a pair <x,y> and
+accepts/rejects in time |x|^k then the poly-time NTM that
+decides  L works as follows:
+
+On input x:
+Guess y of length |y|^k.
+Accept iff V accepts <x,y>.
+
+(**) ==> (*)
+Suppose the NTM N decides L in time n^s.
+The poly-time verifier V should take a pair <x,y> and accept/reject
+<x,y> in time polynomial in |x| so that
+
+a. If x is in L, then for some y, V accepts <x,y>
+b. If x is not in L, then for all y, V rejects <x,y>
+
+Hint: Use the simulation of NTMs by DTMs (I'm not sure but I think it
+is Theorem 3.7) to do this.
+
+If you recall, this is similar to the HW problem that showed that a
+language C is enumerable if and only if there is a decidable language
+D such that
+a. if x is in C, then for some y, <x,y> is in D
+b. if x is not in C, then for all y <x,y> is not in D.
+
+Thus the DTM that decides D is the verifier for the enumerable language
+C (with no restrictions on running time). In some sense, the class of
+enumerable languages are to NP as the class of decidable languages to P.
+Date: 17 May 1996 22:27 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+late HW policy
+
+Just got back to town, to find several messages asking about late
+homework.  My usual policy is -10% for late papers, so if you didn't
+turn anything in today, or only turned in part of the assignment,
+it's certainly worth your while to try to finish it over the weekend.
+Sender: jayram@cs.washington.edu
+Date: Tue, 28 May 1996 21:26:13 -0700
+From:
+Jayram Thathachar <jayram@cs.washington.edu>
+To: cse431@cs
+Subject:
+Re: Proofs
+References: <Pine.ULT.3.91.960528204720.23910A-100000@wolf.cs.washington.edu>
+The language U in Problem 1(Ex 7.23) is very similar to ATM, in the
+sense it is "universal". Use what you know about ATM to figure this one
+out.
+
+> On problems 1 and 2 we need to show:
+> (a) that some language L is in NP
+> (b) that every other language in NP is <=p L, either directly or
+>     indirectly by reduction from some known NP-complete language.
+>
+> I'm having no problem with part (a), but I'm having a really difficult
+> time trying to find suitable reductions for part (b).  None of the
+> NP-complete languages we've covered in class seem suitable.
+--
+Jayram S. Thathachar                  jayram@cs.washington.edu
+Department of CSE              http://www.cs.washington.edu/homes/jayram
+University of Washington              +1 206 616-1843 (vox)
+Box 352350, Seattle, WA 98195         +1 206 543-2969 (fax)
+Date: 29 May 1996 08:37 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+Re: Handout 6
+
+> Date: Wed, 29 May 1996 08:25:45 -0700 (PDT)
+> Subject: Handout 6
+>
+> In Handout 6, problem 3c, I am getting a little lost in the notation.
+> A few questions:
+>
+> A)  Each x(i) seems to be each unique variable, made even more unique
+>     by whether it is negated or not?
+
+yes, there are m different variables.
+
+> B)  "Suppose 'x(i)' occurs in clauses numbered i(1),...,i(j)...."
+>     Does this mean that the variable MUST occur in each clause
+>     between i and j, inclusive?  (Obviously, the same question applies
+>     for the negated version.)
+
+No, not "inclusive": if x3 appears (not negated) in clauses 2, 3, 12
+and 17, then j=4 and i1=2, i2=3, i3=12 and i4=17 and
+a3=2+3+12+17=34.  (Really I should have used double subscripts or
+something, because j and the the i_k's will likely be different for
+each xi, but I was trying to keep it simple.);
+
+> C)  "Let a(i) = (Summation from k=1 to j) i(k)."  Does this mean that
+>     a(i) is the number of times that a unique variable appears, including
+>     p[Aossible repeats in a clause?  (Once again, same question for the
+>     negated variable.)
+
+as above, it's the sum of the clause numbers in which the variable
+appears.
+
+> D)  "Let s = (Summation from i=1 to q) i."  Is this just the number
+>     of clauses in f?
+
+no.  s=1+2+3+...+q, where q is the number of clauses.
+
+> Sorry about all the questions, but obviously I can't answer the
+> question if I don't understand the details!
+
+No problemo.
+Sender: jayram@cs.washington.edu
+Date: Wed, 29 May 1996 11:17:15 -0700
+From:
+Jayram Thathachar <jayram@cs.washington.edu>
+To: cse431@cs
+Subject:
+hws etc.
+
+I will hold special office hours tomorrow(Thursday) from 1-2 in Sieg
+326(undergraduate lounge)for those  who need help on the problems due
+Friday.
+Here is the plan for returning hws.
+
+The graded hw4 will be handed back tomorrow during my office hours. I
+will post the solutions today on the class web and also have copies of
+it tomorrow. On Friday, I'll return hw5(whichever part was handed in
+today) with the solutions to all the hw5 problems. Note that I also have
+office hours on Friday from 1-2.
+
+Since I will be moving to a new place, I will not be in school this
+weekend. If you send me e-mail about clarifications, I'll try as much as
+possible to reply to them.
+
+-jayram.
+--
+Jayram S. Thathachar                  jayram@cs.washington.edu
+Department of CSE              http://www.cs.washington.edu/homes/jayram
+University of Washington              +1 206 616-1843 (vox)
+Box 352350, Seattle, WA 98195         +1 206 543-2969 (fax)
+Date: Thu, 30 May 1996 18:54:27 -0700 (PDT)
+From:
+Larry Roske <roske@lynx.cs.washington.edu>
+To: cse431@lynx.cs.washington.edu
+Subject:
+HW #5 #7 part (3)
+
+The hint suggests using the TM M_SAT as a subroutine to
+determine if x1=0 or x1=1 is "part" of a satisfying assignment.
+
+Since M_SAT accepts strings w in SAT, and SAT consists of
+formulas with satisfying assignments for all variables,
+can't we use M_SAT to test for a particular assignment to all of the
+variables at one time, e.g. x1=0, x2=1, x3=0, etc.?
+
+Ah ha! I think this is because we would have to try each
+permutation of assignments which would create an exponential
+time computation?
+
+--Larry
+Date: Thu, 30 May 1996 19:28:16 -0700 (PDT)
+From:
+Jayram Thathachar <jayram@curie.cs.washington.edu>
+To: Larry Roske <roske@lynx.cs.washington.edu>
+cc: cse431@lynx.cs.washington.edu
+Subject:
+Re: HW #5 #7 part (3)
+
+On Thu, 30 May 1996, Larry Roske wrote:
+
+> The hint suggests using the TM M_SAT as a subroutine to
+> determine if x1=0 or x1=1 is "part" of a satisfying assignment.
+>
+> Since M_SAT accepts strings w in SAT, and SAT consists of
+> formulas with satisfying assignments for all variables,
+> can't we use M_SAT to test for a particular assignment to all of the
+> variables at one time, e.g. x1=0, x2=1, x3=0, etc.?
+>
+> Ah ha! I think this is because we would have to try each
+> permutation of assignments which would create an exponential
+> time computation?
+>
+> --Larry
+>
+>
+
+That's right. BTW, for those of you who were there during the office
+hours, the general definition of self-reducibility that I gave is
+completely wrong. I said that L is self-reducible if there is a poly-time
+reduction f such that x \in L iff f(x) \in L *and* |f(x)|<|x|.
+
+The correct definition is that L is self-reducible if there is a poynomial
+time algorithm that can use the subroutine P for L as a black-box but any
+calls P(y) made to P must use a y smaller in length than x.
+
+What follows is an explanation of why the definition I gave is wrong and
+is irrelevant to the hw problem in question.
+
+The definition that I gave is something else. If you think about it, by
+applying f repeatedly, that is, let y=f(f(...(x)...)) so that y becomes
+small enough, in constant time I can determine if y is in L and
+conclude if x is in L. Computing y takes only polynomial time since I have
+to apply f at most |x| times so L must be in P if it is self-reducible.
+
+-jayram.
+Date: Thu, 30 May 1996 20:09:20 -0700 (PDT)
+From:
+Jayram Thathachar <jayram@curie.cs.washington.edu>
+To: cse431@cs
+Subject:
+hint for UHAMPATH
+
+Let's see. The only help I can give here is the following. This is a hint
+if you are using HAMPATH to reduce to UHAMPATH.
+
+Let G' be the undirected graph obtained from G.
+Suppose we want to make sure that in G', when entering a
+vertex u, we always do so from a vertex x such that x->u is an edge in
+G. And while leaving u, we always use a vertex y such that u->y is an edge
+in G. Can you enforce this condition by adding extra vertices and making
+sure that any hamiltonian path in G' must obey this rule?
+
+-jayram.
+--
+Jayram S. Thathachar                  jayram@cs.washington.edu
+Department of CSE              http://www.cs.washington.edu/homes/jayram
+University of Washington              +1 206 616-1843 (vox)
+Box 352350, Seattle, WA 98195         +1 206 543-2969 (fax)
+Date: Thu, 30 May 1996 20:17:28 -0700 (PDT)
+From:
+Jayram Thathachar <jayram@curie.cs.washington.edu>
+To: cse431@cs
+Subject:
+hw4
+
+On the problem of P being closed under star, two of you came up with a
+nice observation of what the fill-in-the-table algorithm was doing and
+I thought I'd share it with you.
+
+Let L be the language in P and we want to show that L^* is in P. For an
+input w=a_1 a_2 ... a_n, suppose we define a directed graph G on
+{1,2,...,n+1} as follows: there is an edge from i to j iff a_i ... a_{j-1}
+is in L. Then,
+w is in L^* iff there is a path from 1 to n+1 in G.
+
+The table algorithm that I gave in the solution set was just doing bfs on
+this graph.
+
+--
+Jayram S. Thathachar                  jayram@cs.washington.edu
+Department of CSE              http://www.cs.washington.edu/homes/jayram
+University of Washington              +1 206 616-1843 (vox)
+Box 352350, Seattle, WA 98195         +1 206 543-2969 (fax)
+Date: Thu, 30 May 1996 22:32:04 -0700
+From:
+fineman@grizzly (Dan Fineman)
+To: cse431@cs
+Subject:
+A little end-of-the-quarter thought
+
+Every Horse has an Infinite Number of Legs (proof by intimidation):
+
+Horses have an even number of legs.  Behind they have two legs, and in
+front they have fore-legs.  This makes six legs, which is certainly an
+odd number of legs for a horse.  But the only number that is both even
+and odd is infinity.  Therefore, horses have an infinite number of
+legs.  Now to show this for the general case, suppose that somewhere,
+there is a horse that has a finite number of legs.  But that is a
+horse of another color, and by the [above] lemma ["All horses are the
+same color"], that does not exist.
+Date: Fri, 31 May 1996 13:05:12 -0700
+From:
+jayram@hobbes (Jayram Thathachar)
+To: cse431@cs
+Subject:
+solutions for the 3-COLOR and UHAMPATH
+
+It looks like I'll get to them after the office hours. Bear
+with me for this inconvenience. I have the solutions for
+the 4th and 7th problem ready.
+-jayram.
+Date: Fri, 31 May 1996 17:10:17 -0700
+From:
+jayram@hobbes (Jayram Thathachar)
+To: cse431@cs
+Subject:
+hot off the oven
+
+Solutions to the hw will be available outside Larry's door in about
+15-20mts. Your hws should have been handed in by now. I'll also
+e-mail the solutions to 3-COLOR and UHAMPATH soon and finally
+everything should be on the web later this evening.
+-jayram.
+Date: 31 May 1996 17:14 PDT
+From:
+Larry Ruzzo <ruzzo@quinault.cs.washington.edu>
+To: cse431@cs
+Subject:
+Midterm solution
+
+a few copies will also be available outside my door, and it should be
+on the web already.
+Sender: jayram@cs.washington.edu
+Date: Fri, 31 May 1996 18:03:03 -0700
+From:
+Jayram Thathachar <jayram@cs.washington.edu>
+To: cse431@cs
+Subject:
+hw5 solutions
+
+Solutions to hw5 are available outside Larry's door.
+-jayram.
+
+--
+Jayram S. Thathachar                  jayram@cs.washington.edu
+Department of CSE              http://www.cs.washington.edu/homes/jayram
+University of Washington              +1 206 616-1843 (vox)
+Box 352350, Seattle, WA 98195         +1 206 543-2969 (fax)
+Sender: jayram@cs.washington.edu
+Date: Fri, 31 May 1996 22:04:36 -0700
+From:
+Jayram Thathachar <jayram@cs.washington.edu>
+To: cse431@cs
+Subject:
+solutions to 3-COLOR and UHAMPATH
+
+For those of you who were unable to pick up the solutions outside
+Larry's door.
+********************************************************************
+Solution sketches to 3-COLOR and UHAMPATH
+********************************************************************
+3-COLOR is NP-complete:
+
+3-COLOR is in NP via a verifier that, in polynomial time, using a
+coloring of the vertices of the  graph as a certificate, can verify
+that the coloring is a valid 3-coloring of G.
+
+We will reduce 3CNF-SAT to 3-COLOR. Let \phi be a 3-CNF formula.
+The graph that we build in polynomial time has the vertex set
+{T,F,O} \union Set of literals \union Set of Clauses \union other
+vertices.
+
+Here are the edges in G, classified by their type:
+
+O
+(a)     /\
+/  \
+/    \
+/      \
+/--------\
+T        F
+
+
+(b) For each variable x:
+
+O
+/\
+/  \
+/    \
+/      \  _
+x /--------\ x
+
+
+(c) (The OR-gadget) For each clause C = p \or q \or r
+
+O___________C_____________F
+|           /\
+|          /  \
+|         /    \
+|        /      \
+|       /--------\
+|       |        |
+|_______|        |
+/\       |
+/  \      |
+/    \     |
+/      \    |
+/--------\   |
+|        |   |
+|        |   |
+|        |   |
+p        q   r
+
+
+In any valid 3-coloring, because of edges of type (a), the vertices T,
+F and O get the 3 different colors. Let the colors that they get
+itself be named T, F and O. Therefore, each vertex gets colored T, F
+or O in any legal 3-coloring.
+
+Because of edges of type (b), for any variable x, x and not(x) get
+different colors in {T,F}. Thus, a legal 3-coloring can always be used
+to define an assignment of 0-1 values to the variables.
+
+Finally, the OR-gadget satisfies the following property:
+Suppose in the OR-gadget corresponding to the clause C=p \or q \or r,
+p, q, and r are each constrained to get colors from {T,F}. Then,
+
+there is a legal 3-coloring of the OR-gadget with the clause
+getting colored T iff at least one of p, q, r is colored T.
+
+This can be checked by trying out the various combinations of color
+assignments to the nodes in the gadget. (You may find it easier to work
+with the OR-gadget given in the book for 2 literals and then get it to
+work for 3).
+
+Thus the formula is satisfiable iff every clause is satisfied by some
+assignment iff there is a legal 3-coloring of G.
+
+*****************************************************************
+
+UHAMPATH is NP-complete
+
+To show that UHAMPATH belongs to NP, the verifier takes the encoding
+of hamiltonian path as a certificate and verifies that the certificate
+indeed corresponds to a hamiltonian path in the input graph.
+
+We will reduce HAMPATH to UHAMPATH as follows:
+Suppose <DG,s,t> is an instance of HAMPATH. Let DG=(V,E)
+We will create a undirected graph UG as follows:
+The vertex set for UG is {v_i, v_m, v_o : v \in V} U {s',t'}
+
+Informally, we will force any hamiltonian path between s' and t'
+in UG to always correspond to a directed path in G (the subscripts for
+the vertices refer to ``in'', ``middle'' and ``out'').
+
+The edges for UG are
+
+(a) For each vertex v in V,
+
+v_i ----- v_m ------ v_o
+
+(b) For each edge u-->v in E,
+
+u_o ----- v_i
+
+(c) An edge s'----s_i and an edge t_o----t'
+
+Claim: There is a hamiltonian path in DG from s to t iff there is
+hamiltonian path from s' to t' in UG.
+Proof: One direction is easy. Given a hamiltonian path in DG, we can
+easily construct a hamiltonian path in UG. For example, if
+s-->a--->b--->t was the hamiltonian path in DG, the hamiltonian path
+in UG is
+
+s'--s_i--s_m--s_o--a_i--a_m--a_o--b_i--b_m--b_o--t_i--t_m--t_o--t'
+
+Now for the other direction. In any hamiltonian path in UG, for each
+vertex v of DG, the vertices v_i, v_m, v_o must occur consecutively as
+v_i, v_m, v_o or as v_o, v_m, v_i because v_m is an interior vertex in
+the path and v_m is connected to v_i and v_o only.
+Because the path begins with s', the initial segment must be
+s'--s_i--s_m--s_o. There are no edges from v_o to u_o in UG, for any
+vertices v and u in DG, so the only way this path can be extended to a
+hamiltonian path in UG is for it to have the form
+
+s'--s_i--s_m--s_o--(A1)--(A2)-- ... --(Ak)--t_i--t_m--t_o--t',
+
+where each (Aj) is an abbreviation for the (sub)path v_i--v_m--v_o for
+some vertex v in DG. Moreover, for each vertex v of DG, there is
+exactly one j such that (Aj) corresponds to v. Suppose aj is the
+vertex in DG corresponding to (Aj).
+
+This can easily be transformed to a hamiltonian  path in DG:
+
+s-->a1-->a2--> ... -->a_k-->t
+
+--
+Jayram S. Thathachar                  jayram@cs.washington.edu
+Department of CSE              http://www.cs.washington.edu/homes/jayram
+University of Washington              +1 206 616-1843 (vox)
+Box 352350, Seattle, WA 98195         +1 206 543-2969 (fax)
+Sender: jayram@cs.washington.edu
+Date: Fri, 31 May 1996 22:24:36 -0700
+From:
+Jayram Thathachar <jayram@cs.washington.edu>
+To: cse431@cs
+Subject:
+class web
+
+The solutions to hws 4 and 5 are on the class web as well.
+Good luck with the final!!!
+-jayram.
+
+--
+Jayram S. Thathachar                  jayram@cs.washington.edu
+Department of CSE              http://www.cs.washington.edu/homes/jayram
+University of Washington              +1 206 616-1843 (vox)
+Box 352350, Seattle, WA 98195         +1 206 543-2969 (fax)
+
+
+
+
+jayram@cs.washington.edu
+(Last Update:
+03/26/96)
+
+

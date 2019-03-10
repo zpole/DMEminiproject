@@ -1,0 +1,164 @@
+Date: Thu, 21 Nov 1996 19:53:28 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Sun, 25 Aug 1996 22:56:46 GMT
+Content-length: 4258
+
+
+Homepage for Kathy Yelick
+
+
+
+
+Katherine Yelick
+Associate Professor
+777 Soda Hall
+
+Computer Science Division
+
+
+University of California at Berkeley
+
+Berkeley, CA 94720-1776
+Phone: (510)642-8900
+Fax: (510)642-5775
+
+yelick@cs.berkeley.edu
+
+
+
+Biographical Sketch
+Kathy Yelick received her Bachelors (1985), Masters (1985),
+and PhD (1990) degrees in Electrical Engineering and Computer
+Science from the Massachusetts Institute of Technology.
+Her research interests include parallel computing, programming
+languages and compilers, and symbolic computation.
+Teaching
+
+
+
+
+
+CS61B
+: Data Structures and Advanced Programming.
+
+
+
+CS263
+: Design of Programming Languages
+
+
+
+
+Current Research Projects
+
+
+
+
+
+Multipol
+: A
+data structure library for distributed memory multiprocessors.
+
+
+
+Split-C
+: A performance programming language for parallel machines.
+
+
+
+Coordination in Parallel Programs
+: Software support for coordinating
+parallel computation.
+
+
+
+Titanium
+: Compiler optimizations for explicitly parallel programs.
+
+
+
+The Castle Project:
+Integrated
+software support for parallel computing.
+
+
+
+Graduate Students
+
+
+
+
+
+Soumen Chakrabarti
+,
+soumen@CS.Berkeley.EDU
+
+
+
+Etienne Deprit
+,
+deprit@CS.Berkeley.EDU
+
+
+
+Eun-Jin Im
+,
+ejim@CS.Berkeley.EDU
+
+
+
+Arvind Krishnamurthy
+,
+arvindk@CS.Berkeley.EDU
+
+
+
+Randi Thomas
+,
+randit@CS.Berkeley.EDU
+
+
+
+Chih-Po Wen
+,
+cpwen@CS.Berkeley.EDU
+
+
+
+
+
+Graduates of the group
+
+
+
+
+Jeff Jones
+,
+jjones@CS.Berkeley.EDU
+, now working at Hyperparallel.
+
+Steve Steinberg,
+sgs@CS.Berkeley.EDU
+, now working at
+Wired Magazine
+.
+
+
+Ruth Hinkins,
+rlhinkins@lbl.gov
+, now working
+at
+Lawrence Berkeley Laboratory
+.
+
+
+
+Selected Papers
+A list of some
+recent papers
+and a
+talk
+are available.
+
+

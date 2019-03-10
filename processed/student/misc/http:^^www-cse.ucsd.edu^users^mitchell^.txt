@@ -1,0 +1,112 @@
+Date: Thu, 21 Nov 1996 23:06:01 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 11 Nov 1996 00:43:30 GMT
+Content-length: 2999
+Nick's Home Page
+
+
+
+
+
+
+
+
+Nicholas Mitchell
+
+
+University of California, San Diego
+Department of Computer Science and Engineering
+Mail Code 0114
+La Jolla, CA 92093-0114
+email:
+mitchell@cs.ucsd.edu
+work: (619) 534-5913 home: (619) 558-7411
+
+
+
+
+
+Education
+
+
+
+
+May 1994.
+
+AB
+
+computer science
+with
+physics
+minor from UC Berkeley.
+
+
+
+March 1996.
+
+MS
+computer science from UC San Diego.
+
+
+
+Currently.
+Third-year
+computer science
+PhD student at UC San Diego.
+
+
+
+
+Research
+
+June 1992-September 1992
+
+Under
+Richard Fateman
+at UC Berkeley.
+Extension of Lisp symbolic algebra
+system to handle constrained calculations.
+
+January 1993-May 1994:
+
+Under
+Richard Fateman
+at UC Berkeley.
+Design and implementation of a
+parser for typeset mathematical equations.
+
+June 1995-
+
+Under
+Jeanne Ferrante
+and
+Larry Carter
+at UCSD.
+Intermediate forms and
+compiler optimizations (
+hierarchical tiling
+)
+and models
+(
+parallel memory hierarchy
+) for high-performance systems.
+
+
+
+Publications
+
+
+
+Optical Character Recognition and Parsing of Typeset Mathematics,
+
+
+Richard Fateman, Taku Tokuyasu, Benjamin Berman, Nicholas Mitchell,
+Journal of Visual Communications and Image Representations,
+volume 7, number 1, 1996.
+
+
+
+Personal homepage
+
+

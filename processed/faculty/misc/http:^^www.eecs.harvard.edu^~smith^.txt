@@ -1,0 +1,97 @@
+Date: Wed, 20 Nov 1996 22:57:47 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 15 Nov 1996 16:00:59 GMT
+Content-length: 3177
+
+
+Michael D. Smith's Home Page
+
+
+
+Michael D. Smith
+
+
+Assistant Professor of
+Electrical Engineering
+and
+Computer Science
+
+ARCHITECTURES AND COMPILATION TECHNIQUES FOR HIGH-PERFORMANCE COMPUTER
+SYSTEMS
+Individual advances in hardware and software technology continue to
+spawn advances in the capability and performance of computer systems.
+As impressive as these advances are, even better systems are often
+possible if one redesigns the architectural interface that couples the
+hardware and software.  Professor Smith's research focuses on the
+experimental realization of these innovative compilers and computer
+architectures.
+Professor Smith's work consists of the design, implementation, and
+evaluation of novel architectural mechanisms for high-performance
+computer systems through the innovative combination of VLSI, compiler,
+operating system, and network technologies.  For the last few years,
+Professor Smith has worked on superscalar architectures, global
+instruction scheduling algorithms, and compile-time transformations to
+improve branch prediction and instruction fetching.  Presently, his
+research team is exploring sophisticated compiler algorithms and novel
+computer architectures that address the performance needs of
+multimedia and system-intensive applications.
+For more information, please
+view the slides from my
+latest research overview talk
+and visit the
+Harvard HUBE Research Group
+homepage and the
+Morph Project
+homepage.
+I also encourage you to visit our
+Harvard Industrial Partnership (HIP) for Information Technology
+homepage.
+
+
+Office:
+
+
+130 Pierce Hall  /  29 Oxford Street  /  Cambridge, MA  /  02138
+phone: 617-496-5661  /  FAX: 617-496-5508
+email: smith@eecs.harvard.edu
+
+Courses:
+
+
+Spring Semester (1995-96):
+CS253: Adv. Principles of Programming Lang. Compilation.
+Fall Semester (1996-97):
+CS141: Computing Hardware
+.
+Fall Semester (1996-97):
+CS245r: Compilers and Computer Architecture.
+Spring Semester (1996-97):
+CS246r: Computer Architecture and Implementation.
+
+Calls for Conferences:
+
+
+Euro-Par '97
+(
+call
+for workshop on ILP)
+ISCA '97
+
+MICRO-29
+
+
+Other:
+
+
+Curriculum Vitae
+
+Listing of papers
+
+My anonymous ftp site: ftp.eecs.harvard.edu; cd users/smith
+Software packages: please visit my ftp site or the
+HUBE webpage
+
+
+
+

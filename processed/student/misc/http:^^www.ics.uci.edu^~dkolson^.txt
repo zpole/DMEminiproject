@@ -1,0 +1,66 @@
+Date: Thu, 21 Nov 1996 22:52:19 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 1342
+Last-modified: Wed, 30 Oct 1996 01:46:04 GMT
+
+
+David Kolson
+
+
+
+
+
+
+David Kolson
+
+
+
+Some Information:
+
+
+Area:
+Parallelizing Compiler Research:  The PS Project
+
+Advisor:
+Alex Nicolau
+
+E-mail:
+
+dkolson@ics.uci.edu
+
+
+Office: CS/E 205
+Office Phone: (714) 824-2248
+
+Research Interests:
+Here is a list of my
+publications
+.
+Personal Interests:
+
+
+I like to play racquetball.
+I am an avid
+herpetologist
+(that's the study
+of reptiles... :).
+I like to read fantasy and science fiction. Recently I have begun a quest
+to read all of
+the
+Hugo
+and
+Nebula
+winners.
+I like to play
+Super Nintendo
+when I have the time.
+
+
+
+
+Department of Information and Computer Science,
+University of California, Irvine CA 92717-3425
+
+
+

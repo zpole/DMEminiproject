@@ -1,0 +1,79 @@
+Date: Tuesday, 14-Jan-97 20:40:03 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+
+University of Kentucky ACM Student Chapter - Home Page
+
+
+
+
+
+
+University of Kentucky
+Association for Computing Machinery
+
+
+
+Welcome to the home page of the student ACM chapter at the University of
+Kentucky.  Our goals are to foster interest in the
+field of computer science, to prepare members for the professional
+world, to smooth communication between students and professors, and,
+most importantly, to have fun.
+
+
+
+Spring 1997
+Stay tuned for information about Spring activities...
+
+Old News
+
+We have not yet finished updating our Web pages for this semester.  Please
+be patient.
+
+
+ACM Awards Nominations
+
+Send in your nominations for UK's top CS Faculty, Teaching Assistant, and Graduating Senior
+
+General Information
+
+
+Last year's Events
+
+Scheduled meetings, demonstrations, speakers
+Constitution and Bylaws.
+
+All the rules and regulations
+ACM Collegiate Programing Contest Information
+
+Meet some of UK's best and brightest
+High School Programing Contest
+
+Coming Spring '97
+Learning Project
+
+Increasing Computer Literacy throughout KY
+How to Contact Us
+
+List of members, officers, and our address
+Join the UK-ACM
+
+Our on-line application for New and Old Members
+The Ubiquitous List 'O links
+
+More about the ACM, UK, and other useful pages.
+
+
+If you would like any more information about our organization or anything
+else we're doing, please send mail to
+acm@cs.engr.uky.edu
+
+This is page is under construction, (Which one isn't?) so please come back often.
+
+Last modified on April 4, 1996 by
+Todd Reed
+(tdreed00@pop.uky.edu)
+
+
+

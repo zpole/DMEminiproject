@@ -1,0 +1,65 @@
+Date: Thu, 21 Nov 1996 19:18:41 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Content-length: 1495
+Last-modified: Fri, 18 Oct 1996 18:59:45 GMT
+
+Personal Page - Matt W. Mutka, Department of Computer Science
+
+
+
+Matt W. Mutka
+
+
+
+Associate Professor
+Computer Science
+
+
+
+Ph.D.,
+
+University of Wisconsin-Madison
+
+
+Research and Teaching Interests:
+
+Operating Systems, Computer Networks, Distributed Systems,
+Performance Evaluation, Workload Modeling, Simulation,
+Real-Time Systems, Parallel Systems, ATM Networks.
+
+
+Items of interest:
+
+
+Research Statement
+
+Selected Recent Papers
+
+FTP site
+
+Contact information
+
+
+ARPA Project:  Instrumentation
+and Visualization for Real-Time Embedded Systems
+
+Other interests
+
+
+
+
+MSU home pages:
+
+
+MSU Computer Science Department
+
+MSU College of Engineering
+
+Michigan State University
+
+
+
+Matt W. Mutka - Home Page / mutka@cps.msu.edu
+
+

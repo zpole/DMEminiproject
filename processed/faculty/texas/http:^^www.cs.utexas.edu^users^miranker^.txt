@@ -1,0 +1,66 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:45:01 GMT
+Content-Type: text/html
+Content-Length: 1752
+Last-Modified: Friday, 19-Apr-96 16:14:54 GMT
+Daniel Miranker's home page
+
+Welcome to
+
+Daniel Miranker's
+
+Belated Web Presence
+(under construction, see something you'd like finished, don't hold your breath,
+just send me a note, miranker@cs.utexas.edu, I'll get it to you the old fashion
+way.  My students pages wouldn't be a bad place to go either.}
+On Rule Matching
+If you are here to learn more about the TREAT algorithm and its
+comparison to RETE, be warned that both have been rendered obsolete by
+the
+LEAPS
+algorithm.
+Current Research Interests
+My current research goals encompass the Venus rule language, its use
+as the basis of Active, Distributed Databases and the fundamental
+computer science problems and corollaries that have evolved from that
+goal.
+(CSP) Constraint Satisfaction Search
+Query Optimization, both relational and
+object-oriented.
+
+Parallel Execution of Rule-Based programs
+Knowledge Compilation
+Bibliographies, sometimes linked to papers (coming soon)
+
+Miranker and group: text, bibtex
+Rule Matching: text, bibtex
+RETE vs. TREAT,
+text
+, bibtex
+Students
+
+Current Ph.D. Candidates
+
+
+Roberto Bayardo
+
+David Gadbois
+Lance Obermeyer
+Vasilis Samoladis
+
+Robert Schrag
+
+Masters Candidates
+
+Srinivasan Vaidyaraman
+Lane Warshaw
+Past Ph.D. Students
+
+Archie Andrews
+David Brant
+Chin-Ming Kuo
+Shiow-Yang Wu
+Past (Ph.D.student)-1
+
+Salvatore J. Stolfo

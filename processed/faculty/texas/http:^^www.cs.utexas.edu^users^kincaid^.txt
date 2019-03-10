@@ -1,0 +1,55 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:45:39 GMT
+Content-Type: text/html
+Content-Length: 1795
+Last-Modified: Thursday, 23-Mar-95 20:01:55 GMT
+David R. Kincaid
+
+
+
+David R. Kincaid
+
+Senior Lecturer
+Associate Director, Center for Numerical Analysis
+B.S. (1965)
+Lamar University
+M.A. (1967), Ph.D. (1971)
+The University of Texas at Austin
+
+
+Honors, Awards, and Professional Service
+
+
+Certificate of Recognition, "Creative Developments of a Technical
+Innovation, Basic Linear Algebra Subprograms," NASA, 1981
+Technical Committee, Computational Linear Algebra, IMACS, 1993-94
+Session Organizer, 13th IMACS World Congress on Computation and
+Applied Mathematics, 1994
+
+Areas of Interest
+Mathematical software, high performance computers, and  numerical analysis
+
+Summary of Research
+My interest focuses on research using iterative algorithms to solve systems of linear
+algebraic equations
+with large sparse coefficient matrices.  Such systems arise in the solution of elliptic
+partial differential
+equations. The development and implementation of numerical algorithms and software on
+parallel
+computers is another area of interest.
+
+Selected Recent Publications
+W. Cheney and D. R. Kincaid,
+Numerical Mathematics and Computing
+, 3rd ed., Pacific
+Grove, CA, Brooks/Cole, 1994.
+D. R. Kincaid, L. J. Hayes, and D. M. Young, "ITPACK: Then and now,"  in
+IMACS
+'94: Proceedings of 14th World
+Congress on Coputational Mathematics
+, Atlanta, GA, 1994, vol. 1, pp. 264-267.
+D. M. Young and D. R. Kincaid, "Linear stationary second-degree methods for the solution of large linear systems," in
+Topics in Polynomials of One and Several Variables and Their Applications
+, Rassias et al., eds., World Scientific, River Edge, New Jersey, 1993, 609-630.
+

@@ -1,0 +1,84 @@
+Date: Mon, 25 Nov 1996 22:54:20 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2648
+Last-modified: Thu, 29 Aug 1996 16:48:21 GMT
+Peter van Beek
+
+
+Peter van Beek
+Associate Professor
+
+Department of Computing Science
+
+University of Alberta
+Edmonton, Alberta
+Canada   T6G 2H1
+
+Email: vanbeek@cs.ualberta.ca
+Office: (403) 492-7741
+Fax:	(403) 492-1071
+Research interests
+
+Constraint-based reasoning, temporal reasoning, scheduling,
+plan recognition, and
+natural language question-answering systems
+
+Courses taught
+
+
+CMPUT 114: Introduction to Computing Science
+CMPUT 252: Elements of Scientific Computing
+CMPUT 325: Non-Procedural Programming Languages
+CMPUT 451: Introduction to Artificial Intelligence
+CMPUT 551: Artificial Intelligence: Representation and Reasoning
+CMPUT 665: Seminar in Constraint-Based Reasoning
+
+Biographical sketch
+
+I received my PhD in 1990 from the University of Waterloo and
+at that time joined the faculty at the University of Alberta
+where I am now an Associate Professor.
+I am a participant as a principal investigator in projects on
+intelligent scheduling and on speech understanding under the
+Institute of Robotics and Intelligent Systems (IRIS II).
+I have served on the program committees of several international
+conferences and workshops.
+In 1992, a paper I wrote was awarded honorable mention in
+the best written paper competition at the National Conference of
+the American Association for Artificial Intelligence.
+In 1995, a paper I co-authored won an Outstanding Paper
+Award at the International Joint Conference on Artificial
+Intelligence.
+
+Additional information
+
+
+Research Projects:
+
+IRIS
+Project IC-6: Intelligent Scheduling
+
+IRIS
+Project HMI-4: Speech and Signal Understanding
+
+
+Publications
+:
+Abstracts and PostScript versions of selected papers I have written.
+Software
+:
+A `C' library of routines for solving binary constraint satisfaction
+problems.
+Vita
+
+
+Web links
+
+
+
+
+vanbeek@cs.ualberta.ca
+Thu Aug 29 10:40:50 MDT 1996
+
+

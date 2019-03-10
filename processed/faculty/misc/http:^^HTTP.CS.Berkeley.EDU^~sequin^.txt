@@ -1,0 +1,187 @@
+Date: Thu, 21 Nov 1996 19:54:15 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Mon, 18 Nov 1996 13:44:21 GMT
+Content-length: 5120
+
+Homepage for Prof. C.H. Sequin
+
+
+Carlo H. Séquin
+
+Professor, EECS, U.C. Berkeley
+Vice Chair for Administration, CS Division
+
+
+
+
+Shortcuts to other relevant web pages:
+
+
+
+Sculpture
+Generator
+
+Soda Hall
+
+ARCADE
+
+Min.Var.Surf
+
+CAFFEINE
+
+Art by CHS
+
+
+
+
+Address:
+
+
+UNIVERSITY OF CALIFORNIA
+
+
+EECS  COMPUTER SCIENCE DIVISION
+
+
+639 SODA HALL # 1776
+
+
+BERKELEY  CA  94720-1776
+
+
+ON SABBATICAL till Christmas 1996:
+
+University of North Carolina
+Dept. of Computer Science
+CB #3175 Sitterson Hall
+Chapel Hill, NC 27599-3175
+Phone (919) 962 1826
+FAX: (919) 962 1799
+Email: sequin@cs.unc.edu
+
+Berkeley Contact:
+
+Office hours: NONE
+Phone:  (510) 642-5103 -- inactive
+Email:  sequin@CS.Berkeley.EDU -- read rarely
+
+Teaching Assignments:
+
+Fall 1996, Spring 1997: On Sabbatical
+Spring 1996:
+CS 294-5, Architectural CAD -- Round Two
+
+Fall 1995: CS 199, CS 299, and Seminars only.
+Spring 1995:
+CS 294-5, Architectural CAD -- First Offering
+
+Fall 1994:
+CS 285, Procedural Object Generation
+
+Spring 1994:
+CS 184, Introduction to Computer Graphics
+
+
+Research Interests and Projects:
+
+
+Computer Graphics
+-- Berkeley UniGrafix
+
+Geometric Modeling
+
+
+CAFFEINE: Computer Aided Fast Fabrication Exploration IN Engineering
+
+
+Geometric Modeling and Solid Free-form Fabrication -- The SIF language development
+
+
+ARCADE -- Architectural Computer-Aided Design Environments
+
+
+Interactive Virtual Environments -- The WALKTHRU project
+
+
+CAD Tools for Architects and Engineers
+
+
+The WWW Connection: VRML2.0
+
+Computer / Human User Interfaces
+
+Other Interests and Diversions:
+
+
+Soda Hall:
+Add finishing touches, make it perfect, create on-line documentation ...
+
+Modern Architecture
+
+
+Geometry, Topology, Tilings
+
+
+Modern Abstract Sculpture
+
+
+Real Geometric Sculptures
+
+
+Virtual Geometric Sculptures
+
+
+Confluence of Art&Science
+
+
+Crawling through the World Wide Web
+
+
+Biographical Information:
+
+
+Curriculum Vitae
+
+
+Biographical Sketch
+
+
+Recent Publications:
+
+
+Selected Publications of the 1990's
+
+
+Computer Science Division Technical Reports
+
+
+Draft of an emerging paper for Educators' Tech Exchange, Jan. 1996
+
+
+Student Information:
+
+
+Current Graduate Students
+
+
+Ph.D. Students Graduated
+
+
+M.S. Students Graduated
+
+
+Recent cs199 Students
+
+
+Last update of this page:
+1996/8/11
+
+
+Get latest information with a "finger" command from my
+
+Home Directory:
+
+sequin@cs.berkeley.edu
+
+

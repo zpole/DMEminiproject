@@ -1,0 +1,60 @@
+Date: Thu, 21 Nov 1996 20:51:52 GMT
+Server: NCSA/1.5.2
+Last-modified: Mon, 17 Jun 1996 19:00:34 GMT
+Content-type: text/html
+Content-length: 1363
+
+
+BYUNG-GUK KIM
+
+
+
+
+Byung-Guk Kim
+
+Associate Professor
+
+kim@cs.uml.edu
+Network performance, high-speed networks, multimedia communications
+
+
+Papers
+B.G. Kim and  P. Wang
+
+"ATM Network: Goals and Realities"
+
+
+( Abstract )
+
+
+B.G.  Kim,
+F. W. Hoeksema
+, and H. ten Klooster
+
+"Determination of Effective Bandwidth in ATM Networks"
+
+
+( Abstract )
+
+B.G. Kim and
+Jang K. Kim
+
+
+"ATM ABR Traffic Control Functions"
+
+
+( Abstract )
+
+
+
+Byung-Guk Kim
+University of Massachusetts at Lowell
+
+kim@cs.uml.edu
+
+
+
+Last modified: Tue Jun  4 15:32:17 EDT 1996
+
+
+

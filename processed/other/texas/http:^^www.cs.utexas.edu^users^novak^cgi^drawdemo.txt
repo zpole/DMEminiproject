@@ -1,0 +1,53 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:25:41 GMT
+Content-Type: text/html
+Content-Length: 1688
+Lisp / X Drawing Demo
+
+Drawing Program using Interactive X Graphics in Lisp
+This is a demo of the
+draw
+program distributed with the
+X Interface for Gnu Common Lisp
+which is available as free software under the Gnu General Public License
+from
+ftp.ma.utexas.edu
+
+When the demo is started, a drawing window is created.
+Two menus are presented: a menu of drawing items and a menu of commands.
+Select drawing items and then click the mouse one or more times inside
+the drawing area.
+The
+Make LaTeX
+command can be used to create LaTeX commands
+to produce the drawing.
+LaTeX Mode
+will restrict lines to
+lines that LaTeX can draw.  Note, however, that LaTeX cannot produce all
+the things that can be drawn.  The LaTeX code is served to you in a file
+that is presented after the program terminates.
+
+Instructions
+
+
+
+You must be logged in to a host running X windows.
+Type
+xhost + www.cs.utexas.edu
+(exactly as shown
+at left) in a window on that host
+to allow this server to write to your display.
+Enter your X display name here if needed; you may need to change
+what is shown in the box to your X display name.  For example,
+myterminal.cs.utexas.edu:0.0
+
+
+
+Click
+to start the demo.
+
+
+Gordon S. Novak Jr.
+
+

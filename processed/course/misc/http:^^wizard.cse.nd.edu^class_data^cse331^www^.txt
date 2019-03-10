@@ -1,0 +1,148 @@
+Date: Tue, 26 Nov 1996 18:52:23 GMT
+Server: NCSA/1.5
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Fri, 01 Nov 1996 18:28:36 GMT
+Content-length: 3411
+CSE331 - Data Structures
+
+
+
+CSE331 - Data Structures
+
+
+Class Meeting Time/Place
+
+Course Administration
+
+Reading Assignments
+
+Lectures
+
+Homework
+
+Programs
+
+Exams
+
+Programming Hints and Study Helps
+
+Newsgroups
+
+Web Sites
+
+Instructor and Teaching Assistants
+
+Official
+Course Description
+from
+Undergraduate Brochure
+
+
+
+
+Class Meeting Time/Place
+
+MWF 11:45 AM - 12:35PM
+140 DeBartolo Hall
+
+
+Course Administration
+
+
+Syllabus
+
+Policies and Procedures
+CSE Honor Policy
+
+Reading Assignments
+
+
+
+
+Programming Hints and Study Helps
+
+
+Recommended Books
+
+Emacs Quick Reference
+
+C Style Hints
+
+
+
+
+
+Newsgroups
+
+
+nd.courses.cse331
+
+comp.lang.c
+
+comp.lang.c++
+
+
+
+
+Web Sites
+
+
+UNIX Reference Desk
+
+C Programming Reference
+
+ACM
+
+IEEE Computer Society
+
+SIAM
+
+
+
+
+
+Instructor & Teaching Assistants
+
+Instructor:
+
+
+Steven Bass
+Room: 384 Fitzpatrick Hall
+Phone: 631-8320
+Email:
+bass@cse.nd.edu
+Office Hours: ?
+
+
+Teaching Assistants:
+
+
+Dave Surma
+Room: 214 Cushing Hall
+Phone: 631-8720
+Email:
+dsurma@darwin.cc.nd.edu
+
+
+
+Joe Quast
+Email:
+jquast@darwin.cc.nd.edu
+
+
+
+
+
+
+
+Comments to author: Dave Surma (
+dsurma@darwin.cc.nd.edu
+)
+
+Copyright © 1996, University of Notre Dame
+All rights reserved.
+
+Revised: 28 August 1996
+
+

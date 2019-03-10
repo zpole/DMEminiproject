@@ -1,0 +1,172 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 18:59:59 GMT
+Content-Type: text/html
+Content-Length: 4845
+Last-Modified: Tuesday, 20-Aug-96 11:53:20 GMT
+Julián R. Díaz-Hurtado's Curriculum Vitae
+
+
+
+
+Julián R. Díaz-Hurtado
+
+E-mail:
+jrd11@cornell.edu
+
+
+
+1904 Hasbrouck Apartments
+
+Ithaca, NY. 14850
+
+Ph: (607) 253-6486
+
+
+
+
+
+
+INDEX
+
+
+
+
+Education
+
+Work Experience
+
+Computer Skills
+
+Other Information
+
+
+
+
+
+Education
+
+
+
+Cornell University
+
+
+
+
+Johnson
+Graduate School of Management
+
+Master in Business Administration, May 1997
+Concentration: General management, management consulting
+Award: Johnson School Merit Scholarship
+
+
+College of
+Engineering
+
+Master of Engineering in
+Computer Science
+, May 1996
+
+
+
+Universidad EAFIT
+-
+COLOMBIA
+
+
+
+Escuela de Ingeniería
+
+Systems Engineering, June 1986
+Award: Honors Diploma for outstanding academic achievement
+Elected student representative to the Academic Council
+
+
+
+
+Work Experience
+
+
+March 91 - August 95
+
+TURBANA CORPORATION - CORAL GABLES, FLORIDA
+
+MIS/Telecommunications Manager
+
+Established and managed the MIS/Telecommunications department, its organizational and business objectives, strategies, and functions
+Developed a plan to overhaul the information technology infrastructure and align the various information systems with the business objectives
+Evaluated, negotiated, acquired, and implemented third-party business applications to support back-end and core operations, and replace old, obsolete legacy systems
+Designed and implemented network-based services such as e-mail, fax, text conferencing, and file and print services, to improve intra-organizational communication and reduce its associated costs
+Designed and implemented local area networks (LANs) at the various company's remote offices
+Designed and outsourced a wide area network (WAN) to digitally connect remote offices' LANs to the company's headquarters
+Evaluated, negotiated, acquired, and implemented the hardware components of the LANs and the WAN mentioned above
+Reduced corporate long-distance expenditure by 30%
+Evaluated, negotiated, and acquired a new PBX system for the headquarters office
+
+
+
+August 86 - February 91
+
+C.I. UNIBÁN S.A., MEDELLÍN,
+
+COLOMBIA
+
+Technical Support Analyst for Operating Systems and Data Communications
+
+Promoted to MIS/Telecomunications Manager of Turbana Corporation, a fully-owned subsidiary in the United States
+Developed an automatic file replication mechanism for a minicomputer-based network to increase data availability of mission-critical application data
+Developed a company-specific software development framework to cut on software development and maintenance costs and time
+
+
+
+
+
+Computer Skills
+
+
+Programming languages:
+Java, C, Pascal, PL/I, COBOL, Gembase (RAD)
+
+Operating Systems:
+DEC VMS, DEC Pathworks, IBM OS/400, Unix, MS-Windows 95/3.x
+
+Software Applications:
+DEC Rdb, DEC Teamlinks, DEC Conferencing, DEC Teamroute,
+MS Access, MS Excel, MS Word, MS PowerPoint
+
+
+
+
+Publications
+
+Software Design Principles
+
+Informática al Día
+- AUC Magazine
+September-October 1991
+
+Techniques for Specification of Interactive Programs
+
+Informática al Día
+- AUC Magazine
+May-June 1990
+
+
+Professional Affiliations
+
+ACM - Association for Computing Machinery
+July 1984 - Present
+
+IEEE - The Institute of Electrical and Electronics Engineers
+June 1990 - Present
+
+
+Personal
+
+
+Fluent Spanish and English
+Colombian citizen, U.S. permanent resident
+Part of a support group helping victims of Hurricane Andrew clean up and do temporary repairs to their homes
+Enjoy soccer and tennis
+

@@ -1,0 +1,189 @@
+Date: Tue, 26 Nov 1996 02:55:29 GMT
+Server: Apache/1.0.0
+Content-type: text/html
+Content-length: 4749
+Last-modified: Sat, 16 Nov 1996 03:08:51 GMT
+
+
+Xiaoyan Zhao's Happy Home Page
+
+
+
+
+
+
+
+
+
+
+
+Xiaoyan Zhao
+
+:-)
+
+
+
+
+
+
+
+This is the
+'s visit since April 11, 1996.
+The current date and time in Montreal is :
+
+
+
+
+
+
+
+
+
+E-mail:
+
+xiaoyan@cs.mcgill.ca
+
+Office:
+
+McENG 323
+
+Lab:
+
+McENG 304B
+
+Office Phone:
+(514) 398-5925
+
+Home  Phone:
+
+(514) 844-8054
+
+Mailing Address:
+
+3505 Ste-Famille, #1105, Montreal, Quebec, Canada H2X 2L3
+
+
+
+
+Me
+|
+Lab
+|
+Research
+|
+Recent Plan
+|
+Hobby
+|
+Favorite Links
+
+
+
+
+Me
+
+
+I am a Ph.D. student at
+Schoool Of
+Computer Science(SOCS)
+,
+McGill University
+.
+Meanwhile, I work at SOCS Aldat Lab
+as a software coordinator since August 1995.
+Prof. Tim H. Merrett is my supervisor.
+Want to know me more? Please read my
+
+resumé
+.
+
+
+Lab
+
+
+
+Welcome to out ALDAT Lab
+
+Research
+
+
+Database Programming
+
+relational algebra
+computation--a procedure abstraction in relational database system
+
+File Systems
+Exploring more efficient data structures for files with symmetric
+multiple keys.
+Recently, I am interested in general data structures for relational
+database that can achieve
+
+symmetry of access,
+clustering properties,
+low retrieval times,
+distribution independent,
+high storage utilization, and
+low maintenance and update cost.
+Well, do you think it's possible?? What kind of data structure is this? If
+interested, click
+here
+
+.
+Exploring, maintaining and intergrating RELIX project --a
+Rel
+ational database system on Un
+ix
+.
+If you want to know more about the RELIX system, click
+here
+.
+
+
+My Recent Plan
+
+get out of the school ASAP!!!
+
+
+
+Hobby
+
+
+
+movies
+shopping
+skating
+swimming, and
+travelling
+
+
+Favorite Links
+
+
+SIGMOD
+information sever
+of ACM SIGMOD
+Yahoo
+a guild to WWW
+Royal
+Bank Mutual Funds daily statistics
+
+CND
+home page
+Chinese Language
+
+Zhang Ping
+'s home page
+
+
+
+
+
+Go back to SOCS student home page
+
+
+Last update:
+April 11, 1996
+
+
+
+

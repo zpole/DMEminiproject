@@ -1,0 +1,137 @@
+Date: Mon, 25 Nov 1996 20:33:50 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 24 Jul 1996 20:35:42 GMT
+Content-length: 4737
+
+Deepak Kumar's Home Page
+
+Deepak Kumar
+
+Click here to see
+what I am up to
+
+Welcome to my not so formal and not so structured home page.
+No, this home page is not under construction, it is undergoing
+a steady evolution. It will serve to provide a glimpse into
+my life, and related things.
+I work on Belief-Desire-Intention (BDI,
+)
+architectures. This research falls in the realm of Artificial
+Intelligence. The task is to build models of rational cognitive
+agents that are endowed with beliefs, desires, and intentions.
+Most of my work has so far been carried in conjuction with the
+SNePS Research Group.
+
+SNePS is a semantic network processing system. The illustration
+below shows a SNePS representation of the sentences:
+
+All humans are mortal.
+
+
+Socrates is human.
+
+
+
+The above illustration is from January 1991 issue of Scientific American article
+Silicon babies
+where
+Stu Shapiro
+was interviewed after I had
+presented some results from my thesis at the AAAI Spring Symposium on
+Integrated AI Architectures.
+In the summer of 1994, I spent some time traveling in Southern Utah.
+The pictures below are of
+Newspaper Rock
+
+
+
+
+People from various eras have left their marks on this rock. A gathering
+place of ideas new and old. Sort of what I would like to create in
+the
+cyberspace
+. Check out some of these efforts on
+Serendip
+.
+At Bryn Mawr College, among other things, we are in the process of
+evolving a new program in
+Computer Science.
+
+
+
+Available Publications
+
+
+Deepak Kumar & Stuart C. Shapiro,
+
+The OK BDI Architecture
+
+(postscript ~181k),
+IJAIT (International Journal of Artificial Intelligence Tools), World
+Scientific Publishing, Forthcoming in March 1995. An earlier version
+appeared in Yfantis (editor), Intelligent Systems, Kluwer Academic
+Publishers, 1995.
+Deepak Kumar & Richard Wyatt,
+
+Undergraduate AI and its Non-imperative Prerequisite
+
+(postscript ~85k),
+ACM SIGART Special Issue on Artificial Intelligence Education,
+Kumar & Hearst (editors), ACM SIGART, Volume 6, Number 2, April 1995.
+An earlier version also appeared in the Working notes of the American
+Association of Artificial Intelligence Fall Symposium on Improving the
+Instruction of AI (New Orleans, LA), AAAI Press, November 1994.
+An HTML version is now available.
+
+Deepak Kumar & Stuart C. Shapiro,
+
+Acting in Service of Inference (and
+vice versa
+)
+
+(postscript ~130k),
+Proceedings of FLAIRS-94 (Seventh Florida AI Research Symposium),
+Dankel & Stewman (editors), Florida AI Research Society, May 1994.
+Deepak Kumar,
+
+From Beliefs and Goals to Intentions and Actions: An
+Amalgamated Model of Inference and Acting.
+
+(compressed postscript ~426k), Ph.D. Dissertation,
+Department of Computer Science, State University of New York at Buffalo,
+Buffalo, NY 14260, 1993.
+
+
+
+Reading About the Net
+
+
+Herb Brody,
+Internet@crossroads
+
+Technology Review
+, May/June 1995.
+Wade Roush,
+Hackers: Taking a Byte out of Computer Crime
+
+Technology Review
+, April 1995.
+Wade Roush,
+Spinning a Better Web
+
+Technology Review
+, April 1995.
+
+
+
+Where to find me...
+I live on a computer called blackcat (
+dkumar@blackcat.brynmawr.edu
+),
+a cross-cultural, ancient, as well as a contemporary icon of things good
+and magical. Sort of like the Newspaper Rock.
+
+
+
+

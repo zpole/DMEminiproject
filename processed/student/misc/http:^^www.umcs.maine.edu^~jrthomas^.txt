@@ -1,0 +1,59 @@
+Date: Tue, 26 Nov 1996 17:11:17 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 28 Oct 1996 12:46:03 GMT
+Content-length: 1884
+
+
+Jonathan Thomas
+
+
+
+
+Jonathan R. Thomas
+216 East Annex
+University of Maine
+Orono, ME. 04469
+
+jthoma54@maine.maine.edu
+
+
+To Whom It May Concern:
+
+My name is Jonathan Thomas. I am a Graduate Student in
+The Computer Science Department
+at the
+University of Maine. My interests are Parallel Programming, Networks,
+Simulations and Models.  I am currently working on the Starlogo Project.
+What is StarLogo?   StarLogo is a programming environment.  StarLogo is a
+'parallel' Logo
+which supports the creation of visually intense simulations and models.
+The StarLogo Project is the port of StarLogo from the Mac to the PC.  Want
+to check it out? Go to
+www.asap.um.maine.edu/starlogo
+.
+I am the T.A. for Cos 120: Introduction to Programming Using Pascal.  I
+am currently enrolled in Cos 331: Operating Systems, Cos 301: Programming
+Languages, and Cos 520: Software Engineering.  I have a B.S. in Biological
+Science from the
+University of Vermont.
+My
+wife, Kris, is also a graduate of UVM.  Kris is a Cardiovascular
+Physician Assistant.  My other interests/hobbies/likes include:
+hiking, good music (Hot Tuna, Dead, Airplane, Stones, Janis Joplin, etc.,
+etc.), '64-'66 mustangs, cold weather, and 100% recycled stuff.
+Need to know more?  Click
+here
+for links to stuff.  Click
+here
+to see some
+pictures.  Click
+here
+to send me mail.
+
+
+Sincerely,
+Jonathan Thomas
+
+
+

@@ -1,0 +1,311 @@
+Server: Netscape-Commerce/1.12
+Date: Wednesday, 20-Nov-96 22:45:56 GMT
+Last-modified: Monday, 22-Apr-96 14:52:01 GMT
+Content-length: 8939
+Content-type: text/html
+Princeton CS 441 Programming Languages, Spring '96
+
+Princeton
+CS 441 Programming Languages, Spring '96
+
+Home Page
+
+(Image borrowed from the Indiana
+C311
+page, courtesy of Erik Hilsdale.)
+
+
+
+Overview
+
+
+Class Information
+
+
+Textbooks
+
+
+Syllabus
+
+
+Lecture Notes
+
+
+Assignments
+
+
+Tools
+
+
+Examinations
+
+
+Acknowledgments
+
+
+
+Overview
+This course provides an introduction to the principles underlying the
+design of both modern and legacy programming languages.  By developing
+a series of interpreters that study various characteristics of
+programming languages, students will obtain a deep understanding of
+language semantics.  Such understanding provides a firm basis for
+selecting a language for a particular task and for graduate study in
+programming languages and compilers.  To a lesser degree, this course will
+also cover programming paradigms, implementation concerns, and formal
+specification of programming language semantics.
+Previous CS 441 courses at Princeton were taught using Kamin's book
+and involved writing interpreters in Pascal. While this course is
+similar in content, we will be developing interpreters in
+Scheme
+.
+Not only is Scheme better suited to this task, but using Scheme will
+give students some first-hand experience with an advanced programming
+language.
+Course Topics from Academic Calendar
+Principles, theory, and implementation of modern programming
+languages.  Name binding, macros, parameter passing, and closures.
+Continuations, coroutines, and objects.  Types, modules, and
+representation independence.  Compilation by transformation.  Lambda
+calculus, operational semantics, and denotational semantics.
+
+Class Information
+
+
+Instructor
+
+Andrew Wright
+, room 206, Princeton x2211, NEC 951-2781,
+wright@research.nj.nec.com
+.
+Office Hours: before or after class, by appointment via email.
+TA
+
+Paul Martino
+, room 216, x8058,
+ahpah@cs.princeton.edu
+.
+Office Hours: Tuesday 3-4pm
+Lecture Hours
+Tuesday, Thursday from 10:30am - 11:50am in room 102.
+Web Page (this page)
+
+http://www.cs.princeton.edu/courses/cs441/
+
+Local newsgroup
+pu.cs.441
+Grading
+35% midterm
+35% final exam
+20% assignments
+10% Scheme quiz
+
+
+Textbooks
+
+
+
+Required:
+
+
+Essentials of Programming Languages
+by Friedman, Wand and
+Haynes, McGraw-Hill, ISBN 0-07-022443-9.  Chapter six of this textbook is out of date;
+get an updated chapter six in
+postscript
+format
+.
+Also
+here
+is a draft chapter on types and type inference.
+
+Recommended:
+
+
+The Little Schemer
+by Friedman and Felleisen, MIT Press, ISBN 0-262-56099-2.
+An older book called
+The Little Lisper
+will do if you can find a used one.
+
+The Seasoned Schemer
+by Friedman and Felleisen, MIT Press, ISBN 0-262-56100-X.
+
+
+Tentative Syllabus for
+Spring '96
+
+
+Week of Feb 5
+Introduction to Scheme.
+The Little Schemer
+chapters 1-10.
+Induction, Recursion, and Scope.
+EOPL
+chapter 2.
+Static Properties of Programs.
+EOPL
+chapters 2 and 3.1.
+Week of Feb 12
+Syntactic Abstraction and Data Abstraction.
+EOPL
+chapter 3.
+Advanced Scheme.
+The Seasoned Schemer
+chapters 11-18.
+Interpreters,
+The Seasoned Schemer
+chapter 20,
+EOPL
+chapter 5.
+
+Scheme Quiz
+on material from week of Feb 5.
+Week of Feb 19
+Representation Independence and Dynamic Scope.
+EOPL
+chapter 5.
+Parameter Passing.
+EOPL
+chapter 6.
+Week of Feb 26
+Continuation Passing Style.
+EOPL
+chapter 8,
+The Seasoned Schemer
+chapters 13, 14, 19.
+Week of March 4
+Continuation-Passing Interpreters.
+EOPL
+chapter 9.
+Week of March 11
+Review and Midterm Exam.
+Week of March 18
+Ski week, no lectures.
+Week of March 25
+Imperative form and Registerization.
+EOPL
+chapter 10.
+Week of April 1
+Garbage Collection.
+Formal Semantics.
+Week of April 8
+Type systems.
+Week of April 15
+Module systems.
+Week of April 22
+Object systems.
+Week of April 29
+Whatever is left (logic programming?)
+May 6 - May 14
+Reading period.
+May 15 - May 23
+Final exams.  (last possible due date for take home is May 18)
+
+
+Lecture Notes
+Lecture notes for each class will be typeset and appear online one or
+two days after each class.
+
+
+Lecture Notes
+
+
+
+Assignments
+One assignment will be due each week.  Most assignments will involve
+implementing some language facility in an interpreter.  Assignments
+will be available Thursday and due the following Thursday
+at the
+beginning of class
+.  Solutions will be discussed in class after
+assignments are collected, hence late assignments will not be
+accepted.  Solutions will also be posted online.
+Assignments will be graded for both
+content
+and
+style
+(where
+style
+has a specific meaning that should become clear in
+class).  Since there are two points per assignment, the grades are
+simple: right (2), close (1), and wrong (0).
+
+
+Assignments and Solutions
+
+
+
+Tools
+Scheme is our most important tool.  Here are some useful Scheme links:
+
+
+R4RS Scheme definition
+.
+
+MIT Scheme
+.
+
+Scheme Home Page at MIT
+.
+
+Indiana Scheme Repository
+.
+We are using MIT Scheme for this course.
+Here
+are a few useful things to know
+about MIT Scheme.  To get started, type "scheme" in a shell to start a
+Scheme read-eval-print loop.  You can now type definitions and
+expressions interactively, or load files using (load "file.scm").
+Even if you are familiar with emacs, you may want to do the first
+assignment this way.
+Alternatively, you can run
+Scheme under Emacs
+.
+For the interpreters we'll be building in this course, you
+need to install a few
+extensions
+to Scheme.
+Even if you don't run Scheme under Emacs, you probably want to edit
+Scheme programs using Emacs, because it has nice automatic indentation
+facilities.  A better indentation style than the default can be
+enabled by placing
+(setq load-path (cons "/u/cs441/emacs" load-path))
+in a file called ".emacs" in your home directory.
+
+Examinations
+The following is a tentative schedule for CS 441 examinations:
+
+Scheme Quiz (in class) during the week of Feb 12.
+Midterm Exam, the week of March 11.
+Final Exam, May 15 - May 23.
+
+Here
+is a study guide for the final exam.
+
+Acknowledgments
+This course combines ideas and structure from:
+
+
+Essentials of Programming Languages
+
+
+C311
+at Indiana University as taught by
+Dan Friedman
+
+
+CS 311
+at Rice University as taught by
+Matthias Felleisen
+
+
+
+
+Andrew Wright
+/
+NEC Research Institute
+/
+wright@research.nj.nec.com
+
+

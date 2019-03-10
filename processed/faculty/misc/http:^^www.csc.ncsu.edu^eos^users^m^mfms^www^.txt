@@ -1,0 +1,150 @@
+Date: Mon, 25 Nov 1996 22:02:10 GMT
+Server: NCSA/1.5.2
+Last-modified: Thu, 21 Nov 1996 20:37:07 GMT
+Content-type: text/html
+Content-length: 4650
+
+
+
+Matt Stallmann's Home Page
+
+
+
+Matt Stallmann
+
+
+Associate Professor of Computer Science
+
+Department of Computer Science
+
+North Carolina State University
+
+Raleigh, NC
+27695-8206
+USA
+
+
+Tel.:
++1 (919) 515-7978
+
+Fax:
++1 (919) 515-7896
+
+E-mail:
+
+matt@csc.ncsu.edu
+
+
+
+Research
+Dr. Stallmann's research interests are primarily in the area of combinational
+optimization, graph and network algorithms, with emphasis on settling the
+status of problems that are on the boundary between tractable and intractable
+(NP-complete).  Current projects include (a) embedding graphs into hypercubes,
+(b) planar embedding problems related to VLSI design, (c) combinational
+algorithms on linear arrays of processors, and (d) a system for graphical input
+to and animation of graph algorithms (source code and
+documentation for an algorithm animation tool,
+GDR
+, are available
+here).
+
+Click
+here
+for
+a list of my recent publications.
+
+
+Teaching
+Courses taught in the last 5 years:
+
+
+CSC 210:
+Programming concepts.
+
+
+1993 Course Action
+
+
+1995 Proposed Content
+
+
+Most recent content
+(revised 11/96)
+
+Syllabus,
+homework, handouts, and general information from the current or
+most recent offering
+
+
+CSC 333:
+Automata, Grammars, and Computability.
+
+
+Fall 1995
+homework, handouts, and general information
+
+
+CSC 505:
+Design and Analysis of Algorithms.
+
+CSC 522:
+Automata, Languages, and Computability Theory.
+
+
+Spring 1996
+homework, handouts, and general information
+
+
+
+
+Service
+
+Curriculum Issues
+
+
+
+What CSC majors should know
+- a
+list of topics and issues to be addressed in our undergraduate curriculum.
+
+Equipment Committee
+
+
+Equipment committee evaluation
+procedures
+(written Fall 1993 by Wushow Chou, last modified
+2/28/96)
+outline of procedures used to evaluate requests for
+equipment purchased with departmental funds.
+Proposed infrastructure policy
+(written Spring 1995, last modified 10/1/96)
+outline of general principles used to determine priority
+of service, disk allocation, and purchase of equipment.
+Departmental infrastructure list
+(written Fall 1995, last modified 10/1/96)
+a list of hardware and software that receives high-priority
+service within the department.
+
+Task Group on Peer Evaluation of Teaching
+
+
+
+Guidelines for peer evaluation of teaching
+
+general guidelines for peer evaluation of teaching that were
+adopted as departmental policy in March, 1995.
+
+Guidelines for in-class evaluation of teaching
+
+proposed guidelines for evaluators who visit the classroom of a
+colleague (still being reviewed and amended in response to faculty
+input).
+
+Guidesheet to be used by
+in-class evaluators
+
+Postscript version giving main points to look for when
+evaluating a lecture, with space to write comments.
+
+

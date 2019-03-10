@@ -1,0 +1,230 @@
+Date: Wed, 20 Nov 1996 23:02:09 GMT
+Server: NCSA/1.5.1
+Last-modified: Tue, 12 Nov 1996 12:57:18 GMT
+Content-type: text/html
+Content-length: 7978
+Gregory F. Sullivan's home page
+
+
+Gregory F. Sullivan
+
+Education
+
+Ph.D. 	Computer Science 	Yale University 	1986
+M.S. 	Computer Science 	Yale University 	1982
+B.S. 	Computer Science 	Duke University 	1980
+
+Contact
+
+
+E-mail: sullivan@cs.jhu.edu
+Phone: (410) 516-5553
+Fax: (410) 516-6134
+
+Research
+Fault-tolerant computing; software design for testability; and design
+and analysis of algorithms.
+Society increasingly relies on complex computerized systems to
+accomplish basic daily functioning.  This reliance demands that
+computer systems be built that can continue to operate even when one
+or more hardware modules and/or software programs malfunction.  A
+central theme of Dr. Sullivan's research is designing systems
+that can tolerate faults.  With his colleagues, Dr. Sullivan has
+defined and analyzed novel probabilistic models of self-monitoring
+multiprocessor systems and provided powerful diagnostic strategies for
+localizing and removing faults.  He and Prof. Masson have also
+introduced a promising software fault tolerance technique called the
+certification trail method.  Dr. Sullivan's research interests also
+include the broad area of the design and analysis of algorithms, e.g.,
+algorithms motivated by artificial intelligence applications.
+
+Click here to see
+selected publications available for downloading
+
+Bibliography of Selected Publications
+
+J. D. Bright, G. F. Sullivan, and G. M. Masson,
+``A Formally Verified Sorting Certifier,''
+IEEE Transactions on Computers
+,
+IEEE Computer Society Press,
+accepted for publication.
+G. M. Masson, D. Blough, and G. F. Sullivan,
+``System Diagnosis''
+In
+Fault-Tolerant Computer System Design
+,
+(D.K. Pradhan, Editor),
+Prentice-Hall,
+pp. 478-536,
+1996.
+D. Heath, S. Kasif, S. R. Kosaraju, S. Salzberg and G. Sullivan,
+``Learning Nested Concept Classes with Limited Storage''
+Journal of Experimental and Theoretical Artificial Intelligence
+,
+Vol. 8, April-June, pp. 129-148, 1996.
+G. Sullivan, D. Wilson, and G. M. Masson,
+``Certification of Computational Results'',
+IEEE Transactions on Computers
+,
+IEEE Computer Society Press,
+Vol. 44, pp. 833-847, 1995.
+J. D. Bright and G. Sullivan,
+``On-Line Error Monitoring for Several Data Structures'',
+Digest of the 25th Symposium on Fault-Tolerant Computing
+,
+IEEE Computer Society Press,
+pp. 392-401, 1995.
+J. D. Bright, G. Sullivan, and G. M. Masson,
+``Checking the Integrity of Trees'',
+Digest of the 25th Symposium on Fault-Tolerant Computing
+,
+IEEE Computer Society Press,
+pp. 402-411, 1995.
+D. M. Blough and G. Sullivan,
+``Voting Using Predispositions'',
+IEEE Transactions on Reliability
+,
+IEEE Computer Society Press,
+Vol. 43,
+pp. 604-616, 1994.
+J. D. Bright and G. Sullivan,
+``Checking Mergeable Priority Queues'',
+Digest of the 24th Symposium on Fault-Tolerant Computing
+,
+IEEE Computer Society Press,
+pp. 144-153, June 1994.
+S. Kasif, S. Banerjee, A. Delcher and G. Sullivan,
+``Some Results on the Complexity of Symmetric Connectionist Networks,''
+Annals of Mathematics and Artificial Intelligence
+,
+pp. 327-344, vol 9, 1993.
+D. Wilson, G. F. Sullivan and G. Masson,
+``Certification Trails and Software Design for Testability,''
+Proceedings of the 1993 International Test Conference
+,
+pp. 200-209,
+International Test Conference - IEEE Computer Society Press,
+October 1993.
+D. Wilson, G. F. Sullivan, and G. M. Masson,
+``Experimental Evaluation of Certification Trails Using
+Abstract Data Type Validation'',
+16th Annual International Computer Software and Applications Conference
+,
+IEEE Computer Society Press, pp. 300-305, 1992.
+G. M. Masson, and G. F. Sullivan,
+``A Method and Apparatus for Fault Tolerance."
+United States Patent Office
+, Serial No. 07/543451.
+D. M. Blough, G. F. Sullivan, G. M. Masson,
+``Intermittent Fault Diagnosis in Multiprocessor Systems'',
+IEEE Transactions on Computers
+,
+IEEE Computer Society Press,
+Vol. 41, pp. 1430-1441, 1992.
+D. M. Blough, G. F. Sullivan, G. M. Masson,
+``Efficient Diagnosis of Multiprocessor Systems Under
+Probabilistic Models'',
+IEEE Transactions on Computers
+,
+IEEE Computer Society Press,
+Vol. 41, pp. 1126-1136, 1992.
+G. F. Sullivan and G. M. Masson,
+``Certification Trails for Data Structures'',
+Digest of the 21st Symposium on Fault-Tolerant Computing
+,
+IEEE Computer Society Press,
+pp. 240-247, 1991.
+D. Heath, S. Kasif, S. R. Kosaraju, S. Salzberg and G. Sullivan,
+``Learning Nested Concept Classes with Limited Storage'',
+Proc. of the 12th International Joint
+Conference on Artificial Intelligence
+,
+pp. 777-782,
+Sydney, Australia, 1991.
+G. F. Sullivan and G. M. Masson,
+``Using Certification Trails to Achieve Software Fault Tolerance'',
+Digest of the 20th Symposium on Fault-Tolerant Computing
+,
+IEEE Computer Society Press,
+pp. 423-431, 1990.
+D. M. Blough and G. Sullivan,
+``A Comparison of Voting Strategies for Fault-Tolerant
+Distributed Systems'',
+Proceedings of the 9th Symposium on Reliable Distributed Systems
+,
+pp. 136-145,
+1990.
+E. Schmeichel, S. L. Hakimi, M. Otsuka, and G. F. Sullivan,
+``A Parallel Fault Identification Algorithm'',
+Journal of Algorithms
+,
+Vol. 11, pages 231-241, 1990.
+R. Beigel, S. R. Kosaraju and G. F. Sullivan,
+``Locating Faults in a Constant Number of Parallel Testing Rounds'',
+Proceedings of the 1989 ACM Symposium on Parallel Algorithms and
+Architectures
+,
+pages 189-198, ACM Press, New York, NY, 1989.
+D. Blough, G. F. Sullivan and G. M. Masson,
+``Fault Diagnosis for Sparsely Interconnected Multiprocessor Systems'',
+Digest of the 19th Symposium on Fault-Tolerant Computing
+,
+pages 62-69,
+IEEE Computer Society Press,
+1989.
+D. Blough, G. F. Sullivan and G. M. Masson.
+``Almost Certain Diagnosis for Intermittently Faulty Systems'',
+Digest of the 18th Symposium on Fault-Tolerant Computing
+,
+IEEE Computer Society Press,
+June 1988.
+E. Schmeichel, S. L. Hakimi, M. Otsuka, and G. F. Sullivan,
+``On Minimizing Testing Rounds for Fault Identification'',
+Digest of the 18th Symposium on Fault-Tolerant Computing
+,
+IEEE Computer Society Press,
+June 1988.
+S. R. Kosaraju and G. F. Sullivan,
+``Detecting Cycles in Dynamic Graphs in Polynomial Time'',
+20th ACM Symposium on Theory of Computing
+,
+ACM Press, pp. 398-406, May 1988.
+G. F. Sullivan,
+``An $O(t^3 +|E|)$ Fault Identification Algorithm for Diagnosable Systems'',
+IEEE Transactions on Computers
+,
+IEEE Computer Society Press,
+Vol. C-37, pages 388-397, 1988.
+G. F. Sullivan,
+``System-Level Fault Diagnosability in Probabilistic and Weighted Models'',
+Digest of the 17th Symposium on Fault-Tolerant Computing
+,
+pp. 190-195,
+IEEE Computer Society Press,
+July 1987.
+G. F. Sullivan,
+``The Complexity of System-Level Fault Diagnosis and Diagnosability,''
+Ph. D. Thesis
+,
+Yale University, 1986.
+G. F. Sullivan,
+``A Polynomial Time Algorithm for Fault Diagnosability,''
+25th IEEE Symposium on Foundations of Computer Science
+,
+pp. 148-156,
+IEEE Computer Society Press,
+October 1984.
+
+Web Links
+,
+some relevant pointers
+
+Research Links
+,
+restricted access
+
+
+
+
+

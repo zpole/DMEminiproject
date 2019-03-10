@@ -1,0 +1,40 @@
+Date: Tue, 26 Nov 1996 02:53:44 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1156
+Last-modified: Wed, 29 May 1996 21:05:41 GMT
+Home Page for Kenneth Ross
+
+
+Kenneth Ross
+
+
+Click here for color picture.
+
+Professor Ross is an associate professor in the
+Computer Science Department
+at
+Columbia University
+in
+New York City.
+
+
+
+Research Activities.
+
+
+Publications.
+
+
+Columbia Record Article, October 29, 1993.
+
+
+Columbia Record Article, January 20, 1995.
+
+
+Database Research Lab.
+
+Ken Ross /
+kar@cs.columbia.edu
+
+

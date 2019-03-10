@@ -1,0 +1,106 @@
+Date: Tue, 26 Nov 1996 00:19:47 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 17 Oct 1996 04:18:21 GMT
+Content-length: 2882
+
+Honghui Lu
+
+
+
+
+UP:
+
+Rice Systems Group
+
+
+
+
+
+
+
+
+
+
+Honghui Lu
+
+
+
+
+
+
+Work
+
+
+Fun
+
+Honghui Lu received the B.S. degree in Computer Science and
+Engineering from
+Tsinghua University
+,
+China, in 1992, and the
+M.S. degree in Electrical and Computer Engineering from Rice
+University in 1995. She is currently a computer engineering
+Ph.D. student under the direction of Professor
+Willy Zwaenepoel
+.
+Her research interests include parallel and distributed systems,
+parallel computation, and performance evaluation.
+
+
+Papers
+
+
+
+``Message Passing Versus Distributed Shared Memory
+on Networks of Workstations''
+,
+H. Lu, S. Dwarkadas, A.L. Cox, W. Zwaenepoel. Proceedings of Supercomputing'95,
+December 1995.
+
+Best student paper finalist.
+
+The test programs can be found at "ftp://ftp.cs.rice.edu/public/TreadMararks/paper/sc95_program.tar.Z".
+``TreadMarks: Shared Memory Computing on Networks of Workstations'',
+Cristiana Amza, Alan Cox, Sandhya Dwarkadas, Peter Keleher, Honghui Lu,
+Ramakrishnan Rajamony, Weimin Yu, and Willy Zwaenepoel,
+in
+IEEE Computer
+, February 1996.
+
+
+``Message Passing Versus Distributed Shared Memory
+on Networks of Workstations''
+,
+Master's Thesis, COMP-TR-250, Rice University,
+May 1995.
+
+
+``Software vs. Hardware Shared Memory Implementation: A Case Study''
+,
+A.L. Cox, S. Dwarkadas, P. Keleher, H. Lu, R. Rajamony, W. Zwaenepoel,
+Proceedings of the Twentyfirst Symposium on Computer Architecture,
+pp. 106-117, April 1994.
+
+Fun
+
+
+The US National Park List
+
+
+Chinese WWW Services
+
+
+CNN
+
+
+ZD Net
+
+
+
+elm:
+hhl@cs.rice.edu
+Office:  Herman Brown 031, 527-8750 ext2852
+
+
+

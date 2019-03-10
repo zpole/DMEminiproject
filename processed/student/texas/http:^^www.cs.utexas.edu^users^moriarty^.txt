@@ -1,0 +1,110 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:33:43 GMT
+Content-Type: text/html
+Content-Length: 2757
+Last-Modified: Tuesday, 12-Mar-96 03:07:47 GMT
+Dave Moriarty
+
+Dave Moriarty
+
+
+PhD Student
+Department of Computer Sciences
+The University of Texas at Austin
+
+
+
+Research
+Sequential decision tasks appear in many practical real-world problems
+including control, resource allocation, and routing.  Such tasks can
+be characterized by the following scenario: An agent observes a state
+of a dynamic system and selects from a finite set of actions.  The
+system then enters a new state upon which the agent must select
+another action.  The system may return a payoff for each decision made
+or for a sequence of decisions.  The objective is to select the
+sequence of actions that return the highest total or cumulative
+payoff.  In my research, I evolve Neural Networks with Genetic
+Algorithms to learn and perform sequential decision tasks.  I am
+particularly interested in tasks where problem-specific knowledge is
+currently unavailable or costly to obtain.  Some domains that I have
+studied include game playing, intelligent control, and constraint
+satisfaction.  For more information, see my
+list of publications
+.
+
+Education
+
+
+M.S. in Computer Science, The University
+of Texas at Austin, 1994.
+
+B.S. in Computer Science,
+Tulane University
+, 1992.
+
+Contact Information
+
+
+
+Office:
+
+Taylor Hall 5.142
+
+Phone: (512) 471-9585
+
+
+Email address:
+
+moriarty@cs.utexas.edu
+
+Postal address:
+
+
+The University of Texas at Austin
+
+Department of Computer Sciences, TAY 2.124
+
+Austin, TX  78712-1188
+
+
+
+Local Links
+
+
+
+UTCS Neural Networks home
+page
+
+
+
+AI lab home page
+
+
+
+UTCS home page
+
+
+
+UT Austin home page
+
+
+
+Other Useful Links
+
+
+
+Research Links
+
+
+
+Sports Links
+
+
+
+Misc. Links
+
+
+
+visitor number
+

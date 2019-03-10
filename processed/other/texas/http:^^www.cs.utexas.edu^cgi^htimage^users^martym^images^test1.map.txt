@@ -1,0 +1,13 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:32:54 GMT
+Content-Type: text/html
+Content-Length: 158
+HTImage error
+
+
+Error
+Error calling HTImage:
+Invalid QUERY_STRING: '' expecting either x,y or x=x&y=y
+
+

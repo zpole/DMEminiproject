@@ -1,0 +1,129 @@
+Date: Mon, 25 Nov 1996 23:19:10 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 09 Oct 1996 20:51:25 GMT
+Content-length: 3135
+Professor Henry D. Shapiro's Home Page
+
+
+
+
+
+
+
+Associate Professor Henry D. Shapiro
+
+
+
+
+
+Wenn der Kummer naht,
+Liegen wüst die Gärten der Seele,
+Welkt ihn und stribt die Freude, der Gesang.
+Dunkel is das Leben, ist der Tod.
+
+
+Li-Tai-Po (701-763)
+(Translated from the Chinese by Hans Bethge)
+from Das Lied von der Erde
+by Gustav Mahler
+
+
+
+
+
+
+
+
+
+When sorrow draws near,
+Wasted lies the gardens of the soul,
+Withered and dying are joy and song.
+Dark is life, is death.
+
+
+(English translation by Deryck Cooke)
+
+
+
+
+
+
+
+
+
+Professor Henry D. Shapiro received his Ph.D. in
+computer science from the University of Illinois in 1976. His main
+research interests are in the areas of algorithmic paradigms,
+implementation and empirical assessment of algorithms and
+data structures, and heuristics for NP-hard problems. He has
+over 20 refereed papers and is co-author (with Bernard Moret)
+of a graduate text in algorithms. An intermediate-level text on
+case studies in programming and an introductory text on
+Mathematica
+were recently published.
+
+
+
+
+Professor Shapiro's Schedule
+
+
+List of Recent Publications
+
+Course Links
+
+
+C++ For Experienced Programmers
+
+
+Professional Links
+
+
+Department of Computer Science Home Page
+
+
+J.UCS
+(The Journal of Universal Computer Science -- I'm an editor)
+
+Links to Cultural Events
+
+
+Calendar of Classical Music Events in Albuquerque
+
+Major Art Exhibitions Touring the United States
+
+
+
+Splendors of Imperial China
+:
+Treasures from the National Palace Museum, Taipei
+at the Asian Art Museum of San Franciso, October 14-December 8, 1996
+and the National Gallery of Art in Washington, DC, January 27-April 6, 1997.
+
+
+Degas: Beyond Impressionism
+at the Art Institute of Chicago, September 30, 1996-January 5, 1997.
+
+Arts Activities of Special Note in Albuquerque
+
+
+Rodin: Sculpture from the Iris and B. Gerald Cantor Collection
+at the
+Albuquerque Museum, October 20, 1996-January 7, 1997.
+
+
+
+
+
+
+Professor Shapiro is an Undergraduate Advisor.
+
+Office: Farris Engineering Center 319
+Phone: (505) 277-3052
+Fax:   (505) 277-6927
+Secretary: (505) 277-3113 (Liz Gutierrez)
+e-mail:
+shapiro@cs.unm.edu
+
+

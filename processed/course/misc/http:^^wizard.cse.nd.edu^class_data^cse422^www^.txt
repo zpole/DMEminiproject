@@ -1,0 +1,177 @@
+Date: Tue, 26 Nov 1996 18:52:04 GMT
+Server: NCSA/1.5
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Tue, 19 Nov 1996 14:52:10 GMT
+Content-length: 4730
+
+
+CSE422 Computer System Design
+
+
+
+CSE 442: Computer System Design
+
+
+Professor:
+
+Dr. Engene W. Henry
+326 Cushing Hall
+phone: 1-6408
+email:
+ewh@cse.nd.edu
+
+Teaching Assistants:
+
+Cathy Xu
+email:
+qxu@bach.helios.nd.edu
+
+Lecture:
+
+Tuesday, Thursday, 117 DeBartolo Hall, 11:00-12:15
+
+Laboratory:
+
+The CSE Design Automation Laboratory in Room 245 Cushing Hall,
+containing three Sun SPARC workstations will be used in this course. In
+addition, the workstations in the College of Engineering Computer Laboratory
+will be used. Software is available for schematic capture, hardware description
+languages, simulaiton, and realization with standard ICs and Xilinx FPGAs. A
+Xilinx FPGA demonstration circuit board will be loaned to each design group.
+
+
+Texts:
+
+No Required textbooks.
+References:
+James R. Armstrong and F. Gail Gray,
+Structured Logic Design with VHDL,
+, Prentice-Hall, 1993.
+J. Bhasker,
+A VHDL Primer
+,
+Revised Edition, Prentice-Hall, 1995.
+J. Bhasker,
+A VHDL Synthesis Primer,
+Prentice-Hall, 1996.
+Jesse H. Jenkins,
+Designing with FPGAs and CPLDs,
+Prentice-Hall,
+1994.
+Pak K. Chan and Samiha Mourad,
+Digital Design Using Field Programmable
+Gate Arrays,
+Prentice-Hall, 1994.
+Giovanni De Micheli,
+Synthesis and Optimization of Digital Circuits,
+McGraw-Hill, 1994
+Abramovici, Breuer and Friedman,
+Digital Systems Testing and Testable
+Design,
+Computer Science Press, 1990.
+IEEE Standard 694-1985,
+Microprocessor Assembly Language,
+CS No.952, 1985.
+IEEE 695-1985,
+Microprocessor Universal Format for Object Modules,
+CS No.954.
+Herbert B. Michaelson,
+How to Write and Publish Engineering Papers and
+Reports,
+Third Edition, Oryx Press, Phoenix, AZ, 1990.
+John P. Hayes,
+Introduction to Digital Logic Design,
+Addison-Wesley,
+1993.
+M. Morris Mano (UCLA),
+Digital Design,
+Second Edition, Prentice-Hall,
+1991.
+Franklin P. Prosser and David E. Winkel,
+The Art of Digital Design:
+An Introduction to Top-Down Design,
+Second Edition, Prentice-Hall, Inc.,
+1987.
+Mentor Graphics, various Bold_Browser documents, to be listed on a separate
+handout, coving QuickVHDL, Synthesis, System Design Station, and System-1076.
+
+
+Lecture Notes:
+
+Course Guide
+
+
+Course Agenda
+
+
+4-Pole Stepper Motor Control
+
+
+Mentor Graphics Documents
+
+
+Levels of Detail in Design
+
+
+Xilinx memgen for ROM/RAM
+
+
+IEEE Microprocesor Assembly Language Standard
+
+
+IEEE Standard Format for Microprocessor Object Modules
+
+
+Homework Assignments:
+
+Team Assignment
+
+Homework
+coverpage
+
+
+HW1: Stepper-Motor Controller
+
+
+HW2: Xilinx FPGA Tutorial
+
+
+HW3: QuickHDL & VHDLWrite Tutorial
+
+
+HW4: Autologic II Tutorial
+
+
+HW5: Roulette Wheel Design
+
+
+HW6: Term Project Proposal
+
+
+
+Guidlines for Oral Presentations
+
+
+Previous Examinations:
+
+Fall 95 Midterm Examination
+
+
+Lab/Design Projects:
+
+Switch Debouncing Circuits
+
+
+Switch Debounce, Sync, and Single-Pulse Circuit
+
+
+Web Sites of Related Courses:
+
+Xilinx Homepage
+
+Notes on Logic Synthesis with VHDL Combinational Logic
+
+
+
+

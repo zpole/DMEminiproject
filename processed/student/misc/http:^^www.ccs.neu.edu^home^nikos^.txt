@@ -1,0 +1,121 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:36:06 GMT
+Content-Type: text/html
+Content-Length: 3323
+Last-Modified: Tuesday, 14-Nov-95 21:06:44 GMT
+
+
+
+
+Nikos Nikolakis's WWW Home Page
+
+
+
+
+
+
+
+
+
+______  NIKOS NIKOLAKIS
+
+nikos@ccs.neu.edu
+
+
+
+Hello! I'm a Ph.D. candidate and Research Assistant
+in the
+College of Computer Science
+at
+Northeastern University
+.  My advisor is
+Prof. Robert Futrelle, and I am a member of the
+Biological
+Knowledge Laboratory
+. I am currently working on  my
+Thesis
+which I plan to finish soon.
+
+Northeastern
+is also the place where I got my Masters degree (1991).
+
+
+
+I am from Greece and I have a B.S. in CS from
+University of Crete
+(1989).
+During my undergraduate studies I worked at the
+Foundation of Research and Technology - HELLAS
+.
+Research Interests :
+
+Syntactic Analysis of Visual Languages with special emphasis on
+Diagram Analysis
+. Diagram Analysis is the process of identifying the
+knowledge contained in a diagram.
+Here is a list of my
+publications
+.
+
+
+Some Links :
+
+
+
+
+Unified Computer Science TR Index
+.
+
+
+Visual Languages
+.
+
+
+College of Computer Science FTP Server
+.
+
+
+ESPNET SportsZone
+.
+
+
+Movie Database
+.
+
+
+If you are interested in Greece click on the flag.
+
+
+
+Other Home-Pages :
+
+
+
+
+Tony Kanawati's
+(links to OO pages, Arab-American pages, etc).
+
+
+
+
+% finger nikos@ccs.neu.edu
+
+
+
+
+% mail nikos@ccs.neu.edu
+
+
+
+Nikos Nikolakis
+College of Computer Science,
+Northeastern University
+360 Huntington Avenue,
+
+Boston
+, MA 02115, USA
+Phone: +1 617 373 4506;  Fax: +1 617 373 5121
+
+
+

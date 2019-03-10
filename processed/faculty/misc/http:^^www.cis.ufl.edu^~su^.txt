@@ -1,0 +1,459 @@
+Date: Thu, 21 Nov 1996 20:19:06 GMT
+Server: Stronghold/1.3.2 Ben-SSL/1.3 Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=gs3521522848607546289; path=/
+Content-length: 16808
+Last-modified: Fri, 14 Jun 1996 19:59:11 GMT
+
+
+Stanley Su Home Page
+
+
+
+
+Stanley Su
+I am the director of the
+Database Systems Research and Development Center
+, University of Florida.  I have
+a joint appointment with the
+Computer and Information
+Sciences Department
+and the
+Electrical Engineering
+Department
+. I received my Ph.D in Computer Sciences from the Computer Sciences
+Department, University of Wisconsin, Madison, Wisconsin in 1968.
+
+
+Table of Contents:
+
+
+
+Address
+
+
+Research Areas
+
+
+Recent Research Projects
+
+
+Research Grants and Support
+
+
+Selected Awards and Recognitions
+
+
+Consultation
+
+
+Selected Professional Activities
+
+
+Publications
+
+Hobby
+
+
+
+Address
+
+
+Email:
+su@cis.ufl.edu
+
+Office: E458 CSE
+Mailing address: Database Systems Research and Development Center, 470 CSE,
+University of Florida, P.O. Box 116125, Gainesville, FL 32611-6125
+Telephone: (352)392-2693
+Fax: (352)392-1220
+
+
+
+Research Areas
+Database management, object-oriented knowledge base management, distributed and
+parallel computing, heterogeneous systems, temporal databases and semantic models.
+
+
+Recent Research Projects
+
+
+OSAM*.KBMS Project
+This project deals with the design and implementation of an active
+object-oriented knowledge base management called OSAM*.KBMS for use in advanced
+applications.
+Parallel Architectures and Algorithms for
+Object-Oriented Knowledge Base Management
+This project aims to study the parallel architectures and algorithms for
+efficient processing of large object-oriented knowledge bases.
+KBMS-Based Evolutionary Prototyping of Software
+Systems
+The objective of this project is to develop a high-level prototyping language and a
+computing environment for supporting software system development.
+ORECOM Project
+The objective of this project is to develop a system to perform
+semantics-preserving schema translations in a multimodel, heterogeneous database
+envirionment.
+National Industrial Information Infrastructure
+Protocols (NIIIP) Project
+The University of Florida's portion of the National Industrial Information
+Infrastructure Protocols (NIIIP) Project deals with the development of an
+object-oriented knowledge base management technology, mediation technology,
+extensible object model, knowledge base programming language, and object query
+language for supporting interoperability of heterogeneous systems.
+
+
+
+Research Grants and Support
+
+
+
+Advanced Research Projects Agency (ARPA)
+($1.4 million, 9/15/94 - 9/14/96)
+Principal Investigator
+Part of $60 million ARPA project entitled:
+"National Industrial Information Infrastructure Protocols
+(NIIIP)"
+State of Florida, Enterprise Florida Innovation
+Partnership, Inc.
+($59K, 2/1/94 - 1/31/95)
+Principal Investigator
+Title: "Commercialization of a Schema Translation
+and Integration Systems ORECOM"
+Fujitsu, Ltd., Japan
+($180K, 12/1/92 - 2/15/96)
+Principal Investigator
+Title: "Parallel Query Processing and Query
+Optimization Techniques"
+International Business Machine (IBM)
+($240K, 3/2/92 - 3/1/94)
+Principal Investigator
+Title: "Integration of OSAM*.KBMS and ORECOM
+Technologies with CDF/MVS"
+National Science Foundation (NSF)
+($258K, 6/1/1992 -  5/31/1995)
+Principal Investigator
+Title: "A Knowledge Base Programming Language for
+Evolutionary Prototyping of Software Systems"
+National Science Foundation, CISE Infrastructure Program
+($1.2 million, 1992-1997)
+One of five Principal Investigators in the CIS Dept.
+Title:"Laboratory for Parallel Processing"
+State of Florida, High Technology and Industry Council
+($198K, 12/27/90 - 7/18/94)
+Principal Investigator
+Title: "An Object-Oriented Rule-Based Approach Product
+Data Exchange and Specification"
+International Business Machine (IBM)
+($90K, 12/1/90 - 12/31/91)
+Principal Investigator
+Title: "Integration of OSAM* and ROSE Technologies"
+National Institute of Standards and Technology (NIST)
+($75K, 1988-90)
+Principal Investigator (Co-PI: Herman Lam)
+Title: "Semantic Models and Their Transformations"
+National Science Foundation (NSF)
+($163K, 1989-91)
+Principal Investigator
+Title: "An Object-Flow Computer for Object-Oriented
+Database Applications"
+National Science Foundation (NSF)
+($200K, 1988-90)
+Principal Investigator
+Title: "Research on Object-Oriented Knowledge Base
+Management Technology for Improving Productivity
+and Competitiveness in Manufacturing"
+US WEST Advanced Technologies, Inc.
+($40K, 1988-89)
+Principal Investigator
+Title: "A Knowledge Base Definition Language
+and Techniques for Constraint/Rule Maintenance and
+Application"
+State of Florida, High Technology and Industry Council
+($1 million, 10/86 - 8/92)
+Principal Investigator
+Title: "An Object-Oriented Computing Environment for
+Productivity Improvement in Automated Design and
+Manufacturing"
+University of Florida, Center of Excellence
+($41K, 7/1/84 - 6/30/85)
+Principal Investigator
+Title: "Research on Distributed Computer Systems"
+U.S. Department of Energy (DOE)
+($166K, 8/1/84 - 7/31/86)
+Principal Investigator
+Title: "A Dynamic Multicomputer System for Managing
+Scientific and Engineering Databases"
+National Science Foundation (NSF)
+($131K, 9/1/84 - 8/31/86)
+Principal Investigator
+Title: "A Special Function Unit for Sorting and
+Sort-Based Database Management operations"
+National Institute of Standards and Technology
+(NIST, formerly NBS)
+($945K, 5/1/84 - 4/30/88)
+Principal Investigator
+Title: "Distributed Database Management and
+Processing Techniques for Manufacturing Automation"
+U.S. Department of Energy (DOE)
+($50K, 6/1/83 - 5/31/84)
+Principal Investigator (Co-PI: S. B. Navathe)
+Title: "Logical and Physical Modeling of
+Scientific/Statistical Databases for Energy Research"
+Digital Equipment Corporation (DEC)
+($95K equipment grant, 1983)
+Principal Investigator
+Title: "A Logical Area Network for Distributed
+Database Management"
+U.S. Department of Energy (DOE)
+($106K, 7/1/81 - 5/31/83)
+Principal Investigator
+Title: "Logical and Physical Modeling and Design of
+Scientific and Statistical Databases for Energy
+Research"
+National Bureau of Standards (NBS)
+($98K, 10/1/80 - 7/30/81)
+Principal Investigator
+Title: "A DBMS Cost-Benefit Decision Model"
+National Science Foundation (NSF)
+($100K, 1/15/80 - 6/30/82)
+Principal Investigator
+Title: "Conversion of Application Programs in the
+DBMS Environment"
+National Bureau of Standards (NBS)
+($4K, 4/1/79 - 10/30/79)
+Principal Investigator
+Title: "Database Machines and Some Issues on DBMS
+Standards"
+Advanced Research Projects Agency (ARPA)
+($12K, Oct, 1979)
+Principal Investigator
+Travel grant raised for the Fifth Tnternational Conference on
+Very Large Data Bases, 10/3/79 - 10-5/79
+Principal Investigator
+University of Florida, Center of Excellence
+($35K, 7/1//79 - 6/30/80)
+Principal Investigator
+Title: "Research on Database Management and Database
+Engineering"
+University of Florida, Center of Excellence
+($25K, 7/1/78 - 6/30/79)
+Principal Investigator
+Title: "A Microcomputer Network System for Distributed
+Relational Databases"
+National Science Foundation (NSF)
+($82K equipment grant, 1978)
+Principal Investigator
+Title: "A Microcomputer Network for Distributed
+Processing of Relational Databases"
+National Institute of Health (NIH) grant number
+NS 06459-12A1-CDR
+($166, 4/1/77 - 3/31/80)
+Investigator
+20% of direct cost for salary and office and laboratory
+facility support
+Very Large Data Base (VLDB) Conference Travel Grant
+($900 travel support, 1977)
+Third International Conference on Very Large Data Bases,
+Tokyo, Japan, October 6-8, 1977
+National Science Foundation (NSF)
+($102K, 6/1/77 - 5/31/80)
+Principal Investigator
+Title: "Architectural Implications of Programming a
+Processor for Date Base Management"; an extension of the
+CASSM project
+National Science Foundation (NSF)
+($40K, 6/1/76 - 11/30/77)
+Principal Investigator
+Title: "Application Program Conversion Due to Database
+Changes"
+National Science Foundation (NSF)
+($100K, 5/1/74 - 10/31/76)
+Co-principal Investigators: C J. Lipovski and
+Stanley Y.W. Su
+Title: "The Architecture of CASSM: A Context-Addressed
+Segment-Sequential Memory"
+National Institute of Health (NIH) grant number NS 06459-09
+and -10
+(2/1/74 - 1/31/76)
+Investigator
+25% of direct cost for salary and office and laboratory
+facility support
+University of Florida, Office of Instructional Resources
+(9/1/73 - 6/1/74)
+Investigator
+Equivalent of 50% salary for two quarters. The money is
+used to support two research assistants
+National Institute of Health (NIH) grant number NS 06459-08
+(2/1/73 - 1/31/74)
+Principal Investigator
+25% of direct cost for salary and office and laboratory
+facility support
+National Institute of Health (NIH) grant numbers NS 06459-05,
+NS 06459-06 and NS 06459-07
+(7/1/70 -1/31/73)
+Investigator
+25% of direct cost for salary and office and laboratory
+facility support
+
+
+
+
+Selected Awards and Recognitions
+
+
+Invited Speaker, "Current Trends in Database Research
+and Application," Yenching Graduate Institute Symposium on
+Current Research Challenges, Beijing, Peoples Republic of China,
+Oct. 12-16, 1994.
+Keynote Speaker, "Database Directions and Future Challenges,"
+Fifth International Hong Kong Computer Society Database Workshop on Next
+Generation Database Systems, Hong Kong, Feb. 26, 1994.
+Keynote Speaker, "An Object-Oriented Knowledge Base Management
+System for Supporting Advanced Applications," Fourth International
+Hong Kong Computer Society Database Workshop, Hong Kong,
+Dec. 12-13, 1992.
+Invited Speaker, "An Object-Oriented Knowledge Base Management
+Technology for Scientific Applications," Second International
+Conference on Bioinformatics, Supercomputing and Complex
+Genome Analysis, St. Petersburg, FL, June 6, 1992.
+Keynote Speaker, "An Object-Oriented Knowledge Base Management
+Technology: Model, Language, Algebra and Implementation," The
+First International Conference on Computer Applications in Science,
+Technology and Medicine, Isfahan, Iran, Dec. 226-28, 1991.
+Faculty Award for Supervising the Outstanding Ph.D.
+Dissertation (M. S. Guo), Electrical Engineering Dept. Univversity
+of Florida, 1991.
+Best Paper Award, "An Association Algebra for Processing
+Object-Oriented Databases,"
+Proceedings of the IEEE Seventh
+International Conference on Data Engineering,
+Kobe, Japan,
+April 10-12, 1991, pp. 23-32.
+Research Achievement Award, University of Florida,
+March 1991.
+Keynote Speaker, "Technological Integration: The Future
+of Data Engineering Research," Fifth International
+Conference on Data Engineering (COMPDEC 89), Los Angeles,
+CA., Feb. 9, 1989.
+Governor's Award for Outstanding Contribution in
+Technology and Science, State of Florida, March 1989.
+Invited Speaker, "Distributed Database Management
+Techniques for Supporting Computer Integrated
+Manufacturing," DARPA's Workshop on Future Directions in
+Database Systems, Pacific Grove, CA, March 30, 1988.
+Invited Speaker, "An Object-Oriented Knowledge Base
+Management System," Oregon Database Forum, Beaverton,
+Oregon, Nov. 18, 1987.
+Acknowledgement, Top 100 Researchers of the University
+of Florida, 1986-91.
+Faculty Award for Supervising the Outstanding Master's
+Thesis of 1983 (C.  Baru), Electrical Engineering
+Department,University of Florida, 1983.
+
+
+
+Consultation
+
+
+Consultant to IBM, Heidelberg, Germany; IBM Yorktown Heights Lab, N.Y.;
+General Electric, Schenectady, N.Y.; Martin  Marietta,  Denver,  CO.;
+U  S  WEST  Advanced Technologies,  Denver,  CO.;   Harris Corporation,
+Melbourne, FL.; Oracle Complex Systems Corporation,  Jacksonville,  FL.;
+King Research, Inc., Washington, D.C.; Florida Keys Community College, Key West,
+FL.; Environmental  Protection Agency, Washington, D.C.; Department of Energy,
+Washington, D.C.; Navy  Ship  Parts  Control Center, Harrisburg, PA.;
+Industrial Technology Research Institute, Republic of China; Central Florida
+Community College, Orlando, FL.; Hillsborough Community College, Tampa, FL.
+
+
+Selected Professional Activities
+
+
+Program Chairman, International Conference on Data Engineering, New Orleans,
+Louisiana, 1996.
+Editor-in-Chief, (1993- ; Editor 1990-93)
+International Journal on Very Large
+Data Bases,
+Boxwood Press.
+Treasurer, Executive Committee, VLDB Endowment, 1991- .
+Trustee, VLDB Endowment Board of Trustees, 1990- .
+Editor,
+Transactions on Knowledge and Data Engineering,
+IEEE, 1989- .
+Program Chairman, The IEEE Computer Society's  Thirteenth Annual International
+Computer Software and Applications Conference (COMPSAC89), Orlando, Florida,
+Sept. 20-22, 1989.
+Co-Chairman, Program Committee, The Second Annual Conference on Productivity
+through Computer Integrated Engineering & Manufacturing (PROCIEM '89), Orlando, FL.,
+Nov. 13-15, 1989.
+Co-Chairman, Program Committee, The First Florida Conference on Productivity and
+Competitiveness in Manufacturing (PROCIM '88), Orlando, FL.,  Nov.  14-15, 1988.
+Vice Chairman, High Technology Subcommittee on Computer Integrated Manufacturing,
+Florida High Technology and Industry Council, State of Florida, 1986-94.
+Area Editor,
+Journal of Parallel and Distributed Computing,
+Academic
+Press, 1983-89.
+General Chairman, International Conference on Management of Data (ACM-SIGMOD),
+Orlando, Florida, June 2-4, 1982.
+Associate Editor,
+International Journal on Information Sciences,
+1982- .
+Associate Editor,
+International Journal on Computer Languages,
+North-Holland, 1981-  .
+Editor,
+Transactions on Software Engineering,
+IEEE, 1981-88.
+U. S. Conference Chairman, Fifth International Conference on Very Large Data Bases,
+Rio de Janeiro, Brazil, Oct. 3-5, 1979.
+Chairman, Panel on Database Machines, International Conference on Management of
+Data, Austin, Texas, 1978.
+Director, Database Systems Research and Development Center, Department of Computer
+and Information Sciences, University of Florida, 1977- .
+Co-chairman, The Second Workshop on Computer Architecture for Non-Numeric
+Processing, Jan. 22-23, 1976.
+Founding Member, Technical Committee on Database Engineering, IEEE.
+
+
+
+Publications
+
+
+
+Refereed Publications
+
+
+
+
+Journal Publications
+
+
+
+
+Conference Publications
+
+
+
+
+Books and Book Chapters
+
+Conference Presentations and
+Non-Refereed Publications
+
+
+Technical Reports
+(with limitted hypertext links)
+
+
+
+
+
+Send comments to: Stanley Su,
+su@cis.ufl.edu
+Resumè converted to HTML by: Siew-Phek T. Su,
+sps@cis.ufl.edu
+Last updated:  March 1, 1995
+
+

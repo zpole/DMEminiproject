@@ -1,0 +1,111 @@
+Date: Thu, 21 Nov 1996 19:58:29 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Mon, 04 Mar 1996 21:49:49 GMT
+Content-length: 3558
+HomePage for Brian Harvey (bh@cs.Berkeley.EDU)
+
+
+
+I teach many of the lower division (freshman and sophomore)
+computer science courses
+at Berkeley.  I'm faculty advisor of the
+Computer Science
+Undergraduate Association
+and of the
+Open Computing Facility
+.
+I'm also interested in the use of computers in
+pre-college education; I used to be a
+high school
+teacher, and I'm involved in the development of the Logo programming
+language.
+Berkeley Logo
+is a freeware interpreter that I wrote along with
+several students.  (Major contributors are Dan van Blerkom,
+Michael Katz, and Doug Orleans.)  Click here to retrieve
+the
+complete distribution
+archive for
+Unix
+,
+DOS
+, or
+Mac
+,
+complete with C source code.  (If you think Logo is just a graphics
+language for little kids, check out a
+sample program
+that should impress you.)
+
+
+
+
+
+Intermediate Programming
+,
+a Logo programming text that concentrates on natural language
+processing rather than the graphics most people associate with Logo.
+Projects, Styles, and Techniques
+,
+a collection of ten largeish Logo programs with commentary on the
+structure and style of each.
+Advanced Topics
+,
+brief introductions to six college-level computer science topics.
+
+The
+Computer Science Logo Style
+books are out of print,
+but you can order a bound photocopy from
+MIT Document Services
+.  The second edition should be published
+early in 1997.
+
+I've written several
+papers about
+computers and education
+.
+I'm a member of
+Computer
+Professionals for Social Responsibility
+,
+the League for Programming Freedom
+, and
+the
+American Civil Liberties Union
+.
+So, what do you do for fun, Brian?
+
+
+I visit the
+Exploratorium
+,
+the world's best museum.
+I watch the
+Animaniacs
+, the only good thing on television.
+I listen to 1964-1968 British rock, especially the
+Beatles
+.
+I eat
+Chinese
+food
+.
+I collect
+art
+and
+masks
+.  (Lots of bits in these links.)
+
+Check out the
+world's best turkey
+stuffing recipe
+.
+
+
+bh@cs.berkeley.edu
+
+
+
+

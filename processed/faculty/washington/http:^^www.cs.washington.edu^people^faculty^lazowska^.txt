@@ -1,0 +1,304 @@
+Date: Thu, 21 Nov 1996 20:23:22 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 01 Nov 1996 07:42:59 GMT
+Content-length: 10841
+
+
+Ed Lazowska
+
+
+
+
+"A
+Half Century of Exponential
+Progress in Information Technology:  Who, What, When, Where,
+Why, and How"
+(1996 University of Washington Annual
+Faculty Lecture)
+
+
+Vice
+President Gore's speech at the ENIAC 50th
+anniversary celebration:
+"[Congress] talks like George
+Jetson.  But they support policies more appropriate for
+Fred Flintstone."
+
+
+University
+of California at Berkeley invents Chinese cooking!
+
+
+
+Nathan
+Myhrvold
+joins
+Ed
+Lazowska
+and the
+UW
+CSE faculty
+on a trip down memory lane
+
+
+
+Ed Lazowska
+
+
+
+
+
+Ed Lazowska
+is Professor and Chair of the
+Department of Computer Science & Engineering
+at the
+University of Washington
+.
+Lazowska received his A.B. from
+Brown University
+in 1972, and has been at the University
+of Washington since receiving his Ph.D. from the
+University of Toronto
+in 1977.
+His research concerns computer systems and computer system
+performance.  Recent specific topics have included parallel
+discrete-event simulation, scheduling policies for multiprocessors,
+kernel structures to support high-performance parallel computing,
+programming systems for networks of multiprocessors, effective
+program performance monitoring tools for parallel systems, the
+interaction of architecture and operating system design, hardware
+and software techniques for high performance communication, and,
+most recently, operating system and programming system support that
+exploits wide-address architectures
+(Opal)
+.  Almost all of this work has actually
+been carried out by terrific students, and has been supervised
+jointly with
+Hank Levy
+or
+John Zahorjan
+; Lazowska mostly
+wears
+ties
+,
+pushes paper, and racks up frequent flier miles.
+(The graduate students seem to have picked up on
+this (
+1.7Mb
+Quicktime
+).)  He
+also hosts lots of visitors, a surprising number of whom have
+funny
+noses
+.
+Lazowska is a member of the Board of Directors of the
+Computing Research
+Association
+(CRA's members include essentially all
+graduate departments and industrial research laboratories
+in the field), and Chair of
+CRA's Government Affairs Committee
+.
+He serves on the National Science Foundation's Advisory
+Committee for
+Computer and Information Science and
+Engineering
+,
+and on the National Research Council's
+Computer
+Science and Telecommunications Board
+.
+He is a member of the 6-person Technical Advisory Board for
+Microsoft Research
+,
+of the 4-person
+National
+Semiconductor Computer Science & Systems Academic
+Advisory Council
+,
+of the Board of Directors of
+Data I/O Corporation
+,
+and of the Scientific Advisory Board for
+Cable & Howse Ventures' Cascadia Fund.
+He belongs to the standing advisory committees
+for the
+Department of EECS
+at UC Berkeley
+and
+the Departments of Computer Science at
+Stanford University
+,
+the
+University
+of Virginia
+,
+and the
+Hong
+Kong University of Science & Technology
+,
+and is a member of ACM's
+A.M.
+Turing Award
+selection committee.
+He has just completed service on a 12-person National Research Council
+panel reviewing the multi-agency
+High Performance Computing
+and Communications program
+(the "Brooks/Sutherland Committee"), and
+has recently served as Chair of the Committee of Examiners
+for the Graduate Record Examinations Board Computer Science Test,
+Chair of ACM SIGMETRICS (the Association for Computing Machinery's
+Special Interest Group concerned with computer system performance),
+Chair of the ACM Software Systems Award Committee, Program Chair
+of the 13th ACM Symposium on Operating Systems Principles, and
+editor of
+IEEE Transactions on Computers
+.
+At the University of Washington, in addition to serving
+as Chair of the
+Department of Computer Science & Engineering,
+Lazowska is Chair of the University Advisory Committee on
+Academic Technology.
+He has recently served as a member of the
+Committee on the Deanship of the College of Arts
+and Sciences, as Chair of the review committee for
+the Ph.D. program in Molecular Biotechnology, and as a
+member of the performance review committee for the Dean
+of Engineering.  He was selected to deliver the
+1996
+University of Washington Annual Faculty Lecture
+.
+Lazowska is
+a
+Fellow
+of the
+Association
+for Computing Machinery
+and of the
+Institute of Electrical and
+Electronics Engineers
+.
+Seventeen
+Ph.D.
+students
+and 21 M.S. students
+have completed degrees working with him.
+
+
+
+Miscellaneous links:
+
+
+An
+integrated
+overview of the University of Washington, the
+Department, and the region
+.  There's also a
+Persuasion Player version
+of it (250K), intended for
+local consumption.
+"The
+Impact of a Research University:  An Information Technology Perspective"
+
+New UW
+CSE professional Masters program
+.
+Persuasion Player
+Top
+Ten Reasons to Major in CSE at UW
+(115K).
+Information on the
+EE/CSE
+Building project
+.
+
+Abbreviated CV
+
+
+Computing
+Research:  Driving Information
+Technology and the Information Industry Forward
+
+Massy-Goldman
+report alleging 50% CSE
+Ph.D. over-production to be re-issued due to flawed data
+
+"Median
+Years to Ph.D." in new Conference Board
+study of doctorate programs is not what you think!
+
+
+"A
+Half Century of Exponential
+Progress in Information Technology:  Who, What, When, Where,
+Why, and How"
+(1996 University of Washington Annual
+Faculty Lecture)
+"Driver's
+Ed for the Information Highway"
+(University of Washington "Saturday
+Seminar," November 1995)
+Testimony
+to the House
+Appropriations Committee concerning NSF, April 1995
+
+Testimony
+to the House Science Committee concerning HPCC, October 1995
+
+Vice
+President Gore's speech at the ENIAC 50th
+anniversary celebration, February 1996
+
+
+Some
+interesting
+home pages
+that I sometimes use for demo purposes.
+Ode
+to T III
+(Executive Vice President Tallman Trask III departs
+for Duke University)
+University
+of California at Berkeley invents Chinese cooking!
+
+Nathan
+Myhrvold
+joins
+Ed
+Lazowska
+and the
+UW
+CSE faculty
+on a trip down memory lane
+
+Lazowska/Downs family home page
+
+Directions
+to my house
+
+Shilshole Aquatic Club
+(SAC) home page
+
+Recently-discovered
+review of my now-10th-grade son's 6th grade poetry
+
+
+
+
+
+finger lazowska@cs.washington.edu
+for schedule
+information.
+CU-SeeMe:  office 128.95.2.223, reflector 128.95.2.51, home 128.95.1.129
+This page:  http://www.cs.washington.edu/homes/lazowska/
+
+
+
+
+
+lazowska@cs.washington.edu
+
+
+

@@ -1,0 +1,31 @@
+Date: Tue, 26 Nov 1996 00:20:17 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 21 Oct 1996 01:27:57 GMT
+Content-length: 670
+Johnny Chen
+
+Johnny's WWW page
+
+
+I am a graduate student in the
+Computer Science department
+at
+Rice University
+located in
+Houston, Texas.  My advisor is
+Willy Zwaenepoel
+and my research interests are in areas of
+distributed computing, operating systems, and fault tolerence.  I am
+lazy so my home page
+sucks
+.
+
+
+
+Address and phone number:
+Office:  Herman Brown 024, 527-8101 ext. 3537
+Home:    (713) 664-5650
+Email: jc@cs.rice.edu
+
+

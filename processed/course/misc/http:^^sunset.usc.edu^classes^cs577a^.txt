@@ -1,0 +1,142 @@
+Date: Wednesday, 20-Nov-96 23:29:58 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+
+
+Fall 1996 Course CSCI 577a
+
+
+
+Fall 1996 Course CS577a
+
+
+
+Design and Construction of Large Software Systems:
+
+Software Engineering I - Plans, Processes, Requirements, and
+Architectures
+
+
+Commercial off-the-shelf (COTS) software products, interactive networked
+information systems, new management approaches, and new process models are
+significantly changing the nature of software engineering.
+This course is focused on enabling students to understand and apply these new
+software engineering approaches. Its learning objectives are to enable students
+to understand the principles underlying postmodern software engineering; to
+master the use of tools supporting the new approaches; and to apply the tools
+and principles on a real-world team project.
+This years project involves the determination and architecting of high-value
+multimedia capabilities for USC's Library Information System. In CS577a, the
+student team members will formulate operational concepts, requirements
+specifications, architectures, prototypes, life cycle plans, and integrating
+rationale for the proposed capabilities. In CS577b, we plan to have student
+teams develop experimental system capabilities based on the best concepts
+emerging form CS577a.
+
+
+
+Time and Location:
+Monday and Wednesday, 2:00-3:15pm, OHE 100
+
+Basis of grade:
+Homework exercises: 15%; Midterm project package: 25%;
+Final project package: 45%; Individual project critique: 15%
+
+Text:
+Ian Sommerville, Software Engineering, Addison-Wesley, 1995
+(5
+th
+edition); plus course notes
+
+Prerequisite:
+Graduate Standing
+
+Instructor:
+Prof. Barry Boehm, Salvatory 328, Tel: (213) 740-8163, Fax:
+(213) 740-4927, boehm@sunset.usc.edu
+
+Office Hours:
+Monday and Wednesday, 10:30-12:30, or by appointment
+
+Teaching Assistant:
+Alexander Egyed, Salvatory 329, Tel: (213) 740-6505,
+aegyed@sunset.usc.edu
+
+TA Office Hours:
+Tuesday and Thursday, 9:00-11:00, or by
+appointment
+
+Class Account:
+~cs577 (COCOMO and WinWin)
+
+
+
+
+
+Project Description
+
+Schedule
+
+Questionnaire
+
+Frequently Asked Questions
+
+Course Notes - Table of Contents
+
+Team Survey
+
+Student
+Information
+
+People
+
+Teams
+
+Evaluation
+
+
+Library Project
+
+Prototype Presentation
+
+Problem Set
+
+LCO and LCA Grading Criteria
+
+WinWin Grading Criteria
+
+Items on Library Reserve
+
+Sample Taxonomy for WinWin Negotation
+
+Problem Sets assigned to Teams
+
+Getting Started with WinWin 1.1
+
+
+Homeworks
+and Solutions
+
+Homework #1
+
+Solution to Homework #1
+
+Homework #2
+
+
+Class Lectures
+
+Distributed Multimedia by Dan Port 9/25/96
+
+Library Example Prototype by Bill Scheding 10/7/96
+
+
+Class Presentations
+
+LCO Presentation of Team 15
+LCO Presentation of Team 6
+
+
+
+

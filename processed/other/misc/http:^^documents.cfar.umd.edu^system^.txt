@@ -1,0 +1,94 @@
+Date: Tue, 14 Jan 1997 21:38:58 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 04 Mar 1996 18:22:11 GMT
+Content-length: 2700
+
+Document Information Server Design and Usage
+
+
+
+
+
+
+
+The Server is provided as a repository for information, data, and public
+domain code relating to the field of document image understanding.  Although
+the core resources will be compiled by researchers at the University of
+Maryland, the success of such a system depends on user support and
+contributions.
+
+
+System Statistics
+
+
+
+Current Statistics
+
+
+Daily Usage Graph (Postscript Format)
+
+
+Weekly Usage Graph (Gif Format)
+
+
+1995 Statistics
+
+
+Full Statistics
+
+
+1995 Usage Graph
+
+
+
+Physical Description
+
+
+
+Site
+
+Location:
+Center for Automation Research, University of Maryland,
+College Park
+Internet Connection:
+documents.cfar.umd.edu
+Access:
+World Wide Web, Gopher Client, Telnet, or Anonymous FTP
+Hardware
+
+
+1 - SPARCstation IPX, GX, 16-inch Mid-Range Color Monitor,
+
+32-Mbyte, and 424-Mbyte Internal SCSI Disk
+
+1 - 2.1-GB Fast Differential SCSI-2 Internal Expansion Disk
+
+1 - 644-MB Desktop SunCD Pack
+
+
+Server Access
+Users will be able to access the server in several ways.  The primary
+access to the server is through the WWW server.  Large files or binary
+files can be transfered by FTP.  Anonymous FTP access is available for
+selected files at documents.cfar.umd.edu.  For users who do not have
+direct internet access, a ListServer has been implemented and will
+eventually allow access to many of the files on the server.
+
+
+
+
+FTP Access
+
+
+
+WWW Home Page
+
+
+
+
+
+
+Back to the Homepage
+
+

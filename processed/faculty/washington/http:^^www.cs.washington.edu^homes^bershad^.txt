@@ -1,0 +1,250 @@
+Date: Thu, 21 Nov 1996 20:26:20 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sun, 06 Oct 1996 21:04:39 GMT
+Content-length: 9992
+
+
+Brian Bershad
+
+
+
+
+
+Brian N. Bershad
+
+
+
+bershad@cs.washington.edu
+
+
+Work:
+
+
+Computer Science & Engineering Department,
+
+University of Washington,
+FR-35,
+
+Seattle, WA
+98195, USA
+
++1 (206) 543-6707
+FAX (206) 543-2969
+Home:
+
+4240 124th Street NE.
+Seattle, WA 98125, USA
+
+
+
+Brian Bershad
+
+, Assistant Professor, has been at the University of
+Washington since 1986.  After receiving his PhD from the University of
+Washington in 1990, he took a brief respite from Seattle between 1990
+and 1993 to experiment with post-industrial culture in the Northeast.
+In 1993, he returned to the Northwest for the coffee.
+Bershad does research in operating systems, distributed systems,
+networking, parallel systems, and architecture.  A lot of his work has
+appeared in TOCS, SOSP, ASPLOS and ISCA, although he can't seem to get a
+SIGMETRICS paper published to save his life.
+Besides working, Bershad runs, plays squash, and hangs out on the
+stairmaster.
+
+Projects include
+
+
+
+SPIN -- Extensible
+Operating Systems
+
+
+Mobile Computing
+.
+
+Memory management for operating systems and architectures.
+
+
+The Midway Project.
+(at
+Carnegie Mellon
+)
+
+Parallel
+Networking for Scalable I/O
+
+Rocky2
+The
+sequel.
+
+Etch -- x86 binary instrumentation and optimization
+
+
+Courses (Winter 96)
+
+
+
+CS&E 451
+.
+
+Looking for a masters or quals project?
+Click
+here
+for a list of projects you
+might do for a masters degree, a quals project, or just for fun.
+Some recent papers
+
+
+
+A Trace-driven Comparison of Algorithms for
+Parallel Prefetching and Caching
+Tracy Kimbrel, Andrew Tomkins, R. Hugo Patterson, Brian Bershad, Pei Cao,
+Edward W. Felten, Garth A. Gibson, Anna R. Karlin, and Kai Li.
+1996 ACM SIGOPS/USENIX Association Symposium on
+Operating System Design and Implemenation.
+October 96.
+
+Dynamic Binding for Extensible
+Systems
+Przemyslaw Pardyak and Brian N. Bershad.  OSDI II.
+1996 ACM SIGOPS/USENIX Association Symposium on
+Operating System Design and Implemenation.
+October 96.
+
+The Structure and Performance of Interpreters
+Theodore H. Romer, Dennis Lee, Geoffrey M. Voelker, Alec Wolman,
+Wayne A. Wong, Jean-Loup Baer, Brian N. Bershad and Henry M. Levy.
+ASPLOS VII.  October 96.
+
+Fast, Effective Dynamic
+Compilation, Conference on Programming Language Design and Implementation
+J. Auslander, M. Philipose, C. Chambers, S.J. Eggers and B.N. Bershad.  May 1996.
+
+An Extensible Protocol Architecture for Application-Specific Networking
+Marc E. Fiuczynski and Brian N. Bershad
+
+Writing an Operating System Using Modula-3
+Emin Gun Sirer, Stefan Savage, Przemyslaw Pardyak, Greg DeFouw,
+Mary Ann Alapat,
+Brian Bershad,
+Appeared in the
+Workshop on Compiler Support for System Software
+,
+February 1996.
+
+Language Support for Extensible Operating Systems
+,
+Wilson Hsieh, Marc Fiuczynski, Charles Garrett, Stefan Savage,
+David Becker, Brian Bershad,
+Appeared in the
+Workshop on Compiler Support for System Software
+,
+February 1996.
+Safe Dynamic Linking in an Extensible Operating System
+Emin Gun Sirer, Marc Fiuczynski, Przemyslaw Pardyak, Brian Bershad, Appeared in the
+Workshop on Compiler Support for System Software, February 1996.
+Automatic Dynamic Compilation Support for Event Dispatching in Extensible Systems
+C. Chambers, S.J. Eggers, J. Auslander, M. Philipose, M. Mock and P. Pardyak.
+Workshop on Compiler Support for Systems Software, February 1996.
+
+Extensibility,
+Safety and Performance in the SPIN Operating System
+Bershad et.al. SOSP96.
+
+Reducing TLB and Memory Overhead Using Online
+Superpage Promotion.
+Romer, Ohlrich, Karlin and Bershad. ISCA 95.
+
+Write Detection for a Distributed Shared
+Memory.
+Zekauskas, Sawdon and Bershad. This paper appeared
+in the 1994 OSDI Conference.
+
+Dynamic Page Mapping Policies for Cache Conflict
+Resolution on Standard Hardware.
+Romer, Lee, Bershad and Chen.
+This paper  appeared in the 1994 OSDI Conference.
+
+Mobisaic.
+Voelker, Bershad. This paper appeared in
+the 1994 Mobile Computing Workshop.
+
+Issues in extensible operating systems.
+Savage, Bershad.
+
+Avoiding Conflict Misses Dynamically in Large Direct-Mapped
+Caches.
+Bershad, Chen, Lee and Romer   ASPLOS VI.
+
+SPIN -- An Extensible Microkernel for
+Application-specific Operating System Services.
+Bershad, et. al.  UW
+Technical Report.
+
+Efficient Packet Demultiplexing for Multiple Endpoints and Large Messages.
+Yuhara, Bershad, Maeda and Moss. Winter USENIX 94.
+
+The Impact of Operating System Structure on Memory System Performance.
+Chen and Bershad.  SOSP 93.
+
+Protocol Service Decomposition for High Performance Networking.
+Maeda and Bershad. SOSP 93.
+
+Practical Considerations for Non-Blocking Concurrent Objects.
+Bershad. DCS 93.
+
+Fast Interrupt Priority Management in Operating System Kernels.
+USENIX Microkernels Workshop. 1993.
+
+The Midway Distributed Shared Memory System
+Bershad, Zekauskas and Sawdon.  IEEE Compcon 93.
+
+Local Area Mobile Computing on Stock Hardware and
+Mostly Stock Software
+Watson and Bershad.  USENIX MOBLIC 93.
+
+Consistency Management for Virtually Indexed Caches.
+Wheeler and Bershad. ASPLOS 92.
+
+Fast Mutual Exclusion for Uniprocessors.
+Bershad, Redell and Ellis. ASPLOS 92.
+
+Using the Mach Communication Primitives in X11
+Ginsburg, Baron and Bershad.  MACHNIX 92.
+
+Using Microbenchmarks to Evaluate System Performance
+Draves, Bershad and Forin.  WWOS IV. 1992.
+
+Networking Performance for Microkernels.
+Maeda and Bershad.  WWOS IV. 1992.
+
+The Increasing Irrelevance of IPC Performance for Micro-kernel Based Operating Systems.
+.
+Bershad.  USENIX Microkernels Workshop. 1991.
+
+An I/O System for Mach.
+Forin, Golub and Bershad.  MACHNIX 91.
+
+Using Continuations to Implement Thread Management and Communication in
+Operating Systems.
+Draves, Bershad, Rashid and Dean. SOSP 91.
+
+
+Other information
+
+
+
+ARPA-related information
+
+
+Rain-City Hash House Harriers Related Information
+
+A
+relative
+was once abducted by an alien.
+
+
+
+
+

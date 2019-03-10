@@ -1,0 +1,99 @@
+
+
+Carl Smith
+
+Email:
+
+smith@cs.umd.edu
+
+
+
+FOCS Homepage
+
+
+
+IFIP Working Group 1.4
+
+
+Current Position:
+On leave at:
+
+Faculty of Mathematics, Computer Science, Physics & Astronomy
+
+Institute for Logic, Language and Computation
+
+University of Amsterdam
+
+Plantage Muidergracht 24
+
+NL-1018 TV Amsterdam
+
+The Netherlands
+
+
+
+Approximate 1996, 1997 Schedule
+
+
+
+Academic Degrees:
+
+
+Ph.D.,
+SUNY at Buffalo
+, 1979.
+Habil.
+University of Latvia
+, 1993.
+
+
+
+SIGACT Long Range Planning Committee,
+Recent Contributions of Theory
+(hypertext)
+,
+(postscript)
+,
+statement of purpose
+
+
+
+Research Interests:
+Machine learning, theoretical program
+testing, foundations of computer science.
+
+Current Projects:
+
+
+On the Impact of Forgetting on Learning Machines,
+4 page summary,
+full paper
+
+
+
+On the Intrinsic Complexity of Learning
+
+
+
+Choosing a Learning Team: a Topological Approach
+
+
+
+A Recursive Introdcution to the Theory of Computation
+, Springer
+Verlag, ISBN 0-387-94332-3,
+typographical errors
+
+
+Altenative perspectives:
+
+work,
+
+play,
+
+motto
+
+
+Last updated on January 15, 1996.
+
+

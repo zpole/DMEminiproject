@@ -1,0 +1,185 @@
+Date: Tue, 14 Jan 1997 21:51:03 GMT
+Server: NCSA/1.5.2
+Content-type: text/html
+
+
+Building Successful Performance Tools
+
+
+
+Building Successful Performance Tools
+
+July 1995 ARPA Principal Investigators Meeting
+
+The
+Pablo
+project is exploring tools and techniques for performance
+analysis and optimization of scalable parallel systems.
+Major projects include
+
+
+Pablo Performance Analysis Environment
+
+
+High-Performance Fortran Integration (HPF)
+
+
+Virtual Reality for Performance Data Immersion
+
+
+WWW Server Performance Analysis
+
+
+Portable Parallel File System (PPFS)
+
+
+Input/Output Characterization
+
+
+Scalable I/O Initiative
+
+
+The slides below discuss the problems inherent in building portable,
+extensible performance tools for parallel systems.  You might find a
+white paper on the same topic
+of possible interest.
+It was prepared for the recent forum on federal information and communications
+research and development held to discuss the
+
+Committee on Information and Communications (CIC) Strategic
+Implementation Plan
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By clicking on the thumbnail pages above, you can peruse the slides
+from this presentation.  Alternatively, you can retrieve a single
+postscript file
+containing the entire presentation.
+
+
+You are the
+399th
+visitor since September 29, 1995.
+
+
+
+Jump to the Pablo Group Home Page
+
+
+Last Change: 26 July 1995/
+Dan Reed
+(reed@cs.uiuc.edu)
+
+
+

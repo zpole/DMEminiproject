@@ -1,0 +1,71 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:02:50 GMT
+Content-Type: text/html
+Content-Length: 1207
+Last-Modified: Tuesday, 05-Nov-96 03:35:30 GMT
+
+Zehra Cataltepe's Home Page
+
+
+Zehra Cataltepe
+
+Graduate Student at Caltech Computer Science Department.
+
+
+
+
+Personal:
+
+
+
+Brief Information on Who I am
+
+
+
+Resume
+
+
+
+
+Research:
+Learning From Hints in Neural Networks
+
+
+Current Research on Hints (html)
+
+
+
+Current Research on Hints (postscript)
+
+
+Publications
+
+
+Caltech Learning Systems Group
+.
+
+I am also a TA for
+CS 156, Learning Systems.
+
+
+WWW
+:
+Hot List
+
+
+
+Thank you for visiting my home page.
+This page is always under construction!
+
+Return to
+Caltech CS Home Page
+
+
+
+For comments please send e-mail to
+zehra@cs.caltech.edu
+.
+
+
+

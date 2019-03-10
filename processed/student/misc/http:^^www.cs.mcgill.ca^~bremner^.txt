@@ -1,0 +1,53 @@
+Date: Tue, 26 Nov 1996 02:59:58 GMT
+Server: Apache/1.0.0
+Content-type: text/html
+Content-length: 979
+Last-modified: Wed, 24 Apr 1996 15:33:00 GMT
+
+
+David Bremner's Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+E-mail:
+
+bremner@cs.mcgill.ca
+
+Office:
+
+McENG 204N
+
+Office Phone:
+(514) 398-7085 (local 5931)
+
+Geometry Lab  Phone:
+(514) 398-4838
+
+Welcome to my minimalist home page.
+Research Interests
+
+
+
+Computational Geometry
+Convex Polytopes
+Espresso
+
+Annotated bibliography for my thesis proposal
+converted to hypertext automagically by software
+I don't even want to talk about, nevermind distribute.
+
+
+
+April 1996
+
+
+

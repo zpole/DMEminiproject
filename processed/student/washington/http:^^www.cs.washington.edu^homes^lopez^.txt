@@ -1,0 +1,124 @@
+Date: Thu, 21 Nov 1996 22:56:47 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 18 Oct 1996 01:03:40 GMT
+Content-length: 4140
+
+
+Gus Lopez
+
+
+
+Gus Lopez
+
+lopez@cs.washington.edu
+
+
+
+
+
+
+
+
+School:
+427 Sieg Hall
+
+Department of Computer Science & Engineering,
+
+
+University of Washington
+
+Box 352350
+
+Seattle, WA
+98195-2350 USA
++1 206 543 5118
+
+
+
+Home:
++1 206 522 4914
+
+
+
+Fax:
++1 206 543 2969
+
+
+
+I'm a PhD student at the University of Washington doing my dissertation
+research on the design and implementation of constraint imperative (object-oriented)
+languages.
+My
+curriculum vita
+.
+
+
+
+Publications
+
+Gus Lopez, Bjorn Freeman-Benson, and Alan Borning.
+Kaleidoscope: A constraint imperative programming language.
+In Brian Mayoh, Enn Tougu, and Jann Penjam, editors,
+Constraint
+Programming.
+Springer-Verlag, 1993.  NATO Advanced Study Institute
+Series, Series F: Computer and System Sciences.  Also published
+as UW CSE Technical Report 93-09-04.
+Gus Lopez, Bjorn Freeman-Benson, and Alan Borning.
+Constraints and object identity.
+In
+Proceedings of the 1994 European Conference on Object-Oriented Programming,
+Bologna, Italy, July 1994.
+Gus Lopez, Bjorn Freeman-Benson, and Alan Borning.
+Implementing constraint imperative programming languages: the Kaleidoscope'93
+virtual machine.
+In
+Proceedings of the 1994 ACM Conference on Object-Oriented Programming
+Systems, Languages, and Applications,
+Portland, Oregon, October 1994.
+
+
+
+OOPSLA'96 Tutorials
+I'm also Tutorials Chair for the upcoming
+OOPSLA'96
+conference
+in San Jose, California.  The top people in object-oriented technologies and
+software development will meet at, speak at, and run the OOPSLA'96 conference.
+OOPSLA is well-known for the breadth, depth, and high quality of its
+extensive tutorial program.
+In previous years,
+OOPSLA tutorials
+have covered all aspects of object-oriented technology from introductory
+surveys to industrial software engineering practices and leading-edge academic
+research topics.  In response to requests from our past attendees, we
+especially encourage proposals on engineering issues and advanced topics.
+Anyone considering submitting a proposal for a tutorial should request
+guidelines on tutorial submissions from the Tutorials Chair or via the
+OOPSLA'96 Electronic Hotline.  Electronic mail submissions of proposals
+are encouraged and will be enthusiastically accepted.  Tutorial proposals
+without email addresses will not be accepted.  Tutorial proposals are due
+1 MARCH 1996, notification of acceptance will be about 1 MAY 1996, with
+camera-ready notes due 9 AUGUST 1996.
+
+
+
+Interesting links
+
+
+Constraints
+
+
+OOPSLA'96 Tutorials
+
+
+Pam Green
+
+
+Directions to Jimi Hendrix's grave
+
+
+Star Wars Collectors Archive
+
+

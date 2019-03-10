@@ -1,0 +1,134 @@
+Date: Thu, 21 Nov 1996 22:22:50 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 403 Home Page
+
+
+
+
+
+CSE 403: Software Engineering
+
+
+Meeting Times
+
+
+Location: Loew 105
+Time: Monday, Wednesday, Friday 11:30 - 12:20
+
+Professor:
+Nancy Leveson
+
+
+
+Office: Sieg 219
+Phone: 685-1934
+Hours: by appointment
+Mail:
+leveson@cs.washington.edu
+
+
+TA:
+Adam Carlson
+
+
+
+Office: Sieg 326a
+Hours: Wed 12:30 - 1:30 or by appointment
+Mail:
+carlson@cs.washington.edu
+
+
+Course Description
+This course will study the concepts, methods and tools for the specifications, design, construction, testing (analysis) and documentation of large software systems.  Included also will be "non-technical" topics essential to creating complex software systems successfully, including project management.
+
+Textbook
+Ghezzi, Jazayeri, and Mandrioli,
+Fundamentals of Software Engineering,
+Prentice Hall, 1991.
+
+
+Notes:
+
+
+
+Notes on requirements
+
+
+Some sample requirements interview questions
+
+
+Producer-Consumer Petri Net and Axiomatic Specification notes
+
+
+Z notes
+
+
+Coupling and Cohesion notes
+
+
+
+Assignments:
+
+
+
+Assignment 1
+
+
+Assignment 2
+
+
+Assignment 3
+
+
+Assignment 4
+
+
+Assignment 5
+
+
+
+Some links that may be of your interest:
+
+
+Course
+syllabus
+(Updated 4/2)
+
+Send mail to the
+class mailing
+list
+
+
+news:comp.risks
+
+
+Military Standard Defense System Software Development
+
+
+
+Other information
+is available about
+
+
+CSE403, Winter 1995
+
+
+CSE403, Spring 1995
+
+
+CSE403, Winter 1996
+
+the
+Computer Science and Engineering Department
+
+
+
+Suggestions/Feedback to:
+cse403-request@cs.washington.edu
+
+
+
+

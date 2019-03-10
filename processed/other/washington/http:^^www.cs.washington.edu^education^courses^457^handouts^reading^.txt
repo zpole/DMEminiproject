@@ -1,0 +1,239 @@
+Date: Mon, 02 Dec 1996 16:11:22 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+Reading Assignments
+
+
+
+
+
+
+
+
+1996 Autumn Quarter
+
+
+
+
+
+Reading List
+
+
+
+
+Graphics hardware
+
+
+Foley et al., Sections 1.5, 4.2 - 4.5
+Optional:
+
+I. E. Sutherland.  Sketchpad: a man-machine graphics
+communication system.
+Proceedings of the Spring Joint Computer
+Conference
+, 329-346, 1963.
+T. H. Myer and I. E. Sutherland.  On the design of display
+processors.
+Communications of the ACM
+11(6): 410-414, 1968.
+
+
+
+Displaying images
+
+
+Foley et al., Sections 4.3.1, 4.4.1, 13
+(especially 13.1.1, 13.2 (intro), 13.2.1, 13.3.1), 5.4
+Optional:
+
+K. Sims. Artificial evolution for computer graphics.
+Computer Graphics
+(SIGGRAPH '91) 25(4), 319-328.
+
+
+
+Image morphing
+
+
+T. Beier and S. Neely, Feature-based image metamorphosis.
+Computer Graphics
+(SIGGRAPH '92) 26(2), 35-42.
+Optional:
+
+A. Lerios, C. Garfinkle, and M. Levoy. Feature-based volume
+metamorphosis.
+Computer Graphics Proceedings, Annual
+Conference Series
+(SIGGRAPH 95), 449-456.
+
+
+
+Texture mapping
+
+
+Foley et al., Section 16.3.2, 17.4.3
+Neider, Davis & Woo, Chapter 9
+Optional:
+
+James F. Blinn and Martin E. Newell.  Texture and reflection
+in computer generated images.
+Communications of the ACM
+19(10):
+542-547, October 1976.
+Paul S. Heckbert.  Survey of texture mapping.
+IEEE Computer Graphics and Applications
+6(11): 56-67, November 1986.
+Paul Haeberli and Mark Segal.  Texture mapping as a
+fundamental drawing primitive.
+Proceedings of the Fourth
+Eurographics Workshop on Rendering
+(Paris, France), 259-266,
+June 1993.
+
+
+
+Image compositing
+
+
+Foley et al., Section 17.6
+Thomas Porter and Tom Duff. Compositing digital images.
+Computer Graphics
+(SIGGRAPH '84) 18(3), 253-259.
+Optional:
+
+Neider, Davis & Woo, Chapter 7
+
+
+
+Line drawing
+
+
+Foley et al., Sections 3.2, 3.17
+Optional:
+
+Foley et l., Section 14.10
+Robert F. Sproull.  Using program transformations to derive
+line-drawing algorithms.
+ACM Transactions on Graphics
+1(4):
+259-273, October 1982.
+Satish Gupta and Robert F. Sproull.  Filtering edges for
+gray-scale displays.
+Computer Graphics
+15(3): 1-5, August
+1981.
+
+
+
+Polygon scan conversion
+
+
+Foley et al., Sections 3.5, 3.6, 19.2.8
+
+
+Curves
+
+
+Foley et al., Sections 11(intro), 11.1.1, 11.2
+
+
+Surfaces
+
+
+Foley et al., Section 11.3
+
+
+Hidden surface algorithms
+
+
+Foley et al., Chapter 15
+Optional:
+
+I. E. Sutherland, R. F. Sproull, and R. A. Schumacker, A
+characterization of ten hidden surface algorithms,
+ACM Computing
+Surveys
+6(1): 1-55, March 1974.
+
+
+
+Local illumination models
+
+
+Foley et al., Sections 16.1, 16.2, 16.5
+Optional:
+
+Michael Oren and Shree K. Nayar. Generalization of Lambert's
+reflectance model.
+Computer Graphics Proceedings, Annual
+Conference Series
+(SIGGRAPH 94), 239-246.
+
+
+
+Ray tracing
+
+
+Foley et al., Sections 16.11, 16.12
+Optional:
+
+T. Whitted. An improved illumination model for shaded
+display.
+Communications of the ACM
+23(6), 343-349, 1980.
+J. Painter and K. Sloan. Antialiased ray tracing by adaptive
+progressive refinement.
+Computer Graphics
+(SIGGRAPH 89) 23(3):
+281-288.
+
+
+
+Rendering tricks
+
+
+Foley et al., Sections 16.3, 16.4, 16.6, 16.12.1
+Optional:
+
+William T. Reeves, David H. Salesin, and Robert L. Cook.
+Rendering antialiased shadows with depth maps.
+Computer
+Graphics
+(SIGGRAPH '87) 21(4): 283-291, July 1987.
+Jody Duncan Shay.  Young Sherlock Holmes: Anything but
+elementary.
+Cinefex
+26: 36--67, May 1986.
+
+
+
+Global illumination
+
+
+Foley et al., Sections 16.7, 16.13
+Optional:
+
+C. M. Goral, K. E. Torrance, D. P. Greenberg, et al. Modeling
+the interaction of light between diffuse surfaces.
+Computer
+Graphics
+(SIGGRAPH '84) 18(3), 213-222.
+B. E. Smits, J. R. Arvo, and D. H. Salesin. An
+importance-driven radiosity algorithm.
+Computer Graphics
+(SIGGRAPH '92) 26(2), 273-282.
+
+
+
+Wavelets and Multiresolution Analysis
+
+
+Optional:
+
+Chapters 1-8 in E.J. Stollnitz, T.D. Derose, D.H. Salesin. Wavelets
+for Computer Graphics Theory and Applications. Morgan Kaufmann
+Publishers, Inc.
+
+
+

@@ -1,0 +1,117 @@
+Date: Wed, 20 Nov 1996 21:55:18 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 27 Nov 1995 20:32:01 GMT
+Content-length: 3583
+
+
+
+Lectures in Image Processing
+and Computer Vision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next:
+
+Contents
+
+Up:
+
+BYU CS Department
+
+
+
+
+Lectures in Image Processing
+and Computer Vision
+
+
+Bryan S. Morse, Ph.D.
+
+
+Department of Computer Science
+
+
+Brigham Young University
+
+Computer Science 550
+Fall 1995
+
+These notes are designed to supplement the Computer Vision (CS 550)
+course in the
+Department of Computer Science
+at
+Brigham Young University
+.
+Please
+contact the author
+if you have any questions or suggestions.
+This document was converted from LaTeX using
+latex2html
+,
+so there are
+a few things you may need to do to get it to look nice
+.
+There are also
+some tips on getting printed copies of these notes
+.
+
+Note:
+These on-line notes are still generally under construction
+and
+will
+change frequently.
+Please bear with me during this construction phase.
+
+
+
+
+
+Contents
+
+
+Course Information
+
+
+Lectures
+
+
+Assignments
+
+
+Programming
+
+
+Project
+
+
+Exams
+
+
+Other Information and Resources
+
+
+About this document ...
+
+
+
+
+©
+Bryan S. Morse
+, 1995
+
+

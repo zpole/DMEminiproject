@@ -1,0 +1,130 @@
+Date: Thu, 21 Nov 1996 20:11:58 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sun, 30 Jun 1996 04:37:33 GMT
+Content-length: 3732
+
+Rik Belew
+
+
+
+
+
+
+
+
+Next:
+
+Introduction
+
+
+
+
+Richard K. Belew
+
+Cognitive Computer Science Research Group
+
+Computer Science & Engr. Dept. (0114)
+
+University of California - San Diego
+La Jolla, CA 92093
+
+
+rik@cs.ucsd.edu
+
+
+January, 1996
+
+
+
+
+I am an associate professor of Computer Science, with special research
+interests in
+machine
+learning
+and free-text information retrieval.  Virtually all of
+this work has been done with students, as part of a research group we
+call the
+Cognitive Computer Science Research
+Group
+.  I've tried to give an overview of the research we've done
+in the sections  below.  If you
+are looking for a particular paper, you can proceed directly to the
+References
+section, where a number of them can be found online.
+
+Recent activities
+
+
+
+Editor, with
+Melanie Mitchell
+of
+Adaptive Individuals in Evolving Populations
+Addison-Wesley, 1996.
+
+Member,
+UCSD ad hoc Committee on Graduate Education in the Natural Sciences and
+Engineering
+
+
+Program chair, with
+Michael Vose
+of
+Foundations of Genetic Algorithms
+, to be held in San Diego, August 3-5, 1996.
+
+Program Committee, with Marti Hearst (PARC), Haym Hirsh (Rutgers)
+and Tom Mitchell (CMU) of
+Machine Learning in Information Access
+, a workshop that is part of the
+AAAI Spring Symposium at Stanford, March 25-27, 1996.  I have also collected
+a list of related resources
+.
+
+
+
+Outline of research interests
+
+
+
+Introduction
+
+
+Adaptive information retrieval
+
+
+
+Programmed and learned knowledge
+
+
+IR issues
+
+
+Electronic artifacts
+
+
+
+Genetic algorithms
+
+
+
+GA adaptation
+
+
+Evolution of Neural Networks
+
+
+Artificial Life
+
+
+
+Conclusion
+
+
+References
+
+
+
+
+rik@cs.ucsd.edu

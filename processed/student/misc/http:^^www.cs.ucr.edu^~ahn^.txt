@@ -1,0 +1,47 @@
+Date: Thu, 21 Nov 1996 22:57:39 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 774
+Last-modified: Wed, 03 Jul 1996 17:33:56 GMT
+
+
+Joon Soo Ahn
+
+
+
+Joon Soo Ahn
+
+
+Address
+
+
+School :
+Department of Computer Science
+University of California
+Riverside, CA 92521-0425
+email: ahn@cs.ucr.edu
+Office :
+Bourns Hall B233
+(909) 787 - 3954
+Home   :
+3370 Idaho Ave
+Riverside, CA 92507
+(909) 683 - 5832
+
+
+Research Interest
+
+
+Computer Vision
+Machine Learning in Computer Vision
+Computer Graphics
+Computer Visualization
+Computer Aided Geometric Design
+
+
+
+Computer Science Depratment of UC Riverside
+
+
+
+

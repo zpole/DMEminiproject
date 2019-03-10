@@ -1,0 +1,61 @@
+Date: Mon, 02 Dec 1996 17:29:02 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+CSE 457 Lectures
+
+
+
+
+
+
+
+
+1996 Autumn Quarter
+
+
+
+
+
+Lecture Notes
+
+
+
+Graphics hardware and color
+
+
+Displaying images
+
+
+Image morphing
+
+
+Texture mapping
+
+
+Image compositing
+
+
+Line drawing
+
+
+Polygon scan conversion
+
+
+Curves
+
+
+Surfaces
+
+
+Viewing
+
+
+Hidden surface algorithms
+
+
+Local illumination models
+
+
+
+

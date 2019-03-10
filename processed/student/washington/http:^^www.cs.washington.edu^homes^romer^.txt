@@ -1,0 +1,139 @@
+Date: Thu, 21 Nov 1996 22:52:29 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 01 Nov 1996 00:42:07 GMT
+Content-length: 4323
+
+
+Ted Romer
+
+
+
+
+Ted Romer
+
+
+
+
+Department of Computer Science & Engineering
+
+
+University of Washington
+
+Box 352350
+
+Seattle, WA
+98195
+Home:   (206) 527-0988
+Office: (206) 616-1849
+Fax:    (206) 543-2969
+
+romer@cs.washington.edu
+Office:
+Chateau Sieg
+
+110
+.
+
+Research Interests
+I've been doing research on operating system support
+for
+high performance memory systems
+with really smart people like
+Brian Bershad
+,
+Brad Chen
+,
+Alan Eustace,
+Anna Karlin
+,
+Dennis Lee
+,
+Wayne Ohlrich
+, and
+Wayne Wong
+.
+Three recent papers on this subject:
+
+
+Reducing TLB and Memory Overhead Using Online
+Superpage Promotion
+.
+Romer, Ohlrich, Karlin and Bershad.  ISCA '95, pp. 176-187.
+Dynamic Page Mapping Policies for Cache Conflict Resolution
+on Standard Hardware
+.
+Romer, Lee, Bershad, and Chen.  OSDI '94, pp. 255-266.
+Avoiding Conflict Misses Dynamically in Large Direct-Mapped
+Caches
+.
+Bershad, Lee, Romer, and Chen.  ASPLOS VI, pp. 158-170.
+
+In addition, some friends and I have been studying the performance of
+interpreters.  You can learn more from the
+Project Rocky
+home page.  We also wrote a paper together:
+
+
+The Structure and Performance of Interpreters
+.
+Romer, Lee, Voelker, Wolman, Wong, Baer, Bershad, and Levy.
+ASPLOS VII, to appear.
+Abstract
+,
+postscript
+.
+
+My
+Bibliography
+.
+
+590lobo Reading List
+
+
+Random Stuff
+
+
+
+A map to my house.
+
+Computer scientists with x-rays of their limbs on the web:
+
+
+Ted Romer's knee
+after
+arthroscopic
+surgery.
+
+Mark Hill's wrist
+.
+
+My friend
+Dylan
+said his hair couldn't be cut with a Flowbee.  We said it could.  Being
+experimental scientists, we conducted an experiment.  You can judge the
+results
+yourself.
+After attending ISCA '95, I travelled in Europe and took some
+pictures
+.
+
+romer
+, v. tr.  To eat
+someone else's food, accompanied by sincere rationalization.  For
+example, "You
+romered
+my lunch!"  "But I thought you'd left
+the country and it would go bad if I didn't eat it!"  Origin unknown.
+
+Edward Tufte's
+
+tips on public speaking
+.
+My father edits the
+American Journal of Physics
+.
+
+
+
+

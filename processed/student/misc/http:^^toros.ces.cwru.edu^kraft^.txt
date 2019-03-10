@@ -1,0 +1,61 @@
+Content-type: text/html
+Last-modified: Thursday, 05-Sep-96 21:30:15 GMT
+Content-length: 2209
+
+Joel D. Kraft
+
+
+
+
+
+
+
+
+Joel D. Kraft
+
+PhD Student
+Multimedia Database Group
+
+
+Case Western Reserve University
+Department of Computer Engineering & Science
+10900 Euclid Avenue
+Cleveland, OH 44106-7071
+
+
+Office: 216-368-0459
+Lab: 216-368-8843
+FAX: 216-368-2801
+
+Email:
+kraft@ces.cwru.edu
+
+
+
+
+
+
+Current Research
+I am currently working on a protype application that autmatically
+assembles video presentations based on a users query.  VIDQUERY utilizes
+a database of video segments and a set of constraints to ensure that
+the resulting presentation is semantically coherant.  The first phase of
+the project allows the user to specify a query by viewing and selecting
+segments that are to be included in the resulting presentation, along with
+the desired length of the presentation.  The second phase of the project
+will automatically select the initial segments to include based on a
+database query.
+Click
+here
+to see the current VIDQUERY prototype.
+
+
+Papers
+
+
+
+Joel D. Kraft,
+jdk6@po.cwru.edu
+
+Last Updated: 22 April 96
+

@@ -1,0 +1,52 @@
+Server: Netscape-Commerce/1.12
+Date: Wednesday, 20-Nov-96 22:46:08 GMT
+Last-modified: Friday, 16-Feb-96 20:28:34 GMT
+Content-length: 963
+Content-type: text/html
+
+
+CS 318 Home Page
+
+
+
+CS 318 (
+Spring '96
+) : Operating Systems
+Welcome to the cs 318 home page. You can find the assignments and
+handouts for the class as the course progresses.
+About the class
+
+
+
+Professor
+:
+Richard Lipton
+
+E-Mail
+: rjl@princeton.edu
+
+Office Hours
+: TBA
+
+Teaching Assistant
+:
+Sanjeev Kumar
+
+
+E-Mail
+: kumar@princeton.edu
+
+Office Hours
+: 11:00 AM to 12:PM Tuesday Thursday
+
+Handouts
+
+
+Handouts
+
+Homework assignments
+
+
+If you have any questions or comments, send mail to cs318@phoenix.
+
+

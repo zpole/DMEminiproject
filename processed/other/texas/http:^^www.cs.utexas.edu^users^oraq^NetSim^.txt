@@ -1,0 +1,146 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 20:21:30 GMT
+Content-Type: text/html
+Content-Length: 4649
+Last-Modified: Wednesday, 06-Nov-96 14:43:17 GMT
+
+
+
+NetSim Documents
+
+
+
+
+
+Draft NetSim Documents
+
+
+
+
+General
+
+
+NetSim Overview
+- What is it?
+
+Getting Started
+- how to run
+your first simulation
+
+How to
+add new packet definitions
+
+
+Control Class
+- A
+detailed introduction
+
+Known Bugs
+
+
+
+NetSim API
+
+
+AllNames
+
+
+Channel
+
+
+ChannelInterface
+
+
+ChannelInterfaceSpawner
+
+
+Control
+
+
+DebugClass
+
+
+DebugFrame
+
+
+DebugWin
+
+
+Host
+
+
+IPv6
+
+
+IPv6Addr
+
+
+IPv6FormatException
+
+
+InterfaceState
+
+
+NetSim
+
+
+NodeState
+
+
+NSARP
+
+
+NSLLC
+
+
+NStelnet
+
+
+OctetArray
+
+
+Packet
+
+
+Router
+
+
+Segment
+
+
+SubnetState
+- should be called SegmentState. Used in Control
+
+TextArea
+
+
+UDP
+
+
+UTIP
+- an old name for the NetSim out-of-band protocol
+constants
+
+UTIPstring
+- should be renamed to NSstring. Should use in the code
+at this time, but instead an overloaded OctetArray will
+handle strings.
+
+
+Java API
+
+
+1.0.2 local
+copy
+
+1.0.2 remote
+copy
+
+
+
+Authored by Eric Hollas
+Last updated on November 06, 1996 08:51 AM.
+
+
+

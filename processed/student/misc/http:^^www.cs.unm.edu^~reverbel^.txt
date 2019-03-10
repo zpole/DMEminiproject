@@ -1,0 +1,132 @@
+Date: Tue, 26 Nov 1996 17:47:30 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+Francisco Reverbel's UNM home page
+
+
+
+
+
+
+
+
+
+
+Guess where this picture
+was shot, then
+take
+a look
+...
+
+
+
+
+Francisco Reverbel
+
+PhD Candidate, ABD
+
+
+Area: Systems Software
+
+Advisor:
+Barney
+Maccabe
+
+e-mail:
+reverbel@cs.unm.edu
+
+
+
+
+
+
+
+
+Computer
+Science Department
+
+
+
+
+
+Since August 91 I'm on leave of absence from the
+Computer Science Department
+of the
+University
+of Sao Paulo
+(Brazil), pursuing a PhD degree at UNM.
+My current reseach interests are
+distributed object
+computing
+(
+CORBA
+),
+object databases
+,
+and
+ORB/ODBMS
+integration
+.
+Now a terminal ("All But Dissertation") PhD student, I'm doing my resarch work
+at the
+Advanced Computing Lab
+of the
+Los Alamos National Laboratory
+, in the
+Sunrise
+/
+Telemed
+project. My PhD dissertation will be entitled
+Persistence in
+Distributed Object Systems: ORB/ODBMS Integration
+.
+Before joining Sunrise/Telemed, I did systems software for massively
+parallel machines, as a member of the
+SUNMOS/Puma
+group.
+
+
+
+
+Not an ABD anymore, it is all over now!
+Information on my PhD work is available
+here
+.
+
+
+
+
+
+
+Paper address:
+
+P.O. Box 807
+Los Alamos, NM 87544
+
+
+Home phone:
+505-662-2138
+
+
+
+
+
+To my home page at the ACL
+
+
+
+
+Last modified:
+
+Tue Apr 23 15:03:00 1996
+
+
+Francisco Reverbel
+
+reverbel@cs.unm.edu
+
+
+
+

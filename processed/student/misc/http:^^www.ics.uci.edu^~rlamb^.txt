@@ -1,0 +1,205 @@
+Date: Thu, 21 Nov 1996 22:52:13 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 8564
+Last-modified: Thu, 24 Oct 1996 01:47:30 GMT
+
+
+Roberta Lamb
+
+
+
+Roberta Lamb
+
+
+
+
+Area:
+CORPS--Computing, Organizations, Policy and Society
+
+Advisor:
+Rob Kling
+
+Electronic Mail:
+rlamb@ICS.UCI.EDU
+,
+rlamb@platsoft.com
+
+CompuServe: 73614,1612 or
+73614.1612@compuserve.com
+
+Office: CST 4
+Office Phone: (714) 453-4000 x1340
+Home Phone: (714) 854-1321
+Home Address: 18931 Antioch Drive, Irvine, CA 92715
+
+
+Research Projects:
+
+IRIS:
+INTERORGANIZATIONAL RELATIONSHIPS AND INFORMATION SERVICES
+
+My research interests focus on the ways in which organizations use
+online information (OI) resources.  My pilot research suggests that
+OI resources may play an important role in the formation and maintenance
+of interorganizational relationships.  The main objective
+of my current research is to analyze how interorganizational relationships
+are mediated through OI resource use.  My case study will
+describe the social processes of online information mediation by
+identifying the roles of intermediaries and the patterns of mediation
+which occur when OI resources, and other resources such as paper-based media
+and personal contacts, are used intensively by organizations in the
+corporate sector.
+Our Cooperating Organization on the IRIS Project is
+Knight-Ridder Information.
+
+
+Guru Abilities:
+
+
+Relational Databases and Client/Server technology implementation
+Software Architecture transition strategies
+Heterogeneous object technology integration in commercial software
+(Doesn't this sound awful?  Well, the net result of this is that I'm
+excellent in C, C++ and SQL.  And I have wonderful war stories about
+trying to get multiple clients to work with multiple servers in widely
+distributed client/server configurations.)
+
+Education:
+
+1995      Candidate for Doctor of Philosophy in
+Information and Computer Science
+University of California, Irvine
+1994      M.S. in Information and Computer Science,
+Department of Information and Computer Science
+University of California, Irvine
+1989      M.S. in Computer Science,
+Department of Computer Science and Engineering
+California State University, Fullerton
+
+1987      B.S. in Computer Science,
+Department of Computer Science and Engineering
+California State University, Fullerton
+
+Honors and Fellowships:
+
+Fee Fellowship Award 		Fall, 1996
+President's Fellowship Award 	Fall, 1992 - Spring, 1993
+Graduate and Professional Opportunity Program Fellowship
+Fall, 1991 - Spring, 1992
+
+Professional Affiliations:
+
+Association for Computing Machinery (ACM)
+Institute of Electrical and Electronics Engineers (IEEE)
+American Society for Information Science (ASIS)
+
+Career Experience:
+
+1993 to Present
+Application Technologies and Tools Program Manager
+,
+Platinum Software Corporation
+, Irvine, CA
+1987 to Present Consultant, Lamb Software, Irvine, CA
+1987 to 1992
+Senior Principal Engineer
+,
+MAI Systems Corporation
+, Tustin, CA
+1977 to 1986    Controller,
+AIFP Trading Group, Portland, OR and
+B.W. Randall Lumber Co., Huntington Beach, CA
+1976 to 1977    West African Service for USAID and U.S. Peace Corps
+
+University Teaching:
+
+1996	Guest Lecturer,
+Department of Information and Computer Science,
+University of California at Irvine, CA --
+Undergraduate course in Computers and Society
+1994 to Present Faculty Lecturer,
+Department of Computer Science and
+Engineering, California State University, Fullerton, CA. --
+Graduate courses in Database Theory and Architecture
+
+1993 to 1994    Adjunct Faculty, Computer Science Department,
+National University, Irvine, CA. --
+Graduate and
+Undergraduate courses in Database Theory
+and Technology
+
+Papers:
+
+
+Roberta Lamb, (1994),
+"Information Technology Support for
+Technology Transfer: A Usability Field Study"
+, University of
+California, Irvine,  Technical Report 94-38.
+Roberta Lamb and Rob Kling (1994),
+"A Review: Before the
+Computer: IBM, NCR, BURROUGHS, AND REMINGTON RAND and the
+Industry They Created, 1865-1956 by James Cortada"
+,
+Contemporary Sociology, June, 1994.
+Roberta Lamb, (1995),
+"Building A Better Fit: Revising
+Expectations About How Organizations Use Online Information
+Resources"
+, in National Online Meeting Proceedings--1995,
+Learned Information, Inc., Medford, NJ.
+Roberta Lamb, (1995),
+"Using Online Information Resources: Reaching for the *.*'s"
+,
+Digital Libraries '95 Conference Proceedings
+.
+Roberta Lamb and Rob Kling (1995),
+"Online Information Resource Mediation of Interorganizational Relationships",
+Proceedings of the First AIS Americas Conference on Information Systems.
+Rob Kling and Roberta Lamb (1996),
+"Analyzing Alternate Visions of Electronic Publishing and Digital Libraries",
+in Scholarly Publishing: The Electronic Frontier , eds.
+Gregory B. Newby and Robin P. Peek, Cambridge, MA, The MIT Press.
+Roberta Lamb (1996),
+"Interorganizational Relationships and Online Information Resources"
+, in Proceedings of the 29th Annual Hawaii International Conference on Systems Sciences--Vol V Digital Documents, M.Stuart Lynn (ed), IEEE Computer Society Press.
+Roberta Lamb (1996),
+"Informational Imperatives and Socially Mediated Relationships"
+, in The Information Society, Vol 12, No 1.
+Roberta Lamb (1996),
+"A Review: Of Bicycles, Bakelites, and Bulbs: Toward a Theory of Sociotechnical Change by W.E. Bijker"
+, in Information Processing and Management, Vol. 32, No. 5.
+Rob Kling and Roberta Lamb (1996, forthcoming),
+"Bits of Cities: How Utopian Visions Structure Social Power in Physical Space and Cyberspace"
+, in Urban Powers and Utopias of the World, Emmanuel Eveno (ed.), Presses Universitaires du Mirail.
+
+
+Presentations:
+
+
+1996	Hawaii International Conference on Systems Sciences, Maui, HI.
+"Interorganizational Relationships and Online Information Resources"
+1995
+Americas Conference On Information Systems,
+Pittsburgh, PA.
+"Online Information Resource Mediation of Interorganizational
+Relationships"
+1995	Digital Libraries '95, Austin, TX.
+"Using Online Information Resources: Reaching for the *.*'s"
+1995	National Online Meeting, New York, NY.
+"Building a Better Fit: Revising Expectations About How
+Organizations Use Online Information Resources"
+1994	UCI Colloquium: "Building a Better Fit: Revising Expectations
+About How Organizations Use Online Information Resources"
+
+
+
+
+
+Department of Information and Computer Science
+,
+University of California, Irvine CA 92717-3425
+
+
+

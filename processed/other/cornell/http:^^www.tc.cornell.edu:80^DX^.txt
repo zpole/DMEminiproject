@@ -1,0 +1,129 @@
+Date: Sun, 24 Nov 1996 23:09:08 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 13 Nov 1996 20:43:20 GMT
+Content-length: 4710
+Data Explorer
+
+
+Data Explorer Repository
+
+The Data Explorer Repository is brought to you by the
+Cornell
+Theory Center
+and
+IBM
+.
+IBM's Visualization Data Explorer, an extensible visualization
+environment, provides an easy to use interface for
+visual programming and computation on a variety of
+workstations.  This repository allows DX users and researchers to share
+expertise and customized programs.
+
+
+Education
+
+Teaching with DX
+
+
+CS 418
+- Cornell University introductory computer graphics course
+
+"Teaching Computer Graphics and Scientific Visualization using the Dataflow
+Block Diagram Language DataExplorer"
+- From Forefronts newsletter,
+Fall, 1993
+
+
+Tutorials
+
+
+CTC lab exercises for researchers
+
+
+
+
+
+Tips and Macros
+Combinations of modules which produce useful new functions
+
+
+
+Student Projects:
+
+(DX v.2.0 1993-1994)
+
+
+(DX v.2.0 1994-1995)
+
+
+(DX v.2.0 and v.3 1995-1996)
+
+The projects are mostly modules written in C which extend the function
+of DX. Some projects use DX for data analysis, and some are related graphics
+applications, including x-windows and pc-based projects.
+
+
+
+Chemistry extensions
+This suite of modules and macros is designed to facilitate molecular
+modeling with the IBM AIX Visualization Data Explorer software package.
+Our intent here is not to reproduce or replace any existing modeling packages
+but rather to provide a highly flexible environment for constructing
+visual programs uniquely tailored to specific research applications.
+This package also includes tools designed to facilitate chemistry animation
+production.
+
+
+Data Input filters
+
+Data input filters for FLUENT version 1, FLUENT version 2, PHOENICS, and
+PLOT3D data are described.
+
+
+Extensions
+
+This directory contains the following subdirectories:
+Macros for Annotation, Import and Export, Rendering, Texture Mapping, Time
+Keeping, Transformation, Vectors and Matrices,  Other Macros and Modules.
+
+
+Utilities
+
+The following conversion routines and filters can be found in this directory:
+Arctools, BoundingBox, dx.to.abekas, dxf2dx, gen_dx_header,
+SAS to DX, and modpath.dx, which converts output of the USGS Modpath program
+into DX format.
+
+
+Earth and Space Sciences
+
+This directory contains example programs, macros, colormaps, utilities, etc.
+for use with the IBM Visualization Data Explorer (Version 2.1) on workstations,
+especially for the earth and space sciences.  All of the data are in the
+public domain and unless otherwise noted are provided courtesy of the National
+Space Science Data Center at NASA/Goddard Space Flight Center, Greenbelt, MD.
+
+
+
+
+IBM's Data Explorer home page
+
+
+University of Montana DX home page
+
+
+Dartmouth DX page
+
+
+
+
+General information about
+Visualization at the
+Theory Center
+is also available online.
+
+Acknowledgements, Copyrights, Warranties, and Limitations
+
+
+Cornell Theory Center

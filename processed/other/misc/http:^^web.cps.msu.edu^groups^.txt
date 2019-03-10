@@ -1,0 +1,70 @@
+Date: Tue, 14 Jan 1997 21:49:03 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Content-length: 2369
+Last-modified: Tue, 15 Oct 1996 06:16:54 GMT
+
+
+MSU CPS: Research Groups and Labs
+
+
+
+
+
+
+
+
+Research Groups and Labs
+
+
+
+
+
+
+ACS
+- Advanced Computing Systems Laboratory
+
+
+CRG
+- Communications Research Group
+
+
+DRG
+- Database Research Group
+
+
+DARG
+- Design Automation Research Group
+
+
+GARAGe
+- Genetic Algorithms Research and Applications Group
+
+
+HSNP
+- High Speed Network and Performance Laboratory
+
+
+ISL
+- Intelligent Systems Laboratory
+
+
+
+PPG
+- Parallel Processing Research Group
+
+
+PRIP
+- Pattern Recognition and Image Processing Laboratory
+
+
+SERG
+- Software Engineering Research Group
+
+
+
+
+
+Research Groups and Labs / cpsinfo@cps.msu.edu
+
+

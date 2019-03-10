@@ -1,0 +1,44 @@
+Date: Wed, 20 Nov 1996 22:53:34 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Tue, 26 Sep 1995 19:26:52 GMT
+Content-length: 841
+
+
+CS222: Autonomous Systems
+
+
+
+
+CS222: Autonomous Systems
+
+The following documents are available:
+
+
+
+Course Information
+(dvi)
+
+Lecture Schedule
+(dvi)
+
+Slides for lecture on Basics
+(dvi)
+
+Slides for lecture on Examples
+(dvi)
+
+Slides for lecture on Reactive Systems
+(dvi)
+
+Slides for lecture on Representational Systems
+(dvi)
+
+
+
+Michael R. Genesereth
+,
+Stanford University, genesereth@cs.stanford.edu
+
+
+

@@ -1,0 +1,46 @@
+Date: Tue, 26 Nov 1996 00:21:38 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 11 Sep 1995 18:43:18 GMT
+Content-length: 1249
+
+
+Alan L. Cox
+
+
+Alan L. Cox
+
+Assistant Professor
+
+Department of Computer Science
+
+
+Prof. Cox received the B.S. degree in Applied Mathematics
+from Carnegie Mellon University in
+1986, and the M.S. and Ph.D. degrees in Computer Science
+from the University of Rochester in 1988 and 1992, respectively.
+Since then he has been an assistant professor
+in the
+Computer Science Department
+at
+Rice University
+.
+His research interests include parallel processing, computer architecture,
+distributed systems, concurrent programming,
+and performance evaluation.
+He is currently involved in the design and implementation of
+TreadMarks
+,
+a software distributed shared memory system running on a network of
+workstations.
+He has also worked with Alejandro Schaffer on
+FASTLINK
+,
+a project to provide fast sequential and parallel genetic linkage analysis
+software.
+Publications
+
+
+E-Mail:  alc@rice.edu
+
+

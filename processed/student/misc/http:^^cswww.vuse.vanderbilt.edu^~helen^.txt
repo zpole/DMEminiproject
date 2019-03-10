@@ -1,0 +1,121 @@
+Server: Netscape-Commerce/1.1
+Date: Tuesday, 26-Nov-96 17:57:38 GMT
+Last-modified: Monday, 22-Apr-96 16:56:29 GMT
+Content-length: 3149
+Content-type: text/html
+
+
+
+Helen's resume
+
+
+
+
+
+
+
+
+
+
+Helen Qun Xiao
+BOX 1679, Station B
+Computer Science Department
+Vanderbilt University, Nashville, TN37235
+(615)269-0094(home) 343-6259(office) 343-5459(fax)
+helen@vuse.vanderbilt.edu
+
+
+
+
+
+OBJECTIVE
+Summer internship in Object-Oriented Programming, Management of Information Systems, Computer Database Management.
+
+
+
+EDUCATION
+
+
+VANDERBILT UNIVERSITY
+, Nashville, TN
+Master of Science, Computer Science Department, expected May 1997
+
+
+
+
+VANDERBILT UNIVERSITY
+, Nashville, TN
+Master of Arts, Economics and Business Administration Department, December 1995
+
+
+
+HONORS
+
+Vanderbilt Scholarship, Vanderbilt University
+Guang Hua Scholarship, Hangzhou University
+Excellent Research Scholarship, Hangzhou University
+Excellent Student Scholarships, Ningbo University
+
+
+EXPERIENCE
+
+
+06/95 - 08/95
+Summer Internship, Database System Analyst,
+Professional Management Co.
+, a patient information/insurance/billing management company (patient billing database management)
+
+
+
+03/95 - 03/95
+Practical Training,
+International Monetary Fund, World Bank, and Federal Reserve Board
+, Washington, D.C.
+
+
+11/94 - 12/94
+Database Project:
+National Academic Supplies
+.
+(Develop a mailing list database using Access)
+
+
+09/94 - 10/94
+Database Project:
+Gull Abrasives Corporation
+.
+(Create and modify a sales support system using Access).
+
+
+
+ADDITIONAL INFORMATION
+
+Rich experience in
+C/C++, LISP, BASIC, PASCAL, and object-oriented
+programming languages;
+UNIX  and MS-DOS
+operating systems;
+spreadsheet
+(Lotus 123, Excel),
+word processing
+(WordPerfect, Microsoft Word),
+presentation tools
+(PowerPoint) and
+database software
+(Microsoft Access), etc office tools,
+HTML, cgi, Java
+Web tools.
+
+RESEARCH WORK
+
+Software Engineering - Object-Oriented Programming.
+Management of Information System.
+Object-Oriented Database.
+
+
+REFERENCES
+
+Available upon request.
+
+
+

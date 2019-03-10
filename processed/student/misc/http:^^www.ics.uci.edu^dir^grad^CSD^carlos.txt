@@ -1,0 +1,45 @@
+Date: Thu, 21 Nov 1996 22:51:32 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 1138
+Last-modified: Wed, 15 Feb 1995 21:50:26 GMT
+
+
+Carlos Oliveira
+
+
+
+Carlos Oliveira
+(Last modified Wed Jan  4 14:30:41 1995)
+
+
+
+Area: CSD
+Advisor: Tatsuya Suda
+Electronic Mail: carlos@ICS.UCI.EDU
+Office: CS/E 209
+Office Phone: (714) 824-4105
+
+Research Projects:
+Discuss your research project here.  Subsequent versions of the directory
+service will allow you to place hyper-text links to papers describing
+your research.
+You can put multiple paragraphs separated by two carriage-returns.
+
+Guru Abilities:
+What are your specialites?  This field is not required, but might be useful
+to the local community.
+e.g., I'm pretty handy with C++, C, LaTeX, etc.
+
+Other Interests:
+Put information about your hobbies, sports, etc.  I enjoy playing
+racquetball and swimming.  Anyone out there like playing cards?
+
+
+
+Department of Information and Computer Science
+,
+University of California, Irvine CA 92717-3425
+
+
+

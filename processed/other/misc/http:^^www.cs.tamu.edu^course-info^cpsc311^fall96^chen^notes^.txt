@@ -1,0 +1,17 @@
+Date: Tue, 14 Jan 1997 23:12:54 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 174
+Last-modified: Tue, 27 Aug 1996 16:48:52 GMT
+
+Lecture Notes
+
+
+CPSC-311 Lecture Notes
+
+
+lecture notes #1: 2-3 trees
+
+
+
+

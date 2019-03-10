@@ -1,0 +1,211 @@
+Date: Mon, 02 Dec 1996 14:24:51 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 143 Lecture Notes
+
+
+
+CSE 143 Lecture Notes
+
+
+Lecture Slides
+On-line versions of the lecture slides (6 per page) are available
+here, in PostScript and Acrobat formats.
+
+Administrivia, Monday 9/30 [
+Postscript
+|
+Acrobat
+]
+Intro to Abstraction, Monday 9/30 [
+Postscript
+|
+Acrobat
+]
+Modules, Monday 9/30, Wednesday 10/2 [
+Postscript
+|
+Acrobat
+]
+Error Handling, Wednesday 10/2 [
+Postscript
+|
+Acrobat
+]
+ADTs and Classes, Friday 10/4 [
+Postscript
+|
+Acrobat
+]
+Constructors, Monday 10/7 [
+Postscript
+|
+Acrobat
+]
+Overloading, Monday 10/7 [
+Postscript
+|
+Acrobat
+]
+Collection ADTs, Wednesday 10/9 [
+Postscript
+|
+Acrobat
+]
+More Collection ADTs, Monday 10/14 [
+Postscript
+|
+Acrobat
+]
+Pointers and Dynamic Memory Allocation, Friday 10/18 [
+Postscript
+|
+Acrobat
+]
+Linked Lists, Monday 10/21 [
+Postscript
+|
+Acrobat
+]
+Insertion & Removal in Linked Lists, Wednesday 10/23 [
+Postscript
+|
+Acrobat
+]
+Doubly-Linked Lists, Friday 10/25 [
+Postscript
+|
+Acrobat
+]
+Pointers, Arrays, and Copying, Friday 10/25 [
+Postscript
+|
+Acrobat
+]
+Delete, Friday 10/25 [
+Postscript
+|
+Acrobat
+]
+Pointers and Addresses, Monday 10/28 [
+Postscript
+|
+Acrobat
+]
+Summary of Pointers, Wednesday 10/30 [
+Postscript
+|
+Acrobat
+]
+Recursion, Friday 11/1 [
+Postscript
+|
+Acrobat
+]
+Algorithmic Efficiency & Big-O Notation, Monday 11/4 [
+Postscript
+|
+Acrobat
+]
+Analysis of Searching and Sorting, Wednesday 11/6 [
+Postscript
+|
+Acrobat
+]
+Hashing, Wednesday 11/13 [
+Postscript
+|
+Acrobat
+]
+Trees, Friday 11/15 [
+Postscript
+|
+Acrobat
+]
+Binary Search Trees, Monday 11/18 [
+Postscript
+|
+Acrobat
+]
+Tree Traversals, Friday 11/22 [
+Postscript
+|
+Acrobat
+]
+Syntax Trees, Monday 11/25 [
+Postscript
+|
+Acrobat
+]
+Templates, Wednesday 11/27 [
+Postscript
+|
+Acrobat
+]
+Object-Oriented Programming, Monday 12/2 [
+Postscript
+|
+Acrobat
+]
+
+On the
+lab machines
+Acrobat Reader is automatically
+started up by Netscape when you follow the link.
+
+On other Macs, PC compatibles, and some versions of
+Unix
+Acrobat Reader may be downloaded free directly from
+Adobe
+.  This web
+site also includes instructions for setting your web browser to invoke
+Acrobat Reader automatically.  Some versions of
+Ghostscript
+also
+support Acrobat.
+
+
+Extra Lecture Material
+I've produced a revised, tested implementation of the two-way-list ADT using
+doubly-linked lists as the implementation, correcting the
+implementation slides from Friday 10/25:
+
+
+
+twlist.h
+
+
+twlist.cp
+
+
+main.cp
+(a test suite)
+
+I've also produced a template version of this interface and
+implementation, which can be instantiated with any type of element
+automatically:
+
+
+
+twlist-template.h
+
+
+twlist-template.cp
+
+
+main-template.cp
+(a test suite)
+
+These template versions work under Symantec C++ on the Mac, and I
+think they'll compile correctly on other C++ systems that support
+templates, but let me know if you find problems.
+
+
+
+cse143-webmaster@cs.washington.edu
+
+
+
+

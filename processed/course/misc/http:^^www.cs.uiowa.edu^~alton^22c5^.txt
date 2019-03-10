@@ -1,0 +1,50 @@
+Date: Wed, 20 Nov 1996 23:19:06 GMT
+Server: NCSA/1.5
+Content-type: text/html
+
+22C:005  Problem Solving and Computing
+
+
+
+
+
+
+
+Instructor:
+Don Alton
+201B MacLean Hall
+335-0731
+alton@cs.uiowa.edu
+Tentative office hours 2:30 - 3:30 p.m. MWF and 	by appointment, in 201B MacLean unless otherwise announced
+
+T.A.:  Mohanraj Umapathy
+255 McBride Hall?, Desk ? (but his office hours 	will be in 301 MacLean unless otherwise 	announced)
+335-0654?
+mumapath@cs.uiowa.edu
+Tentative office hours ? - ? p.m. MWF and ? - ? TuTh, in 301 MacLean unless announced otherwise
+Much of this material was developed by
+Prof. Gregg Oden
+.
+
+
+Prerequisite and Texts
+
+Grading
+
+Goals and Objectives
+
+Policies
+
+Exams and Other Information
+
+Assigned Readings
+
+
+
+
+to the
+Dept. of Computer Science
+
+
+
+

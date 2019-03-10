@@ -1,0 +1,156 @@
+Date: Thursday, 21-Nov-96 23:39:39 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Tuesday, 09-Jul-96 22:27:58 GMT
+Content-length: 3959
+
+
+Alexandros Poulos' URCS Home Page
+
+
+
+<!-- Beginning of JavaScript Applet -------------------
+function scrollit_r2l(seed)
+{
+var m1  = "*** ";
+var m2  = "Welcome";
+var m3  = " ***";
+
+var msg=m1+m2+m3;
+var out = " ";
+var c   = 1;
+
+if (seed > 100) {
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+timerTwo=window.setTimeout(cmd,100);
+}
+else if (seed <= 100 && seed > 0) {
+for (c=0 ; c < seed ; c++) {
+out+=" ";
+}
+out+=msg;
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+window.status=out;
+timerTwo=window.setTimeout(cmd,100);
+}
+else if (seed <= 0) {
+if (-seed < msg.length) {
+out+=msg.substring(-seed,msg.length);
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+window.status=out;
+timerTwo=window.setTimeout(cmd,100);
+}
+else {
+window.status=" ";
+timerTwo=window.setTimeout("scrollit_r2l(100)",75);
+}
+}
+}
+// -- End of JavaScript code -------------- -->
+
+
+
+
+
+A
+lexandros
+
+P
+oulos,
+
+URCS
+
+H
+ome
+
+P
+age
+
+
+
+
+Java script requires Netscape 2.0
+
+e
+
+n
+h
+a
+
+n
+
+c
+
+e
+
+d
+
+
+
+
+
+
+Personal Data
+
+
+
+Publications
+
+
+
+
+Parallel Computing
+
+
+
+
+Carnival Visualization Tool Home Page
+
+
+
+
+WWW Pointers
+
+
+
+A Guide To The Greek Islands
+
+
+
+
+Finger
+
+
+
+George's "What's What in Rochester, NY"
+
+
+
+
+The Jazzy Page
+
+
+
+
+12 Monkeys Home Page
+and
+
+Clip
+
+
+
+
+Back to URCS Grads Directory
+
+
+Back to URCS Home Page
+
+Last Change: Feb 28 1995 /
+poulos@cs.rochester.edu
+
+
+

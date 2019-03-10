@@ -1,0 +1,32 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 14:44:08 GMT
+Content-Type: text/html
+Content-Length: 1329
+Login information for user vbb
+
+Login information for user vbb
+User     Machine:tty         Login time   Idle time
+---------------------------------------------------
+vbb      flavio:5                  Jan  7 08:04   :38
+vbb      foghorn:10                Dec 19 23:13 99:59
+vbb      foghorn:11                Dec 22 08:26 99:59
+vbb      foghorn:12                Dec 25 08:01 99:59
+vbb      foghorn:13                Dec 25 08:01 99:59
+vbb      foghorn:14                Dec 23 07:46 93:51
+vbb      foghorn:21                Jan  6 23:25  8:46
+vbb      foghorn:22                Jan  7 08:03   :38
+vbb      foghorn:23                Jan  7 08:03   :01
+vbb      foghorn:24                Jan  7 08:03   :38
+vbb      foghorn:25                Jan  7 08:03   :38
+---------------------------------------------------
+
+
+Visit the home page of user vbb
+
+Find out login information for another user
+
+Please enter a user id:
+
+
+

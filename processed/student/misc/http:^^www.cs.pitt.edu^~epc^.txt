@@ -1,0 +1,53 @@
+Date: Tue, 26 Nov 1996 17:50:15 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 01 Dec 1994 20:57:38 GMT
+Content-length: 1294
+Ed C's Home Page
+
+Ed Cymbalak
+(picture coming soon - maybe not so soon ??)
+Your friendly neighborhood WWW admin
+Pull my
+finger
+.
+Here is my
+weekly schedule
+for
+the fall term.
+
+This semester I am working as a Teaching Assistant
+
+
+Teaching recitaion for CS0080 - Computer Literacy
+Grading for CS1510 - Formal Structures for Computer Science
+
+Recent Projects
+
+
+The
+WWW
+
+server
+for
+Pitt's Computer Science Department
+
+Development of the CS Department's administrative database
+Real Time scheduling under the
+Mach Operating System
+
+
+Other Interests
+
+
+
+Skydiving
+
+
+Cycling
+
+Photography
+
+
+last updated Fri Jun 17 22:33:37 EDT 1994 epc@cs.pitt.edu
+

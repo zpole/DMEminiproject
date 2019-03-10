@@ -1,0 +1,105 @@
+Date: Thu, 21 Nov 1996 23:07:26 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sun, 11 Feb 1996 01:02:26 GMT
+Content-length: 3198
+
+
+Thomas E. Kammeyer's Home
+
+
+
+Thomas E. Kammeyer
+
+
+
+
+About me...
+I'm a graduate student at the University of California at San Diego
+in the Computer Science and Engineering Department.
+My research interests are in:
+
+/ComputerScience/ArtificialIntelligence/MachineLearning/GeneticAlgorithms
+In particular, I'm interested in genetic algorithms containing
+models of ontogeny, particularly those in which phrase-structure
+grammars are the model of ontogeny of choice.  My work so far
+has mainly focused on applying such GA's to the problem of evolving
+compare-exchange networks that sort or merge.
+More recently, my interests have shifted to broader issues involving
+the evolution of grammars, and to other applications of genetic
+algorithms containing ontogenetic models.
+I am also the current caretaker of GAucsd, a Genetic Algorithm
+package maintained locally.
+GAucsd distribution
+
+GAucsd documentation
+
+
+Publications
+These still need to be filled in the rest of the way.  Sorry for
+the inconvenience.
+
+
+ICGA 1993 Abstract
+AAAI 1994 Abstract
+FOGA 1994 Article
+Evolving CMPX Networks article (to appear in Artifical Life (journal))
+Evolving CMPX Networks technical report
+ftp://cs.ucsd.edu/pub/tkammeye/EvoCMPXNets-TR.ps
+
+http://www-cse.ucsd.edu/users/tkammeye/EvoCMPXNets-TR.ps
+
+Evolving Stochastic Context-free Grammars technical report
+ftp://cs.ucsd.edu/pub/tkammeye/EG-TR.ps
+
+http://www-cse.ucsd.edu/users/tkammeye/EG-TR.ps
+
+
+
+Interesting places to surf at UCSD...
+
+
+The Cognitive and Computer Science Research Group (CCSRG)
+
+The CS&E Department's home page
+
+Infopath, UCSD's local information service
+
+
+
+
+
+
+
+
+Snail Mail
+
+
+
+E-Mail
+
+
+
+Thomas E. Kammeyer
+U.C.S.D. CS&E Department
+9500 Gilman Dr.
+La Jolla, CA 92093-0114
+
+
+
+
+tkammeye@cs.ucsd.edu
+
+tkammeyer@ucsd.edu
+
+kemosabi@ucsd.edu
+
+
+
+
+
+This page last modified:
+Thu Feb  8 14:46:27 PST 1996
+
+
+

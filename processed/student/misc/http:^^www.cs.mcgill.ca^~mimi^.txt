@@ -1,0 +1,123 @@
+Date: Tue, 26 Nov 1996 02:58:18 GMT
+Server: Apache/1.0.0
+Content-type: text/html
+Content-length: 3981
+Last-modified: Fri, 08 Nov 1996 19:05:24 GMT
+
+
+Maria Ignatova's Home Page
+
+/* Provided By Web Integration Systems, Inc. DBA Websys, Inc. All Rights Reserved.*/
+function scrollit_r2l(seed)
+{
+var m1 = "What's new in the ";
+var m2 = "BDays section?     ";
+var m3 = "Check it out yourself!!!";
+var m4 = " ";
+var m6 = "";
+var msg= m1 + m2 + m3 + m4 +m6;
+var out = " ";
+var c = 1;
+if (seed > 100) {
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+timerTwo=window.setTimeout(cmd,50);
+}
+else if (seed <= 100 && seed > 0) {
+for (c=0 ; c < seed ; c++) {
+out+=" ";
+}
+out+=msg;
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+window.status=out;
+timerTwo=window.setTimeout(cmd,50);
+}
+else if (seed <= 0) {
+if (-seed < msg.length) {
+out+=msg.substring(-seed,msg.length);
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+window.status=out;
+timerTwo=window.setTimeout(cmd,50);
+}
+else {
+window.status=" ";
+timerTwo=window.setTimeout("scrollit_r2l(100)",45);
+}
+}
+}
+
+
+
+
+
+Maria Ignatova
+
+
+E-mail:
+
+mimi@cs.mcgill.ca
+,
+mimi@cim.mcgill.ca
+
+Welcome to my home page. I am a grad student at SOCS, the
+School of Computer Science
+, McGill. I am currently working on my Master's thesis which is about locating faces in images using color and shape. This is part of a broader research done by prof. Martin Levine at CIM, the
+Center for Intelligent Machines,
+Electrical Engineering Department
+, McGill. Prof. Levine (CIM) is my supervisor and Prof. Greg Dudek (SOCS) is my co-supervisor. I started my research this February after
+two weeks of discussions on the topic of Face Recognition and Neural Networks with prof. Kountchev, an old professor of mine at the
+Technical University
+of Sofia, Bulgaria.
+
+Research Interests
+
+
+Face Recognition
+
+Face Recognition
+Home Page
+Face Analysis
+Home Page
+Computer Vision
+Home Page
+
+Color Spaces
+
+
+Interests
+
+
+C++, Visual C++, MFC
+OLE2, Automation, OCX
+Java
+
+
+Miscellany
+
+My CV
+
+My CIM Home Page
+
+Miscellany
+
+The BDays Section
+
+Some Haiku
+
+Some Tango
+
+Les Ateliers Tango,
+Montreal
+Bridge to the Tango,
+New York
+
+
+You are visitor #
+as of May 15, 1996.
+
+special thanks to
+Herve!
+
+

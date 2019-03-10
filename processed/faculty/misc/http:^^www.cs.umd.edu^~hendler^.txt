@@ -1,0 +1,165 @@
+Date: Thu, 21 Nov 1996 20:32:21 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 4720
+Last-modified: Wed, 06 Nov 1996 15:37:57 GMT
+Prof. James A. Hendler
+
+
+
+Professor James A. Hendler
+
+Position:
+
+Associate Professor,
+
+Dept. of Computer Science
+and
+Institute for Systems Research
+,
+University of Maryland at College Park
+Acting Head,
+Advanced Information Technology Laboratory
+Head,
+ParalleL Understanding Systems  Laboratory
+Head,
+Autonomous Mobile Robotics Laboratory
+
+
+E-mail:
+hendler@cs.umd.edu  (Click
+here
+to finger.)
+Address/Phone:
+
+Dept. of Computer Science
+A.V. Williams Bldg.
+University of Maryland
+College Park, MD 20742 USA
+Phone: (301) 405-2662,  Fax: (301) 405-6707
+
+
+The Usual Shameless Self Promotion
+
+
+For a short bio,
+click here
+.
+For my listing in
+Who's Who in America 1996
+
+click here
+.
+For a recent (10/96)
+curriculum vitae
+(postscript, 100K)
+click here
+.
+
+
+Research Interests:
+
+
+AI Planning Systems
+
+High Performance Case-based Planning (CaPER system)
+
+Hierarchical Task Network Planning: Formalization and Analysis
+
+
+Autonomous Mobile Robots
+
+Hybrid
+Symbolic/Connectionist Systems
+
+Intelligent Tutoring
+System for Arabic and Spanish
+
+Parallel Knowledge
+Representation (PARKA system)
+
+Real-Time A.I.
+Systems
+
+
+
+Education:
+
+
+PhD, Computer Science, Brown University, 1986
+ScM, Computer Science, Brown University, 1984
+MS, Psychology, Southern Methodist University, 1982
+BS, Computer Science, Yale University, 1978
+
+
+Professional Activities:
+
+
+Associate Editor, Journal of Experimental and Theoretical AI
+Associate Editor, Connection Science
+Editorial Board, Autonomous Robots
+
+
+My Most Recent Book:
+
+
+
+Massively Parallel Artificial Intelligence, AAAI/MIT Press,
+1994. (AAAI Press page)
+
+
+Massively Parallel Artificial Intelligence, AAAI/MIT Press,
+1994. (MIT Press page)
+
+
+
+Current courses:
+
+
+CMSC 422 -- Robot Programming
+
+
+
+Former Thesis Students:
+
+I learned much from my teachers,
+more from my colleagues,
+but from my students
+most of all.
+--- T.B. Ta'anith 7a
+
+
+Rene Bane, (MS, 1988)
+Joy Bush, (MS, 1988)
+Dr. Kutluhan Erol
+(PhD, 1995)
+Prof. Matthew Evett
+(PhD, 1994)
+Prof. Subbarao Kambhampati
+(PhD, 1989)
+Dr. Brian Kettler
+(PhD, 1995)
+
+Vikram Manikonda
+(MS, EE 1994)
+Barrie Migdaloff (MS, 1995)
+James Sanborn (MS, 1988)
+Oliver Seeliger
+(MS, 1995)
+Prof. Lee Spector
+(PhD, 1992)
+Dr. Eduardo Ostertag (PhD, 1992)
+Dr. Anne Wilson (PhD, 1993)
+
+
+Outside Interests:
+
+Scuba Diving
+, travel,
+my daughter
+
+Today's advice:
+If Austin Tate suggests you go with
+him after the meeting,
+DO IT!
+

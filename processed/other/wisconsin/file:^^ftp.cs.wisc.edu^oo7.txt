@@ -1,0 +1,22 @@
+oo7 directory
+oo7
+Up to /
+
+
+implementations
+
+interpreting.oo7
+
+README
+
+README.jan10.1994
+
+retrospective.ps
+
+sigmod.ps
+
+techreport.old.ps
+
+techreport.ps
+
+wb.tar

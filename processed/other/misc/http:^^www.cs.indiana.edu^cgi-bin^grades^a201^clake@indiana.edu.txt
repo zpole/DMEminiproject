@@ -1,0 +1,85 @@
+Date: Tue, 14 Jan 1997 20:41:20 GMT
+Server: Apache/1.0.3
+Content-type: text/html
+
+
+Your A201 Grades
+
+
+
+A201 grades
+
+
+In the boxes below, please enter in your last name, and your
+Student ID number.  Then check each box corresponding to the
+grades you would like to peruse, and
+when all your information is just right, click on the Get Grades
+button to do just that.
+
+
+
+
+
+Your Last Name:
+
+
+Your SID:
+
+
+
+Available Grades:
+
+
+
+Lab #1
+
+Lab #2
+
+Lab #3
+
+Lab #4
+
+Lab #5
+
+Lab #6
+
+Lab #7
+
+Lab #8
+
+Lab tot
+
+Pract #1
+
+Pract #2
+
+Test #1
+
+Test #2
+
+Final
+
+Course
+
+
+
+
+
+
+
+
+For questions about or problems with your grades or using this reporting
+service, please contact
+<clake@indiana.edu>
+.
+Gradebook software by
+George Springer
+
+<springer@cs.indiana.edu>
+.
+CGI report interface by
+Chad Lake
+
+<clake@cs.indiana.edu>
+.
+

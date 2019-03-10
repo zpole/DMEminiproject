@@ -1,0 +1,125 @@
+Date: Thu, 21 Nov 1996 19:58:52 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Wed, 13 Nov 1996 23:23:30 GMT
+Content-length: 4226
+
+
+
+Richard J. Fateman
+
+Richard J. Fateman
+Professor, Computer Science
+
+University of California at Berkeley
+(510) 642-1879
+fateman@cs.berkeley.edu
+
+
+
+Office:
+
+789 SODA HALL #1776
+Computer Science Division, EECS
+Univ. Calif at Berkeley
+Berkeley  CA  94720-1776
+
+
+My interests include Scientific programming environments; Algebraic
+manipulation by computer (programs like Macsyma, Mathematica, Maple,
+Axiom, Reduce); Distributed computing; analysis of algorithms;
+Programming and measurement of large systems; Design and
+implementation of programming languages; Optical character
+recognition.
+There is a public ftp repository of programs, papers, and
+reviews written by my students and myself ...
+I've linked a subset of them here:
+Berkeley computer algebra papers
+.
+Some pointers to work in symbolic mathematical computing
+can be found by visiting
+SymbolicNet
+.
+You might also visit
+Berkeley OCR/math papers
+.
+If you are interested in an ambitious senior project OCR
+program using C++, Tcl/TK, visit
+OCRchie
+.
+You might like to visit
+our prototype TILU on-line table-lookup
+Symbolic Integration Service
+.
+You can also get a copy of 2171 integrals that TILU can do, and see if
+you can do them all, and if you can do them faster. This
+table combines many simple examples (for timing) and a few
+harder ones near the end (for challenges).  This is a preliminary
+version, and doesn't include that much of the literature on integration
+yet. Here's
+the
+list of examples
+as of May 23, 1996.
+It is 163k bytes.  We have a file with the answers too, naturally.
+Our answers may be more cautious than those that come out of a
+computer algebra system. For example, our answers will
+sometimes include variations that depend
+on constraints on the parameters in the integrand. If you
+wonder what our answer is, you can try TILU: paste the integrand -- the part
+between "(INTEGRATE" and " X)" into the input box, set up
+appropriate limits, and execute the query.
+Computer algebra fans may also wish to see work done by my colleague
+John Canny
+.
+and his students, including applications
+of algebraic algorithms.
+
+Other work at Berkeley
+by colleagues in scientific computing can be found by following the
+links to their home pages:
+James Demmel
+and
+William Kahan
+.
+Visitors to this page
+may be interested in a Common Lisp package and libraries
+called
+Mockmma
+.
+
+To the user, this somewhat resembles Mathematica (tm),
+but has the advantage of being totally open (full source code).
+One can manipulate polynomials in several variables over the integers,
+rational functions, and a variety of other mathematical
+objects. Manipulations include simplification, differentiation, integration,
+evaluation, pattern matching, etc.
+Some of you may wonder what kind of optical character recognition
+we are doing on equations, so you might wish to see
+a few scanned equations
+to see what this is about.
+We are also drafting a brief
+discussion on an
+OCR equation-recognition
+challenge
+.
+We hope to develop more expertise
+in understanding documents as part of an
+Electronic
+Environmental Library Project.
+
+I am on sabbatical in the  Fall, 1996 semester, but I expect to
+continue running a seminar discussing issues of the electronic library
+project
+CS298-23,
+document structure analysis
+.
+
+You can get more information about Computer Science
+at Berkeley by referring to the
+CS Division Brochure
+.
+Email:
+
+fateman@.cs.berkeley.edu
+
+

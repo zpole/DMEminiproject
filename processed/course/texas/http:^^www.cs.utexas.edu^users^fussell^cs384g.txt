@@ -1,0 +1,158 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:23:43 GMT
+Content-Type: text/html
+Content-Length: 2956
+Last-Modified: Thursday, 28-Nov-96 03:41:30 GMT
+
+CS384G - Computer Graphics - Fall 1995
+
+
+
+
+{CS,CAM}384G
+
+Computer Graphics
+
+Fall 1995
+
+
+
+
+
+Instructor:
+Donald S. Fussell
+
+
+
+
+
+General Course Information
+
+
+
+
+Course Description
+
+
+Course Syllabus
+
+
+Lab Information
+
+
+
+
+
+MESA Graphics Library
+
+This year we are using the Mesa graphics library, which provides an
+OpenGL-like API, as the platform for the course.  This library has
+been installed on all the public workstations in the Computer Sciences
+department.
+
+
+
+Instructions
+for using Mesa libraries at UTCS
+Sample
+makefile
+for Mesa on UTCS machines
+
+OpenGL man pages
+
+The
+OpenGL Specification
+
+The
+Mesa Home Page
+
+The
+OpenGL WWW Center
+
+
+
+
+
+TCL/TK Information
+
+
+
+
+General references
+
+
+Manual pages
+
+
+Ousterhout's book
+
+
+Welch's book
+
+
+Program examples from Welch's book
+
+
+
+
+
+Assignments
+
+
+
+
+Turning in your assignments
+
+
+Assignment 1
+
+
+Assignment 2
+
+
+Assignment 3
+
+
+
+
+
+Examples
+
+
+
+
+Xlib example code
+
+
+Tcl/tk example code
+
+
+Tcl/tk example driver
+
+
+billthecat.xbm
+(copy this file to the directory containing slate.tcl)
+
+
+
+
+News
+
+
+
+Turnin now works on the graphics lab machines (10/04/96)
+libtcl7.4.a and libtk4.0.a reinstalled in the lab in /p/lib (10/04/96)
+tclsh and wish reinstalled in the lab in /p/bin (10/04/96)
+
+Compiling the walker demo
+on the graphics lab machines (11/07/96)
+
+Repaired walker.c source
+
+
+
+
+
+
+

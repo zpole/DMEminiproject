@@ -1,0 +1,63 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 22:00:35 GMT
+Content-Type: text/html
+Content-Length: 1323
+Last-Modified: Wednesday, 30-Aug-95 18:50:44 GMT
+
+
+
+Fiction Page
+
+
+
+Fiction
+This page contains random comments on various things I have read, generally
+fiction, although there may be some non-fiction thrown in at some point, or
+at least references to it.  There are also references to other media, such
+as
+games
+, and video sources, such as movies or television shows.
+Perhaps written, in the spirit of
+rec.arts.sf.written is more appropriate, but it didn't sound right
+either.  Basically, this page covers books I have read and found
+interesting for one reason or another. They are organized in no
+particular order.
+You can also find out
+what I've read lately
+.
+
+
+
+Categories
+
+
+
+
+Sea Stories
+
+
+
+
+Science Fiction
+
+
+
+
+
+Authors
+
+
+
+Last updated 8/30/95.
+
+Douglas Stuart
+
+
+Department of Computer Sciences
+
+The University of Texas at Austin
+dastuart@cs.utexas.edu
+
+
+

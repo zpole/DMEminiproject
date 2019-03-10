@@ -1,0 +1,91 @@
+Date: Wed, 20 Nov 1996 23:22:36 GMT
+Server: NCSA/1.5.1
+Last-modified: Tue, 29 Oct 1996 14:16:41 GMT
+Content-type: text/html
+Content-length: 1735
+
+COMP 204 Class Homepage
+
+
+
+UNC-CH COMP 204
+
+SOFTWARE DESIGN AND IMPLEMENTATION
+
+
+
+
+Fall '96, Tu-Th 9:30-10:45, Sitterson 011
+
+
+Dr. David Stotts
+, Sitterson 149, stotts@cs.unc.edu, 962-1833
+
+
+TA: Jaime Navon, Sitterson 136, navon@cs.unc.edu, 962-1975
+
+
+
+
+
+
+
+
+Syllabus
+
+
+
+Assignments and Deadlines
+
+
+
+Notes on PL/SE Topics
+
+
+
+Terms and Concepts
+
+
+
+
+Background Survey
+
+
+
+Study groups
+
+
+
+References
+
+
+
+Class meetings
+
+
+
+Midterm Exam
+
+
+
+
+
+For the record...
+... fun from years gone by
+
+
+
+
+Schedule (f95)
+
+
+Midterm exam (f95)
+
+
+Final exam (f95)
+
+
+Class meeting notes (f95)
+
+
+

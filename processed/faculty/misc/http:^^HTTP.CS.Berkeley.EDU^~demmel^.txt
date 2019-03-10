@@ -1,0 +1,299 @@
+Date: Thu, 21 Nov 1996 19:58:56 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Mon, 19 Aug 1996 04:10:43 GMT
+Content-length: 8728
+Homepage for James Demmel
+
+James Demmel
+Professor of Mathematics and Computer Science
+
+
+Office:
+
+
+
+737 SODA HALL
+
+Computer Science Division
+
+University of California at Berkeley
+Office hours for Fall 1995: MWF 10:10 - 11:00
+Berkeley  CA  94720-1776
+Email: demmel@cs.berkeley.edu
+Office: (510) 643-5386
+FAX: (510) 642-3962
+Home: (510) 548-2957
+
+
+
+
+Selected Awards:
+
+
+
+NSF-CBMS Lecturer on Parallel Numerical Linear Algebra, San Francisco, 1995
+J. H. Wilkinson Prize in Numerical Analysis and Scientific Computing, 1993
+SIAG on Linear Algebra Prize 1991 (with W. Kahan) and 1988
+Presidential Young Investigator Award, 1986
+IBM Faculty Development Award, 1985
+
+
+
+Research Projects and Books:
+
+
+
+
+
+
+LAPACK
+
+- Linear Algebra PACKage for high performance workstations and
+shared memory parallel computers. The
+
+LAPACK Manual
+
+is available on-line.
+
+
+(This and much other useful numerical software is available on
+Netlib.
+)
+
+
+
+
+ScaLAPACK
+
+- Scalable Linear Algebra PACKage for high performance distributed
+memory parallel computers
+
+
+
+
+Templates for the Solution of Linear Systems
+:
+Building Blocks for Iterative Methods is a hyper-text book on
+iterative methods for solving systems of linear equations.
+
+
+
+
+Castle
+- a project to produce an integrated parallel
+programming environment. (Click here for a
+Castle overview slide.
+
+
+
+
+
+GATOR
+is an effort to parallelize a model of the earth's
+atmospheric chemistry, and integrate it into an Earth Systems Model
+encompassing atmospheric dynamics and physics, ocean dynamics, physics
+and eventually chemistry, satellite data, scientific visualization,
+and a very large database.
+Click here for
+pretty pictures
+of climate data
+.
+Click here for a description of the overall
+Earth Observing System/Distributed Information System (EOSDIS)
+.
+
+
+
+
+Talks:
+
+
+
+
+
+Designing High Performance Linear Algebra Software
+for Parallel Computers.
+. Aug 30, 1995.
+This is an overview of the LAPACK and ScaLAPACK projects.
+
+
+
+Designing High Performance Symmetric
+Eigenvalue Software for Parallel Computers.
+Feb 17, 1995. This is an overview of work related to the symmetric
+eigenvalue problem in the LAPACK and ScaLAPACK projects.
+
+
+
+Templates for Linear Systems Solvers and
+Eigenvalue Problems.
+Feb 5, 1995.
+
+
+
+Designing Scalable Libraries
+for High Performance Computers.
+Sept 25, 1995.
+
+
+
+
+Post Doc:
+
+
+
+
+Sharon Smith
+
+
+
+
+
+Current Graduate Students:
+
+
+
+
+David Blackston
+
+
+Tzu-Yi Chen
+
+Inderjit Dhillon
+
+
+Melody Ivory
+
+
+Xiaoye Li
+
+
+Ken Stanley
+
+
+Howard Robinson
+
+Andrei Zege
+
+
+
+
+
+Graduated but not forgotten:
+
+
+
+
+Balazs Kralik
+
+
+Huan Ren
+
+
+Oleg Zakharov
+
+
+
+
+
+
+Undergraduate Research Students:
+
+
+
+
+Chee-whye Chin
+
+Jack Chow
+
+Dominic Lam
+
+
+Jinqchong Teo
+
+
+
+
+
+
+Teaching Activities:
+
+
+
+
+
+Numerical Linear Algebra
+is a set of lecture notes for a
+one-semester graduate class. It is available as volume 1 of the
+Berkeley Mathematics Department Lecture Notes Series. Please contact
+Gail Yoshimoto (510-642-6426, gail@math.berkeley.edu) for ordering
+information. An on-line version is available at
+
+Math 221
+.
+
+
+
+Computational Science Education Project
+provides an on-line
+text book on high-performance computing. I co-authored the chapter on
+
+Parallel Numerical Linear Algebra
+.
+
+
+
+CS 267
+is a
+one-semester graduate class in
+Applications of Parallel Computers.
+
+
+
+
+
+(Spring 1995 version of CS 267
+)
+
+
+
+NSF-CBMS Short Course on
+Parallel Numerical Linear Algebra
+, held summer 1995, and based on the
+
+Spring 1995 version of CS 267
+.
+
+
+
+
+
+
+Biographical Sketch:
+
+
+
+James Demmel received his BS in Mathematics from
+Caltech
+in 1975 and his
+Ph.D. in
+Computer Science
+from
+UC Berkeley
+in 1983. After spending six
+years on the faculty of the
+Courant Institute
+,
+New York University
+, he joined the
+Computer Science Division
+and
+Mathematics Department
+at
+Berkeley
+in 1990,
+where he holds a joint appointment.
+This page has been accessed
+times since
+Oct 29, 1995.

@@ -1,0 +1,36 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:40:51 GMT
+Content-Type: text/html
+Content-Length: 835
+Last-Modified: Sunday, 09-Jun-96 22:53:51 GMT
+
+
+David Cassel's home page
+
+
+
+Welcome to David Cassel's home page!
+
+I am a graduate student here at Northeastern University, in the
+College of Computer Science.  Very soon, I'll be graduating with a
+Master's degree, and moving back to the
+Philadelphia
+area.
+When I graduate, I'll be going to work for
+Lockheed Martin
+in Valley Forge, PA
+as a Software Engineer.
+By some miracle, I have finished everything!  I'm done!  I'm no
+longer a student, but somehow I've managed to find ways to fill my
+time.  I can deal with this.
+How about some
+miscelaneous fun stuff.
+
+
+
+cassel@ccs.neu.edu
+
+
+
+

@@ -1,0 +1,54 @@
+Date: Tue, 26 Nov 1996 00:17:55 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 08 Aug 1996 18:03:07 GMT
+Content-length: 1583
+Keith D. Cooper
+
+Keith D. Cooper
+
+Associate Professor
+Department of Computer Science
+Rice University
+
+
+
+
+
+Research Interests
+Keith Cooper's research interests include compilation for modern
+microprocessors, classical code optimization, and
+interprocedural analysis and optimization.
+He is project director of the
+Massively
+Scalar Compiler Project
+at Rice.
+In an earlier life, he was one of the principal designers and
+implementors of the Rn and ParaScope programming environments for
+FORTRAN.  These systems served as a testbed for research in various
+compilation issues for scalar and parallel machines.  The current
+
+D System
+project is a descendant of those early systems.
+Of course, being an academic, he produces both
+papers
+and
+code
+.
+
+Other Interests
+
+Rice's new
+Computational Engineering Building
+
+Rice-HISD Laboratory School
+
+Comp 412
+My kids (
+sorry, no pictures
+)
+
+
+
+
+

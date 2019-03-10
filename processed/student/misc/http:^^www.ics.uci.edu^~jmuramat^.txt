@@ -1,0 +1,99 @@
+Date: Thu, 21 Nov 1996 22:51:40 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 3446
+Last-modified: Thu, 14 Nov 1996 17:52:32 GMT
+
+
+Jack Muramatsu
+
+
+
+
+
+Area:
+CORPS
+
+Advisor:
+Mark S. Ackerman
+
+Electronic Mail:
+
+jmuramat@ics.uci.edu
+
+
+Office: ICS 2 #264
+Office Phone: (714) 824-5086
+
+
+Research Interests
+I'm interested in Computer-Mediated Communication (CMC),
+Human-Computer Interaction (HCI) and
+Computer Supported Cooperative Work (CSCW).
+Publications
+
+Pazzani, Michael, Muramatsu, Jack and Billsus, Daniel. "SysKill and Webert :
+Identifying Interesting Web Sites". Proceedings of the  National Conference on
+Artificial Intelligence (AAAI-96), August 1996, pp 54 - 61.
+Computing  Skills / Interests
+I'm a semi-competent
+Perl
+programmer and also know just enough  about Web
+servers and CGI scripts  to get myself into trouble.  I've got a fair amount ofexperience with writing regular expression  for Web/Internet related
+applications.
+If you're looking for a quick example of what can be done
+with Perl in terms of the Web and HTML take a look at the HTMLized versions
+of the
+Machine Learning
+List Archives
+.  The HTML versions you find on that archive were automaticallly created on-the-fly from the formatted ascii digests without any additional
+human effort - completely seamless.  I should say although I'm happy with
+the program, the strict format already in place for the ML digest made the job
+much
+easier.
+
+Colleagues
+There are some great people here in the department and I've been lucky enough
+to meet a few. Grad school can be a struggle at times - these people have
+made the experience enjoyable and productive for me.
+
+David McDonald
+is my officemate, fellow group member, and co-conspirator ;-). He's also a great programmer - I'm always trying to learn a thing or two or three from him.
+Wayne Lutters
+is also in our group and is currently studying
+dial-up electronic bulletin boards.
+
+Leysia Palen
+is a fellow
+UCSD CogSci Grad and a great person to be around. She always manages to cut
+to the heart of the matter in a humorous way. Her current work focuses on the adoption and use of electronic calendering systems.  Finally,
+Shilpa Shukla
+is always in high spirits and helps
+me to keep things in perspective - no matter how stressful things get.  She's
+interested in computer-support for collaborative learning (CSCL).
+Other Interests
+
+
+I'm an avid
+volleyball
+fan / player.
+
+
+Academic History
+
+
+Graduated with a B.S. degree in
+Cognitive Science
+from
+UC San Diego
+- June '94
+Graduated from Palisades High School (Pacific Palisades, CA) - June '89
+
+Last Modified : November 3rd, 1996
+
+
+Department of Information and Computer Science,
+University of California, Irvine CA 92717-3425
+
+
+

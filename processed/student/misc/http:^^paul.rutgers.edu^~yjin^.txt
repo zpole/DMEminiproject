@@ -1,0 +1,109 @@
+Date: Tue, 26 Nov 1996 03:48:19 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2982
+Last-modified: Wed, 26 Jun 1996 16:15:32 GMT
+
+
+Yi Jin's Personal Home Page
+
+
+
+
+
+
+
+
+
+
+
+If you were using a Java-enabled browser,
+you would see an animated scrolling text sign that looks like this:
+
+
+
+
+Personal Information
+
+
+
+Department of Computer Science
+
+Rutgers University, Busch Campus
+
+New Brunswick, NJ
+Office: Hill Center 375, Busch Campus
+Phone: (908)445-4634 ext. 5
+Email:
+yjin@paul.rutgers.edu
+
+
+
+
+About Myself
+
+
+I am from
+Hangzhou
+, P.R.CHINA
+I graduated from
+Zhejiang University
+.
+This summer, I am TAing
+
+CS-436: Databases: Theory and Application
+
+
+
+
+Internet
+
+
+A Beginner's Guide to HTML
+
+JAVA - The Internet Oriented Language
+Bookstore on the Net
+Shopping on the Net
+
+Einet's Galaxy
+
+
+
+Art Gallery
+
+
+The Metropolitan Museum of Art
+
+Guggenheim Museum
+
+Web Museum
+
+
+
+Entertainment
+
+
+Chinese Literature Collection
+
+
+
+Personal Stuff
+Sorry,
+personal stuff
+, cannot be accessed by others
+
+
+
+
+
+Created by Yi Jin on September 14, 1995
+Last modified on February 25, 1996
+Comments to:
+yjin@paul.rutgers.edu
+
+The LED Sign Java applet was written and Copyright 1995 by
+Darrick Brown
+
+
+
+

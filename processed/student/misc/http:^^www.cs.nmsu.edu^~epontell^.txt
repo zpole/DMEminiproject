@@ -1,0 +1,122 @@
+Date: Tuesday, 26-Nov-96 03:07:43 GMT
+Server: NCSA/1.1
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Saturday, 05-Oct-96 05:57:10 GMT
+
+WELCOME to Enrico's Page
+
+
+
+
+
+"I hate quotations. Tell me what you know..."
+- R.W. Emerson
+
+
+
+
+Enrico Pontelli
+
+
+
+
+
+
+
+
+
+
+
+
+About Enrico...
+
+
+
+Scaring Pictures....
+
+
+Addresses
+
+
+Resume
+
+
+
+
+The Laboratory for Logic, DBs, and Advanced Programming
+
+
+
+
+Projects
+
+
+
+ACE
+
+
+Optimizations of Parallel Systems
+
+
+Towards the Extended Andorra Model
+
+
+{log}: Constraint Logic Programming with Finite Sets
+
+
+
+
+ILPS'94 Workshop on Parallel Logic Programming
+
+
+
+JICSLP96 Workshop on Parallel Logic Programming
+
+
+
+Interesting Links
+
+
+
+The Logic Programming World
+
+
+
+Courses:
+
+
+CS 450 / FALL 96
+
+
+Parallel Processing
+
+
+Advanced Compilers
+
+
+
+
+
+Adventure in Parallel Logic Programming
+
+
+
+
+A peaceful place...
+
+
+
+
+
+
+
+
+
+Enrico Pontelli
+
+
+Thu Mar  2 10:22:04 MST 1995
+
+
+

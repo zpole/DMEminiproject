@@ -1,0 +1,16 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Sun, 31 Aug 1997 02:10:59 GMT
+Server: Apache/1.2.4
+Location: http://www.cs.wisc.edu/~austin/talk.scc/
+Connection: close
+Content-Type: text/html
+
+301 Moved Permanently
+
+
+Moved Permanently
+The document has moved
+here
+.
+
+

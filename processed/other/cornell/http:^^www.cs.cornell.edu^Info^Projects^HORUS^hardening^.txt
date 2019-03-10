@@ -1,0 +1,163 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 20:27:15 GMT
+Content-Type: text/html
+Content-Length: 5381
+Last-Modified: Friday, 26-Apr-96 04:37:53 GMT
+
+
+
+
+
+
+
+Securing and Hardening the Horus System
+
+
+
+
+Securing and Hardening the Horus System
+
+
+A joint project by researchers in the
+Horus
+and
+Nuprl
+projects at
+Cornell University
+and the
+Transis
+project at
+Hebrew University in Jerusalem
+.
+
+
+
+Overview
+
+
+Horus
+is an adaptable, multi-purpose group communication toolkit for
+building secure, fault-tolerant applications.  Horus has a modular,
+``LEGO-like'' architecture in which tiny protocol layers are composed at
+run-time into protocol stacks with rich sets of properties.  Horus
+currently includes about forty protocols that can be composed in a large
+number of combinations with varying properties and performance
+characteristics.
+
+
+
+See diagram of
+Horus's group architecture
+(8K GIF image).
+
+See diagram of
+layered communication protocols in Horus
+(12K GIF image).
+
+
+
+Security Infrastructure
+
+We are extending Horus's flexible communication architecture with
+protocols to implement a multi-level security architecture.  In this
+architecture, applications will be made secure by inserting standard
+protocol layers into their communication stacks.  Much of this work
+involves incorporating previous security research into the Horus
+framework, but we are also developing new protocols and techniques
+through our collaboration with
+Hebrew University of Jerusalem
+
+
+
+
+See detailed plans for
+the Horus security infrastructure
+.
+
+
+
+Validating the Horus Protocols
+
+An important part of the Horus effort is validating the correctness of
+both security and fault-tolerance protocols.  Our methodology for
+validating the Horus protocols involves the following steps:
+
+A ``reference implementation'' of our system is built in the ML
+programming language.  This implementation compiles into a C
+``production implementation.''
+
+The Horus protocols are specified in a temporal logic.
+
+The small (around 200 lines) ML protocol layers are imported
+directly into the
+Nuprl
+Proof Development System
+and formally verified.
+
+
+
+
+
+See detailed plans for
+the validation of Horus
+.
+
+
+
+Timeline
+
+The schedule for this project runs from September 1995 to September 1998.
+
+
+
+See diagram of
+the timeline for this project
+(9K GIF image).
+
+
+
+
+Contact:
+
+
+
+Kenneth P. Birman
+at Cornell (
+Horus
+).
+
+
+
+Robbert van Renesse
+at Cornell (
+Horus
+).
+
+
+
+Danny Dolev
+at the Hebrew University (
+Transis
+).
+
+
+
+Robert L. Constable
+at Cornell (
+Nuprl
+).
+
+
+
+
+Copyright Thu Apr 25 23:42:32 EDT 1996 by Cornell University.
+Maintained by
+David A. Karr
+.
+Send corrections to
+karr@cs.cornell.edu
+.
+
+
+

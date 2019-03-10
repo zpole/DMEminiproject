@@ -1,0 +1,44 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 07-Jan-97 15:25:46 GMT
+Content-Type: text/html
+Content-Length: 1365
+Lisp / X Demo
+
+Demonstration of Interactive X Graphics from Lisp
+This is a demo of the
+X Interface for Gnu Common Lisp
+which is available as free software under the Gnu General Public License
+from
+ftp.ma.utexas.edu
+
+When the demo is started, a window is created and some things are
+drawn in it.  A menu of options is presented; select an option
+and then click the mouse one or more times inside the graphics window.
+
+The code
+is fairly simple.
+
+Instructions
+
+
+
+You must be logged in to a host running X windows.
+Type
+xhost + www.cs.utexas.edu
+(exactly as shown
+at left) in a window on that host
+to allow this server to write to your display.
+Enter your X display name here if needed; you may need to change
+what is shown in the box to your X display name.  For example,
+myterminal.cs.utexas.edu:0.0
+
+
+
+Click
+to start the demo.
+
+
+Gordon S. Novak Jr.
+
+

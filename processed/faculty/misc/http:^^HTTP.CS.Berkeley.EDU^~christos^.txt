@@ -1,0 +1,73 @@
+Date: Thu, 21 Nov 1996 19:57:34 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Sun, 08 Sep 1996 22:00:01 GMT
+Content-length: 1846
+
+Papadimitriou's home page
+
+
+
+Christos H. Papadimitriou
+
+
+Professor
+
+Computer Science Division
+
+University of California at Berkeley
+Soda Hall 689
+
+EECS Department
+Berkeley, CA 94720, U.S.A.
+(510) 642-1559
+christos@cs
+
+
+I am teaching
+(fall 1996)
+two sections of CS170 "Introduction to Algorithms"
+together with
+Umesh Vazirani
+office hours and TA to be announced.
+I am also a CS undergraduate advisor.  Office hours for the week
+of August 19:  Tue 10-12, Thu 2-4, Fri 10-12.
+Please sign up outside my door for an appointment.
+
+
+I studied
+in Athens Polytechnic (BS in EE 1972)
+and Princeton (PhD in CS 1976).
+Since then,
+I have taught
+at Harvard, MIT, Athens
+Polytechnic, Stanford, and UC San Diego.
+I came to Berkeley in January 1996 (but I was here also in 1979 as
+a Miller fellow).
+
+I am interested
+in the theory of algorithms and
+complexity, and its applications to databases, optimization, AI,
+and game theory.
+
+I have written
+these books
+
+
+Elements of the theory of computation
+(Prentice-Hall 1982, with Harry Lewis,
+second edition
+to appear soon
+)
+
+Combinatorial optimization: algorithms and complexity
+(Prentice-Hall 1982, with Ken Steiglitz)
+
+The theory of database concurrency control
+(CS Press 1988)
+
+Computational Complexity
+(Addison Wesley, 1994)
+and many papers.
+
+

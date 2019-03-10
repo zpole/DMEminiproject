@@ -1,0 +1,151 @@
+Date: Tue, 14 Jan 1997 20:38:17 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 08 Jan 1997 15:21:56 GMT
+Content-length: 3818
+
+Samuel A. Rebelsky
+
+
+Samuel A. Rebelsky
+
+Visiting Assistant Professor
+
+Ph.D.
+University of Chicago
+, 1993.
+
+Office
+603-646-3266
+
+Home/NH
+603-643-7745 (Until March 15, 1997)
+
+Home/ME
+207-873-9641 (After March 15, 1997)
+
+Fax
+603-646-1672
+
+Email
+
+samr@cs.dartmouth.edu
+
+
+Address
+
+
+Dartmouth College
+
+
+Department of Computer Science
+
+6211 Sudikoff Laboratory
+Hanover, NH  03755-3510
+
+
+
+Research Interests
+
+Professor Rebelsky's research interests include
+programming languages
+(particularly lazy
+functional programming
+,
+the use of term rewriting systems in programming, and
+techniques for multi-paradigm programming),
+hypermedia
+(systems,
+interfaces, and retrieval), and the use of
+computers in education
+.
+His thesis research was on the design and use of a demand-driven term-based
+communication system.
+
+For more information, check out my
+curriculum
+vitae
+.
+
+
+Teaching
+
+I'm teaching two courses this term:
+CS4
+, a survey
+course intended for nonmajors and
+CS68
+, a
+majors-only course on programming languages.
+
+I've taught a number of courses at
+Dartmouth College
+and
+The University of Chicago
+, including
+introductory calculus, introductory programming (parts 1 and 2),
+undergraduate programming langauges, graduate programming languages,
+computer science for nonmajors, undergraduate operating systems and
+undergraduate networking.
+
+I also teach the occasional continuing education course, often on subjects
+pertaining to electronic publishing.  These days, I've been teaching HTML
+to a number of groups, and therefore maintain a rough collection of
+online HTML references
+.  I'm also starting
+to teach JavaScript to a number of people (primarily in preparation for
+using it in our nonmajors course) and have created some
+JavaScript reference materials and examples
+.
+
+
+Fun
+
+I'll admit that most of my free time is spent with my wife and new son
+(born July 31, 1996)
+
+On a completely separate note, also maintain the
+Jonathan Richman FAQ
+, but I
+haven't had a lot of time for that in recent months.
+
+I also waste my free time collecting music (my tastes vary -- roots rock,
+singer-songwriters, power pop, great Boston bands, ...).  One great place
+to look for independent music on the net is
+the
+Indie Ocean
+, and
+I'm not saying that just because they bribed me to.  They carry lots of
+great Boston-based musicians, like Barrence Whitfield and Robin Lane.
+
+
+Disclaimer
+
+This is not a fancy page (but you could tell that).  This is because I
+am a strong proponent of
+logical
+markup, rather than
+physical
+markup.  That is, I believe most HTML authors should
+place emphasis on indicating the
+role
+of each piece of text,
+rather than the
+appearance
+of that text.
+
+
+Last modified:
+Mon Jan  6 06:30:20 EST 1997
+
+
+
+
+
+
+Back to Dartmouth CS Home Page
+
+
+
+
+

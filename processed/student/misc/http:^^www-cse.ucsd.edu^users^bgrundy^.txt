@@ -1,0 +1,201 @@
+Date: Thu, 21 Nov 1996 23:08:27 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 20 Nov 1996 22:17:33 GMT
+Content-length: 5094
+
+
+
+William Noble Grundy
+
+
+
+
+William Noble Grundy
+
+
+
+Department of Computer Science and Engineering
+
+Department of Cognitive Science
+
+University of California, San Diego
+Mail Code 0114
+La Jolla, CA  92093-0114
+E-mail:
+bgrundy@cs.ucsd.edu
+Office: Applied Physics & Math Building, Room 5301
+Tel: (619) 453-4364  Fax: (619) 534-7029
+
+
+Interests
+
+
+Artificial life
+,
+genetic algorithms
+,
+DNA and protein sequence analysis
+,
+automatic speech recognition
+,
+original and derived intentionality.
+
+
+Current Research
+
+
+MEME: DNA and Protein Sequence Analysis (with
+Charles Elkan
+[UCSD CSE] and
+Timothy Bailey
+[SDSC]).
+
+
+Cocktail party
+description
+
+
+Current work
+
+
+The MEME web server at SDSC
+
+
+
+The Evolution of Motivation (with
+John Batali
+[UCSD Cog Sci]).
+
+
+Cocktail party
+description
+
+
+Current work
+
+
+
+
+
+Papers & Publications
+
+
+Grundy, William N., Timothy L. Bailey, Charles P. Elkan
+and Michael E. Baker.
+"Meta-MEME: Motif-based Hidden Markov Models of
+Protein Families"
+.  Submitted to
+CABIOS
+.
+
+Grundy, William N., Timothy L. Bailey and Charles P. Elkan.
+"ParaMEME: A Parallel
+Implementation and a Web Interface for a DNA and Protein
+Motif Discovery Tool."
+
+CABIOS
+12(4):303-310, 1996 (with corrections).
+
+Batali, John and William Noble Grundy.
+"Modeling the Evolution of
+Motivation."
+To appear in the
+
+Evolutionary Computation
+
+Special Issue
+on "Evolution, Learning, and Instinct: 100 Years of the Baldwin
+Effect."
+1996.
+
+Grundy, William Noble.
+"Solar
+Cookers	and Social Classes in Southern Africa."
+
+Techné: Journal of Technology Studies.
+Gray Norton,
+ed. Vol. V, Winter 1995. pp. 3-7.
+
+Grundy, William. "Building a Simple Recognition System Using
+HTK."  Entropic Research Laboratory, Washington, DC. August,
+1994.
+
+Bernstein, Jared, et al.
+The
+Latino40 Speech Database
+. Entropic Research Laboratory,
+Washington, DC. 1994.
+
+Grundy, William and Roy Grundy
+"Diffusion of Innovation: Solar Oven Use in Lesotho
+(Africa)."
+
+Advances in Solar Cooking: Proceedings of
+the 2nd International Conference on Solar Cooker Use and
+Technology.
+Shyam S. Nandwani, ed. July 12-15, 1994.
+pp. 240-247.
+
+Grundy, Bill.
+Making a Thinking Robot.
+Senior Honors Thesis, Symbolic Systems Program,
+Stanford University, 1991 (49 pages). Advisor: Fred Dretske.
+
+
+Stanford Fleet Street Singers.
+
+
+curious...
+Bill Grundy, Producer. 1990.
+
+Grundy, Bill.
+"The Coinage of
+Sicyon."
+
+The Numismatist.
+November, 1986. pp. 2307-8.
+
+See my bio in
+Who's Who in
+the World
+.
+
+
+Other pointers
+
+
+My brother, singer-songwriter
+Christopher Grundy
+.
+
+The
+Experimental Philosophy Lab
+.
+
+
+Dilbert
+
+
+
+
+Chicago Coin Club
+
+
+
+United States Peace Corps.
+
+
+
+My wacky family
+
+
+
+American Civil Liberties Union
+
+
+
+Access record
+
+
+

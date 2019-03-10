@@ -1,0 +1,77 @@
+Date: Wed, 15 Jan 1997 02:06:32 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2153
+Last-modified: Fri, 10 Jan 1997 04:07:18 GMT
+
+Xin Bao's Home Page
+
+
+Welcome to Xin Bao's Home Page
+
+
+You are visitor NO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chinese Poem
+
+
+
+"I came from Xian, P.R.China"
+
+I came from
+Northwestern Polytechnical University
+,
+Xian
+,
+P.R.China.
+Currently, I am a graduate student in the
+Department of Computer Science
+at
+University of California, Riverside
+.
+I work as a graduate student researcher
+at
+VisLab
+. My research
+interest includes image processing, image understanding, game theory,
+multisensor integration, reinforcement learning. The current research
+is applying delayed reinforcement learning to assign rewards to different
+layers in a multi-layer computer vision system.
+
+
+
+
+
+
+Please email me
+bao@cs.ucr.edu
+
+
+
+Back to CS Graduate Students Home Pages
+
+

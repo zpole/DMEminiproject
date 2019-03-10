@@ -1,0 +1,47 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:32:47 GMT
+Content-Type: text/html
+Content-Length: 758
+Last-Modified: Thursday, 10-Oct-96 18:37:05 GMT
+
+
+Daren's Home Page
+
+
+
+Welcome to my Home Page!
+
+Thank you for looking up my Home Page.
+I am a part time graduate student  at CCS/NEU and
+full time software engineer for NEC Technologies Inc.
+Here you can find some more info about me:
+
+
+
+What do I do for fun
+
+
+My resume
+
+
+
+Some intrested links:
+
+
+
+NE
+Winndsurfing stuff (check it out!)
+
+
+CCS.NEU.EDU link
+
+
+SSC/Linux page
+
+
+UMASS CS web
+
+
+
+

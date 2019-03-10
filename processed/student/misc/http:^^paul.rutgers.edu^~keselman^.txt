@@ -1,0 +1,31 @@
+Date: Tue, 26 Nov 1996 03:56:00 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 637
+Last-modified: Sun, 27 Oct 1996 00:02:37 GMT
+Yakov Keselman's Home Page
+
+Yakov Keselman's Home Page
+
+
+
+I am a
+Graduate Student
+(3-d year) in the Dept of
+Computer Science
+at
+Rutgers University
+.
+
+e-mail:
+
+keselman@paul.rutgers.edu
+
+Phone:
+(908) 445-0050
+
+Various applets
+
+Lots of other info
+about myself
+

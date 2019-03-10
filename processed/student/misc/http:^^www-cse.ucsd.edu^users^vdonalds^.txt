@@ -1,0 +1,51 @@
+Date: Thu, 21 Nov 1996 23:08:57 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 14 Aug 1996 20:36:32 GMT
+Content-length: 1945
+
+Val Donaldson
+
+Val Donaldson
+
+Computer Science and Engineering Department
+University of California, San Diego
+La Jolla, California  92093-0114
+USA
+
+Working thesis title:  "Asynchronous Pipeline Analysis and Scheduling"
+Publications
+
+-- short version
+Val Donaldson and Jeanne Ferrante.
+Determining asynchronous pipeline execution times.
+
+Proc. Ninth Workshop on Languages and Compilers for Parallel Computing,
+San Jose, CA, August 1996.
+-- long version
+Val Donaldson and Jeanne Ferrante.
+Determining asynchronous pipeline execution times.
+Technical Report CS96-481, Computer Science and Engineering Dept.,
+University of California, San Diego, La Jolla, CA, April 1996.
+-- short version
+Val Donaldson and Jeanne Ferrante.
+Determining asynchronous acyclic pipeline execution times.
+
+Proc. 10th International Parallel Processing Symposium,
+Honolulu, HI, April 1996, pp. 568-572.
+-- long version
+Val Donaldson and Jeanne Ferrante.
+Determining asynchronous acyclic pipeline execution times.
+Technical Report CS96-466, Computer Science and Engineering Dept.,
+University of California, San Diego, La Jolla, CA, January 1996.
+Val Donaldson, Francine Berman, and Ramamohan Paturi.
+Program speedup in a heterogeneous computing network.
+
+Journal of Parallel and Distributed Computing
+21:3 (June 1994), pp. 316-322.
+
+
+
+vdonalds@cs.ucsd.edu / August 1996
+
+

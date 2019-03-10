@@ -1,0 +1,90 @@
+Date: Tue, 26 Nov 1996 19:09:16 GMT
+Server: Apache/1.1-dev
+Content-type: text/html
+Set-Cookie: Apache=gs359342849035356420; path=/
+
+
+EECS 574 Home Page
+
+
+
+EECS 574 -- Theoretical Computer Science I (Fall 1996)
+
+
+
+
+
+Instructor:
+
+Prof. Yuri Gurevich
+
+
+Lectures:  WF 2:30-4:30 in 3424 EECS
+Office: 2238 EECS
+Office Hours: TTh 2:30-4:00.
+Email:
+gurevich@eecs.umich.edu
+
+Phone: 763-4526
+
+
+
+
+Announcements
+
+Homework
+
+Lecture Summaries
+
+Solutions
+
+Syllabus
+
+
+
+
+
+Rules
+
+Homework
+Grading.  The whole semester of homework will contribute 50% to the final grade.
+(The other 50% will be contributed by the two exams; see below.)  There may be
+more homework assignments than we are able to grade; also only a part of an
+assigment may be graded.  However, you will get solutions for all homework
+exercises.
+Timing. Each homework assignment is due on Friday of the next week (next to
+the week the assignment had been given). We will try to grade the gradable part
+within a week.
+Groups.  You are encouraged to form groups to work on the homework
+problems.  The process of group interactions should help you to
+understand the material better and especially to master proofs; try to
+convince your colleagues in the validity of your proofs, and be
+critical about their explanations.  Only one copy of the completed
+homework assignment need be submitted for each group.  Make sure all
+group members names are listed on submitted assignments!  All members
+of the group will receive the same score.
+Exams
+There will a final exam (30% of the final grade) and one intermediate
+exam (20% of the final grade) on Nov 8.  Both exams will be closed
+book, closed notes.
+The Honor Code
+The system is built on trust.  See the UM policy on the subject.
+
+
+
+Announcements
+
+Homework
+
+Lectures
+
+Solutons
+
+Syllabus
+
+
+
+
+Last updated: Wednesday, 20-Nov-96 14:29:49 EST
+
+

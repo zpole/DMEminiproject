@@ -1,0 +1,57 @@
+Server: Netscape-Communications/1.1
+Date: Monday, 25-Nov-96 00:33:36 GMT
+Expires: Mon, 01 Jan 1996 00:00:00 GMT
+Content-length: 2249
+Content-type: text/html
+
+
+AltaVista Forum Summit
+
+
+
+
+
+
+
+
+
+AltaVista Forum Summit
+Welcome visitor.
+Please
+register now
+if you are a new user.
+
+
+DRI Messages
+
+
+
+DRI Documents
+
+
+
+DRI Events
+
+
+[
+Log in
+|
+Users
+|
+Teams
+|
+Administration
+|
+Help
+]
+AltaVista Forum V2.0- (Aug07-1)
+
+
+
+Copyright © 1995,1996 - Digital Equipment Corporation.
+All rights reserved.
+Use of this software is subject to a licensing agreement.
+AltaVista is a trademark of Digital Equipment Corporation.
+
+
+

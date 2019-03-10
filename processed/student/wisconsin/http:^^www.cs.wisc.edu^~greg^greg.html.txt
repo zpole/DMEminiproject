@@ -1,0 +1,143 @@
+Date: Thu, 07 Nov 1996 19:17:29 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 05 Nov 1996 01:48:50 GMT
+Content-length: 15652
+
+
+Greg Sharp Home Page
+
+
+
+Greg Sharp Home Page
+
+Name:
+Greg Sharp
+
+Email:
+greg@cs.wisc.edu
+
+Office:
+CS&St 1307
+
+Office Phone:
+(608)262-6602
+
+Office Hours:
+6:00pm-8:00pm Mon and 12:00pm-1:00pm Wed (or by appt.)
+
+TGIF:
+Every Friday, from 4:30-5:15 in CS 2310.
+
+CS Dept
+
+CS 302
+
+Section 6 & 9
+
+
+CS 302 Instructors
+
+Fall 1995 Lecture Notes
+|
+Spring 1996 Lecture Notes
+
+
+Classes Fall 1996
+
+
+CS 764 Topics in Database Management Systems
+CS 838-2
+Finding Out About
+
+Search Engines
+
+
+Altavista
+|
+DejaNews
+|
+Excite
+|
+Infoseek
+|
+Lycos
+|
+MetaCrawler
+|
+Yahoo
+|
+
+Usenet FAQ's
+
+
+FTP Mirrors:
+MIT
+|
+AOL
+|
+GWU
+
+HTML format:
+Ohio
+
+
+C and C++
+
+
+Programming in C
+
+Learn C/C++ Today
+
+The C++ Library
+
+C++ Draft Standard (April 1995). Mirrors:
+Stanford
+|
+Cygnus
+
+G++ FAQ
+
+LIB G++ Info
+
+STL Reference
+
+Mumit's STL Newbie guide
+
+
+Platform Independant GUI Libraries in C++
+
+
+Portable GUI Development Kits FAQ
+
+Amulet
+(OK)
+DCLAP
+(strings attached/requires Motif)
+SUIT
+(strings attached)
+V
+(OK)
+wxWindows
+(OK)
+YACL
+(OK)
+
+Classes Spring 1996
+
+
+CS 558 Introduction to Computational Geometry
+CS 752
+Computer Architecture I
+CS 752: My Computer Architecture Project
+
+CS 760
+Machine Learning
+CS 760: My Machine Learning Project
+
+
+Classes Fall 1995
+
+
+CS 513
+Numerical Linear Algebra

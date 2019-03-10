@@ -1,0 +1,98 @@
+Date: Thu, 21 Nov 1996 20:16:18 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2735
+Last-modified: Thu, 12 Oct 1995 16:13:47 GMT
+
+John Bruno
+
+John Bruno, Professor
+
+
+
+
+
+
+Department of Computer Science
+University of California
+
+
+Telephone:
+(805) 893-8759
+
+Internet:
+bruno@cs.ucsb.edu
+
+Ph.D., The City College of New York, 1969
+
+Dr. Bruno is a Professor of Computer Science at the University of California,
+Santa Barbara.  He received his BEE, MEE, and Ph.D. degrees from the City
+College of the City University of New York in 1965, 1966, and 1969,
+respectively.  His research interests include distributed systems,
+operating systems, and scheduling theory.
+
+
+
+Publications Include:
+
+
+
+Space: A New Approach to Operating System Abstraction, (with D. Probert
+and M. Karaorman),
+Proceedings of the International Workshop on Object
+Orientation in Operating Systems
+, pp. 133-137, October 1991.
+
+Introducing Concurrency to a Sequential Language,
+Communications of
+the ACM
+, v. 36, n9, pp., 103-116, September 1993.
+
+On the Complexity of Concurrency Control Using Semantic Information, (with
+V. Krishnaswamy),
+Acta Informatica
+32, 271-284 (1995).
+
+Relative Serializability: A Theory for Relaxing the Atomicity of Transactions,
+(with D. Agrawal, A. El Abbadi, and V. Krishnaswamy).
+Proceedings of the 13th
+ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems
+, May
+24-26, p. 139-149, 1994.
+
+Scheduling Independent Tasks to Minimize the Makespan on Identical Machines,
+(with E.G. Coffman, Jr. and P.J. Downey),
+Probability in the
+Engineering and Informational Sciences
+9, 447-456, 1995.
+
+Building Fundamentally
+Extensible Application-Specific Operating Systems in SPACE,
+with Dave
+Probert,
+UCSB Department of Computer Science Technical Report TRCS95-06,
+April 1995.
+
+Optimal Fault-Tolerant Computing on Two Parallel Processors, (with E.G.
+Coffman, Jr.),
+UCSB Department of Computer Science Technical Report
+TRCS94-18
+, December 1994.
+
+Managing Concurrent
+Activities in Collaborative Environments
+, with D. Agrawal, A. El Abbadi,
+and V. Krishaswamy,
+UCSB Department of Computer Science Technical Report
+TRCS94-05
+, March 1994.
+
+
+Return to top of this page.
+
+
+Return to Computer Science Department home
+page.
+
+
+

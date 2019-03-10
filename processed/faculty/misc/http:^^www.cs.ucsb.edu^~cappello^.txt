@@ -1,0 +1,73 @@
+Date: Thu, 21 Nov 1996 20:16:13 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3112
+Last-modified: Thu, 09 May 1996 20:51:04 GMT
+
+Peter Cappello
+
+
+
+
+Peter Cappello
+,
+Professor
+
+
+
+Department of Computer Science
+University of California
+Santa Barbara, CA 93106-5110
+
+
+Internet:
+
+cappello@cs.ucsb.edu
+
+Telephone:
+(805) 893-4383
+
+Ph.D., Princeton University
+
+
+Research interests:
+Multiprocessor scheduling, self-directed learning.
+Peter Cappello received the Ph.D. degree in Computer Science from Princeton University in 1982. He joined UC Santa Barbara's Department of Computer Science in July of that year. He is a member of the Department's Algorithms and Computational Complexity group, where he currently investigates multi-processor scheduling, systolic arrays, and the relationship between algorithms and architectures for parallel processing.
+He has published journal articles on integer multiplication, special-purpose architectures for digital signal processing, computer-aided design of digital filter chips, parallel algorithms for scientific computations, bit-level systolic algorithms, formal manipulation of systolic algorithms, a programming language for systolic algorithms, and optimal multiprocessor schedules for fundamental algorithms.
+Dr. Cappello is a senior member of the Institute for Electrical and Electronics Engineers (IEEE), and a member of the IEEE Computer Society, the IEEE Signal Processing Society, and the Association for Computing Machinery (ACM). He also is a member of the ACM Special Interest Group on Algorithms and Computation Theory, and the IEEE Signal Processing Society's Technical Committee on VLSI, of which he served as founding Chair.
+He chaired the 1984 IEEE Workshop on VLSI Signal Processing, and co-edited VLSI Signal Processing (IEEE Press). He was Program Co-Chair for the
+1994 Int. Conf. on Application Specific Array Processors (ASAP'94), and Conference Co-Chair for
+ASAP'95.
+Dr. Cappello is a past Associate Editor of the
+IEEE Transactions on Acoustics, Speech, and Signal Processing
+, and is on the editorial board of the
+Journal of VLSI Signal Processing
+.
+
+Publications
+
+
+
+Journal Articles
+
+Chapters and Books
+
+Conference Articles
+
+
+Presentations
+
+Courses
+
+Professional Activity
+
+University Service
+
+Patents
+
+
+The Computer Science Department's
+home page
+
+
+

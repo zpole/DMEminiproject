@@ -1,0 +1,108 @@
+Date: Tue, 10 Dec 1996 16:51:03 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 06 Nov 1996 18:02:08 GMT
+Content-length: 3859
+
+
+
+Computing Lab Information
+
+
+
+
+Computing Labs for CSE/ENGR 142
+
+
+The IPL (Sieg 323)
+
+
+
+See
+class messages
+for changes, or take a look at the tentative
+detailed schedule
+.
+
+
+See also
+consultant schedules
+.
+
+
+
+Tentative regular hours (after the second week of the quarter):
+7:30 am - 11:30 midnight M-Th
+7:30 am - 6:00 pm F
+9:00 am - 5:00 pm Sa
+11:00 am- 11:30 pm Su
+The Introductory Programming Laboratory (IPL) opens for business
+with Autumn Quarter, 1996. The PCs are IBM-compatible and run
+Windows 95. The C language compiler is Microsoft's Visual C++
+(MSVC), version 4.2.
+Consultants will be on duty in the lab frequently during the week.
+They can help answer programming questions that arise while you
+are working on homework in the lab. There are also lab assistants
+on duty to check users in and out, to answer questions about operating
+the equipment, and to retrieve print-outs.
+If you plan to
+compute at home
+,
+you will find it easiest if your system is very similar to the
+lab set-up. To take the course, you will NOT be required to purchase
+MSVC, but if you would like to, version 4.0 is available in the
+University Bookstore at an educational discount. Currently the
+price is about $55.00 plus tax. Version 4.2 is used in the IPL,
+but the differences should not cause any difficulties for students
+in this course. (This compiler will also be used for CSE 143 beginning
+in Winter Quarter 1997.)
+Platforms other than Win95 with MSVC 4.2 can be used, such as
+a Macintosh with the Symantec Think C compiler, or a PC with Borland
+C++. However, with these other systems you will get less help
+from the course staff in making things work properly. Regardless
+of your home equipment, there may still be times when you will
+need to come to the computer lab in person.
+
+Macintosh Lab (Sieg 324)
+
+
+324 Sieg (543-9472). Hours are posted at the door. Normally the
+lab is open
+M-Th 8:30 a.m. - 10:30 p.m.
+F 8:30 a.m. - 5:30 p.m.
+SS 11:30 a.m. - 5:30 p.m. (and Holidays)
+In previous quarters, most 142 students used this laboratory equipped
+with Macintosh computers. You may choose to use this lab, but
+there will be no 142 consultants on duty, and in general the level
+of support from 142 staff will be low. You will also not have
+highest priority during times of peak use.
+
+Other labs on campus
+
+
+
+The Academic Computer Center (Brooklyn & Pacific) has some
+PCs and a C++ compiler. They are generally open 24 hours a day
+(except in summer). Hours for the ACC and other labs are available
+on-line
+.
+Many other
+computing services
+and facilities are available at UW.
+
+How to
+get a uniform access account
+
+
+
+Computing at home
+
+
+Know the rules
+
+Campus computer facilities are for academic use only. Campus Computers
+and Communications has established
+some rules and guidelines
+which you are recommended to review.
+
+

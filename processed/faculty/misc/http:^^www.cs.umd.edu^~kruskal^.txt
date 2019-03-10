@@ -1,0 +1,25 @@
+Date: Thu, 21 Nov 1996 20:29:20 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 333
+Last-modified: Thu, 30 Jun 1994 19:02:45 GMT
+
+Clyde Kruskal
+
+
+
+
+Clyde Kruskal
+
+Email:
+kruskal@cs.umd.edu
+
+Current Position:
+Associate Professor, CS.
+
+Academic Degree:
+Ph.D., NYU.
+
+Research Interests:
+Parallel architectures and algorithms.
+

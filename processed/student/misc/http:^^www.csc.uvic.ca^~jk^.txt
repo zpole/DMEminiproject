@@ -1,0 +1,89 @@
+Date: Tue, 26 Nov 1996 16:25:16 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+
+Jayakrishnan's Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I am a Graduate Student in the
+Department of
+Computer Science
+at the
+University of
+Victoria.
+.
+Victoria
+is a beautiful city in Vancouver Island,
+Canada
+
+
+
+I am doing my Masters under the supervision of
+Dr Dan Hoffman
+
+
+I did my undergrad in Electronics and Communication Engineering at Govt.
+Engineering College, Trichur, Kerala, India.
+I worked for 3 years as a System Administrator at
+The National Centre for Software Technology
+, Mumbai, India.
+
+
+My Interests are
+
+Object Oriented Programming
+
+Standard Template Library
+
+C++
+
+Java
+
+Emacs
+
+
+
+
+
+
+
+
+
+
+jk@csr.uvic.ca
+Visitor Number
+208
+since October 25, 1996
+
+

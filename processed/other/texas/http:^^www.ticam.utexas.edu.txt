@@ -1,0 +1,152 @@
+Date: Tue, 07 Jan 1997 14:43:19 GMT
+Server: NCSA/1.5.1
+Last-modified: Wed, 18 Sep 1996 18:42:20 GMT
+Content-type: text/html
+Content-length: 2528
+
+
+TICAM homepage
+
+
+
+
+
+Texas Institute for Computational and Applied Mathematics
+
+
+Visitor Information
+
+
+
+
+Institute Overview
+
+
+Related Departments
+
+UT
+Graduate Program
+in CAM
+The
+University of Texas
+Web Central
+
+
+
+Research
+
+
+
+
+Research Groups
+
+
+Institute Publications
+
+
+Upcoming Seminars
+
+
+Computing Facilities
+
+
+Symposium on Advances in Computational
+Mechanics
+in honor of
+J. T. Oden
+'s 60th Birthday
+
+
+
+Pages and People
+
+
+
+
+Faculty & Student Pages
+
+
+Weekly TICAM Forum
+
+
+University of Texas Directory
+
+
+Other CAM related sites
+
+
+
+
+What's New and Exciting
+
+
+
+Jan. 1996:
+
+Installation of 16 node
+IBM SP-2
+for TICAM Scientific Visualization
+Laboratory.
+
+
+Dec. 1995:
+
+UT-Austin's
+High Performance Computing Facility
+announces procurement of 40 node
+
+Cray T3E
+
+
+
+
+Oct. 1995:
+
+40 node
+Intel Paragon
+is moved from Rice University to UT-Austin.
+
+
+Fall 1995:
+
+New faculty join UT-Austin and TICAM
+
+
+Todd Arbogast
+
+Associate Professor of Mathematics
+
+Ivo Babuska
+
+Senior Research Scientist
+
+Jerry Bona
+Computational and Applied Mathematics Chair #1
+
+Clint Dawson
+
+Associate Professor of Engineering Mechanics
+
+Mary Wheeler
+
+Ernest and Virginia Cockrell Chair in Engineering
+
+
+
+Fall 1995:
+
+
+Center for Subsurface Modeling
+moves from Rice University
+to UT-Austin and TICAM.
+
+
+
+WWW Page Setup Info
+
+
+
+webman@ticam.utexas.edu
+
+
+

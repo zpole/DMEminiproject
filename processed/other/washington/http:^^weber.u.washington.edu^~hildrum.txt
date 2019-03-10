@@ -1,0 +1,13 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Fri, 04 Apr 1997 23:43:54 GMT
+Server: Apache/1.1.1
+Location: http://weber.u.washington.edu/~hildrum/
+Content-type: text/html
+Document moved
+
+Document moved
+The document has moved
+here
+.
+
+

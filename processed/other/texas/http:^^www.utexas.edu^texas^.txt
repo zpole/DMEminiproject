@@ -1,0 +1,72 @@
+Date: Mon, 06 Jan 1997 21:43:32 GMT
+Server: NCSA/1.5.2
+Last-modified: Thu, 12 Dec 1996 21:33:25 GMT
+Content-type: text/html
+Content-length: 1626
+
+
+Web Texas
+
+
+
+
+
+
+UT Austin is the official WWW registration site for Texas Web servers.  All
+registered Texas servers appear on
+W3C's World
+List,
+the master list of Web servers worldwide.  Web Texas is divided
+into several pages.
+
+Web Texas is searchable.
+(Supports AND, OR, NOT, and *)
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+Web Texas.new
+
+(12 December 96)
+Check regularly to keep up with additions to Web
+Texas.
+
+Web Texas.com
+
+Commercial page.
+
+Web Texas.edu
+
+Education page.
+
+Web Texas.gov
+
+Government page.
+
+Web Texas.org
+
+Non-Profit Organization page.
+
+Web Texas.form
+
+Use this form to register your server.
+
+
+
+19 November 96
+
+TeamWeb
+at
+UT Austin
+Send
+comments
+
+

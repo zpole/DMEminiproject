@@ -1,0 +1,204 @@
+Date: Tue, 26 Nov 1996 17:52:33 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 28 Jun 1996 19:49:15 GMT
+Content-length: 9253
+
+
+
+
+
+Russell P. Lentini
+
+
+
+<!-- Beginning of JavaScript Applet -------------------
+
+/* Copyright (C)1996 Web Integration Systems, Inc. DBA Websys, Inc.
+All Rights Reserved.
+
+This applet can be re-used or modified, if credit is given in
+the source code.z
+
+We will not be held responsible for any unwanted effects due to the
+usage of this applet or any derivative.  No warrantees for usability
+for any specific application are given or implied.
+
+Chris Skinner, January 30th, 1996.
+
+Hacked for ItalWeb by Elizabeth Spencer-Comoy, Feb 9th 1996.
+*/
+
+function scrollit_r2l(seed)
+{
+var m1  = "****    H A V E   A   N I C E   D A Y    ";
+var m2  = "**";
+var m3  = "*";
+var m4  = "*";
+
+var msg=m1+m2+m3+m4;
+var out = " ";
+var c   = 1;
+
+if (seed > 100) {
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+timerTwo=window.setTimeout(cmd,100);
+}
+else if (seed <= 100 && seed > 0) {
+for (c=0 ; c < seed ; c++) {
+out+=" ";
+}
+out+=msg;
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+window.status=out;
+timerTwo=window.setTimeout(cmd,100);
+}
+else if (seed <= 0) {
+if (-seed < msg.length) {
+out+=msg.substring(-seed,msg.length);
+seed--;
+var cmd="scrollit_r2l(" + seed + ")";
+window.status=out;
+timerTwo=window.setTimeout(cmd,100);
+}
+else {
+window.status=" ";
+timerTwo=window.setTimeout("scrollit_r2l(100)",75);
+}
+}
+}
+// -- End of JavaScript code -------------- -->
+
+
+
+
+
+Thanks for stopping by my home page.  I am a graduate student in the
+Department of Computer Science
+at the
+University of Pittsburgh.
+My area of concentration is
+Artificial Intelligence
+.
+
+
+
+And this will be me if I ever get a job...
+
+
+
+If you like you can email me at
+lentini@cs.pitt.edu
+
+I earned my B.S. in
+Computer Science
+at
+Millersville University
+and was involved in research at
+Millersville University's Intelligent Machines Laboratory
+... try running the
+Heuristic Search Methods PROLOG DEMO!!
+.
+
+
+
+
+Current Research Projects
+
+
+"Scaling up Inductive Machine Learning with Massive Parallelism"
+
+Masters Project
+:  NSF-funded project involves inductive rule learning using huge datasets containing both symbolic and numeric data types (check out
+UCI
+for some machine learning info).  The system being used is
+Parallel Virtual Machine (PVM)
+running on a
+Cray T3D
+at the
+Pittsburgh Supercomputing Center
+.  The principal investigator of the project is
+Dr. Bruce Buchanan
+, and the project supervisor is John Aronis.
+
+"Using Machine Learning to Learn Feedback Procedure in Intelligent Game Tutoring Systems"
+The tutoring system will teach the user the winning strategy of the 2-player strategy board game Connections.  The question to be answered is whether machine learning can be used to determine appropriate times to give feedback as well as which type(s) of feedback should be given.  The finished product should be general enough to serve most students well.  The learning method being used is a multilayered feed-forward neural network.
+---> Also working on this project...
+Iwan K. Tanuwidjaja
+---> Click
+here
+for more info on intelligent tutoring systems.
+---> Get a list of
+neural net sites and resources
+.
+
+"Assessing Human Performance During Combined Visual, Auditory, and Vestibular Stimulation"
+AFOSR-funded project involves providing combined sensory stimulation to improve studies of human spatial orientation and disorientation during multi-sensory input. Response measures include both measures of extraocular movements and straightforward measures of subject performance such as the ability to perform simple arithmetic and to perform visual pattern recognition tasks.  The hardware being used is the
+miro
+VIDEO DC20 Professional Digital Video Editing System, the Power DAC 3-D Audio Rendering System from Tucker-Davis Technologies, and an off-vertical axis rotation (OVAR) chair.  This project is being worked on in conjuction with the Balance Disorders Division of the Department of Otolaryngology,
+University of Pittsburgh School of Medicine
+.
+---> Also working on this project...
+John Candee
+.
+---> You might want to go to the
+project home page
+for more info.
+
+
+
+If Dr. Plantinga is reading this....
+
+
+
+Height --------  5' 8"
+Shoe size ------ 9
+
+
+
+
+A great new company that designs and maintains home pages for the web is
+Cyclomedia
+.
+Or if you want to create your own home page, click
+here
+to see how.
+Check out a
+VIRTUAL REALITY project
+(adapted to the Web by
+Sheldon Smoker
+).
+Or try running this mpeg
+MOVIE
+.
+(Dr. Plantinga and some of his best buddies... A. Einstein, C. Babbage, E. Presly)
+
+
+
+
+*** Some other really cool web sites ***
+
+
+
+
+Want some Windows95 shareware?		If you use Linux, check out
+St. John's Linux Users Group.
+
+Billiard Congress of 			Yahoo Motorcycle Web Page
+America Home Page
+
+Dallas Cowboys Web Page			Philadelphia Flyers Web Page
+
+GUITAR.NET!!!				In Pittsburgh Newsweekly ONLINE
+
+
+
+
+Hits since March 16, 1996
+...counter provided by
+Net Digits
+.
+
+

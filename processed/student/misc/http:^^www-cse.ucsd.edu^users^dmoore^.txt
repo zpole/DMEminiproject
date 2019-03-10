@@ -1,0 +1,103 @@
+Date: Thu, 21 Nov 1996 23:00:18 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Sun, 06 Oct 1996 18:11:16 GMT
+Content-length: 3677
+
+
+
+David Moore's CSE Page
+
+
+
+
+David Moore's CSE Page
+
+I also have a
+personal
+web page.
+
+
+I'm an active member of the
+Computer Systems Laboratory
+,
+working on a novel operating system abstraction.
+
+I believe it is possible to design an efficient kernel that also
+gives extreme design flexibility to OS designers and user-level
+programmers.  Operating systems are large complex systems, and
+should be able to leverage on technologies and techniques
+currently available for large complex user-level programs.
+However, this must be done without sacrificing performance.
+
+Some other projects working on similar themes are:
+Flux
+,
+Exokernel
+,
+L3 and L4
+,
+Cache Kernel
+, and
+SPIN
+.
+A good place to find information about current operating system
+projects is
+here
+.
+
+With this group, I'm also interested in developing a research
+agenda dealing with the issues of resource identification and
+authentification in a mobile wireless environment.
+
+You can see me say the same thing in my
+1995 Research Summary
+.
+
+
+I have strong interests in human factors and software
+engineering, and believe that computer scientists should spend
+more time thinking about
+people
+than they do.
+
+In my spare time (ha ha ha), I'm interested in linguistics.
+Over the years, I've shifted from "computational natural
+language processing" to "human language comprehension by
+humans".  Second language learning currently attracts me here.
+
+
+To help remember when various interesting talks are on campus,
+I've begun to organize the seminar announcements for a few
+groups.  For example, you can find the current
+UCSD AI Research Group
+listings.  Other groups can be found
+here
+.
+If you have any suggestions, comments or want your favorite
+research group's seminar schedule available, send some
+email
+.
+
+
+I'm hoping to get around to entering bibliography information on
+the 300+ papers currently sitting in my bedroom.  Of course, I'd
+rather not do this, so if you know of good locations for me to
+obtain this information already in computer format, I'll take
+you to lunch or something.
+
+
+
+
+David Moore
+,
+dmoore@ucsd.edu
+
+
+
+Last modified: Sun Oct  6 11:10:55 PDT
+
+
+
+
+

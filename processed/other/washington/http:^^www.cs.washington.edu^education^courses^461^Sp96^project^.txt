@@ -1,0 +1,56 @@
+Date: Wed, 08 Jan 1997 20:56:42 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE/EE 461 Projects
+
+
+
+CSE/EE 461 Computer Networks
+Projects
+Spring 1996
+
+
+
+Simulator Description
+(
+LaTeX
+,
+PS
+).
+
+Project 1
+(
+LaTeX
+,
+PS
+),
+due April 24, 11:30pm
+.
+
+Project 2
+(
+LaTeX
+,
+PS
+),
+Part 1 due May 8, 11:30pm, Part 2 due May 15, 11:30pm
+.
+
+Project 3
+(
+LaTeX
+,
+PS
+),
+due May 29, 11:30pm
+.
+
+
+
+
+wchan@cs.washington.edu
+
+
+

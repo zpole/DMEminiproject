@@ -1,0 +1,373 @@
+Date: Thu, 21 Nov 1996 23:07:48 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 20 Nov 1996 23:56:37 GMT
+Content-length: 10371
+
+
+Eugene Hung -- Personal Page
+
+
+
+
+Eugene Hung
+
+Computer Systems Laboratory
+
+
+Department of Computer Science and Engineering
+
+
+University of California, San Diego
+
+9450 Gilman Drive  #922516
+
+La Jolla
+,
+CA
+92092
+
+
+Home Phone:
+(619) 587-4644
+
+Email:
+
+eyhung@ucsd.edu
+
+
+
+Professional Home Page
+
+
+
+
+
+"Deep into that darkness peering, long I stood there wondering, fearing,
+Doubting, dreaming dreams no mortals ever dared to dream before"
+
+-- Edgar Allan Poe
+
+
+
+Who am I?
+I am a second-year doctoral student at the
+University of California at San Diego
+in the department of
+Computer Science and Engineering
+.
+I received my high school diploma from
+Torrey Pines High School
+,
+and my undergraduate degree in
+EECS
+from
+UC Berkeley
+.
+While at Berkeley I worked for two student organizations:
+Eta Kappa Nu
+(EECS Honor Society) and
+UCSEE
+(Student IEEE Society).
+I am currently sitting in the UCSD
+Computer Systems Laboratory
+which is run by Professors
+Joseph Pasquale
+and
+George Polyzos
+.
+
+
+"It matters not how strait the gate,
+How charged with punishments the scroll:
+I am the master of my fate.
+I am the captain of my soul."
+
+-- William Henley
+
+
+
+Current Classes
+
+
+CSE 218
+-- Advanced Topics in Software Engineering by
+Bill Griswold
+
+CSE 291
+-- Security Seminar
+by
+Bennet Yee
+
+
+
+
+
+"You see things; and you say, 'Why?'
+But I dream things that never were; and I say, 'Why not?'"
+
+-- George Bernard Shaw
+
+
+
+My projects
+I am currently doing research in the area of internet computing, with
+an eye towards the sub-field of agent-based computing.
+See my
+professional
+home page
+for details.
+
+
+"We shall not cease from exploration
+And the end of all our exploring
+Will be to arrive where we started
+And know the place for the first time."
+
+-- T. S. Eliot
+
+
+
+Search Engines:
+The obligatory search engine and Web directory section...
+
+
+Alta Vista
+
+Lycos
+
+Yahoo
+
+
+
+
+"There are three kinds of death in this world.  There's heart death,
+there's brain death, and there's being off the network."
+
+-- Guy Almes
+
+
+
+Computers!
+Being a CS student, I naturally have many interests related to computers.
+These run the gamut from
+Java
+programming
+and
+RFC
+reading
+to practicing geekspeak(via the
+Jargon File
+).  And,
+of course, a link for what got me interested in computers in the first
+place:
+games
+!
+
+
+
+"If addiction is judged by how long a dumb animal will sit
+pressing a lever to get a 'fix' of something, to its own detriment, then
+I would conclude that netnews is far more addictive than cocaine."
+
+-- Rob Stampfli
+
+
+
+News and info:
+I'm an avid devourer of news and information, and maintain an active
+interest in what's happening around the world.  In addition to regular
+news, I am also a USENET addict, reading over 60 newsgroups daily (though
+down from a high of 120+, since the signal-to-noise ratio has been
+declining considerably of late).
+
+
+Current Events
+
+
+CNN
+
+The Nando Times
+
+Reuters News
+Headlines
+
+Stock Portfolio Tracker
+
+Vote Smart Web
+
+
+
+USENET
+
+
+Deja News
+
+USENET FAQs
+
+
+
+
+
+"The next best thing to knowing something is knowing where to find it."
+
+-- Samuel Johnson
+
+
+
+References:
+Since my childhood, I've always been fascinated by trivia.  These
+links have helped me immensely in keeping up with my never-ending quest
+for knowledge.
+
+
+Acronym Server
+
+Encyclopaedia Britannica
+
+Mythology Server
+
+PCL Map Collection
+
+Thesaurus
+
+Webster's Dictionary
+
+
+
+
+"Had I the heavens' embroidered cloths,
+Enwrought with golden and silver light,
+The blue and the dim and the dark cloths
+Of night and light and the half-light,
+I would spread the cloths under your feet:
+But I, being poor, have only my dreams;
+I have spread my dreams under your feet;
+Tread softly because you tread on my dreams."
+
+-- William Butler Yeats
+
+
+
+My dreams:
+
+
+Anagram Insanity!
+and
+Jumble solver
+
+Baseball
+
+
+ESPN SportsZone
+
+Instant Baseball Score Update
+
+The San Diego Padres Home Page
+
+
+Bridge
+
+
+American Contract Bridge League
+
+The Internet Bridge Archive
+
+OKbridge Home Page and Gallery
+
+The Bridge World
+
+
+Classical Music
+
+
+Beethoven
+page
+Classical Music Resources
+
+Overviews of
+good recordings of classical music
+
+
+Fun
+stuff I've collected
+Internet Movie Database
+
+Online Books
+
+Quotations Page
+
+Complete works of
+Shakespeare
+
+Speculative Fiction
+
+
+Complete
+list
+of all sf books I have read, with ratings.
+Science Fiction Resource Guide
+
+
+
+
+
+"We are the music makers,
+And we are the dreamers of dreams.
+Wandering by lone sea breakers,
+And sitting by desolate streams;
+
+World-losers and world-forsakers,
+On whom the pale moon gleams:
+Yet we are the movers and shakers
+Of the world forever, it seems."
+
+-- Arthur O'Shaughnessy
+
+
+
+Fellow dreamers:
+Last, but not least, the home pages of people that have made a difference in
+my life :
+
+Andy Collins
+
+James Farrell
+
+Howard Hsieh
+
+Valerie Hung
+
+Paul Phillips
+
+Kumaran
+Santhanam
+
+Steve
+Smoot
+
+Andrew Swan
+
+Bryan Wang
+
+Richard Wang
+
+Other UCSD CSE grad students
+
+
+
+If you have any comments or suggestions about this home page, you
+can send e-mail to me through the link below :
+
+
+Eugene Hung /
+eyhung@cs.ucsd.edu
+
+
+
+
+
+Last updated: November 20th, 1996
+
+
+

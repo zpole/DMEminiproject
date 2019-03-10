@@ -1,0 +1,123 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 22:06:43 GMT
+Content-Type: text/html
+Content-Length: 2437
+Last-Modified: Tuesday, 19-Nov-96 00:40:16 GMT
+
+Caltech CS/CNS/EE 156 - Learning Systems
+
+
+
+
+
+CS/CNS/EE 156ab
+Learning Systems
+
+Course Information 1996-1997
+
+
+Handouts
+HTML:
+
+
+Course Description
+
+
+Who's Who in CS/CNS/EE 156a
+
+
+Policies
+
+
+References
+
+Postscript:
+
+
+Course Description, References,
+Policies, Who's Who in CS/CNS/EE 156a
+(57k)
+
+Graphical:
+
+
+Derivation of Bernoulli Bounds
+
+
+What you need to know about the
+VC inequality
+
+
+Analysis of Cross Validation
+
+
+
+
+Lecture Notes
+
+
+Assignments
+
+
+Homework # 1 (Due Oct. 14)
+
+
+Handout
+(56k Postscript)
+
+
+Solution
+
+
+Experiment # 1 (Due Oct. 25)
+
+
+Handout
+(82k Postscript)
+
+
+Program and data files
+(72k tar)
+
+Solution
+
+
+Homework # 2 (Due Nov. 4)
+
+
+Handout
+(60k Postscript)
+
+
+Solution
+
+
+Experiment # 2 (Due Nov. 13)
+
+
+Handout
+(40k Postscript)
+
+
+Program and data files
+(195k tar)
+
+Homework # 3 (Due Nov. 25)
+
+
+Handout
+(65k Postscript)
+
+
+
+
+
+
+Copyright © 1996
+This page maintained by
+zander@cs.caltech.edu
+
+Last updated: 18 Nov 1996
+
+

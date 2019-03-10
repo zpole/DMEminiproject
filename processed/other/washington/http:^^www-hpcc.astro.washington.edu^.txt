@@ -1,0 +1,71 @@
+Date: Tuesday, 10-Dec-96 21:22:00 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Thursday, 14-Dec-95 18:45:23 GMT
+Content-length: 2834
+
+
+
+
+
+HPCC GROUP University of Washington
+
+
+
+
+UW HPCC/ESS Project
+This
+interdisciplinary group
+lead by
+George Lake
+includes faculty and students from the
+Departments of
+Astronomy,
+
+Physics,
+
+Applied
+Math
+and
+Computer
+Science & Engineering
+at the
+University
+of Washington
+in Seattle. A paper prepared for a recent
+SIAM conference provides
+an overview of cosmological simulation.
+Other servers give a general description of the
+Interagency HPCC project
+and the
+Earth
+and Space Sciences Component
+within
+NASA's HPCC Program.
+
+Participants:
+
+The Multimedia Picture Gallery
+
+Local HPCC Software Exchange Site
+,
+Recent Papers
+by HPCC group.
+The UW HPCC K-12 Outreach Project
+.
+Graduate Program
+
+If you are visiting the UW HPCC group, consult
+"Travel information for UW Visitors"
+and
+The Emerald Web
+for local information.
+Server statistics
+provided by
+wusage 3.2
+________________________________________________________________________
+For more information on this please send electronic mail to www-hpcc@astro.washington.edu
+
+
+

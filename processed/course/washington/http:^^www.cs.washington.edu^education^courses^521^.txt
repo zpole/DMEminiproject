@@ -1,0 +1,158 @@
+Date: Thu, 21 Nov 1996 22:20:13 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 521, Design and Analysis of Algorithms
+
+
+
+CSE 521, Design and Analysis of Algorithms
+Winter 1996
+
+Instructor:
+
+
+
+Richard Anderson
+,
+
+anderson@cs.washington.edu
+
+
+
+
+Lectures
+
+
+TTh 10:30 am - 11:50 am in Seig 231
+
+
+Office Hours
+
+
+Monday, 11:00 am - 11:50 am, other times by appointment
+
+
+
+Teaching Assistant:
+
+
+
+William Chan
+,
+
+wchan@cs.washington.edu
+
+
+
+Office Hours
+
+
+Monday 1:30 pm - 2:20 pm and Wednesday 1:00 pm - 1:50 pm
+In Chateau conference room (or in a Sieg 4th floor cubicle
+if somebody else is using the conference room)
+
+
+
+
+Course Information
+
+Prerequisite:  I am going to be assuming that you have already had an
+undergraduate course in algorithms.  If I am wrong, let me know as soon as
+possible.
+
+
+Lecture Log
+
+Suggested Reading
+
+
+Textbook Errata List
+
+
+Project
+
+
+Yes, 521 really does have a project!
+For a preview,  check out
+Eric Anderson's
+applet.
+
+
+Assignments and Other Handouts
+
+Written homework sets will generally be due on Tuesdays in class.
+
+
+Background quiz
+(post script)
+Homework Sets:
+
+
+Homework 1
+and
+solution
+
+
+Homework 2
+and
+solution
+
+
+Homework 3
+and
+solution
+
+
+Homework 4
+and
+solution
+
+
+Homework 5
+and
+solution
+
+
+Homework 6
+
+
+Homework 7
+and
+solution
+
+
+Homework 8
+
+
+Homework 9
+
+
+Midterm Exam: Cancelled, due to lack of interest.
+Final Exam: I have been told that it is on Monday,  March 11 -
+I should probably verify the time.  The exam will be a two hour, closed book,
+in class exam that covers all of the material from the class.  The exam will
+consist of short answer and problem solving questions.
+
+Bureaucratic stuff
+
+
+Grading
+Based upon homework, exams, project and class participation.
+
+Working together on homework
+It is okay to discuss homework
+problems with your classmates, but  you must write your solutions up
+independently.  (The Gilligan's Island rule could be invoked: between
+any discussion of the homework, and writing up a solution, you must
+watch at least half an hour of Gilligan's Island.  The theory is that
+an episode of Gilligan is equivalent to a reboot, so anything that
+survives was learned and understood.)
+
+
+anderson@cs.washington.edu
+
+wchan@cs.washington.edu
+
+

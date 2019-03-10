@@ -1,0 +1,226 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Sunday, 01-Dec-96 20:07:04 GMT
+Content-Type: text/html
+Content-Length: 9271
+Last-Modified: Thursday, 29-Feb-96 04:40:15 GMT
+
+Optimal Video Transmission
+
+
+Optimal Video Transmission
+
+By
+Mishaal Almashan
+
+Advised by
+Dexter Kozen
+
+MEng Project,  Fall 1995
+Computer Science Department
+Cornell University
+
+
+Table of Contents
+
+
+Project Title
+
+Introduction
+
+Quick Overview of MPEG
+
+
+History
+
+Compression Algorithm
+
+MPEG Frames
+
+Motion Vectors
+
+Problem
+
+Aim of this Project
+
+Research Sources/Notes
+
+Links to Relavent Topics
+
+Demo output
+of current
+mpeg_weigh
+on RedsNightmare.mpg
+
+mpeg_weigh
+reads in an MPEG-1 video file and parses the frames to extract the motion vectors of blocks within the frames. It determines how much of a sweeping pan occured, by averaging out all the motion vectors into a single vector, and caculating how far is the referenced frame. The PanIndex then would be proportional to the motion vector and inversely proportional to the distance to the referenced frame (in frames).
+
+CMT Extension
+
+
+
+
+Introduction
+
+This project will improve upon an existing prioritization algorithm
+for bandwidth-constrained video transmission.  The object is to
+determine which frames of a video sequence to drop so as to optimize
+perceptual continuity of the received sequence.  The algorithm will be
+modified to take the rate of motion into account when prioritizing
+frames for transmission, so that frames with more motion are less likely
+to be dropped.
+
+An algorithm was developed that would drop the least critical
+frames in a video stream when the transmission bandwidth is narrow.
+The algorithm, described in
+Efficient Algorithms for Optimal Video Transmission
+,   was proved
+to be optimal for most video,  but when it comes to video with a lot of
+scenery motion (as in panning and scanning) it fails.  So the aim of
+this project is to account for the rate of motion and assign weights to
+the frames so as to drop the least weighted frames and still preserve
+perceptual continuity. It will explore and study the motion vectors in
+MPEG encoded video and try to determine from that how critical is the
+frame.
+
+
+Quick Overview of MPEG-1
+
+History
+
+The Moving Pricture Expert Group (MPEG) comitee, a group under the International
+Standards Organization (ISO),  started it's effort to draft a standard for digital
+video and audio compression in 1988. Eventhough a standard for video compression
+to be used in teleconferencing and telephony applications had existed (CCIT Recommendation
+H.261),  MPEG realized that by relaxing the constraints on very low delay and focus
+on low bit rate it can achieve good quality video in the range of 1-1.5 Mbits/s.
+
+Compression Algorithms
+
+So by September of 1990, a draft proposal was agreed upon by the members of the group.
+This draft describes a video compression that uses block-based motion compensation
+for temporal redundancy and transform domain (Discrete Cosine Transform) based
+compression for spatial redundancy. Motion compensation occurs by predicting motion
+between 16x16 macroblocks of frames in the temporal direction (motion-vectors), then the prediction
+error in 8x8 macroblocks of the frames can be compresssed using the redundancy in the spatial direction
+with DCT.  The resulting DCT coefficients are quantized to drop the unnecessary precision.
+This qautization often results in the coeffecients to be zero.  These coefficients, along
+with the motion vectors, DC components, quantization values, and other parameters are then
+Huffman coded using fixed tables.  The DCT coefficients have a special two dimentional Huffman
+table that would code the non-zero value and the run-length of zeros.  The motion vectors and DC
+components are also subtracted from the last one coded (DPCM).
+
+MPEG Frames
+
+The standards called for random access, fast forward and reverse searches, reverse playback, and
+audio-visual synchronization.  This required reference frames, which are called Intraframes (I).
+These frames are sill images having no dependency on any other frames.  On the other hand, Predicted
+frames (P) depend on past I or P frames to be reconstruct during decoding.  Each macroblock of these
+P frames can come with either a vector and difference DCT coefficients of the last I or P frame,  or it
+can be intra coded (just like I frames).
+
+The last type of frames is the Bidirectional frame (B),  which can depend on past and future I or P
+frames.  The macroblocks of B frames can be any of the following four types:
+
+
+Intracoded, no dependency.
+
+Backward dependency, in which a block is referenceing a block in the past
+
+Forward dependency, in which a block is referencing a block in the future
+
+Average, in which a block is the difference of the average of both a past and future block
+
+
+
+Figure O.1: MPEG Frames
+
+These dependencies are better illustrated in Figure O.1
+
+One can see how P frames depend on past I or P frames while B frames can depend on both I or P in the
+future or past.  These dependencies mean that when decoding MPEG, B frames cannot be decoded until the
+depended opon I or P frames are decoded.  This might require the decoder to decode a future frame, in order
+to decode a current B frame.
+
+Motion Vectors
+
+(Motion Detection/Motion Estimation)
+
+
+Problem with the Current Algorithm
+
+As described before,  the current algorithm treats the frames equally.  The weighing
+procedure used involves weighing frames according to the the frame type and the frame's
+dependecies.  So, for example,  when a frame is used as a reference for multiple frames, it
+would be weighted heavier than a frame with one frame dependence.
+
+Such an algorithm is optimal in the sense of data throughput,  but the aim is to have
+a transmission that is perceptually acceptable.  Currently, there is no way of knowing
+what information a frame contains;  Therefore, The maximum number of frames are sent not the most
+perceptually-critical frames. This fault causes the video at reception to look jittery.  This is
+especially true when there is panning in the scence.
+
+
+Aim of this Project
+
+Knowing that MPEG video frames carry motion vectors, and that frames with more motion are
+perceptualy-ciritcal, we can use these vectors as motion detectors. This allows us to
+distinguish these frames, and hence weigh them accordingly.
+
+The aim of this project is to extract the motion vectors and somehow use them to weigh the
+different frames.  The old algorithm would then take into account these new weights to produce a squence of frames that are more perceptually acceptable.
+
+
+Research Sources/Notes
+
+
+Dexter Kozen, Yaron Minsky, and Brian Smith. Efficient algorithms for optimal video transmission.Technical Report TR95-1517, Cornell University, May 1995.
+
+Le Gall, Didier MPEG: A Video Compression Standard for
+Multimedia Applications, Communications of the ACM, pp 47-58, April
+1991.
+
+
+Patel, Ketan, Smith, Brian C., and Rowe, Lawrence A.
+Performance of a Software MPEG Video Decoder
+
+Rowe, Lawrence A., Patel, Ketan, Smith, Brian C., and Liu Kim, MPEG
+Video in Software: Representation, transmission, and Playblack, University
+of California, Berkeley, CA, February 1994.
+
+CCIR Recomendation 601-2
+
+
+
+Links to Relavent Topics
+
+
+Usenet Frequently Asked Questions about
+MPEG.
+
+MPEG Home Page.
+
+
+
+
+
+[
+Table of Contents
+|
+References
+|
+Links to other Topics
+|
+CS Home Page
+]
+
+
+
+
+© Oct, 15 1995
+Mishaal Almashan
+Cornell University
+
+
+
+

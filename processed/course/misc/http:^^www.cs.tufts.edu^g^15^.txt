@@ -1,0 +1,30 @@
+Date: Tue, 26 Nov 1996 18:59:59 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 338
+Last-modified: Wed, 20 Nov 1996 19:51:50 GMT
+
+COMP15 -- Data Structures
+
+
+COMP15 Home page -- Fall 1996
+
+
+
+Syllabus
+
+
+Assignment 1
+
+
+Assignment 2
+
+
+Assignment 3
+
+
+Assignment 4
+
+
+
+

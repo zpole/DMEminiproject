@@ -1,0 +1,422 @@
+Server: Netscape-Commerce/1.12
+Date: Wednesday, 20-Nov-96 22:46:43 GMT
+Last-modified: Wednesday, 20-Nov-96 15:46:12 GMT
+Content-length: 11018
+Content-type: text/html
+
+
+CS217 Fall 1996
+
+
+
+CS217 Fall 1996
+Introduction to Programming Systems
+
+Check out the new due date for assignment 6.
+
+
+Professor
+
+Jaswinder Pal Singh
+
+
+Office hours:
+Fridays from 3:00pm to 5:30pm
+
+Assistants
+
+
+
+Angelos Bilas
+
+
+Wagner Toledo
+Corrêa
+
+
+Office hours:
+Wednesdays and Fridays from 4:00pm to 5:30pm
+
+
+Ben Dressner
+
+
+Office hours (Room CS414):
+Tuesday and Thursday from 3:00pm to 4:30pm
+
+
+Tassos Viglas
+
+
+Office hours:
+Wednesdays from 10:30am to 12:00pm
+Fridays from 4:00pm to 5:30pm
+
+
+Schedule and Readings
+The lecture meets Monday, Wednesday, and Friday, from 9:00am to 9:50am
+in room 104. You should attend one precept each week. You can choose
+one among the following:
+
+Wednesday, 3:30pm to 4:20pm, Angelos, 302
+Wednesday, 7:30pm to 8:20pm, Ben, 102
+Thursday, 2:30pm to 3:20pm, Tassos, 402
+Friday, 11:00am to 11:50am, Wagner, 302
+
+You should try to keep going to the same precept as far as possible
+since that's how you will be judged for participation (of course if you
+miss one you are allowed to go to another).
+If you can not attend any of these precepts, see Professor Singh as
+soon as possible.
+
+A tentative schedule and reading list.
+
+Texts
+
+
+
+[Hanson, 1997]
+
+
+David R. Hanson
+.
+
+C Interfaces
+and Implementations: Techniques for Creating Reusable
+Software
+. Addison-Wesley. 1997.
+(Click
+here
+to see the errata for this book.)
+
+
+
+[Harbison and Steele, 1995]
+
+Samuel P. Harbison and Guy L. Steele Jr.
+C: A reference
+manual.
+Prentice Hall. 1995.
+
+
+
+[Paul, 1993]
+
+Richard P. Paul.
+SPARC Architecture, Assembly Language
+Programming, & C
+. Prentice-Hall. 1993.
+
+
+
+[Kernigham and Pike, 1984]
+
+Brian W. Kernighan and Rob Pike.
+The UNIX Programming
+Environment
+. Prentice-Hall. 1984.
+
+
+
+[Maguire, 1993]
+
+Steve Maguire.
+Writing Solid Code
+. Microsoft Press.
+1993.
+
+
+
+
+Quizzes & Exams
+There will be a midterm exam.  In addition, there
+will be quizzes from time to time.   Quizzes will be
+announced beforehand.  The midterm will be on Wednesday
+Nov 6 in class.
+
+Sample questions from last year's
+midterm.
+We will administer make-up quizzes only in the case
+of documented illnesses. (We do not consider a broken alarm clock to
+be a documentable illness, even though the alarm clocks at Princeton
+seem to be suffering from some sort of epidemic.)
+Programming Assignments
+There will be weekly programming assignments, which  will be due on
+Mondays at 11:59pm.  You are expected to submit your work
+(electronically)
+before
+this time.  Late work will
+lose credit on the following scale:
+
+
+15% for work submitted before Noon on Tuesday,
+25% for work submitted before 11:59pm on Tuesday,
+50% for work submitted before 11:59pm on Wednesday.
+Work submitted after 11:59pm on Wednesday will receive no credit.
+
+If you have specific extenuating circumstances requiring you to
+hand something in late, you should consult Professor Singh
+before
+the due date.
+Programming, like composition, is an individual creative process.
+Individuals must reach their own understanding of the problem and
+discover a path to its solution. During this time, discussions with
+friends are encouraged.  However, when the time comes to write the code
+that solves the problem, such discussions are no longer appropriate -
+the program must be your own work (although you may ask teaching
+assistants for help in debugging).  If you have a question about how to
+use some feature of C, UNIX, etc., then you can certainly ask your
+friends or the teaching assistants.
+
+Do not, under any circumstances, copy another person's
+program
+.  Writing code for use by another or using another's
+code in any form violates the University's academic regulations.
+You are responsible for insuring your files are
+not
+readable by your classmates.  We recommend doing
+all your CS217 work in a private subdirectory, i.e.:
+
+% mkdir cs217
+% chmod 700 cs217
+
+
+
+List of programming assignments
+
+
+Assignment 1:
+Changing Strings
+
+Write
+change
+: Given two strings,
+change
+copies
+lines from the standard input to the standard output replacing all
+occurrences of the first string by the second.
+
+Due: submitted by 11:59pm, Monday, 09/23.
+
+
+Sample
+Solution
+
+Assignment 2:
+Generating WWW Listings
+
+Write
+c2html
+, a program that generating Hypertext to
+render a listing of its file arguments suitable for browsing with a
+World Wide Web browser.
+
+Due: submitted by 11:59pm, Tuesday, 10/01.
+
+
+Sample
+Solution
+
+Assignment 3:
+Using an ADT: Word
+Frequencies
+
+Write
+freq [
+options ...
+] [
+files
+...
+]
+, a program that prints, on the standard output, a list
+of the characters, words and lines that appear in its file arguments
+and the number of times each appears.  A tab separates each frequency
+from its character, word, or line.  It first prints all characters,
+then all words, and then all lines, with a blank line between each
+set. If there are no file arguments,
+freq
+reads from the
+standard input.
+
+
+Due: submitted by 11:59pm, Friday, 10/18.
+
+
+Sample
+Solution
+
+Assignment 4:
+Implementing the list
+ADT
+
+Given the interface of the list ADT in a
+list.h
+,
+write the corresponding implementation in a
+list.c
+file.
+
+Due: submitted by 11:59pm, Friday, 10/25.
+
+
+Sample
+Solution
+
+Assignment 5:
+Implementing
+"tail" in SPARC Assembly Language
+
+Write a program, in SPARC assembly language, to print the
+``tail'' of the standard input, that is, the last 22 lines of the
+file. If there are fewer than 22 lines in the file, print the entire
+file.
+
+Due: submitted by 11:59pm, Thursday, 11/14.
+
+Assignment 6:
+Implementing
+"printf" in SPARC Assembly Language
+
+
+Due: submitted by 11:59pm, Monday, 11/25.
+
+Assignment 7:
+Primality testing
+(postscript)
+
+
+
+Due: submitted by 11:59pm, Monday, 12/9.
+
+Assignment 8:
+To be announced.
+Final project
+To be announced.
+
+Due: submitted by 11:59pm, Monday, 01/14/97.
+
+
+Handouts
+
+
+
+1.interfaces.ps
+
+
+2.c-language.ps
+
+
+3.types.ps
+
+
+4.cpp.ps
+
+
+5.make.ps
+
+
+6.exprs.ps
+
+
+7.design.ps
+
+
+8.ptrs.ps
+
+
+9.struct.ps
+
+
+10.dynamic-structures.ps
+
+
+11.varargs.ps
+
+
+12.style.ps
+
+
+13.number.ps
+
+
+14.cpu.ps
+
+
+15.sparc.ps
+
+
+16.insts.ps
+
+
+17.branches.ps
+
+
+18.delay.ps
+
+
+19.calls.ps
+
+
+20.except.ps
+
+
+21.os.ps
+
+
+22.process.ps
+
+
+
+How to get help
+
+
+Read the
+pu.cs.217
+newsgroup
+Or
+send e-mail to the
+staff
+
+
+Giving feedback to the professor
+
+
+send e-mail to the
+professor
+
+
+Some useful tools
+
+
+emacs
+
+gdb
+
+gdb quick reference
+
+lint
+
+make
+
+rcs
+
+
+Miscellaneous Links
+
+
+Quick intro to netscape
+
+
+
+
+CS Department
+,
+Princeton University
+
+Please send corrections and suggestions on this page to
+wtcorrea@cs.princeton.edu
+.
+Last modified:
+Tue Oct 15 22:12:55 EDT 1996
+
+

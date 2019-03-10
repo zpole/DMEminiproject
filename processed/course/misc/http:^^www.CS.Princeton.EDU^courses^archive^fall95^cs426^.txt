@@ -1,0 +1,101 @@
+Server: Netscape-Commerce/1.12
+Date: Wednesday, 20-Nov-96 22:45:37 GMT
+Last-modified: Monday, 02-Oct-95 02:06:34 GMT
+Content-length: 2937
+Content-type: text/html
+
+
+CS 426 Home Page
+
+
+
+CS 426: Computer Graphics
+
+1995 Fall Semester
+
+
+Welcome to the CS 426 Home Page!
+This is the home page for CS 426.
+It will contain
+the latest information about the class.  Keep in mind that
+this document is not static, and that new information will be added
+frequently.
+If you have any questions, you can
+send mail to the staff
+or you can check out
+the
+pu.cs.426
+newsgroup
+.
+About the class
+
+
+Personnel
+(Professor, TAs, Students)
+Course Information
+
+Lecture topics and readings
+
+Setting up your account for CS426 work
+
+Enroll in CS426 Online
+
+
+Handouts
+
+
+Lecture notes
+
+Homework assignments
+
+
+Other useful links
+What is this course like in other places?
+
+CSCI 4229/5229, U. Colorado
+
+CS 318, U. Illinois
+
+CS 248, Stanford, Spring 1995
+
+CS 511, U. Alberta
+
+ECS 175, UC Davis, Spring 1994
+
+ECS 175, UC Davis, Winter 1995
+
+CS 457, U. Washington, Spring 1995
+
+CS 488/688, U. Waterloo
+
+CS 184, UC Berkeley, Fall 1995
+
+CS 43, Dartmouth, Fall 1995
+
+CS 4413, Mississippi State University, Fall 1995
+
+
+And here is where we live
+
+The
+Computer Science Department,
+and
+
+WWW help
+Help is available on the following topics:
+
+Information about the HyperText Markup Language
+(
+HTML
+)
+Uniform Resource Locators
+(
+URL
+)
+How to read the web from home using
+Lynx
+,
+a character-based web browser
+
+
+

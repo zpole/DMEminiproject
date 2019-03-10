@@ -1,0 +1,97 @@
+Date: Mon, 25 Nov 1996 00:20:29 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 31 Jul 1996 16:19:00 GMT
+Content-length: 4158
+
+
+CTC Resources
+
+
+
+
+
+
+
+
+Overview
+
+
+High Performance Computing Environment
+
+Hardware Configuration Diagram
+
+What Is the SP?
+
+
+Using CTC's Resources
+
+
+Allocations
+- how to apply for time on CTC machines
+Getting Started
+- a newcomer's guide
+IBM SP
+- configuration and system status, documentation and tutorials, files and I/O, parallel topics, running batch jobs with LoadLeveler and EASY-LL
+Programming Languages & Tools
+- compilers, message passing libraries, numerical libraries, parallel tools, debuggers and other utilities
+Software List
+- with links to online documentation
+Visualization
+- animations, images, educational materials, software and hardware
+
+Notices
+
+
+HotTips and News
+- announcing upgrades and other changes
+Policies and Forms
+- guidelines and rules governing use of CTC resources
+
+Workshops and Consulting
+
+
+Upcoming Workshops
+- dates, agendas, and online materials
+Virtual Workshop
+- online education
+in the use of high-performance computational tools and techniques
+(registration deadline is May 13)
+Where to Ask for Help
+- consulting and other support for researchers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL http://www.tc.cornell.edu/Resources/
+updated April 25, 1996
+
+
+About the banner visualizations.
+
+
+
+
+
+

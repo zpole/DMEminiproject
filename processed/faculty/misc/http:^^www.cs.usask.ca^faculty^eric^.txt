@@ -1,0 +1,113 @@
+Date: Tue, 26 Nov 1996 19:21:07 GMT
+Server: NCSA/1.5.1
+Last-modified: Wed, 30 Oct 1996 21:38:14 GMT
+Content-type: text/html
+Content-length: 3467
+
+
+Eric Neufeld's Home Page
+
+
+
+Eric Neufeld
+B.Sc., M.Sc., B.Ed. (Sask), Ph.D. (Waterloo)
+
+
+
+
+
+
+
+I am a
+faculty
+member
+in the
+Department of Computer Science
+at the
+University of Saskatchewan
+.
+
+My area of academic research is ``uncertainty in
+artificial intelligence''.   For more than a decade,
+I have been interested in the application of probability theory to
+problems in Artificial Intelligence traditionally handled by logics,
+grammars and heuristics.  In AI's earliest days, it was widely held
+that complexity problems and the unavailability of meaningful
+probability distributions made this impractical.  In the last decade,
+this opinion has changed.   Two major
+international conferences, one organized by
+the Association for Uncertainty
+in AI
+and one organized by
+the Society for Artificial Intelligence and Statistics
+,
+discuss probabilistic and statistical AI, and
+statistical approaches to AI problems have entered the AI
+mainstream.
+
+Together with colleagues and students, I have looked at
+probabilistic approaches to default inference, diagnosis, temporal
+reasoning, natural language, and classification. My work appears
+in major journals and several
+national and international workshops and conferences.  I have also
+edited a special issue of
+Computational Intelligence
+journal on the
+philosophy of nonmonotonic reasoning, featuring a target article by
+Henry E. Kyburg, Jr.
+.
+
+
+
+
+
+Publications
+
+
+Students
+
+
+Uncertain Reasoning Track
+at
+FLAIRS-97
+
+
+CMPT 417/812
+(new page forthcoming)
+
+CMPT 460/829
+(new page forthcoming)
+
+
+
+
+Department of Computer Science
+,
+Room 1C101, Engineering Building
+57 Campus Drive,
+
+University of Saskatchewan
+
+
+Saskatoon
+, Saskatchewan, Canada,
+S7N 5A9.
+
+
+(306) 966-4887 (O)
+(306) 966-4884 (F)
+
+eric@cs.usask.ca
+
+
+
+This page was last modified on July
+31
+, 1995
+
+Saskatchewn is the home of
+Dick Assman!
+
+
+
+

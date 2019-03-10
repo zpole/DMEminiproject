@@ -1,0 +1,134 @@
+Date: Thu, 21 Nov 1996 20:09:20 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 22 Oct 1996 16:58:04 GMT
+Content-length: 4437
+
+Keith Marzullo's Home Page
+
+
+
+
+
+
+Keith Marzullo
+Department of Computer Science and Engineering
+University of California, San Diego
+9500 Gilman Dr. 0114
+La Jolla, CA 92093-0114
+
+
+
+Office:
+
+APM
+4220
+
+Phone:
+(619) 534-3729
+
+Fax:
+(619) 534-7029
+
+Lab:
+(619) 534-9669
+
+Email:
+
+marzullo@cs.ucsd.edu
+
+Secretary:
+
+Michele Foley
+(619) 534-5228
+
+
+
+I'm an associate professor and do
+research
+in fault-tolerant distributed systems. My most recent
+interests are in the foundations of group-based programming and its
+application to distributed computing architectures different than
+a collection of asynchronous workstations running on local area networks
+of workstations.
+
+I'm affiliated with the following research projects:
+
+
+The Nile Project
+that has to do with distributed computing for high-energy
+physicists. Our goal is to provide a deep hierarchical storage system
+and a distributed runtime environment for very long-running jobs. My
+main focus on this project is the distributed application management
+issues: I'd like to be able to have the system adapt to changes in
+resources, communication platforms, internet connections and internet
+charges without having to rewrite the system or the applications
+running on the system.
+
+
+The Team Project
+that is building
+distributed computing platforms for both hard and soft-real-time
+systems. My main focus has been on providing the runtime environment
+to make fault-tolerant hard real-time computing available to
+inexpensive platforms.
+Some things that I'm working on with students and ex-students:
+
+The message logging approach to making services tolerate crash
+and communication failures, with
+Lorenzo Alvisi
+. We've come up with a simple and expressive way to
+characterize the approach and have derived practical and optimal
+protocols for both message passing and distributed shared memory
+architectures. A paper describing the approach can be found
+here
+and a paper giving a set of protocols (with a comparison to Manetho)
+can be found
+here
+.
+
+Group programming in a hard real-time environment, with
+Matthew Clegg
+.
+We've combined some of the schedulability work done for uniprocessors
+with the process group abstraction for distributed systems to come up
+with a system that can tolerate timing, crash and communication
+failures while still meeting hard real-time deadlines.
+One of the problems in such systems, of course, is clock
+synchronization. A paper that describes how we do this can be found
+here
+.
+Failure models, with
+Laura Sabel
+. We've taken apart some of the group membership
+protocols to better understand what are the lower bounds are for
+several of the properties that are commonly provided. One way to think
+of this work is that we're looking at failure detectors that are
+stronger
+than a Perfect Failure Detector and at
+approximations
+of such failure detectors that are
+implementable.
+If you're interested in failure detectors in general, you might take
+a look at
+a WWW page
+that compiles papers on the topic.
+
+Comparison of fault-tolerance techniques,with
+Jeremy Sussman
+.
+The goal here is to understand what are the intrinsic benefits of a
+given fault-tolerance paradigm, such as the primary-backup approach,
+coordinatory-cohort, or active replication.
+
+
+
+Here's a link for Aleta and Michael.
+
+
+Back to the departmental
+home page
+.
+last revised 19 January 1996
+
+

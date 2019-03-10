@@ -1,0 +1,157 @@
+Date: Thu, 21 Nov 1996 19:19:03 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Content-length: 4272
+Last-modified: Mon, 30 Sep 1996 16:10:06 GMT
+Richard Enbody's Home Page
+
+
+
+
+
+
+Richard Enbody
+
+
+
+I am an Associate Professor and Associate Chairperson of the
+Department of Computer Science
+at
+Michigan State
+University
+. My main research interest is in parallel processing,
+especially the application of parallel processing to computational
+science problems.  Information on a collaboration with Physics
+on Buckyballs can be found
+here
+.
+Information on collaborative work on Genetic Algorithms can be found
+here
+.
+
+Recent Submissions:
+
+
+IPPS97:
+
+Comparing Gang Scheduling with Dynamic Space Sharing on Symmetric
+Multiprocessors Using Automatic Self-Allocating Threads (ASAT)
+
+IEEE Micro (Techical Report MSU CPS-96-11):
+Beyond RISC -- The Post-RISC Architecture
+
+
+
+Upcoming publications:
+
+
+Journal of Parallel and Distributed Computing -- Special Issue on Multithreading for Multiprocessors:
+
+Managing the Overall Balance of Operating System
+Threads on a MultiProcessor using Automatic Self-Allocating Threads (ASAT)
+.
+
+
+Recent publications:
+
+
+1996 International Conference on Parallel Processing:
+
+Automatic Self-allocating Threads (ASAT)
+on an SGI Challenge
+.
+High Performance Computing Symposium 96:
+A Possible Addition to HPF 3.0 - Real Valued
+Indexed (RVI) Arrays
+
+1995 International Conference on Parallel Processing:
+Automatic Self-Allocating Threads (ASAT) on the Convex Exemplar
+.
+7th SIAM Conference on Parallel Processing for Scientific Computation, 1995:
+Dynamic Load
+Balancing
+and
+A Parallel Algorithm For The Nonsymmetric
+Eigenvalue Problems
+.
+
+
+1996 Technical Reports:
+
+
+MSU CPS-96-11:
+Beyond RISC -- The Post-RISC Architecture
+
+MSU CPS-96-18:
+A Load-Balanced Parallel Algorithm For Eigenvalues of Nonsymmetric Matrices
+.
+
+
+1995 Technical Reports:
+
+
+MSU CPS-95-12:
+Predicting the Performance of a Wormhole Routed Network
+with Non-uniform Communication
+
+MSU CPS-95-34:
+The PVM GALLOP System 3.0 User's Guide
+
+MSU CPS-95-37:
+Distributed Memory Implementation of a Lennard-Jones Simulation
+
+
+1994 Technical Reports:
+
+
+MSU CPS-94-1:
+Communication and Contention on the Intel DELTA
+
+MSU CPS-94-50:
+Communication and Contention:"Now you see it -- now you don't"
+
+UIB pl-jc-94.0:
+SUNMOS on the Intel Paragon: Evaluation and Early Experience
+
+MSU CPS-94-17:
+Software-Based, Automatic, Self-Adjusting Threads (ASAT) for Parallel Supercomputers
+
+
+
+Fall 1996 Courses:
+
+
+
+CPS230
+
+
+
+Local Software Information:
+
+
+Getting Started with Tcl/Tk
+
+
+Example of Tcl/Tk with C/C++
+
+
+
+Further information:
+
+
+
+Contact information
+
+
+Schedule
+
+
+Publications
+
+
+
+
+
+
+Richard J. Enbody at Michigan State University / enbody@cps.msu.edu
+

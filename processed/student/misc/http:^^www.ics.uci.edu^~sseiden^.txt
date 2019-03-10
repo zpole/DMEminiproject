@@ -1,0 +1,197 @@
+Date: Thu, 21 Nov 1996 22:51:04 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 5484
+Last-modified: Wed, 13 Nov 1996 23:25:35 GMT
+
+
+Steve Seiden
+
+
+
+
+
+
+Steve Seiden
+
+
+
+
+
+
+
+Position:
+
+Graduate Student
+
+
+
+
+Area:
+
+Theory
+
+
+
+
+Advisors:
+
+Dan Hirschberg
+and
+Sandy Irani
+
+
+
+
+
+Office:
+
+
+CS 358e
+
+
+
+
+
+Office
+Phone:
+
+(714) 824-8191
+
+
+
+
+Electronic Mail:
+
+sseiden@ics.uci.edu
+
+
+
+
+
+
+
+Research
+
+Right now, I'm interested in
+randomized online algorithms
+.
+Other interests include
+
+Advanced compiler-compiler tools,
+O(1) space tree traversal,
+Minimal perfect hashing,
+Anything involving the use of simultaneous equations over finite fields.
+
+Here is my
+Curriculum vitae
+.
+
+
+
+Abilities
+
+I've programmed in C, C++, Pascal, Ada, Lisp and various assembly languages.
+Tools which I've used a lot include Mathematica, TeX, LaTeX, Yacc, and Lex.
+I've worked on a commercial Pascal compiler, so I know
+things that no one should about Pascal.
+I know a little about Tcl/Tk and HTML.
+
+
+
+Theoretical Computer Science Cheat Sheet
+
+This consists of ten pages of commonly used formulas and other useful information for computer scientists. I don't guarantee it to be error free,
+however,
+if you report an error to me by email I'll attempt to correct it as soon as possible.
+A
+PostScript version
+is available or you can get the TeX source as a
+compressed tar archive
+.
+Be forewarned that the TeX source is quite messy.
+Any suggestions from TeXperts on cleaning it up are welcome.
+The program dviconcat is required to typeset the sheet.
+
+
+
+Available Programs
+
+
+
+
+FilledPlot.m
+,
+ISolve.m
+,
+Feasible2D.m
+:
+Mathematica packages for solving and plotting inequalities
+
+NonLinear.m
+:
+A Mathematica package for solving non-linear programs
+
+Tile
+: A curses based sliding puzzle solver
+
+Mel2Bib
+: A MELVYL CC to BibTeX converter
+
+
+
+Available Papers
+
+The following papers are available in PostScript:
+
+
+Randomized Algorithms for Metrical Task Systems
+(with
+Sandy Irani
+)
+
+A Bounded-Space Tree Traversal Algorithm
+(with
+Dan Hirschberg
+)
+
+ICS-UCI TR 92-23
+: Finding Succinct Ordered Minimal Perfect Hash Functions (with
+Dan Hirschberg
+)
+
+ICS-UCI TR 93-30
+: A Cost-Effective Heuristic Storage For Minimizing Access Time of Arbitrary Data Templates (with Mayez Al-Mouhamed)
+
+ICS-UCI TR 93-29
+: The Inverted Baseline Network and XOR-schemes (with Mayez Al-Mouhamed)
+
+
+
+Other Interests
+
+
+
+Road and mountain bike racing. I'm a member of the
+Cycles Veloce Cycling Team
+.
+Science fiction.
+Cooking and eating good food.
+Here are my
+Netscape bookmarks
+.
+
+
+
+
+
+Department of Information and Computer Science
+,
+University of California, Irvine
+CA 92697-3425
+
+(Information last modified Thu Oct 17 14:27:11 PDT 1996)
+
+
+
+

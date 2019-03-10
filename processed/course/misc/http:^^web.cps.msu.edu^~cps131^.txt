@@ -1,0 +1,129 @@
+Date: Wed, 20 Nov 1996 22:40:40 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Last-modified: Mon, 11 Nov 1996 05:05:51 GMT
+
+
+<!--
+function findit() {
+var selection = document.menuform.menu.selectedIndex;
+if (selection == 0);
+else if (selection == 1) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab1.html';
+else if (selection == 2) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab2.html';
+else if (selection == 3) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab3.html';
+else if (selection == 4) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab4.html';
+else if (selection == 5) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab5.html';
+else if (selection == 6) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab6.html';
+else if (selection == 7) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab7.html';
+else if (selection == 8) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab8.html';
+else if (selection == 9) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab9.html';
+else if (selection == 10) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab10.html';
+else if (selection == 11) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab11.html';
+else if (selection == 12) location = 'http://www.cps.msu.edu/~cps131/handouts/labs/lab12.html';
+else location = 'http://www.cps.msu.edu/~cps131/handouts/syllabus/index.html';
+}
+
+function printit() {
+var selection = document.menuform.menu.selectedIndex;
+if (selection == 0);
+else if (selection == 1) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab1.ps';
+else if (selection == 2) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab2.ps';
+else if (selection == 3) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab3.ps';
+else if (selection == 4) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab4.ps';
+else if (selection == 5) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab5.ps';
+else if (selection == 6) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab6.ps';
+else if (selection == 7) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab7.ps';
+else if (selection == 8) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab8.ps';
+else if (selection == 9) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab9.ps';
+else if (selection == 10) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab10.ps';
+else if (selection == 11) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab11.ps';
+else if (selection == 12) location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?lab12.ps';
+else location = 'http://www.cps.msu.edu/cgi-user/cps131/print.cgi?syl.ps';
+}
+
+//-->
+
+CPS 131 Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+The CPS 131 Course Calendar
+
+
+
+
+
+Get your CPS 131 Handounts Here!
+
+
+
+
+Review the slides from class.
+
+
+
+
+The CPS 131 Who's Who.
+
+
+
+
+
+W
+ELCOME
+T
+O
+T
+HE
+CPS 131
+
+H
+OMEPAGE!
+
+From here you can find all sorts of
+important information
+for the course.
+Try out the
+CPS 131 Who's Who
+to find your favorite CPS 131 people.  Then find all the important email addresses and Help Room Hours.
+
+If you're in Room 130 of the Engineering Building you can print a copy of the lab assignment. Just select the lab below and click
+Print it!
+
+
+Select here
+Lab One
+Lab Two
+Lab Three
+Lab Four
+Lab Five
+Lab Six
+Lab Seven
+Lab Eight
+Lab Nine
+Lab Ten
+Lab Eleven
+Lab Twelve
+Syllabus
+
+
+
+
+
+
+
+
+
+CPS 131 - Introduction to Technical Computing
+
+
+

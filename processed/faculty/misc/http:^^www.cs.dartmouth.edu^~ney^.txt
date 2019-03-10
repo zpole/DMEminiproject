@@ -1,0 +1,169 @@
+Date: Tue, 14 Jan 1997 20:35:44 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+Neal E. Young
+
+
+
+
+
+
+
+
+
+
+
+Neal E. Young, Assistant Professor
+
+Ph.D.
+Princeton University
+, 1991.
+
+Research Interests
+More
+
+
+Design and analysis of algorithms
+, especially
+techniques for the design of approximation algorithms
+(fast algorithms guaranteeing an approximately optimal
+solution) for combinatorial optimization problems.
+
+
+publications
+
+prev. affil.
+
+misc. links
+
+contact info
+
+
+
+
+
+
+
+
+Classes
+Dartmouth
+
+
+Theory of Computation W97
+
+Intro. Theory of Computation F96
+
+Novel Frameworks in Theor. CS S96
+
+Data Structures and Prog. W96
+
+Grad. Alg's and Data Struct's F95
+
+
+
+CS colloquia
+
+patents
+
+on-line journals
+
+recent CS alg's qual's
+
+
+
+
+
+World-Wide Computer Science Theory Resources
+
+
+
+PhD Programs ranked
+(see also
+here
+)
+On-line lecture notes catalogue
+
+
+Compendium of NP-hardness results
+
+List of Algorithms courses
+
+Combinatorial optimization server
+
+
+Research Directions - CS
+
+Res. Directions - CS Theory
+
+
+
+people
+
+jobs
+
+journals
+
+places
+
+associations
+
+funding
+
+lit search
+
+meetings
+
+
+
+Grab Bag
+
+
+
+
+education
+
+probability puzzles database
+
+...the Dim Future of the University
+
+The first sequenced genome
+
+netfind email addrs
+
+Dartmouth ultimate frisbee
+
+Poems by Robert Frost
+
+deep thoughts, not
+
+$2,000,000,000,000!!??
+
+bumper stickers
+
+Actual Newspaper Headlines
+
+I am the serenest!
+
+A tech. manual by Dr. Seuss
+
+Lack of brains hinders research
+
+Everything has already been invented
+
+how to choose a major
+
+
+
+
+
+
+
+
+Last modified: Wed Jan  8 14:24:56 1997
+;
+accesses
+since March 22 1996: 1948.
+
+
+

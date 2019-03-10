@@ -1,0 +1,127 @@
+Date: Sun, 24 Nov 1996 23:10:11 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Wed, 09 Oct 1996 15:26:35 GMT
+Content-length: 3004
+
+
+CS418 Lab Main Page
+
+
+
+
+Computer Science 418:
+Computer Graphics
+Laboratory Exercises
+
+
+This is the Web Site for the Cornell University
+undergraduate computer graphics laboratory, CS 418.
+These pages contain all of the materials for CS 418 including
+lab procedures, software and student results.
+CS 418 is the lab section for
+CS 417
+which deals with computer
+graphics and scientific visualization at the level of
+Computer
+Graphics: Principles and Practice
+by Foley et.al., or
+3D
+Computer Graphics
+by Watt.  CS 418 is currently taught by
+Bruce
+Land
+, who is also the Project Leader for the Visualization Group at
+the Cornell Theory Center.
+
+These pages won first place in the
+1996 ACM SIGUCCS
+Web-based
+Education and Training materials competition.
+
+
+Exercises:
+
+Getting started (1996)
+
+
+
+Building Polygon Objects
+(1996)
+
+
+Parametric Surfaces
+(1996)
+
+
+Transformations and Modeling
+(1996)
+
+
+Using a Virtual Camera
+(1996)
+
+
+Camera and Perspective Transforms
+(1995)
+
+
+Lighting
+(1995)
+
+
+Texture and Bump Mapping
+(1996)
+
+
+Modeling and Scientific Visualization
+(1996)
+
+
+Design Project
+(1996)
+
+Physics-based Animation
+(1996)
+
+Implicit Surfaces
+(1996)
+
+Procedural Textures
+(1996)
+
+
+Exercises to be done in 1996 will be in the order 1, 2 ,11 ,3, 4,
+10, 12, 8,  and 9.
+Note that exercises marked "(1997)" are current. Those marked "(1995 or 96)"
+are
+included for reference only and are not current exercises.
+
+
+Lab Chat:
+This facility is for communication about
+CS 418 related topics only. During the spring semester
+access is restricted to enrolled students.
+Related Topics:
+
+
+
+Final Project CS 418 Animations
+
+
+Visualization at the Cornell Theory Center
+
+
+
+Comments about Theory Center online documents are welcome and may be sent to
+doc-comments@tc.cornell.edu
+.
+Last modified, 1/17/96, B. Land.
+
+
+
+
+Copyright Statement
+
+
+

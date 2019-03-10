@@ -1,0 +1,40 @@
+Server: Dienst V4-1-1
+MIME-version: 1.0
+Content-type: text/html
+The GAMS Callable Program Library for Variational and Complementarity Solvers
+
+The GAMS Callable Program Library for Variational and Complementarity Solvers
+S. P. Dirkse,  M. C. Ferris,  P. V. Preckel and  T. Rutherford
+MP-TR-94-07
+June 1994
+The GAMS modeling language has recently been extended to enable the formulation of Mixed Complementarity Problems (MCP). The GAMS Callable Program Library (CPLIB) is a set of Fortran subroutines developed as an extension for the GAMS I/O library and designed to provide a simple and convenient interface to the MCP defined by a GAMS model. This paper provides technical documentation for CPLIB for use by those who are developing or have developed algorithms for MCP, in order that their solvers may be made available as GAMS subsystems.
+
+
+How to view this document
+
+
+
+Display the
+whole
+document in one of the following formats.
+
+PostScript
+152310 bytes. (compressed on disk, will be sent uncompressed)
+
+
+
+Print or download all or selected pages.
+
+
+
+You are granted permission for the non-commercial reproduction, distribution,display, and performance of this technical report in any format, BUT thispermission is only for a period of 45 (forty-five) days from the most recenttime that you verified that this technical report is still available fromthe Computer Science Department of the University of Wisconsin - Madison underterms that include this permission.  All other rights are reserved by theauthor(s).
+[
+Search
+]
+
+NCSTRL
+This server operates at UW Madison Computer Sciences Technical Reports .
+
+Send email to
+www@cs.wisc.edu
+

@@ -1,0 +1,112 @@
+Date: Thu, 21 Nov 1996 22:57:29 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3107
+Last-modified: Fri, 20 Sep 1996 18:25:52 GMT
+
+
+Torsten's Home Page
+
+
+
+
+
+
+
+Welcome to Torsten's Playground
+
+(torsten@cs.ucr.edu)
+
+
+This page has received
+hits since January 9th, 1996.
+
+
+
+
+
+
+
+I am a Ph.D. Student in the
+Computer
+Science Department
+at the
+University
+of California, Riverside
+.  My
+Resume
+will tell you where else I've been and what I've done with my life so far.
+My research is aimed at developing an autonomous
+intelligent planning system
+for near-optimal use of limited
+resources, when
+a priori
+resource-use information is unreliable
+or unknown.  My thesis advisor is
+Dr. Jay Farrell
+,
+assistant professor of
+electrical engineering
+.  Possible applications of our intelligent
+planning system include hybrid / electric vehicles such as those
+developed at
+CE-CERT
+,
+within the
+College of Engineering
+.
+I spend my free time listening to music, playing volleyball,
+hiking
+up any of the surrounding mountains, or playing soccer on the
+CS intramural soccer team
+,
+(a.k.a. the Nondeterministic Scoring Machine) which I helped organize.
+
+
+
+
+How to
+reach me
+.
+
+
+
+
+My favorite
+Web-Sites
+.
+
+
+
+
+A few
+pictures
+of Jamie and me (~200k).
+
+
+
+
+Come visit the
+CS-Soccer
+homepage.
+
+
+
+
+
+Take a look at these
+funny
+tidbits I skimmed off the internet.
+
+[WARNING (or lure?): These may be offensive to some people.]
+
+
+
+
+
+Last update: September 20th, 1996.
+
+Back to the Grad Student Home Pages
+
+
+

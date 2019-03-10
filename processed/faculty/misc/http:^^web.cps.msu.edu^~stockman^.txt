@@ -1,0 +1,89 @@
+Date: Thu, 21 Nov 1996 19:18:22 GMT
+Server: Apache/1.1.0
+Content-type: text/html
+Last-modified: Thu, 07 Nov 1996 15:04:50 GMT
+Personal Page - George Stockman, Department of Computer Science
+
+George Stockman
+
+
+
+Professor of Computer Science.
+
+
+RESEARCH AND TEACHING INTERESTS:
+Interests include computer vision, knowledge representation and
+artificial intelligence. Recent work has been in the modeling, recognition,
+and measurement of objects and has both theoretical and practical aspects.
+Applications have been in the industrial, agricultural and medical domains.
+In addition to the above topics, teaching interests include algorithms,
+data structures, and programming languages.
+
+Vita:
+
+
+Brief Vita
+
+Long Vita
+
+
+
+RESEARCH PROJECTS:
+
+
+Project Descriptions
+
+Representative Publications
+
+Data available via ftp
+
+
+
+TEACHING INFORMATION:
+
+
+Teaching Assignments for 1995-96
+
+Current Schedule
+
+CPS 330: Information (Spring 1996)
+
+CPS 803: Computer Vision (Fall 1995)
+
+
+
+OTHER POINTERS:
+
+
+Michigan State University
+
+MSU Department of Computer Science
+
+
+
+
+Contact information :
+
+
+
+George Stockman
+Dept. of Computer Science
+A-395 Engineering Building
+Michigan State University
+East Lansing, MI 48824-1027
+
+Telephone:
+(517) 355-5240
+FAX:
+(517) 432-1061
+Email:
+stockman@cps.msu.edu
+
+
+If you can't contact me:
+
+
+I might be doing a net escape out on some river or lake: I'll be back.
+
+
+

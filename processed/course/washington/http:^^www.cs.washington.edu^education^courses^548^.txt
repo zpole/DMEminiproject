@@ -1,0 +1,131 @@
+Date: Thu, 21 Nov 1996 22:19:24 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 548 Home Page (W 96)
+
+
+
+
+CSE 548: Computer Systems Architecture
+
+Winter 1996
+
+
+Instructor
+
+Susan
+Eggers
+
+,
+eggers@cs.washington.edu
+, Sieg 308, 543-2118
+Office Hours: TuTh 11 - 12
+
+
+TA
+
+Joshua Redstone
+
+,
+redstone@cs.washington.edu
+, Sieg 233, 543-7798
+Office Hours: M 2:30 - 3:20, W 4:00 - 4:50 in Sieg 326a
+
+
+Course information
+
+
+Course Overview
+(Postscript)
+
+Schedule (continuously updated)
+(Postscript)
+
+Lecture Notes
+
+Problem Sets
+
+Previous Tests
+
+Architecture History
+(Postscript)
+
+Specmark Ratings
+(Postscript)
+
+
+
+Other information
+
+
+Tools
+
+
+Shade
+- an Instuction Set simulator for the SPARC V8
+
+Atom
+- a system for building analysis tools on the
+Alpha 21064
+
+Tullsen's 21164 Simulator
+- An execution-driven,
+instruction-level simulator that simulates a superscalar
+architecture very close to the 21164.
+
+Etch
+- a binary rewriter to
+analyze Pentium code.
+
+Alpha Hardware Monitors
+
+
+Multiflow
+- Compiler for the Alpha
+
+Pixie - just User's Manual from 1991(Postscript)
+
+
+Dinero - A 'uniprocessor cache simulator'
+
+
+Local Machines
+
+
+Alphas
+
+
+Pentiums
+
+
+PowerPCs
+
+
+SPARCs
+
+
+Applications
+
+
+Multiprocessor
+
+Uniprocessor
+
+
+SPEC benchmarks
+
+
+
+
+
+Other neat pages
+
+
+
+CPU Info Center
+- info on current/future processors
+
+
+

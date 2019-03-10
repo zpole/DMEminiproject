@@ -1,0 +1,173 @@
+Date: Thu, 21 Nov 1996 20:29:25 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 3347
+Last-modified: Mon, 11 Nov 1996 18:07:10 GMT
+
+Peter J. Keleher
+
+
+
+
+
+
+
+
+
+
+Peter J. Keleher
+
+Email:
+
+keleher@cs.umd.edu
+
+
+Office:
+4139 A.V. Williams;
+Phone:
+(301) 405-0345;
+Fax:
+(301) 405-6707
+
+Current Position:
+Assistant Professor,
+CS
+and
+UMIACS
+,
+Univ. of Maryland at College Park
+.
+
+Research Interests:
+
+
+
+Distributed Shared Memory
+
+Dynamic resource management and adaptation
+Parallel Computer Architecture
+Intelligent agents
+
+
+Academic Degrees:
+
+
+Ph.D. (1995),
+Computer Science
+,
+Rice University
+.
+M.S.. (1986),
+Computer Science
+,
+Rice University
+.
+B.S.. (1986),
+Electrical Engineering
+,
+Rice University
+.
+
+
+Research Projects:
+
+
+
+
+C
+oherent
+V
+irtual
+M
+achine
+(CVM)
+:
+A flexible
+architecture for implementing distributed shared memroy protocols. The CVM
+project was established with the goal of investigating novel protocols,
+multi-threading support, and extensibility. (
+related work
+)
+
+
+Active Harmony
+:
+
+Active Harmony
+is a software architecture that supports efficient
+distributed execution of computational objects in dynamic environments
+through
+runtime adaptation
+,
+automatic application
+adaptation
+, and novel
+shared-data interfaces
+.
+
+
+
+TreadMarks
+:
+My dissertation research centered on developing memory models that allow
+high performance DSM implementations over networks of workstations. This
+research resulted in the definition of
+Lazy Release Consistency
+, and
+the design and implementation of TreadMarks.
+
+
+
+Courses:
+
+
+Fall '96:
+CMSC 411 - Computer Architecture
+.
+
+Spring '97:
+CMSC 818k - Distributed Systems
+
+
+
+Publications:
+
+
+Click
+here
+for a list of on-line papers.
+
+
+
+
+Service:
+
+
+Program Committee:
+HIPS '97
+,
+Program Committee:
+ICDCS '97
+
+
+
+Address:
+
+Pete Keleher
+Computer Science Department
+University of Maryland
+College Park, MD 20742
+(301) 405-0345
+
+8006 Barron Ave
+Takoma Park, MD 20912
+(
+Directions
+)
+
+
+
+
+Last updated on November 4, 1996.
+
+

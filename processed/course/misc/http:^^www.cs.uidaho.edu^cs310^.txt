@@ -1,0 +1,176 @@
+Date: Tue, 26 Nov 1996 19:06:05 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Mon, 11 Nov 1996 20:23:30 GMT
+Content-length: 5302
+
+CS 310 -- Computing Languages
+
+
+
+CS 310 -- Computing Languages
+
+Course description
+Major features of good programming languages, with primary
+emphasis on language features and their role in writing good software;
+programming language design alternatives; various types of languages,
+including procedure, data-flow, functional, and object-oriented languages.
+Course Goals
+
+
+To explore the notion of what a programming language really is
+To investigate programming paradigms: imperative, object
+oriented, functional programming
+The class is not an overview of a variety of languages, but
+a deep view of programming paradigms
+
+List of Topics covered
+
+
+Tools for Symbolic Programming
+Induction, Recursion, and Scope
+Syntactic Abstraction and Data Abstraction
+Reduction Rules and Imperative Programming
+Interpreters
+Parameter Passing
+Object-Oriented Languages
+Type Checking and Inference
+
+
+Text
+
+
+Daniel Friedman, Mitchell Wand, and Christopher Haynes,
+Essentials of Programming Languages
+, The MIT
+Press and McGraw-Hill Book Company, Sixth printing, 1995.
+
+Grading for the course
+
+
+Two examinations during the semester, each worth 100 points
+
+Exam 1, October 11
+
+Exam 2, November 20
+
+Comprehensive final examination, worth 200 points
+Assignments during the semester, total worth of 100 points
+
+The instructor for this course:
+
+
+John Dickinson
+.  His email address is
+johnd
+.
+
+Syllabus for CS 310
+
+Assignments
+
+In order to use records as defined and discussed in the text you
+will need to either
+download the definitions
+for
+records
+to your directories and then load them into
+Scheme or you will need to use this load command
+(load
+"/usr/local/lib/mit-scheme/records.scm")
+.
+
+
+Assignment 1
+
+Assignment 2
+
+Assignment 3
+
+Assignment 4
+
+Assignment 5
+
+
+Class Notes
+
+
+Notes on the Environment Model
+.
+This material was covered in class Oct 28-30.
+Revised Chapter 6 -- Parameter Passing
+.
+You should read this carefully before you print it out.  My book
+is the Sixth Printing, 1995 and I think it has all the proper
+modifications to Chapter 6.  If you have an older book, you
+might need to print this chapter out.  When printing, I'd
+suggest using one of the laser printers that duplexes (laser13
+or laser25) with the duplex option ( -oduplex ).
+The missing Chapter 13 -- Type Checking
+.
+Errata for
+Essentials of Programming
+Languages
+.  This is especially useful if you have an
+older version of the book.  This errata gives changes and at
+what printing the changes occurred.
+Paper on Types and Polymorphism
+.  This is
+an important paper on Type, Data Abstraction, and Polymorphism
+by Lucia Cardelli and Peter Wegner.  It appeared in Computer
+Surveys (December 1985) and is reproduced with permission.  It
+is in postscript format.
+
+All of the program code
+has been provided
+by the authors of
+Essentials of Programming Languages
+.
+
+The Scheme Language
+
+Scheme is a dynamically typed functional language descended from LISP.
+Several Scheme manuals are available through the web.
+
+
+The
+Programming
+Manual for Scheme
+.  This is a reference for the Scheme language itself.
+The
+MIT
+Scheme Reference Manual
+.  This describes the run-time environment and
+I/O facilities.
+The
+MIT Scheme
+User's Manual
+.  This describes the read-eval-print loop, debugging, and
+loading and compiling files.
+
+In addition to on-line manuals, you might wish to see these on-line
+resources about
+Scheme
+.
+This site gives many pointers to information about scheme and implementations
+of scheme.
+There is also a Scheme newsgroup at
+comp.lang.scheme
+.
+There is even an
+on-line scheme
+interpreter
+so that you can try scheme directly on the web.
+
+Final Exam Schedule
+
+The final examination will
+be
+comprehensive
+, that is, it will cover all the topics we
+study this semester.
+
+
+Section 1 (12:30 MWF). Final is December 18 (Wednesday) 1:00-3:00pm
+
+

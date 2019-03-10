@@ -1,0 +1,140 @@
+Date: Thu, 21 Nov 1996 22:53:00 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 3383
+Last-modified: Thu, 21 Nov 1996 02:36:02 GMT
+
+
+
+David M. Hilbert
+
+
+
+
+
+
+
+David M. Hilbert
+
+
+
+
+
+
+
+Position:
+Graduate Student
+
+
+Area:
+Software
+
+
+Advisor:
+
+Office: IERF 218
+
+Office Tel: (714)824-3100
+
+Office Fax: (714)824-4056
+
+E-mail:
+dhilbert@ics.uci.edu
+
+
+
+
+
+
+Background:
+
+I'm a Ph.D. student in Information and Computer Science at the University
+of California, Irvine, with an M.S. in Computer Science and about four
+years of industrial software engineering experience.
+
+
+My
+resume
+.
+
+My
+personal
+homepage.
+
+My
+research
+interests.
+
+UCI
+professors
+whose work I find interesting.
+
+Current
+band
+working documents.
+
+Some
+useful links
+.
+
+
+
+
+Projects:
+
+
+Expectation-Driven Event Monitoring and Expectation Agents
+.
+
+The Argo Software Architecture Design
+Environment
+.
+
+Research in Evolutionary Design of Complex Systems
+.
+
+
+Publications:
+
+Journals
+
+"Extending Design Environments to Software Architecture Design". Jason E.  Robbins, David M.  Hilbert, and David F. Redmiles. To appear in
+The Journal of Automated Software Engineering
+(in preparation).
+Conferences
+
+"Supporting Ongoing User Involvement in Development via Expectation-Driven Event Monitoring". David M. Hilbert, Jason E. Robbins, and David F.  Redmiles. Submitted to
+INTERACT'97
+(in review).
+
+"
+Extending Design Environments to Software Architecture Design
+". Jason E. Robbins, David M. Hilbert, and David F. Redmiles.
+Knowledge-Based Software Engineering 1996
+(selected "best of conference").
+
+Workshops
+
+"
+Using Critics to Analyze Evolving
+Architectures
+". Jason E. Robbins, David M. Hilbert, and David
+F. Redmiles.
+Second
+International Software Architecture Workshop (ISAW-2)
+.
+
+
+
+
+David M. Hilbert
+
+Information and Computer Science
+
+University of California, Irvine
+CA 92717-3425
+
+
+
+
+

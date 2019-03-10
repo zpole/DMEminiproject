@@ -1,0 +1,527 @@
+Date: Thu, 21 Nov 1996 19:59:40 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Sat, 17 Aug 1996 00:33:46 GMT
+Content-length: 18968
+Tom Anderson
+
+Thomas Anderson
+
+Associate Professor
+625 Soda Hall
+Computer Science Division
+University of California
+Berkeley, CA 94720
+(510) 642-3936; fax: (510) 642-5775
+tea@cs.berkeley.edu
+
+While on sabbatical:
+Box 352350
+210 Sieg Hall
+Dept of Computer Science and Engineering
+University of Washington
+Seattle, WA 98195-2350
+206-543-4784; fax: 206-543-2969
+tom@cs.washington.edu
+
+
+Awards
+
+Diane S. McEntyre Award for Excellence in Teaching, 1995
+NSF Presidential Faculty Fellowship, 1994
+Alfred P. Sloan Research Fellowship, 1994
+NSF Young Investigator Award, 1992
+IBM Graduate Ph.D. Fellowship, 1989
+
+
+Award Papers
+
+
+
+1995 ACM Symposium on Operating System Principles
+
+1994 Hot Interconnects II
+
+1993 Winter USENIX Conference
+
+1992 ACM Conference on Architectural Support for Programming
+Languages and Operating Systems
+
+1991 ACM Symposium on Operating Systems Principles
+
+1989 ACM Symposium on Operating Systems Principles
+
+1989 ACM SIGMETRICS and Performance '89 Conference on
+Measurement and Modeling of Computer Systems
+
+
+
+Professional Service
+
+
+
+Program Committee Member, ACM ASPLOS Conference, 1996
+
+Guest Editor, Special Issue of IEEE MICRO on Hot Interconnects, Feb. 1996
+
+Program Committee Co-Chair, 1995 Hot Interconnects III
+
+Program Committee Member, ACM SIGMETRICS Conference, 1995
+
+Co-Chair, First Workshop on Networks of Workstations (NOW), 1994
+
+Program Committee Member, ACM SIGMETRICS Conference, 1994
+
+Member, NASA EOSDIS Alternative Architecture Panel, 1994
+
+Program Committee Member, Fourteenth ACM Symposium on Operating
+System Principles, 1993
+
+
+
+Instructional Materials
+
+
+CS 162 Home Page
+: undergraduate operating systems materials
+
+CS 162 lecture notes, translated into Spanish
+
+
+Last year's CS 162 Home Page
+
+
+Nachos
+: Instructional software for undergraduate and graduate operating systems courses
+
+A quick introduction to C++
+
+
+Instructions for navigating Telebears (for instructors)
+
+
+
+Current Research
+
+
+Berkeley NOW
+: Software and hardware support for using a network of workstations as a distributed supercomputer.
+
+GLUnix (Global Layer UNIX)
+: a virtual operating system layer for a NOW
+
+xFS
+: serverless network file service
+
+Other Recent Research Projects
+
+
+ATM Switch Scheduling
+
+
+Fast Interprocess Communication
+
+
+Tools for Tuning Program Performance
+
+
+Interaction of Architecture and Operating Systems
+
+
+Operating System
+Support for Shared Memory Multiprocessing
+
+
+Colleagues
+
+Faculty:
+Dave Patterson
+and
+David Culler
+
+Students:
+Mike Dahlin
+,
+Doug Ghormley
+,
+Steve Rodrigues
+,
+Drew Roselli
+,
+Amin Vahdat
+,
+Keith Vetter
+,
+Randy Wang
+, and
+Jeanna Neefe
+
+
+Graduated students
+
+
+Education
+
+Ph.D. in Computer Science, 1991, University of Washington.
+Dissertation Title:
+Operating System Support for High Performance
+Multiprocessing
+, supervised by
+Profs.
+Ed Lazowska
+and
+Hank Levy
+.
+M.S. in Computer Science, 1989, University of Washington.
+A.B.
+cum laude
+in Philosophy, 1983, Harvard University.
+
+Selected Publications
+
+
+C. Yoshikawa, B. Chun, P. Eastham, A. Vahdat, T. Anderson, and D. Culler.
+``Using Smart Clients to Build Scalable Services.''
+To appear, Proc. of the 1997 USENIX Conference
+, Jan. 1997.
+Postscript
+.
+D. Petrou, D. Ghormley, and T. Anderson.
+``Predictive State Restoration in Desktop Workstation Clusters.''
+Submitted for publication.
+
+Postscript
+.
+S. Rodrigues, T. Anderson, and D. Culler.
+``High-Performance Local Area Communication with Fast Sockets.''
+To appear, Proc. of the 1997 USENIX Conference
+, Jan. 1997.
+Postscript
+.
+J. Neefe, D. Roselli, R. Wang, T. Anderson, and M. Dahlin
+``Improving the Performance of Log Structured File Systems.''
+Submitted for publication.
+
+Postscript
+.
+D. Ghormley, D. Petrou, and T. Anderson.
+``SLIC: Secure Loadable Interposition Code.''
+Submitted for publication.
+
+Postscript
+.
+A. Vahdat, M. Dahlin, and T. Anderson.
+``Turning the Web into a Computer.''
+Submitted for publication.
+
+Postscript
+.
+T. Anderson, B. Bershad, E. Lazowska, and H. Levy.
+``Thread Management for Shared-Memory Multiprocessors.''
+To appear, Handbook for Computer Science.
+
+Postscript
+.
+M. Martonosi, A. Gupta, and T. Anderson.
+``Techniques for Analyzing and Tuning Memory Performance in
+Sequential and Parallel Programs.''
+Submitted for publication.
+
+T. Anderson, M. Dahlin, J. Neefe, D. Roselli, D. Patterson, and R. Wang.
+``Serverless Network File Systems.'' Selected as an
+Award Paper
+to appear,
+Proc. Fifteenth ACM Symposium on Operating System
+Principles
+, December 1995.
+Postscript
+.
+K. Keeton, T. Anderson, and D. Patterson.
+``LogP Quantified: The Case for Low Overhead.''
+1995 Hot Interconnects III
+, August 1995.
+Postscript
+.
+R. Arpaci, A. Dusseau, A. Vahdat, L. Liu, T. Anderson, and D. Patterson.
+``The Interaction of Parallel and Sequential Workloads on a
+Network of Workstations.''
+Proc. 1995 ACM SIGMETRICS and
+Performance '95 Conference on the Measurement and Modeling of
+Computer Systems
+, May 1995, pp. 267-278.
+Postscript
+.
+M. Martonosi, A. Gupta, and T. Anderson.
+``Tuning Memory Performance in Sequential and Parallel Programs.''
+IEEE Computer
+, April 1995, pp. 32-40.
+T. Anderson, D. Culler, D. Patterson, and the NOW Team.
+``A Case for NOW (Networks of Workstations).''
+IEEE Micro 15
+, 1, February 1995, pp. 54-64.
+Selected as an
+Award Paper
+in
+1994 Hot Interconnects II
+,
+August 1994.
+Paper and slides.
+
+M. Dahlin, T. Anderson, D. Patterson, and R. Wang.  ``Cooperative Caching:
+Using Remote Client Memory to Improve File System Performance.''
+Proc. 1994 Operating Systems: Design and Implementation
+Conference
+, November 1994, pp. 267-280.
+Postscript
+.
+M. Dahlin, T. Anderson, C. Mather, D. Patterson and R. Wang.
+``A Quantitative Analysis of Cache Policies for Scalable File Systems.''
+Proc. 1994 ACM SIGMETRICS Conference
+on the Measurement and Modeling of Computer Systems
+, May 1994,
+pp. 150-160.
+Postscript
+.
+K. Li, R. Kumpf, P. Horton, and T. Anderson.
+``A Quantitative Analysis of Disk Drive Power Management
+in Portable Computers.''
+Proc. 1994 Winter USENIX Conference
+, January 1994, pp. 279-292.
+Postscript
+.
+T. Anderson.
+``The Nachos System.''
+Appeared as an appendix in,
+Operating Systems Concepts, 4th Ed.
+, A. Silberschatz
+and P. Galvin.  Addison-Wesley (November 1993).
+R. Wahbe, S. Lucco, T. Anderson and S. Graham.
+``Efficient Software-Based Fault Isolation.''
+Proc. Fourteenth ACM Symposium on Operating System Principles
+,
+December 1993, pp. 203-216.
+Postscript
+.
+T. Anderson, S. Owicki, J. Saxe, and C. Thacker.
+``High Speed Switch Scheduling for Local Area Networks.''
+ACM Transactions on Computer Systems 11
+, 4, November 1993, pp. 319-352.
+Selected as an
+Award Paper
+in
+Proc. Fifth International
+Conference on Architectural
+Support for Programming Languages and Operating Systems (ASPLOS V)
+(October 1992), pp. 98-110.  Also appeared as
+Digital Equipment Corporation Systems Research Center Technical Report \#99.
+Postscript
+.
+R. Wang and T. Anderson.
+``xFS: A Wide Area Mass Storage File System.''
+Proc. Fourth Workshop on Workstation Operating Systems
+(October 1993),
+pp. 71-78.
+Postscript
+.
+K. Krueger, D. Loftesness, A. Vahdat, and T. Anderson.
+``Tools for the Development of Application-Specific Virtual Memory Management.''
+Proc. 1993 Conference on Object Oriented Programming: Systems, Languages,
+and Applications (OOPSLA '93)
+(September 1993), pp. 48-64.
+Postscript
+.
+C. Yarvin, R. Bukowski, and T. Anderson.
+``Anonymous RPC: Low Latency Protection in a 64-Bit Address Space.''
+Selected as
+Best Student Paper
+in
+Proc. 1993 Summer
+USENIX Conference
+(June 1993), pp. 175-186.
+Postscript
+.
+M. Martonosi, A. Gupta, and T. Anderson.
+``Effectiveness of Trace Sampling for Performance Debugging Tools.''
+Proc. 1993 ACM SIGMETRICS Conference
+on the Measurement and Modeling of Computer Systems
+(May 1993), pp. 248-259.
+Postscript
+.
+W. Christopher, S. Procter, and T. Anderson.
+``The Nachos Instructional Operating System.''
+Selected as
+Best Paper
+in
+Proc. 1993 Winter USENIX Conference
+(January 1993), pp. 479-488.
+Postscript
+.
+M. Martonosi, A. Gupta, and T. Anderson.
+``MemSpy: Analyzing Memory System Bottlenecks in Programs.''
+Proc. 1992 ACM SIGMETRICS and Performance '92
+Conference on the Measurement and Modeling of Computer Systems
+(May 1992),
+pp. 1-12.
+Postscript
+.
+T. Anderson.
+``The Case for Application-Specific Operating Systems.''
+Proc. Third Workshop on Workstation Operating Systems
+(April 1992),
+pp. 92-94.
+Postscript
+.
+T. Anderson, B. Bershad, E. Lazowska and H. Levy.
+``Scheduler Activations: Effective Kernel Support for the User-Level
+Management of Parallelism.''
+ACM Transactions on Computer Systems 10
+, 1 (February 1992), pp. 53-79.
+Selected as an
+Award Paper
+in
+Proc. Thirteenth ACM Symposium on
+Operating Systems Principles
+(October 1991).  Also appeared as
+University of Washington Technical Report 90-04-02
+(April 1990, revised August 1991).
+T. Anderson.
+``Operating System Support for High Performance Multiprocessing.''
+Ph.D. Thesis, University of Washington.  University of Washington
+Technical Report 91-08-10 (August 1991).
+B. Bershad, T. Anderson, E. Lazowska and H. Levy.
+``User-Level Interprocess Communication for Shared-Memory Multiprocessors.''
+ACM Transactions on Computer Systems 9
+, 2 (May 1991), pp. 175-198.
+Also appeared as University of Washington Technical Report 90-05-07 (May 1990).
+T. Anderson, H. Levy, B. Bershad, and E. Lazowska.
+``The Interaction of Architecture and Operating System Design.''
+Proc. Fourth International Conference on
+Architectural Support for Programming Languages and Operating Systems
+(ASPLOS IV)
+(April 1991), pp. 108-120.
+Also appeared as University of Washington Technical Report
+90-08-01 (August 1990).
+Postscript
+.
+T. Anderson and E. Lazowska.
+``Quartz: A Tool for Tuning Parallel Program Performance.''
+Proc. 1990 ACM SIGMETRICS
+Conference on the Measurement and Modeling of Computer Systems
+(May 1990),
+pp. 115-125.
+Also appeared as University of Washington Technical Report 89-09-05
+(September 1989).
+B. Bershad, T. Anderson, E. Lazowska and H. Levy.
+``Lightweight Remote Procedure Call.''
+ACM Transactions on Computer Systems 8
+, 1
+(February 1990), pp. 37-55.
+Selected as an
+Award Paper
+in
+Proc. Twelfth ACM Symposium on
+Operating Systems Principles
+(December 1989).  Also appeared
+as University of Washington Technical Report 89-04-02 (April 1989).
+T. Anderson.
+``The Performance of Spin Lock Alternatives for Shared-Memory Multiprocessors.''
+IEEE Transactions on Parallel and Distributed Systems 1
+, 1 (January 1990),
+pp. 6-16.
+An earlier version appeared in
+Proc. 1989 International
+Conference on Parallel Processing
+(August 1989), and
+as University of Washington Technical Report 89-04-03
+(April 1989).
+T. Anderson, E. Lazowska, and H. Levy.
+``The Performance Implications of Thread Management Alternatives
+for Shared-Memory Multiprocessors.''
+IEEE Transactions on Computers 38
+, 12 (December 1989), pp. 1631-1644.
+Selected as an
+Award Paper
+in
+Proc. 1989 ACM SIGMETRICS and Performance '89
+Conference on the Measurement and Modeling of Computer Systems
+(May 1989).
+Also appeared as University of Washington Technical Report 88-09-04
+(September 1988).
+
+
+Government and Industrial Research Support
+
+National Science Foundation
+Advanced Research Projects Agency
+Department of Energy
+California MICRO
+Alfred P. Sloan Foundation
+Hewlett-Packard
+SUN Computer
+Digital Equipment Corporation
+IBM
+Xerox
+Microsoft
+AT&T Foundation
+Siemens
+Fujitsu
+Exabyte
+
+
+Invited Talks
+
+
+Panelist, Supercomputing '95 (December 1995).
+Panelist, SunWorld '95 (May 1995).
+``The Case for Networks of Workstations (NOW).''  Given at:
+University of California, San Diego (December 1994),
+Princeton University (January 1995), University of Wisconsin (January 1995).
+``Operating System Issues in Sequoia 2000.''  Given at: Duke University
+(December 1993), Microsoft Corporation (January 1994).
+``NOW: Using a Network of Workstations as a Supercomputer.''
+Given at: ARPA High Performance Computing Research Meeting (September 1993),
+DEC Systems Research Center (October 1993), Xerox Palo Alto Research Center
+(October 1993), NASA Ames (February 1994),
+UC Berkeley Engineering Advisory Board (May 1994).
+``Future Directions in Operating Systems.'' Given at: NASA EOSDIS Technical
+Panel (March 1993), NASA EOSDIS Architecture Review (November 1994).
+``The Nachos Instructional Operating System.''
+Given at: 1993 Winter USENIX Conference (January 1993).
+``High Speed Switch Scheduling for Local Area Networks.''
+Given at: Fifth International Conference on Architectural
+Support for Programming Languages and Operating Systems (October 1992),
+Xerox Palo Alto Research Center (March 1993),
+University of Washington (January 1993).
+``The Case for Application-Specific Operating Systems.''
+Given at: Xerox Palo Alto Research Center (April 1992),
+Workshop on Workstation Operating Systems (May 1992),
+University of Washington (July 1993).
+``Scheduler Activations: Effective Kernel Support for the User-Level
+Management of Parallelism.'' Given at: Digital Equipment Corporation Systems
+Research Center (June 1990, Thirteenth ACM Symposium on Operating Systems
+Principles (October 1991).
+``Operating System Support for High Performance Multiprocessing.''
+Given at: University of Arizona (February 1991), University of British Columbia
+(February 1991), Digital Equipment Corporation Systems Research Center
+(February 1991), Princeton University (March 1991), Massachusetts
+Institute of Technology (March 1991), Stanford University (March 1991),
+University of Wisconsin (March 1991), IBM Hawthorne (March 1991),
+Cornell University (March 1991),
+University of California, Berkeley (April 1991),
+Xerox Palo Alto Research Center (April 1991),
+Brown University (April 1991),
+Lawrence Livermore National Laboratories (November 1991),
+IBM Almaden (May 1992).
+``Quartz: A Tool for Tuning Parallel Program Performance.''
+Given at: 1990 ACM SIGMETRICS Conference on the Measurement and Modeling of
+Computer Systems (May 1990).
+``The Performance of Spin Lock Alternatives for Shared-Memory Multiprocessors.''
+Given at: 1989 International Conference on Parallel Processing (August 1989).
+``The Performance Implications of Thread Management Alternatives
+for Shared-Memory Multiprocessors.'' Given at: 1989 ACM SIGMETRICS
+and Performance '89 Conference on the Measurement and Modeling of Computer
+Systems (May 1989).
+
+
+New CS faculty:  Professors Tom Anderson and Katherine Yelick.
+

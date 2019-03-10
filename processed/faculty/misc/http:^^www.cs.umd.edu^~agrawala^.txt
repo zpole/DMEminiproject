@@ -1,0 +1,110 @@
+Date: Thu, 21 Nov 1996 20:36:20 GMT
+Server: Apache-SSL/0.4.3b
+Content-type: text/html
+Content-length: 2515
+Last-modified: Wed, 18 Sep 1996 19:29:17 GMT
+
+
+Ashok Agrawala
+
+
+Ashok Agrawala
+
+
+Ashok Agrawala
+
+
+
+
+
+
+
+
+Current Position:
+Professor,
+Computer Science Department
+at the
+University of Maryland
+
+
+Academic Degrees:
+Ph.D.,
+Harvard University
+, 1970.
+Download
+a compressed postscript
+version of my current CV
+
+
+E-mail:
+
+agrawala@cs.umd.edu
+click
+here
+to e-mail me
+
+Address/Phone:
+
+University of Maryland
+Department of Computer Science
+A.V. Williams Building - Room 4155
+College Park, MD 20742, U.S.A.
+Office Phone: (301) 405-2525
+
+
+Research Coordinator:
+
+E-mail:
+Janet Doherty
+Phone: (301) 405-2738
+
+
+
+Publications
+
+
+
+
+Research Interests:
+
+
+Design and Evaluation of Systems and Networks
+
+
+Principal Investigator for the
+Maruti Project
+
+
+The major thrust of my research over the last few years has been to
+understand the role of time in the design and implementation of computer
+systems.  I am examining the issues of representation, management and
+manipulation of time in systems.  One context of this study is the design
+and implementation of the advanced hard real-time which we are
+undertaking in the MARUTI project.  The goal of the MARUTI project is to
+create an environment for the development and deployment of applications
+with hard real-time systems, fault tolerance, and security requirements.
+Such applications must be able to execute on a distributed, heterogeneous
+hardware base.  During the past five years, we have created a framework
+for such an environment and have demonstrated the feasibilty of the
+design through implementations of the prototype of the MARUTI Environment.
+
+
+
+
+
+Course
+Notes
+
+
+
+
+
+
+
+
+
+Last updated on September 17, 1996
+
+
+
+

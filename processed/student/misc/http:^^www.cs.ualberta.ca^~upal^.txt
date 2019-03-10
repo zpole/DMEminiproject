@@ -1,0 +1,91 @@
+Date: Tue, 26 Nov 1996 16:48:19 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2984
+Last-modified: Wed, 03 Apr 1996 20:03:49 GMT
+
+
+Afzal's Home Page
+
+
+
+
+Afzal Upal
+
+I am a PhD student working under the supervision of
+Dr. Renée Elio
+at the
+Department of Computing Science
+,
+University of Alberta
+.  I
+completed my masters in 1995 from
+University
+of Saskatchewan
+where I worked with
+Dr. Eric Neufeld.
+
+
+
+
+Curriculum Vitae
+
+
+Publications
+
+M.Sc. Research
+My thesis
+research focussed on
+unsupervised classification
+(the
+cognitive ability to classify without any help from an omniscient
+supervisor). Other research projects that I worked on during my MSc
+included the Natural Language Processing Project as well as performing
+a comparison of inferring causal theories from data.
+Ph.D. Research
+My
+work with the classification problem has shown that it, like so many
+other problems in AI, is intractable. It seems optimal solutions for
+the tasks such as pattern recognition, classification and learning are
+intractable to perform on a serial computer. While understanding the
+nature of learning continues to be my goal, I want to study the
+cognitive processes involved in human learning in the hope of uncovering the
+computational principles that enable humans to perform these tasks in real
+time.
+Cognitive Science Related Links
+
+
+Cognitive Science Group at the U of A.
+
+Biological Computation Project at the U of A.
+
+Cognitive Science
+at Georgia Tech (Everything you ever wanted to know about Cog Sci)
+
+PSYCHE: Journal of Research in Consciousness
+
+
+
+
+
+Other Interests
+My home town
+U of Sask
+U of A
+Comp Sc [U of A]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

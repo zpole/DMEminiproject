@@ -1,0 +1,147 @@
+Date: Tue, 14 Jan 1997 20:37:05 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 09 Jan 1997 20:47:18 GMT
+Content-length: 4603
+
+John M. Danskin
+
+
+John M. Danskin, Assistant Professor
+
+
+Ph.D
+Princeton University,
+1994
+
+Research Interests:
+
+Professor Danskin's areas of interest are network protocol
+compression, lossy image transmission, and hardware and
+software systems for supporting graphics and multimedia
+applications.
+
+Curriculum Vitae (Resume)
+
+Professor Danskin leads the
+Dartmouth
+Experimental Compression Systems
+group. Professor Danskin also
+consults on graphics and compression issues and implementations.
+Classes
+
+I'm teaching
+Graduate Operating Systems (cs108)
+this quarter.
+Papers
+
+
+
+
+Bitmap
+Reconstruction for Document Image Compression
+to appear in
+SPIE's International Symposium on Voice, Video, and Data Communications (1996)
+(with Qin Zhang)
+
+
+
+Entropy-based
+Pattern Matching for Document Image Compression
+Proceedings of the International Conference on Image Processing
+1996, pp II-221-224, Lausanne, Switzerland, 16-19 September 1996. (with Qin Zhang)
+
+
+
+A
+Pattern Based Document Image Compression System
+Electronic Publishing. Vol. 8 (2&3), pp 235-246 (June &
+September 1996)  (with Qin Zhang)
+
+
+
+Joint Source and Channel Coding for Internet Image Transmission
+International Conference on Image Processing, Lausanne Switzerland. Sept 16-19, 1996 pp I-21-24 (with Geoffrey Davis and Xiyong Song)
+
+
+
+Fast Higher Bandwidth X
+International Multimedia Networking Conference, Aizu Japan. Sept 27-29, 1995.
+(with Dan Abrahams-Gessel and Qin Zhang)
+
+
+
+Fast Lossy Internet Image Transmission
+1995 ACM Multimedia Conference, San Francisco, CA. Nov 5-9. (with Geoff Davis and Xiyong Song)
+
+
+
+Previewing postscript over a telephone in 3 seconds per page
+1995 X Conference. pp23-40. The X Resource, No. 13.
+
+
+
+Compressing the X Graphics Protocol" (PhD thesis. Princeton 1994.)
+also
+Princeton CS-TR-465-94
+
+
+
+
+Higher Bandwidth X
+ACM Multimedia '94, pp89-96. Oct. 15-20. San Francisco CA.
+
+
+
+Compression Performance of the Xremote Protocol
+(also
+Princeton CS-TR-441
+), with Pat Hanrahan.
+
+
+
+Profiling the X Protocol
+(also
+Princeton CS-TR-442)
+with Pat Hanrahan.
+
+
+
+Fast Algorithms for Volume Ray Tracing
+with Pat Hanrahan. 1992
+Boston Volume Visualization Conference.
+
+Arithmetic coding package
+
+This
+is a little arithmetic coding package which may be useful to you
+as a building block. It isn't useful for real compression on it's
+own. (But it could get you there a lot faster).
+
+Addresses
+
+John M. Danskin
+6211 Sudikoff
+Dartmouth College
+Hanover, NH 03755
+
+
+(603) 646-1613 (w)
+
+(603) 646-1672 (fax)
+
+(603) 643-8676 (h)
+
+
+jmd@cs.dartmouth.edu
+
+
+My PGP public key
+
+
+
+Back to Dartmouth CS Home Page
+
+
+
+

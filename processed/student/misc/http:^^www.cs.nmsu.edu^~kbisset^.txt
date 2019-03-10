@@ -1,0 +1,33 @@
+Date: Tuesday, 26-Nov-96 03:36:42 GMT
+Server: NCSA/1.1
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Tuesday, 14-Feb-95 17:33:12 GMT
+Keith Bisset
+
+
+Still Under Construction
+
+
+
+
+
+Some Cool Graphics
+
+
+
+
+My Hotlist
+(includes lots
+of cruft)
+
+A
+tutorial
+on
+writing html
+
+You can send me mail like this:
+kbisset@cs.nmsu.edu
+or like this:
+kbisset@cs.nmsu.edu
+

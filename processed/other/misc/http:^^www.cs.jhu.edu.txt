@@ -1,0 +1,132 @@
+Date: Wed, 15 Jan 1997 00:19:12 GMT
+Server: NCSA/1.5.1
+Last-modified: Wed, 18 Dec 1996 22:04:02 GMT
+Content-type: text/html
+Content-length: 4313
+
+The Johns Hopkins University Computer Science Department
+
+
+
+
+
+
+3400 N. Charles Street
+224 New Engineering Building
+Baltimore, MD 21218
+Phone: (410) 516-8577
+Fax: (410) 516-6134
+
+
+
+Faculty Position Announcement
+
+People of the Computer Science Department
+
+Faculty Homepages
+, Faculty Image Map,
+Graduate Students
+,
+Postdocs and Visitors
+,
+Undergraduate Students
+,
+Staff
+,
+Others
+,
+Search for a user's home page
+,
+See all home pages available
+
+Centers, Labs and Projects
+
+Algorithms
+,
+Artificial Intelligence
+,
+Center for Distributed Computing and Networking
+,
+Center for Geometric Computing
+,
+Center for Language and Speech Processing
+,
+Computational Biology
+,
+Natural Language Processing
+,
+Computer Vision
+,
+Programming Languages
+
+Research Grants and Publications
+
+Admissions
+
+Graduate Admissions
+,
+Undergraduate Admissions
+
+Student Information
+
+
+Graduate Programs:
+Ph.D., M.S.E. in Computer Science, M.S. in Computer Science,
+Graduate Board Oral information
+
+Undergraduate Programs:
+B.S. in Computer Science, B.A. in Computer Science, B.S. in Computer Engineering, Minor in Computer Science, Concurrent Bachelor/M.S.E. in Computer Science, Dual Degree Options,
+Course Catalog
+, Undergraduate Advising Manual, undergraduate requirements worksheet
+
+Events and Opportunities
+General Announcements,
+Featured Computer Science Conferences
+Seminars, Graduate Seminars, Special Events, Job Postings, Internships, Scholarships
+JHU Resources
+
+Whiting School of Engineering WWW server
+,
+JHUniverse WWW server
+,
+JHUniverse gopher server
+,
+Charm Net
+,
+JHU Guidelines for Usage of Computers and Resources
+
+General Resources on the World Wide Web
+
+NCSA Mosaic Home Page
+,
+Computer Science Technical Reports Archive
+,
+Computer Science Departments across the Web
+
+Around Campus
+Baltimore
+,
+Directions to JHU
+
+Support Services
+
+Departmental Computing Policy
+,
+Request for Support Form
+,
+Information on using Slirp in the Department
+,
+How to Create Your Own Home Page
+,
+Our Department Manual
+
+Changes to this server
+
+How do I put my page on this
+server?
+
+All comments related to this WWW server can be sent via e-mail to:
+www@www.cs.jhu.edu
+You are visitor #
+since 12/15/95
+

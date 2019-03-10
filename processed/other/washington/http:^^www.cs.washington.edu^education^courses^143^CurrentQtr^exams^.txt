@@ -1,0 +1,43 @@
+Date: Mon, 02 Dec 1996 14:25:03 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 143 Exams
+
+
+
+CSE 143 Exams
+
+Midterm
+
+
+
+November 5, in section
+Closed book, closed notes
+Covers reading material assigned through 10/30
+Sample Solutions [
+Postscript
+|
+Acrobat
+|
+Plain text (no pictures!)
+]
+
+
+Final
+
+
+
+December 17, 2:30-4:30, in regular lecture hall (Kane 220)
+Closed book, closed notes
+Cumulative, but with somewhat more emphasis on second-half material
+
+
+
+
+cse143-webmaster@cs.washington.edu
+
+
+
+

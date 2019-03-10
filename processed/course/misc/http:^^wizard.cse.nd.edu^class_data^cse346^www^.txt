@@ -1,0 +1,65 @@
+Date: Tue, 26 Nov 1996 18:51:24 GMT
+Server: NCSA/1.5
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Mon, 06 May 1996 21:03:34 GMT
+Content-length: 1830
+
+
+CSE346 - Database Concepts Home Page
+
+
+
+
+
+
+
+CSE 346 - Database Concepts
+
+Notice
+
+
+
+
+
+
+
+
+Using Postgres95
+
+
+
+Course Information
+
+
+
+Course Description
+
+
+
+University Honor Code
+
+
+
+Lecture Notes
+
+
+
+Homework Assignments
+
+
+
+Checking your grades
+
+
+
+Useful Information (check them out)
+
+
+
+
+
+
+
+
+

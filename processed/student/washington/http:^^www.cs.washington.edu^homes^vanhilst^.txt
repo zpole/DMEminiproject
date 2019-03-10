@@ -1,0 +1,161 @@
+Date: Thu, 21 Nov 1996 22:50:46 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 08 Nov 1996 23:09:35 GMT
+Content-length: 6280
+
+
+Michael VanHilst
+
+
+
+
+Michael VanHilst
+
+vanhilst@cs.washington.edu
+
+mvh@cfa.harvard.edu
+
+
+Personal
+,
+Research
+
+
+
+
+Computer Science & Engineering Department
+
+
+University of Washington
+
+Box 352350
+Seattle, WA
+98195-2350 USA
+
+
+Click here to send an email message to Mike VanHilst
+.
+
+
+
+Personal
+Mike is starting his 7th year as a graduate student at the University of
+Washington.  Hopefully, with a little luck he will be finished around the
+end of the winter quarter.
+Immediately prior to coming to UDub Mike worked as a contractor at
+IBM Research
+where he wrote
+Motif
+widgets for the user unterface of IBM's
+Data Explorer
+.
+Mike got his start as a programmer in 1981 while fixing and maintaining
+computer hardware for the
+Smithsonian
+Astrophysical Observatory
+, which is part of the
+Smithsonian
+, but located within
+Harvard
+.
+Learning to debug software was the only way Mike could convince the
+programmers that the hardware really was working correctly.
+Mike stayed at the Smithsonian for 8 years, during which time he wrote a
+program called
+SAOimage
+which is used by lots of astronomers to look at images.  SAOimage is now
+part of the
+GNU
+distribution.  (Mike would like to thank Bill Wyatt,
+Eric Mandel
+,
+Joe Schwarz, and
+Doug Mink
+for starting, guiding, and continuing the project,
+not to mention countless others who contributed).
+In 1986, Mike took a year off to work with a group of
+seismologists
+in Paris, France, doing data acquisition, calibration, and analysis.
+He had a truly wonderful time in
+Paris
+.
+He met his wife, Luz Angela, in a French language class at the
+Alliance Francaise
+.
+Luz Angela had come to Paris that year from her native
+Colombia
+in South America.
+In the summer of 1994, Mike wrote a front end to let students
+browse the University's time schedule data base through UWIN.
+He had fun working with the very talented staff at
+pine
+.)
+Special thanks to Bill Shirey, who did most of the design, and
+Tracy Stenvik, who wrote the UWIN screen library.
+(If you are on a UW machine, you can run
+UWIN
+here.)
+In between working on the time schedule Mike also taught beginning
+programming, through the UW Extension, to a very motivated group from
+Microsoft product support who sacrificed their summer to learn C.
+Recently Mike has presented papers at the
+International Symposium on Object Technologies for Advanced Software
+(ISOTAS'96)
+,
+ACM Conference on Object Oriented Programming Systems, Languages, and
+Applications (OOPSLA'96)
+, and the
+ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE'96)
+He also presented a poster at OOPSLA'95, made presentations at the
+Subjectivity Workshops at OOPSLA'94 and OOPSLA'96, participated in the
+Doctoral Symposium at OOPSLA'95, and participated in a demo at
+UIST'96 (thanks Steve).
+In an earlier life Mike earned BS and MCP degrees in
+architecture
+(the wooden kind) and
+city planning
+from
+MIT
+and worked as the Community Development Director for
+the city of
+Grinnell
+,
+Iowa
+.
+While the things he works on are different now, the skills in visual
+design and problem solving continue to be of value - and he still
+gets to talk about
+Chris
+
+Alexander
+.
+Here in Seattle, Mike has been active in the student chapter of the
+Washington Software Association
+,
+improving ties between students and large and small software
+companies in the area.  He enjoys hiking, cross-country skiing,
+sailing
+, and
+kayaking
+.
+He also enjoys swimming at Lake Bronson.
+
+More recently, Mike's "free" time has been taken up by
+Marco Harold Sebastien Van Hilst, who was born on May 10, 1996.
+Mike will post pictures as soon as he locates another photo scanner.
+
+
+
+
+visits since 8 November 1996.
+
+
+
+
+Michael VanHilst
+
+Last modified:
+Friday, November 8, 1996
+
+

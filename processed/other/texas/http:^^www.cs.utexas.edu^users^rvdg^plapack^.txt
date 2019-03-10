@@ -1,0 +1,273 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 21:23:02 GMT
+Content-Type: text/html
+Content-Length: 8306
+Last-Modified: Thursday, 19-Sep-96 00:42:49 GMT
+PLAPACK
+
+Parallel Linear Algebra Package (PLAPACK)
+
+Number of accesses to this page since Sunday Aug. 4, 1996:
+
+Please sign our
+guestbook
+so we can keep you informed
+The
+PLAPACK
+project investigates interfaces and implementations
+of dense and sparse parallel linear algebra libraries.
+This project is unique in that it concentrates on convenient
+interfaces.  It is our conclusion that this can only be
+achieved by distributing the
+vectors
+in a linear
+system first, which then induces the
+matrix
+distribution.
+Justification for this lies in the fact that the physical problem
+leads to a mathematical model, involving two spaces and an operator.
+It is these spaces that represent the problem.  Discretization
+of the mathematical model leads to vectors, which hold the
+solution and right hand side,
+and the matrix, which is the discretized operator.
+Physically Based Matrix Distribution
+is based on these
+ideas.  The interface that allows information from the
+physical problem and/or mathematical model to be passed down
+to the library is called the
+Physically Distributed Matrix Interface
+.
+
+If you would like to be kept informed of progress on this library, please
+sign our
+guestbook.
+
+The
+SL_library
+is a prototype implementation for PLAPACK.
+Here
+SL
+stands for
+S
+imple
+L
+ibrary.
+It was created in part
+to investigate techniques required for the PLAPACK library,
+and in part to provide an infrastructure for the course
+"Parallel Techniques for Numerical Algorithms"
+taught by
+Robert van de Geijn
+at
+the University of Texas at Austin.
+
+
+
+Parallel Linear Algebra Package (PLAPACK):
+Release R0.1 (Beta) Users' Guide
+
+Manuscript in preparation, Aug. 1 version.
+
+Using PLAPACK: Parallel Linear Algebra Package
+
+PLAPACK Users' Guide, to be published by MIT Press in 1997.
+Sept. 10, 1996 version.
+In preparation.  Notice that we are changing a number of
+calling sequences. Due to the inconsistency between the currently
+available library and this guide, which reflects the next release,
+it is important to sign our
+guestbook,
+so we can keep
+you informed.
+
+
+
+SL_library: reference manual
+
+John Gunnels now maintains this manual
+
+
+Some recent performance numbers
+
+
+
+Related reading
+
+
+Unpublished Manuscript
+
+
+Almadena Chtchelkanova,
+Carter Edwards,
+John Gunnels,
+Robert van de Geijn,
+"A Comprehensive Approach to Parallel Linear
+Algebra Libraries,"
+Draft Oct. 9, 1995.
+Currently 75 pages.  Incomplete manuscript
+
+
+
+PLAPACK Working Notes
+
+
+C. Edwards, P. Geng, A. Patra, and R. van de Geijn,
+"Parallel Matrix
+Decompositions: have we been doing it all wrong?"
+PLAPACK Working Note #1,
+TR-95-39, Department of Computer Sciences, University of
+Texas, Oct. 1995.
+
+Robert van de Geijn and Jerrell Watts
+"SUMMA: Scalable Universal Matrix Multiplication Algorithm,"
+PLAPACK Working Note #2,
+Department of Computer Sciences, The Unversity of
+Texas, TR-95-13, April 1995.
+Also: LAPACK Working Note #96 , May 1995.
+Journal version: Concurrency: Practice and Experience, to appear.
+
+Brian Grayson and Robert van de Geijn
+"A High Performance Parallel
+Strassen Implementation,"
+PLAPACK Working Note #3,
+Parallel Processing Letters,
+to appear.
+
+Almadena Chtchelkanova, John Gunnels, Greg Morrow,
+James Overfelt,
+Robert A. van de Geijn,
+"Parallel Implementation of  BLAS:
+General Techniques for Level 3 BLAS,"
+PLAPACK Working Note #4,
+TR-95-40, Department of Computer Sciences, University of
+Texas, Oct. 1995.
+Journal version: Concurrency: Practice and Experience,
+to appear
+.
+
+Almadena Chtchelkanova,
+Carter Edwards,
+John Gunnels,
+Greg Morrow,
+James Overfelt,
+Robert van de Geijn,
+"Towards Usable and Lean Parallel Linear Algebra Libraries,"
+PLAPACK Working Note #5,
+TR-96-09, Department of Computer Sciences, University of Texas,
+May 1996.
+Conference version: Supercomputing 96,
+submitted
+.
+
+
+
+
+Overhead foils used at the
+BLAS workshop
+in Tennessee
+
+
+Almadena Chtchelkanova, Carter Edwards, John Gunnels, and Robert van de Geijn,
+A Comprehensive Approach to Parallel Linear Algebra Libraries
+, presented by Robert van de Geijn.
+
+Carter Edwards and Robert van de Geijn,
+Physically Distributed Matrix Interface
+presentated by Carter Edwards.
+
+Almadena Chtchelkanova, John Gunnels, Greg Morrow, James Overfelt,
+Robert A. van de Geijn,
+Parallel Implementation of BLAS: General
+Techniques for Level 3 BLAS
+,
+presentated by Almadena Chtchelkanova.
+
+
+Other Overhead foils
+
+
+Robert A. van de Geijn,
+Sandia Slides
+
+
+
+Color Powerpoint slides
+
+
+
+
+Sponsors
+This project is being funded in part by
+
+The
+PRISM
+(Parallel Research on Invariant Subspace Methods)
+project, under ARPA grant P-95006.
+
+
+The NASA High Performance Computing and Communications
+Program's Earth and Space Sciences Project
+under NRA Grant NAG5-2497.
+
+
+The NASA High Performance Computing and Communications
+Program's Earth and Space Sciences Project
+under NRA Grant NAG5-2511.
+
+Title: Application of Massively Parallel Processing Techniques to Least Squares
+Problems in Satellite Gravity Gradiometry
+Investigators: Dr. Bob E. Schutz, Dr. Srinivas Bettadpur, Gregory A. Baker
+
+
+
+Meet the Team
+
+
+
+Philip Alpatov
+
+
+Greg Baker
+
+
+Almadena Chtchelkanova
+
+
+Joe Eaton
+
+
+Carter Edwards
+
+
+Murthy Guddati
+
+
+John Gunnels
+
+
+Sam Guyer
+
+
+Ken Klimkowski
+
+
+Calvin Lin
+
+
+Greg Morrow
+
+
+Peter Nagel
+
+
+James Overfelt
+
+
+Michelle Pal
+
+
+Robert van de Geijn
+
+
+

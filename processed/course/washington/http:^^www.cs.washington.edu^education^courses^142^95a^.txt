@@ -1,0 +1,195 @@
+Date: Tue, 10 Dec 1996 16:49:58 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE/ENGR 142 Home Page (Autumn 95)
+
+
+
+
+
+
+
+CSE/ENGR 142:
+Computer Programming I
+
+Ben Dugan and Martin Tompa, Autumn 1995
+
+
+
+
+Welcome to the 142 Home Page!
+This is the World Wide Web ("the Web" for short) hypermedia document
+for CSE/ENGR 142 and contains a bounty of information about the
+class.  Keep in mind that this document is not static, and that new
+information (especially class messages) will be added frequently.
+If you have any problems with this document, send mail to
+cse142-webmaster@cs.
+You may click on any highlighted item for more information.
+Click
+here for help
+.
+
+
+Class Messages
+
+Check Class Messages frequently.
+(Last update:
+12/15/95 at 09AM.)
+
+Course Syllabus
+
+Lab & Office Hours
+
+The Staff
+
+Lecture Slides
+
+Homework
+
+Midterm Exam:
+
+Study Guide
+,
+Exam
+,
+Solution
+
+Final Exam:
+
+Study Guide
+,
+Exam
+,
+Solution
+
+Tips on:
+
+
+Macs & the Lab
+,
+
+C & Think C
+,
+
+The Think Debugger
+, and
+
+Netscape
+.
+Help Bulletin Boards
+
+Computing at Home
+
+Textbook Code
+
+References
+
+Final Exam:
+
+
+NOT AT REGULARLY SCHEDULED TIME / PLACE
+
+Special Demos
+
+Rainy Day Activities
+
+
+Course webs from earlier quarters should be intact (more or
+less; if you notice problems, for instance links that don't
+work, please send mail to cse142-webmaster@cs.washington.edu).
+You might like to see assignments, tests, and the like that were
+used previously.
+
+
+
+
+
+Autumn 1994
+
+Winter 1995
+
+Spring 1995
+
+Summer 1995
+
+
+
+
+
+
+
+
+
+
+Search the 142 Web
+
+Autumn `95, all pages
+Previous quarters, too
+Tips
+Miscellaneous Info
+Rainy Day Activities
+
+Case insensitive
+
+For:
+
+Match whole word
+
+
+
+
+
+
+Other information
+is available about
+
+the
+University of Washington,
+
+the
+Computer Science and Engineering Department,
+
+the
+Computer Science degree program
+(offered through the College
+of Arts and Sciences),
+the
+Computer Engineering degree program
+(offered through the College
+of Engineering),
+and
+
+related courses,
+for both majors and nonmajors.
+If you're considering taking CSE 143, here's a
+preview
+.
+
+
+Netscape Help:
+If you're running Netscape on a Mac, you can find some help items
+under the Mac Balloon Help menu, in particular the online
+Handbook
+.
+
+Portions of the CSE/ENGR 142 Web may be reprinted or adapted for
+academic nonprofit purposes, providing the source is accurately quoted
+and duly credited.  The CSE/ENGR 142 Web: Copyright 1995, Department
+of Computer Science and Engineering, University of Washington.
+
+
+
+Comments to:
+
+
+cse142-webmaster@cs.washington.edu
+
+(Last Update:
+01/02/96
+)
+
+
+
+

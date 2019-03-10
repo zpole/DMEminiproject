@@ -1,0 +1,76 @@
+Date: Wed, 20 Nov 1996 23:22:38 GMT
+Server: NCSA/1.5.1
+Last-modified: Tue, 19 Nov 1996 20:19:34 GMT
+Content-type: text/html
+Content-length: 1421
+
+wwwp course home page
+
+
+
+WWW Programming
+
+John B. Smith
+
+Department of Computer Science
+
+Fall, 1996
+
+
+Course description and materials
+
+
+
+Abstract
+
+
+Description
+
+
+Schedule
+
+
+
+Participants
+
+
+
+Students
+
+
+Teaching Assistant
+
+
+Instructor
+
+
+
+Java Projects
+
+
+Resources
+
+
+
+Class Forum
+
+
+Class Chat
+
+
+Class Search
+
+
+Introductory and summary discussions
+
+
+
+
+email:
+jbs@cs.unc.edu
+
+url:
+http://www.cs.unc.edu/~jbs/
+
+
+

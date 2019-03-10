@@ -1,0 +1,127 @@
+Date: Mon, 25 Nov 1996 22:02:19 GMT
+Server: NCSA/1.5.2
+Last-modified: Tue, 12 Nov 1996 19:57:56 GMT
+Content-type: text/html
+Content-length: 3307
+
+Bio for Munindar P. Singh
+
+
+
+[
+Home
+|
+DB Lab
+|
+Courses
+|
+Papers
+|
+Activities
+]
+
+
+Munindar
+P. Singh
+
+Education
+
+
+Ph.D.
+Department of Computer
+Sciences
+,
+University of Texas at
+Austin
+, Austin, 1993
+M.S.C.S.
+Department
+of Computer Sciences
+,
+University of Texas at
+Austin
+, Austin, 1988
+B.Tech.
+Department of Computer
+Science and Engineering
+,
+Indian Institute of
+Technology
+, New Delhi, 1986.
+
+Work Experience
+
+
+
+Department of Computer
+Science
+,
+North
+Carolina State University
+, Fall 1995 onwards
+
+Microelectronics and
+Computer Technology Corporation (MCC)
+in Austin, Texas,
+1989-1995
+Adjunct assistant professor in the Department of Computer
+Sciences at the University of Texas, 1994-95.
+
+Research Interests and Sponsorship
+Dr. Singh directs the
+Database
+Laboratory
+.  His research interests include the following
+areas:
+
+
+Semantic interoperation of databases
+
+
+Cooperative information systems
+
+
+Multiagent systems: theories and programming
+
+Dr. Singh's research is sponsored by
+
+National Science Foundation,
+Information
+Technology and Organizations (ITO)
+Program.
+National Science Foundation,
+Databases and Expert
+Systems (DBES)
+Program.
+IBM Corporation.
+Microelectronics and Computer Technology Corporation.
+NCSU Faculty Research and Professional Development Fund.
+NCSU College of Engineering.
+
+Publications
+
+
+Book on
+Multiagent
+Systems
+published by
+Springer-Verlag
+, 1994.
+
+Papers and Reports
+
+
+Courses and Local Activities
+
+Professional
+Activities
+
+
+Munindar P. Singh
+Withers 226 / Box 8206
+Department of Computer Science
+North Carolina State University
+Raleigh, NC 27695-8206, USA
+
+singh@ncsu.edu
+

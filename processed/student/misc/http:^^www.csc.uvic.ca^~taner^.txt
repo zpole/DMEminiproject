@@ -1,0 +1,55 @@
+Date: Tue, 26 Nov 1996 16:24:03 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+
+
+Taner's Home Page
+
+
+
+
+
+
+
+
+
+Welcome to Taner's Home Page
+
+You are visitor #
+since February 18, 1996
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Versioned homepage
+
+
+
+
+
+
+
+Last update: February 18, 1996.
+
+
+

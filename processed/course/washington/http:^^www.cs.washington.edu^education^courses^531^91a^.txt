@@ -1,0 +1,41 @@
+Date: Mon, 02 Dec 1996 15:04:25 GMT
+Server: NCSA/1.4.cp: No match.
+: text/html
+
+
+CSE 531 Home Page, Fall '91
+
+
+
+CSE 531: Automata
+
+Autumn 1991
+
+Instructor:
+Paul Beame
+
+
+
+Welcome to the 531 Home Page!
+This is the World Wide Web ("the Web" for short) hypermedia document
+for CSE 531.
+
+Exams:
+
+
+Quiz 1:
+Postscript
+
+Quiz 2:
+Postscript
+
+Final:
+Postscript
+or
+Latex
+
+
+
+beame@cs.washington.edu
+
+

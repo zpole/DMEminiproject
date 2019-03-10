@@ -1,0 +1,245 @@
+Date: Mon, 25 Nov 1996 23:29:18 GMT
+Server: NCSA/1.5.1
+Last-modified: Wed, 02 Oct 1996 20:43:03 GMT
+Content-type: text/html
+Content-length: 7972
+
+
+
+Home Page: Greg Priest-Dorman
+
+
+
+
+
+
+Campaign for Online Freedom of Speech, Press and Association
+
+
+Help design an
+accessible world!
+
+
+A point in every direction is the
+same as no point at all
+, (
+The Point
+by Harry
+Nilsson)
+
+These pages are HTML compliant:
+use any browser
+you choose!
+(Of course NetScape does have some problems
+displaying HTML... )
+
+
+
+Where Am I in the world?
+(
+The Seven Beggars
+Nahman of Bratslav)
+Since there are lots of
+ways to get to know people (including checking out their Home
+Pages), I hope you enjoy the glimpse of me you get from what's
+here.  Below you will find:
+
+
+The littlest home page
+
+Resources for fighting Internet Censorship
+
+Info on Archery on V.C. Campus
+
+
+Info for the modern medievalist
+
+
+My Favorite Books and Stories
+
+
+Current Computer Projects
+
+
+Info for the World Citizen
+
+A few diversions
+, my favorite
+links to news and the world with a bit of silliness tossed in for good measure.
+
+
+Of course you could
+go back
+while you still can!
+
+
+
+Archery at Vassar
+
+The Archery Mini-Course
+Split The Wand!
+is back.
+If you need information about it send me mail.  If you want to
+shoot on campus and are not on my e-mail info list, please
+send me a note and I will add you to it.  You will then be
+informed of where and when we are shooting and be kept abreast
+of any last minute changes.
+
+There are also local (off campus) archery practices.  For
+information on these, send me a note and I will put you in
+touch with the person running them.
+
+We have been shooting on campus again since 1991.  I would
+be interested in any stories or information on Archery at
+Vassar back when it was a team sport.
+
+
+
+
+Current Computer Projects and
+Links
+
+MULTEXT and MULTEXT-EAST scripts, projects and links
+
+
+MULTEXT
+
+French Site of the Multext project.
+
+Tomaz
+Erjavec's public MULTEXT-EAST site
+
+Multilingual Texts
+and Corpora for Eastern and Central European Languages
+Site.
+
+MULTEXT-EAST
+at univ-aix
+
+Multilingual Texts
+and Corpora for Eastern and Central European Languages
+Site.
+
+Corpus Encoding
+Standard.
+
+
+March 1996.  From the abstract "The CES has
+been designed to be optimally suited for use in language engineering
+research and applications, in order to serve as a widely accepted set
+of encoding standards for European corpus work...The CES specifies a
+minimal encoding level that corpora must achieve to be considered
+standardized in terms of descriptive representation (marking of
+structural and typographic information) as well as general
+architecture (so as to be maximally suited for use in a text
+database).  It also provides encoding specifications for linguistic
+annotation, together with a data architecture for linguistic corpora."
+
+CES DTDs
+
+The
+latest versions of the CES DTDs.  From this location you can see the
+DTDs themselves.
+
+CES DTDs via dtd2html
+
+From here you can explore a navigable view (using dtd2html) of
+each dtd.
+
+tagusage
+
+This short shell script writen by Heiki-Jaan Kaalep and
+then modified by me will do the tag usage
+calculations for you and and format it in so you can just paste it into
+your TEI or CES header (or any other DTD that wants tagusage).  It
+is dependent on the unix carriage return so it will probably need
+to be modified to work under dos.
+See the script
+
+Using Cyrillic Entities with Emacs psgml mode
+
+I have a system that lets you type the keys you would normally
+type to generate a character but when you are in psgml mode it
+generates the entitiy for this character, so you can type normaly and
+be inserting entities.  It would work equally well for other character
+sets (ISOlat1 or 2), I just had a need for cyrillic so that is the one I set up.
+
+If you want to find out more you can read the
+HowTo file.
+I am looking some for people to
+try this out and give me feedback before I put it up for public
+consumption.  So if after looking at the HowTo you want the package,
+please send me email and we'll work out a way to get it to you
+(uuencoded mail probably).
+
+
+Other SGML projects and links
+
+
+Robin Cover's SGML web page.
+
+David
+Birnbaum's SGML page.
+
+The TEI Guidelines
+
+SGML Open,
+a non-profit, international consortium of suppliers whose products and services
+support SGML.  Specifically, you might want to check out
+Charles
+Goldfarb's article,
+Entity Management in SGML.
+
+
+
+Other projects and links
+
+
+Text to Speech at speeds above 350wpm
+
+I have
+several scripts and emacs macros for working with a dectalk
+(multivoice) text to speech unit, nothing to fancy but if you
+are interestd in them, drop me a note.  If you have some of your own, I
+would be interested in what you have come up with.
+
+Additionally, we are now mirroring T. V. Raman's wonderfull
+emacspeak
+speach output
+subsytem for emacs and hosting the mailing list.  Information on
+emacspeak and the mailing list is available at
+http://www.cs.vassar.edu/mirror/emacspeak/emacspeak.html
+.
+
+
+
+
+International Organization
+for Standardization (ISO Online)
+
+
+
+
+
+
+Well, that's all there is for now, hope you had a nice visit!
+
+This page was writen using emacs 19.19 and psgml mode with an
+htmlplus dtd, then converted to HTML2, most recently to HTML3.2.  If you have any questions or
+comments about it, please send them to:
+
+priestdo@cs.vassar.edu
+
+No Soliciting!
+
+This page last was
+mucked with on 10/1/96
+
+Back to CS
+faculty list
+|
+CS Search
+
+
+
+

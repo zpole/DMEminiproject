@@ -1,0 +1,53 @@
+Date: Thu, 21 Nov 1996 23:01:49 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 19 Aug 1996 21:29:49 GMT
+Content-length: 1619
+
+Andy Gray's Home Page
+
+Andrew J. Gray
+
+Department of Computer Science and Engineering
+University of California, San Diego
+La Jolla, CA  92093-0114
+
+
+
+E-mail:
+
+agray@cs.ucsd.edu
+
+
+Phone:
+(619) 554-1000
+
+FAX:
+(619) 554-1019
+
+Mail:
+ACCEL Technologies, Inc., 6825 Flanders Drive,
+San Diego, CA 92121
+
+I am a masters student working in the
+Software Evolution group
+at UCSD on automated techniques to assist the maintenance, understanding,
+and restructuring of large software systems.  Specifically, I am
+investigating the adaptation of an existing object-oriented restructuring
+tool for C programs to a generic tool capable of being retargeted to
+restructure Ada programs.  More details about my research can be found in my
+thesis proposal
+.
+In my other life, I am a software engineer for
+ACCEL Technologies, Inc.
+,
+an industry leader in the Electronic Design Automation software
+market since 1986.  ACCEL develops and supports
+ACCEL EDA
+,
+a powerful suite of electronic design software tools for the Windows
+platform.  ACCEL also offers the mature and flexible
+Tango
+,
+an easy-to-use entry-level design environment for DOS.
+

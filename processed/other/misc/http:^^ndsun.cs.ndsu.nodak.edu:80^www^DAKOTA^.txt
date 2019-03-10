@@ -1,0 +1,110 @@
+Date: Tuesday, 14-Jan-97 23:39:46 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Wednesday, 10-Jan-96 17:12:25 GMT
+Content-length: 3557
+DAKOTA Home Page
+
+
+
+
+
+
+
+
+
+DAKOTA
+Microcomoputer Based Aircraft Routing and Scheduling System
+
+Sponsored by:
+Air Force Office for Scientific Research (AFOSR)
+Air Force Mobility Modeling and Simulation Users Group (AFMMSUG)
+United States Air Force in Europe (USAFE)
+
+
+
+The DAKOTA software facilitates the mission routing and scheduling
+tasks for the United States Air force in Europe. The system
+facilitates scheduling of critical mission travel by distinguished
+visitors and officers, serving Europe, the former Soviet Union, and
+Africa, as well as transcontinental flights to the United States. A
+heterogeneous fleet of Aircraft including C-12, C-135, C-20, C-21 and
+T-41 planes is available, with differing capacities, endurance, speed
+and facilities. Each type of aircraft is allocated a fixed number of
+flying hours. The objective of the process is to maximize overall
+efficiency of the fleet. This is done by supporting travel of as many
+eligible personnel as possible, within the constraints of fleet size,
+flying hours and other limitations.
+The software allows entering requests for travel and information about
+airports, aircraft and passengers. Missions can be scheduled, either
+manually or by utilizing the decision support module. A number of
+tools are provided to facilitate the scheduler's  task, including
+maps, tables, feasibility checking, and summaries of available flying
+hours.
+On line access to dakota:
+The online access to Dakota is restricted to one user at any given time.
+The demo version runs the no-server version which means that the user can
+work on only one screen at a time.
+telnet ndsun
+(login: dktdemo)
+[NOTE: Your telnet application will need to handle some kind of XTERMINAL to display the demo]
+
+If you would like to
+Michael Haugrud
+) or (
+Dr. Nygard
+).
+
+The home pages on individual screens are under construction.
+
+
+
+Map
+Screen
+
+
+
+
+
+
+Schedule Screen
+
+
+
+INPUT SCREENS
+
+
+
+Airport Atlas Screen
+
+Passenger Screen
+
+
+
+Aircraft Data Entry Screen
+
+
+
+
+
+
+Request Screen
+
+
+
+
+
+Grease Board
+
+
+
+
+
+Online Help
+
+
+
+
+
+

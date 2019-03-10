@@ -1,0 +1,75 @@
+Date: Mon, 02 Dec 1996 14:23:46 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE/ENGR 143 Index Page
+
+
+The World Wide Web page for the current quarter of 143 is
+here
+.
+Course webs from earlier quarters should be intact (more or
+less; if you notice problems, for instance links that don't
+work, please send mail to cse143-webmaster@cs.washington.edu).
+
+
+
+
+
+Summer 1995
+
+Autumn 1995
+
+Winter 1996
+
+Spring 1996
+
+Summer 1996
+
+
+
+
+
+Other information
+is available about
+
+the
+University of Washington,
+
+the
+Computer Science and Engineering Department,
+
+the
+Computer Science degree program
+(offered through the College
+of Arts and Sciences),
+the
+Computer Engineering degree program
+(offered through the College
+of Engineering),
+and
+
+related courses,
+for both majors and nonmajors.
+
+
+Portions of the CSE/ENGR 143 Web may be reprinted or adapted for
+academic nonprofit purposes, providing the source is accurately quoted
+and duly credited.  The CSE/ENGR 143 Web: Copyright 1996, Department
+of Computer Science and Engineering, University of Washington.
+
+
+
+Comments to:
+
+
+cse143-webmaster@cs.washington.edu
+
+(Last Update:
+09/12/96
+)
+
+
+
+

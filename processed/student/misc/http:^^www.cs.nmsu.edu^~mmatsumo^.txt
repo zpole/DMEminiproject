@@ -1,0 +1,155 @@
+Date: Tuesday, 26-Nov-96 03:12:29 GMT
+Server: NCSA/1.1
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Wednesday, 30-Oct-96 03:23:19 GMT
+
+
+Mitsutaka Matsumoto
+
+
+
+Mitsutaka Matsumoto
+
+
+
+Status at NMSU
+
+
+Classes I am taking in Fall 1996
+
+
+Birth Information
+
+
+Education
+
+
+Research Interest & Background
+
+
+Publications
+
+
+
+
+
+Status at NMSU:
+
+A graduate student at the
+Computer Science Department
+
+A graduate assistant at the
+Computing Research Laboratory
+
+Classes I am taking in Fall 1996:
+
+
+
+CS471 Programming Language I
+(
+Dr.Hartley
+)
+CS371 Software Development
+(
+Dr.Autuston
+,
+TA:
+Pedro Marquez
+)
+CS273 Machine Programminng and Organization
+(
+Dr.Wiebe
+,
+TA:
+Chuck Keller
+)
+
+Birth Information:
+
+Date of Birth: March 9, 1972.
+Born Place: Nagano, Japan
+(
+
+XVIII Olympic Winter Games
+are held in my home town in
+1998!!!
+)
+Family:
+Mitsunori
+(father), Yoko (mother), Izumi (brother) and Lan (pet).
+Education:
+
+Master: Electrical Engineering,
+Kyoto University
+, Japan, 1996.
+Bachelor: Electrical Engineering, Kyoto University, Japan, 1994.
+I am now a graduate student at the
+Computer Science Department of
+New Mexico State University
+, and
+also a PhD student at
+Nara Institute of
+Science and Technology
+, Japan.
+
+
+
+Research Interests & Background:
+
+My academic interests are in mathematical modeling of various
+human activities, and in attempts at finding relationships between
+topics which had been considered independent. The former includes
+Computational Linguistics, Artificial Life, Game Theory, and
+Artificial Intelligence.
+I was impressed by the early attempts in A.I., which
+motivated me to decide to major in Computer Science. These attempts are
+interesting also because, I believe, they are the attempts of finding
+novel relations among mathematics, linguistics, philosophy, and
+engineering.
+
+The work I did as my master thesis at Kyoto University, is my attempt of
+establishing an original relation between Information Theory
+(specifically universal code of integers) and Information Retrieval
+(fast string-matching). I applied a code which had been discussed as a
+method of universal coding of integers, with revision, to accelerate
+string-matching.
+
+Now, I am interested in mathematical(or statistical) features in
+linguistic phenomena. And from the viewpoint of engineering, I am
+also interested in the application of statistical methods to Natural
+Language Processing.
+
+
+
+Publications:
+
+
+Takehito
+Utsuro
+, Kiyotaka Uchimoto, Mitsutaka Matsumoto, and
+Makoto Nagao
+, "Thesaurus-based Efficient Example Retrieval by
+Generating Retrieval Queries from Similarities," Proceedings of 15th
+COLING, pp.1044-1048, August 1994.
+
+(
+to appear
+)
+Mitsutaka Matsumoto, Tatsuhiko Tsunoda, and
+Yuji
+Matsumoto
+, "A coding scheme which enables a fast direct search in
+compressed files," IEICE Transactions on Fundamentals of Electronics,
+Communications and Computer Sciences.
+
+Other peple at the CS department
+
+
+
+mmatsumo@cs.nmsu.edu
+
+Last Modified: October 24, 1996
+
+
+

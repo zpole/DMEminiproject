@@ -1,0 +1,124 @@
+Date: Thu, 21 Nov 1996 21:33:24 GMT
+Server: NCSA/1.5.2
+Content-type: text/html
+
+
+Dr. Takayuki Dan Kimura's Home Page
+
+
+
+
+
+
+
+
+
+Dr. Takayuki Dan Kimura
+
+Professor
+
+Department of Computer Science
+,
+Washington University
+in
+St. Louis
+
+
+
+E-mail:
+tdk@cs.wustl.edu
+Office:  510,
+Jolley Hall
+Phone:  (314) 935-6122
+Address:   Campus Box 1045, Washington University,
+One Brookings Drive, St. Louis, MO 63130
+Fax:      (314) 935-7302
+
+
+
+
+Education :
+
+Ph.D.	1971    University of  Pennsylvania		Computer and Information Science
+M.S.	1968    University of  Pennsylvania		Computer and Information Science
+B.S.	1960    University of  Osaka (Japan)		Applied Physics
+
+
+
+Research Interests :
+
+Advanced User Interfaces,
+Pen Computing
+(
+PenLab
+),
+End-user Programming,
+
+Visual Programming Languages
+
+Computer Applications in Education,
+Communication Science,
+Modular (Object-Oriented) Programming
+
+
+
+Courses :
+
+Advanced User Interface (
+CS501S
+)
+Formal Concepts in Computer Science (
+CS540T
+)
+Modular Programming (
+CS545S
+)
+Research Seminar on Visual Programming (
+CS672
+)
+
+
+Publications :
+
+
+Journal Papers
+
+Conference Papers
+
+
+
+Industrial Collaborations :
+
+
+Mitsubishi Workshop on OO Technologies
+(7/22/96 - 7/26/96)
+
+Software Engineering Partnership
+
+
+
+
+Interesting Sites:
+
+
+
+Visual Programming Languages Bibliography
+
+
+IEEE Symposium on Visual Languages (VL97: Capri Italy, September
+1997)
+
+
+Visual Programming Challenge
+
+
+User Interface Software Tools
+
+
+Joint Modular Languages Conference (JMLC'97: Linz Austria, March
+1997)
+
+
+
+
+

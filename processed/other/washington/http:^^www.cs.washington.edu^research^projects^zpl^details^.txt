@@ -1,0 +1,52 @@
+Date: Tue, 10 Dec 1996 03:29:04 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+ZPL Details
+
+
+
+
+ZPL Details
+
+
+The following provide a more detailed picture of ZPL.
+
+
+
+
+Sample Programs
+
+Sample ZPL source files.
+
+
+The ZPL Blurbs
+
+Your on-line guide to using ZPL.
+
+
+ZPL status
+
+The status of the ZPL language and compiler features.
+
+
+
+
+
+
+
+
+[
+ZPL
+|
+UW CSE
+|
+UW
+]
+
+zpl-info@cs.washington.edu
+
+
+
+

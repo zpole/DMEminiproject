@@ -1,0 +1,60 @@
+Date: Thursday, 21-Nov-96 23:17:58 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Friday, 18-Oct-96 18:26:10 GMT
+Content-length: 1846
+Jayavel Shanmugasundaram's Home Page
+
+
+
+
+Jayavel Shanmugasundaram (Jai)'s Home Page
+
+
+shan@cs.umass.edu
+
+
+
+
+Where am I? Whither Have I Been?
+I hail from the city of
+Madurai
+located in
+TamilNadu
+,
+India
+.
+I did most of my schooling at Vikaasa (Madurai) and then proceeded to earn(?)
+my Bachelors degree in Computer Science and Engineering from the
+Regional Engineering
+College
+, Tiruchirappalli, India.
+Currently, I am a graduate student at the
+Department
+of Computer Science
+at the
+University of
+Massachusetts, Amherst
+.
+
+Research
+I am working with Professors
+Lori Clarke
+and
+Krithi
+Ramamritham
+.
+My research mainly deals with consistency support and object management for
+advanced database applications (like software development environments).
+
+Publications
+
+
+Resume (
+postscript
+and
+ascii
+)
+
+

@@ -1,0 +1,100 @@
+Date: Thursday, 21-Nov-96 23:40:29 GMT
+Server: NCSA/1.3
+MIME-version: 1.0
+Content-type: text/html
+Last-modified: Saturday, 22-Jun-96 16:48:37 GMT
+Content-length: 1679
+Olac Fuentes's URCS Home Page
+
+
+
+Olac Fuentes, URCS Grad Student
+
+Finger:
+
+fuentes@cs.rochester.edu
+
+
+Research Interests
+
+
+
+
+Grasping, dextrous manipulation and telemanipulation using robot hands
+
+
+Mobile robots
+
+
+Vision-based robots
+
+
+Robot learning
+
+
+
+
+Recent Publications
+
+
+
+Videos
+
+
+
+
+
+Manipulation
+
+of a wooden block with the Utah/MIT hand
+
+
+Insertion
+
+of a puzzle piece with the Utah/MIT hand
+
+
+Telemanipulated insertion
+
+of a puzzle piece with the Utah/MIT hand
+
+
+Pivoting manipulation
+
+of a plastic block
+
+Transporting and screwing in a
+light bulb
+
+
+
+High-precision vision-based grasping:
+grasping a marble
+
+
+
+Our
+mobile robot
+
+
+
+
+Other
+
+
+
+My hometown:
+Chihuahua
+,
+Chih.
+,
+Mexico
+
+
+
+
+Back to URCS Grads directory
+
+
+Back to URCS Home Page
+

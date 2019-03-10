@@ -1,0 +1,16 @@
+WWW Alert:  Redirection response from server is not handled by this client
+Date: Sun, 31 Aug 1997 00:23:18 GMT
+Server: Apache/1.2.1 Ben-SSL/1.8
+Location: http://www.utexas.edu/students/xcouncil/
+Connection: close
+Content-Type: text/html
+
+301 Moved Permanently
+
+
+Moved Permanently
+The document has moved
+here
+.
+
+

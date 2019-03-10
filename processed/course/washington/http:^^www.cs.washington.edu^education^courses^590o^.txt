@@ -1,0 +1,206 @@
+Date: Thu, 21 Nov 1996 22:16:15 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+
+CSE 590 O
+
+
+
+
+CSE 590 O - Parallel Programming Environments
+
+
+Larry Snyder
+Autumn Quarter 1996
+Mondays, 3:30-4:20 pm, Loew 220
+
+
+
+Welcome to the
+CSE 590 O
+Home Page!
+This quarter we will be reading selected papers from recent
+IPPS
+,
+PPoPP
+,
+ICS
+,
+Supercomputing
+,
+ICPP
+, and
+LCPC
+.  Below is
+a tenative schedule for the quarter.  The atmosphere is casual and
+will hopefully ignite some lively discussion.
+Everyone attending the seminar will be expected to present one of the
+papers.  There are still spots open, so hurry and sign up!
+Please send mail to
+majordomo@cs
+with
+"
+subscribe cse590o
+" in the body of the message to subscribe
+to the class mailing list.
+
+
+
+
+date
+
+paper
+
+presentor
+
+
+
+09/30
+
+Compiling MATLAB Programs to SCALAPACK: Exploiting Task
+and Data Parallelism
+
+Ramaswamy, Hodges IV, Banerjee
+(IPPS '96)
+
+FALCON: A MATLAB Interactive Restructuring Compiler
+
+DeRose, Gallivan, Gallopoulos, Marsolf, and Padua
+(LCPC '95)
+
+E
+
+
+
+10/07
+
+Compiling Portable Message-Driven Programs
+
+Ramkumar, Forbes, Kale
+(ICPP '95)
+
+Sung
+
+
+
+10/14
+
+Cross-loop reuse Analysis and its Application to
+Cache Optimizations
+
+Cooper, Kennedy, McIntosh
+(LCPC '96)
+
+Ruth
+
+
+
+10/21
+
+Global
+Communication Analysis and Optimization
+
+Chakarabarti, Gupta, Choi
+(PLDI '96)
+
+Sean
+
+
+
+10/28
+
+An Integerated Compilation and Performance Analysis Environment
+for Data Parallel Programs
+
+Adve, et al.
+(SC '95)
+
+AJ
+
+
+
+11/04
+
+Input/Output Characteristics of Scalable Parallel Applications
+
+Crandall, Aydt, Chien, Reed
+(SC '95)
+
+Jason
+
+
+
+11/11
+
+holiday
+
+
+
+11/18
+
+pC++/streams: A Library for I/O on Complex Distributed
+Data Structures
+
+Gotwalls, Srinivas, Gannon
+(PPoPP '95)
+
+Brad
+
+
+
+11/25
+
+A Model and Compilation Strategy for Out-of-Core Data Parallel
+Programs
+
+Bordawekar, Choudahary, Kennedy, Koelbel, Paleczny
+(PPoPP '95)
+
+
+
+
+12/02
+
+Local Iteration Set Computation for Block-Cyclic Distributions
+
+Midkiff
+(ICPP '95)
+
+
+
+
+12/09
+
+On the Utility of Threads for Data Parallel Programming
+
+Fahringer, Haines, Mehrotra
+(ICS '96)
+
+Eric
+
+
+
+12/16
+
+Cilk: An Efficient Multithreaded Runtime System
+
+Blumofe, Joerg, Kuszmaul, Leiserson, Randall,
+Zhou
+(PPoPP '95)
+
+
+
+
+
+
+
+
+
+Sung-Eun Choi
+
+
+Last modified: Tuesday 30 September 1996
+
+
+

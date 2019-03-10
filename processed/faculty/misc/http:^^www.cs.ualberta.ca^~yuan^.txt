@@ -1,0 +1,97 @@
+Date: Mon, 25 Nov 1996 22:54:09 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2591
+Last-modified: Tue, 22 Oct 1996 21:54:11 GMT
+Li-Yan Yuan
+
+
+
+
+
+
+
+
+
+
+Address
+
+
+Department of Computing Science
+
+University of Alberta
+
+
+Research Areas
+
+
+
+Deductive Database Systems
+
+
+Artificial Intelligence
+
+
+Logic Programming
+
+
+Courses
+
+
+
+CMPUT 114
+
+
+CMPUT 291
+
+
+CMPUT 391
+
+
+CMPUT 665
+
+
+Publications
+
+
+
+Selected Publications
+
+
+L.Y. Yuan and J.H. You.
+Coherence Approach to Logic Program Revision.
+
+To apear in IEEE Transaction on Knowledge and Data Engineering.
+J.H. You and L.Y. Yuan.
+On the Equivalence of Semantics for Normal Logic Programs.
+
+Journal of Logic Programming
+, 22(1):79-89, 1995.
+
+L.Y. Yuan.
+Autoepistemic logic of first order and its expressive power.
+
+Journal of Automated Reasoning
+, 13(1):69-82, 1994.
+L.Y. Yuan.
+Logic Program Semantics and Circumscription of Autoepistemic
+Theoreis.
+
+Information Processing Letters
+, 50:159-164, 1994.
+L.Y. Yuan and J.H. You.
+Autoepistemic circumscription and logic programming.
+
+Journal of Automated Reasoning
+, 10:143-160,1993.
+L.Y. Yuan and Z.M. Ozsoyoglu.
+Design of desirable relational database schemes.
+
+Journal of Computer and System Science
+, 45(3):435-470, 1992.
+
+Personal Information
+
+
+December 26, 1994
+

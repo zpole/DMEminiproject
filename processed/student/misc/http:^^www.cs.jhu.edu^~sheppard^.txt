@@ -1,0 +1,198 @@
+Date: Thu, 21 Nov 1996 22:25:13 GMT
+Server: NCSA/1.5.1
+Last-modified: Sat, 16 Nov 1996 03:58:30 GMT
+Content-type: text/html
+Content-length: 5954
+
+
+John W. Sheppard's home page
+
+
+
+John W. Sheppard's home page
+
+
+
+
+
+Contact Information
+
+Department of Computer Science
+
+The Johns Hopkins University
+Baltimore, Maryland 21218-2694
+
+and
+
+
+Integrated Communications Engineering
+ARINC Incorporated
+
+2551 Riva Road
+Annapolis, MD 21401
+JHU    : 410-516-5308
+ARINC  : 410-266-2099
+
+
+Send email to me at
+Hopkins
+.
+Send email to me at
+ARINC
+.
+Send email to me at
+home
+.
+
+My wife
+Justina
+and son
+Jesse Carl
+have home pages too.
+
+
+
+
+Webcounter
+says you are visitor
+number
+
+
+
+Currently, I am a graduate student in the Johns Hopkins Department of
+Computer Science, finishing up my Ph.D.  I am writing my thesis on
+memory-based reinforcment learning applied to solving differential
+games (Keep checking back for a downloadable copy).  Since I am
+attempting to solve the games (i.e., figure out
+game values and optimal strategies for "both" players), my research
+takes me into the realm of multi-agent learning, meaning ALL players
+are learning simultaneously. Some of the early results of my research
+can be found in the list of
+papers
+.
+In addition to working on my Ph.D., I am also employed as a Principal
+Research Analyst at ARINC Incorporated.  My research at ARINC is quite
+different from the work here at Hopkins.  At ARINC, I am responsible for
+IR&D (independent research and development) activities in the areas of
+intelligent test, diagnosis, and network fault management.  My publications
+in these areas are much more extensive than the list shown
+here
+.
+Unfortunately,
+only a few of those papers are available electronically.  People interested in
+receiving a list of my publications in test and diagnosis should contact
+me at any of the above ARINC addresses.
+Another responsibility of mine at ARINC is active participation in
+professional societies and standards writing bodies, namely the IEEE, AAAI,
+IEEE standards activities
+, and
+the IEC. In particular, I am the
+IEEE Computer Society liaison to IEEE Standards Coordinating Committee 20
+(SCC20).  SCC20 is responsible for writing several standards related to
+electronics testing (e.g., ATLAS, ABBET, and AI-ESTATE).  I am also the
+co-chair of the
+AI-ESTATE
+(artificial intelligence exchange and service tie
+to all test environments) data and knowledge representation working
+group.  Recently, I was appointed by the
+IEEE Computer Society
+TTTC
+(test technology technical committee), which is responsible
+for the 1149 standards (e.g., boundary scan), to co-chair the TTTC
+System Test TAC (technical activity committee).
+Also, I have been
+appointed by the TTTC to the Test Technology Standards Committee.
+Finally, I have been given the distinct honor of being named a
+U.S. delegate to the IEC/TC93 plenary meeting in Copenhagen. TC93 is
+the technical committee for Design Automation, working on standards
+such as EDIF and VHDL. TC93 recently formed a new working group (WG7)
+for test and is working to "fast-track" several standards from the
+IEEE to become IEC standards. The first will be ATLAS. Of particular
+interest to me is AI-ESTATE which is being proposed as a joint IEC/ISO
+standard.
+
+
+
+Publications:
+
+
+
+Machine Learning
+
+
+Test and Diagnosis
+
+
+
+
+
+Useful Links:
+
+
+
+Researchers in Machine Learning
+
+
+Machine Learning in Games
+
+
+Artificial Intelligence Links
+
+
+AI Repository at CMU
+
+
+Computer Science Technical Reports Archive
+
+
+A
+Beginner's Guide to HTML
+
+
+IEEE Standards Home Page
+
+
+AI-ESTATE
+Standards Home Page
+
+
+
+
+
+Useful Search Engines:
+
+
+
+Alta Vista
+
+
+Excite
+
+
+Infoseek Guide
+
+
+Lycos Search
+
+
+Magellan
+
+
+Yahoo
+
+
+WebCrawler
+
+
+
+
+
+
+
+JHU CS Home Page.
+
+
+©P-S Sounds, 1996
+
+
+

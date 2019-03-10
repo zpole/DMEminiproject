@@ -1,0 +1,43 @@
+Date: Mon, 25 Nov 1996 22:40:15 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 15 Feb 1996 16:01:25 GMT
+Content-length: 1201
+Gene Stark's Home Page
+
+Eugene W. Stark
+
+
+
+I'm Gene Stark, and this is my home page on the CS Department HTTP server.
+Click
+here
+for an audio greeting.
+
+
+Go to the
+HTTP server
+in my office
+, which is where most of the fun stuff is.
+Go to
+my home page
+on the
+Undergraduate Computing Laboratory
+systems.
+Find out about my
+professional life
+as an Associate Professor in the Computer Science Department
+at the State University of New York at Stony Brook
+(including technical reports).
+Go to my
+genealogy page
+.
+Go to the
+Computer Science Department
+home page.
+Go to the
+SUNY at Stony Brook
+home page.
+
+Eugene W. Stark
+

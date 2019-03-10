@@ -1,0 +1,65 @@
+Server: Netscape-Commerce/1.1
+Date: Tuesday, 26-Nov-96 17:57:41 GMT
+Last-modified: Friday, 31-May-96 03:09:18 GMT
+Content-length: 1906
+Content-type: text/html
+
+
+Cen Li's Home Page
+
+
+
+
+Welcome !
+
+I am a graduate student in
+Computer Science Department
+at
+Vanderbilt University
+.
+I got my B.S. degree in Computer Science from
+Middle Tennessee State University
+and
+M.S. degree in Computer Science from Vanderbilt University.
+My main research interest is in the area of
+Artificial Intelligence, particularly in Knowledge Discovery from Databases
+(
+KDD
+).
+I am currently in the stage of formulating the PhD thesis topic under the direction of
+Prof. Gautam Biswas
+.
+
+
+
+My
+research page
+.
+
+
+Curriculumn
+vita(postscript).
+
+
+More about
+me
+.
+
+
+
+
+
+Cen Li
+108 Trace Park Court, East
+Nashville, TN 37221
+
+(615) 662-4108 (Home)
+(615) 343-5940 (Work)
+(615) 343-5459 (Fax)
+
+
+
+cenli@vuse.vanderbilt.edu
+
+
+

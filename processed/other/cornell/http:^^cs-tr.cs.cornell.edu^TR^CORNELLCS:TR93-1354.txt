@@ -1,0 +1,67 @@
+Server: Dienst v4-1-6
+MIME-version: 1.0
+Content-type: text/html
+A Security Architecture for Fault-Tolerant Systems
+
+A Security Architecture for Fault-Tolerant Systems
+Michael K. Reiter,  Kenneth P. Birman and  Robbert Van Renesse
+TR93-1354
+June 1993
+
+Process groups are a common abstraction for fault-tolerant computing in distributed systems. We present a security architecture that extends the process group into a security abstraction. Integral parts of this architecture are services that securely and fault-tolerantly support cryptographic key distribution using novel techniques. We detail the design and implementation of these services and the secure process group abstraction they support. We also give performance figures for some common group operations.
+
+
+How to view this document
+
+
+Display an
+overview
+of the document in one of the following formats.
+
+Overview of thumbnail pages
+Structural overview
+
+
+Display a
+selected page
+in one of the following formats (document has 31 pages).
+
+
+raw OCR output
+hi-resolution tiff image
+inline gif image
+
+
+
+
+Display the
+whole
+document in one of the following formats.
+
+OCR text
+(produced by OCR, may have errors) 79813 bytes.
+
+
+
+Print or download all or selected pages.
+
+
+
+You are granted permission for the non-commercial reproduction, distribution,
+display, and performance of this technical report in any format, BUT this
+permission is only for a period of 45 (forty-five) days from the most recent
+time that you verified that this technical report is still available from
+the Computer Science Department of Cornell University under terms that
+include this permission.  All other rights are reserved by the author(s).
+[
+Search
+|
+Home page
+]
+
+NCSTRL
+This server operates at Cornell University.
+
+Send email to
+tech-reports@cs.cornell.edu
+

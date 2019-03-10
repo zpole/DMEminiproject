@@ -1,0 +1,161 @@
+Date: Tue, 14 Jan 1997 18:43:25 GMT
+Server: NCSA/1.5.1
+Last-modified: Fri, 13 Dec 1996 04:22:23 GMT
+Content-type: text/html
+Content-length: 3543
+
+
+University of Michigan AI Lab Homepage
+
+
+
+
+
+
+
+
+
+
+The Artificial Intelligence Laboratory
+
+Computer Science and Engineering Division
+
+Department of
+Electrical Engineering and Computer Science
+
+College of Engineering
+
+University of Michigan
+
+Advanced
+Technologies Laboratories
+
+1101 Beal Avenue
+Ann Arbor, MI 48109-2110
+(313) 763-6985
+FAX: (313) 763-1260
+
+
+
+AI Laboratory Overview
+
+
+
+Calendar of Events
+
+
+AI Lab Members
+
+
+
+Faculty
+
+
+Staff
+
+
+Students
+
+
+Alumni
+
+
+Undergraduate AI Education:
+
+
+
+Undergraduate AI courses
+
+
+Undergraduate Research Projects
+
+
+Graduate AI Education:
+
+
+
+Graduate AI courses
+
+
+Guide for First Year Students in AI at UM
+
+
+Guide to Graduate Life in EECS
+
+CSE Graduate Secretary: Dawn Freysinger, (313) 747-1807,
+dawnf@eecs.umich.edu
+
+
+Application information
+
+
+AI Research Groups:
+
+
+
+ARPA UGV group
+(
+Ed Durfee
+and
+Terry Weymouth
+)
+
+Decision Machine group
+(
+Michael Wellman
+)
+
+Distributed Intelligent Agents Group (DIAG
+)
+(
+Ed Durfee
+)
+
+HI-C group
+(Elliot Soloway)
+
+Soar group
+(
+John Laird
+)
+
+Advanced Technologies Laboratories (ATL) Building
+
+
+
+
+ATL Safety manual (to be updated
+soon
+)
+
+
+ATL Survival Guide
+
+
+General information on the ATL building
+
+
+Directions to the ATL
+
+
+WWW and Mosaic
+
+
+
+Related WWW servers
+
+
+Tutorials and tools for HTML
+
+
+Capabilities
+of this server
+
+
+
+
+AI Lab Web Support
+(ai-web@eecs.umich.edu)
+
+
+

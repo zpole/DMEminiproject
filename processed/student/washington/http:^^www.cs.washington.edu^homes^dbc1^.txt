@@ -1,0 +1,151 @@
+Date: Thu, 21 Nov 1996 23:03:01 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 28 Aug 1996 17:22:58 GMT
+Content-length: 4818
+
+
+David Christianson
+
+
+
+60 seconds till midnight...60 seconds till NOWHERE, BABY!
+
+
+
+David Christianson
+
+dbc1@cs.washington.edu
+
+
+Computer Science & Engineering Department,
+
+
+University of Washington,
+Box 352350
+
+Seattle, WA
+98195 USA
+
+
+
+
+Current Work
+In my spare time I am a third year graduate student here at
+the
+UW
+.
+I'm interested in
+AI
+and planning, but I've gotten into user interfaces and maybe even graphics
+as well. I'm currently studying Knowledge Representation, goal-directed
+behavior, mixed-initiative planning, activity recognition, and buzzword
+acquisition in the context of human-computer interaction.
+Some of my recent work has been to prototype useful/intelligent interfaces for Bob
+Doorenbos'
+ShopBot
+.
+Rather than try to build our own interface, our plan is to somehow
+integrate with the interfaces of various on-line stores by building a
+"Shopping Assistant." One simple assistant we've built is a Mac application
+that automatically reads and parses shopping baskets in order to determine
+what products the user is interested in.
+I have also collaborated with Sean Anderson, Li-Wei He, Dan Weld,
+David Salesin, and Michael Cohen to develop a simple interactive movie
+that demonstrates automatic camera planning.
+As an Apple Intern, I worked with Dan Russell to mix planning technology
+into the Mac user experience.
+I am also a co-developer/perpetrator of PDB, a graphical debugger for the
+UCPOP family of planners(I'm not just a programmer...I'm also a client).
+The number of people whose lives it has touched grows each and every day.
+The manual is
+here
+.
+I spent my undergraduate career at the
+University of Chicago
+,
+carboloading at Harold's Chicken and assisting in the
+Animate Agent Lab
+.
+
+Publications
+
+
+Christianson, Anderson, Wei-he, Salesin, Weld, and Cohen.
+Declarative Camera Control for Automatic Cinematography
+.
+To appear at AAAI 96.
+Firby, R.J., Christianson, D., and McDougal, T.
+Fast Local Mapping to Support Navigation and Object Localization
+.
+1992 Symposium: Sensor Fusion V
+. Boston, MA, November 1992.
+
+Where to Find Dave(when not at the IMA)
+I do most of my work in the
+Chateau's
+
+cynical office
+, with
+Frederic
+,
+William
+,
+Darren
+,
+Adam
+,
+Dan
+,
+and our glorious leader
+Juan.
+
+
+Important Thing
+One of my favorite activities is to practice
+judo
+.
+I recently competed in the
+Senior Nationals
+.
+
+
+Sibling on the WWW
+My
+sister
+just graduated from the School of Information and Library Studies at the University of Michigan.
+
+
+Just Surfing...
+
+
+The cutting edge in Web Research -
+The Information Supercollider
+.
+Really feel like slacking?
+Mirsky
+can help.
+Watch the heroes of your Gen X youth duel to the death at
+The WWWF Grudge Match
+.
+Fame and fortune! Check out my
+Response of the Week
+.
+Check out the
+Games Domain
+.
+Or, just go straight to
+DoomGate
+.
+So he says to me, "Evil's OK in my book, how about yours?" -
+The Tick
+.
+
+
+
+
+
+Dave Christianson
+
+
+

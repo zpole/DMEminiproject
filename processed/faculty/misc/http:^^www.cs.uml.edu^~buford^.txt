@@ -1,0 +1,246 @@
+Date: Thu, 21 Nov 1996 20:53:07 GMT
+Server: NCSA/1.5.2
+Last-modified: Mon, 30 Sep 1996 14:29:18 GMT
+Content-type: text/html
+Content-length: 10262
+JOHN F. BUFORD
+
+
+
+John F. Buford
+
+Associate Professor
+
+Director,
+Distributed Multimedia Systems Lab
+
+buford@cs.uml.edu
+
+
+Fall 1997
+Sabbatical at
+MIT Center for Educational Computing Initiatives
+
+Spring 1996 Courses
+91.515 Operating Systems I
+91.520 Distributed Object-Based Computing
+91.203 Assembly Language
+
+Fall 1995 Courses
+91.203 Comp Org and Assembly Language
+91.544 Multimedia Information Systems
+
+
+Research Interests
+
+
+Architectures of distributed hypermedia systems
+Distributed multimedia systems services
+Design of multimedia information systems
+
+
+Personal index
+
+
+Education
+Ph.D.
+Technische Universitaet Graz
+, Computer Science, 1988
+M.S.
+Massachusetts Institute of Technology
+, EE and CS, 1981
+B.S.
+Massachusetts Institute of Technology
+, Elec. Engr., 1981
+
+Recent Publications or Presentations
+1996
+
+John F. Buford and Lloyd Rutledge
+HyTime: Building Next-Generation Hypermedia
+,
+Springer-Verlag, New York, in preparation
+
+J. Buford.  Lessons from Some Real-Time Hypermedia Systems.
+(position paper).  Real-time Multimedia and the Web 96 (RTMW 96).
+Oct. 96.  Nice, France.
+J. Buford.
+CORBA and WWW: On a Collision Course. (position paper)
+Joint W3C/OMG Workshop on Distributed Objects and Mobile Code.
+Boston, June 1996.
+J. Buford and L. Rutledge.
+Third Generation Distributed Hypermedia Systems.
+in Handbook of Multimedia Information Management (ed. W. Grosky,
+R. Jain, and R. Mehrotra), Prentice Hall. forthcoming.
+C. Gopal and J. Buford.
+Delivering Hypermedia Sessions from a Continuous Media Server.
+in Multimedia Information Storage and Management (ed. S. Chung).
+Kluwer Press. forthcoming.
+L. Rutledge, J. Buford, R. Price. Mobile Objects in
+the Distributed HyOctane Hyperdocument Server.
+Proc. IMC 96. Rostock, Germany, Feb. 1996.
+
+J. Buford.  Distributed Multimedia Information Systems.
+SPIE Critical Reviews (ed. M. Nier).  Feb 1996.
+
+J. Buford.
+HyTime: Evaluation and Implementation Experience.
+Proc. Hypertext 96, March 1996. Washington DC
+1995
+
+Lloyd Rutledge, John Buford, John Rutledge.
+Modeling Techniques for HyTime,
+Proc
+International Conference on Multi-Media Modeling (MMM'95)
+,
+November 1995.
+J. Buford.
+A Transfer Protocol for an
+Open Hyperdocument Model Server.
+ED-MEDIA 95. June 1995
+J. Buford.
+Evaluation of a Query Language for
+Structured Hypermedia Documents.
+Proc. DAGS 95--Electronic Publishing and the Information Superhighway.
+May 1995
+J. Buford, C. Gopal, and L. Rutledge.
+Storage Server Requirements for
+Delivery of Hypermedia Documents
+. Proc. Multimedia Computing and Networking 95.
+J. Buford.
+Architectural Issues for Multimedia Support in X11.
+presentation to: X Consortium Workshop on Multimedia Directions.
+Feb. 1995.
+1994
+J. Buford (contr. ed.)
+Multimedia Systems.
+ACM Press and Addison-Wesley,
+1994.
+J. Buford, L. Rutledge, C. Keskin, and J. Rutledge.
+HyOctane: A HyTime Engine for an MMIS. J. Multimedia Systems (1) 4, 1994.
+J. Buford, L.  Rutledge, and J. Rutledge.
+Toward Automatic
+Generation of HyTime Applications.
+Proc. Eurographics Multimedia 94.
+J. Buford, M. Doran, and J. Bornfreund. Open Distributed Multimedia Computing.
+in Handbook of Multimedia (ed. by J. Keyes), McGraw-Hill, 1994.
+J. Buford, L. Rutledge, and J. Rutledge.
+Integrating Object-Oriented
+Scripting Languages with HyTime.
+1994 IEEE
+Intl Conf on Multimedia Computing and Systems, May 1994.
+J. Buford, and C. Gopal,
+Standardizing a Multimedia Interchange Format:
+A Comparison of OMFI and MHEG.
+1994 IEEE Intl Conf on Multimedia Computing and Systems, May 1994.
+J. Buford, Requirements for Multimedia Standards. U.S. Dept of Defense,
+Defense Information Systems Agency, JIEO 1908, Sept. 1994.
+1993
+J. Buford Koegel, L. Rutledge, C. Keskin, and J. Rutledge.
+HyOctane: A HyTime Engine for an MMIS
+. ACM Multimedia 1993, August 1993
+J. Buford Koegel.
+The Advent of (Standardized) Integrated
+Multimedia Environments (invited paper)
+. ED-MEDIA 93.
+J. Buford Koegel and J. Heines.
+Improving Visual Programming for
+Multimedia Authoring
+. Proc. ED-MEDIA 93
+J. Buford Koegel.  A Design Space Perspective on the
+Evolution of Multimedia Technology. Proc. on the Challenge
+of Multimedia. Sponsored by MIT and Trinity College, Dublin. March 1993.
+1992
+J. Buford Koegel.
+Analysis of a Real-Time Interchange Format.
+Proc. NOSDAV 92.
+J. Buford Koegel, J. Rutledge, and J. Heines.
+Visual Programming Abstractions for Interactive Multimedia
+Presentation Authoring (Short Paper).
+Proc. 1992 International Workshop on Visual Languages, Sept. 1992.
+J. Buford Koegel and A. Syta.
+Routing of Multimedia Connections in Hybrid Networks.
+SPIE Proceedings 1786 , Sept. 1992.
+J. Buford Koegel, J. Rutledge, R. Miner, and P. Krolak.
+Supporting Real-Time Analysis of Multimedia Communication Sessions.
+SPIE Proceedings 1785, Sept. 1992.
+J. Buford Koegel, C. Keskin, J.Rutledge.
+Multimedia User Interface Toolkits.
+Xhibition 92. June 1992
+1991
+J. Buford Koegel, and X. Li.
+Network Protocol Issues for Continuous Media Applications (Short Paper).
+Proc. NOSDAV 91.
+
+EXPERIENCE
+1994-present Associate Professor of Computer Science, UMass Lowell
+1992-present Director, Distributed Multimedia Systems Lab
+Summer 1994  Visiting Senior Lecturer, Computer Science,
+Univ. of Auckland, New Zealand
+1988-1994 Assistant Professor, Computer Science, UMass Lowell
+1990-1992 Co-Director and co-founder, Distributed Multimedia Systems Lab
+1983-1988 Lecturer, Computer Science, University of Denver
+1984-1988   Adjunct Professor., Computer Information Systems,
+New College, University of Denver.
+
+Editorial Boards and Program Committees
+Member, editorial board of Journal of Multimedia Tools and Applications
+(Kluwer)
+Program Comittee, IEEE 1997 Intl Conf. on Multimedia Computing and Systems,
+Ottawa, Canada
+Program Comittee, IEEE 1996 Intl Conf. on Multimedia Computing and Systems,
+Hiroshima, Japan
+Program Comittee, IEEE 1994 Intl Conf. on Multimedia Computing and Systems,
+Boston, MA
+Program Committee,
+ACM Multimedia 95
+Program Committee,
+WebNet 96
+
+Program Committee, ED-MEDIA 96
+Program Committee,
+ED-MEDIA 95
+Program Committee, IMC '96 Information Visualization and Mobile Computing,
+Feb 26-27, 1996, Rostock, Germany
+Program Committee, 1995 ISSM Intl Conf on Distributed Multimedia Systems
+and Applications
+Program Committee, 1994 ISSM Intl Conf on Distributed Multimedia Systems
+and Applications
+Program Committee,
+DAGS 95 Electronic Publishing and the Information
+Superhighway
+Member, advisory board, X Resource Journal
+Reviewer: IEEE Multimedia Magazine
+Reviewer: ACM Multimedia Systems Journal
+Reviewer: IEEE Computer (special issue on visual programming)
+Reviewer: IEEE Computer (special issue on content-based retrieval)
+Reviewer: Computer Communications Journal
+(special issue on multimedia systems)
+Reviewer: ACM/ECHT Hypertext 1994
+Treasurer, ACM Multimedia 96, Boston
+Publicity, IEEE ICMCS 94, Boston
+
+Tutorials and Panels
+Tutorial on Distributed Multimedia Systems, presented at:
+ACM Multimedia 94; ACM Multimedia 95,
+Eurographics 95, DAGS 95,
+Sydney University of Technology,
+Australia (Sept. 1994); Brisbane University of Technology,
+Australia (Sept. 1994); IEEE Intl Conf. on Multimedia Computing and Systems
+(May 1994).
+Panels: ACM Multimedia 94 (panel co-chair);
+ACM Multimedia 95;
+ACM Siggraph 92; Unix Expo 92;
+BIS 92; SPIE 92.
+
+International Standards Committees
+Chair, X3L3.3 Multimedia and Hypermedia Information Encoding, 1994-present
+US Head of Delegation to ISO JTC1/SC29/WG12 (MHEG), 1991-present
+Co-editor, ISO MHEG Part 3, Support for Scripting Languages
+Member, X3L2.8 and X3L3, 1991-present
+
+
+last updated: Sept 30, 1996 by
+buford@cs.uml.edu
+
+

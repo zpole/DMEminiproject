@@ -1,0 +1,72 @@
+Date: Thu, 21 Nov 1996 20:21:04 GMT
+Server: Stronghold/1.3.2 Ben-SSL/1.3 Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=gs352151184860766449; path=/
+
+
+
+Arthur Crummer: A good place to start.
+
+
+
+
+Arthur Crummer
+I'm a faculty member with the University of Florida's
+Computer and Information Sciences Department
+.
+Bachelors degree Mechanical Engineering (1965); Ph.D. Mathematics (1971)
+We are confronted by insurmountable opportunities.
+--Pogo
+
+
+Email address:
+crummer@cis.ufl.edu
+
+Office: E352 CSE
+Phone: (352) 392-1507
+
+Recent courses taught
+
+
+
+CIS 3020
+Introduction to Computer and Information Sciences.
+
+CIS 4930
+Computer Programming in C++.
+
+CEN 4012
+Software Systems Development.
+
+COP 3530
+Data Structures and Algorithms
+
+CEN 3031
+Introduction to Software Engineering (formerly COP 3603).
+
+C++ OVERVIEW
+Computer Programming in C++.
+
+C Tutorial
+A very elementatry intro to programming in "C"
+
+
+NEXT GIG
+/  `-' )           ,,,
+| IU U ||||||||||||[:::]
+\__.-.(            '''
+
+
+UF Phone Book
+
+
+IMAGE: MOANIN THE
+BLUES
+(images).
+
+This document is
+copyright 1995
+by Arthur Crummer.
+
+
+

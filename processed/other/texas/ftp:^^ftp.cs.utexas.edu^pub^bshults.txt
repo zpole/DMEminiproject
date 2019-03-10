@@ -1,0 +1,14 @@
+bshults directory
+bshults
+Up to pub
+
+
+ATP-info
+
+ATP-tech-reports
+
+INDEX
+
+papers
+
+provers

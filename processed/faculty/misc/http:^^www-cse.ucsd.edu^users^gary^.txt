@@ -1,0 +1,151 @@
+Date: Thu, 21 Nov 1996 20:10:51 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 20 Aug 1996 08:27:30 GMT
+Content-length: 5319
+Garrison W. Cottrell
+
+Garrison W. Cottrell
+
+
+Associate Professor
+
+Department of Computer Science and Engineering 0114
+
+University of California, San Diego
+
+La Jolla, CA 92093-0114
+
+Office Phone: 619-534-6640
+
+Secretary: Marie Kreider: 619-534-5948
+
+gary@cs.ucsd.edu
+Away on sabbatical FALL 1996 at Oxford University, England.
+My research is strongly interdisciplinary.  It concerns using neural
+networks as a computational model applied to problems in cognitive science
+and artificial intelligence, engineering and biology. I have had success
+using them for such disparate tasks as modeling how children acquire words,
+studying how lobsters chew, and nonlinear data compression.
+I was Program Chair for the
+1996 Cognitive Science Conference.
+Check the home page for details.
+My research group,
+
+Gary and Eric's Unbelievable Research Unit
+
+or
+GEURU
+(pronounced like "neuron", shortened) for short,
+meets weekly to present our work to one another.
+I try to give my students mantras, like "One result, one paper"
+in keeping with
+the name. But I claim no special knowledge.
+Here's my
+
+vitae (sorry, postscript only) (45K)
+
+
+
+Selected publications:
+
+
+Daniel S. Clouse and Garrison W. Cottrell (1996)
+Discrete Multi-Dimensional scaling. (2.8Megs)
+
+In
+Proceedings of the Eighteenth Cognitive Science Conference
+,
+San Diego, CA. pp. 290-294, Mahwah: Lawrence Erlbaum.
+
+Dan Jackson, Rodger M. Constandse and Garrison W. Cottrell (1996)
+Selective Attention in the Acquisition of the Past Tense. (1.9Megs)
+
+In
+Proceedings of the Eighteenth Cognitive Science Conference
+,
+San Diego, CA. pp. 183-188, Mahwah: Lawrence Erlbaum.
+
+David C. Noelle and Garrison W. Cottrell (1996)
+In Search of Articulated Attractors.(160K)
+
+In
+Proceedings of the Eighteenth Annual Cognitive Science Conference
+,
+San Diego, CA, pp. 329-334, Mahwah: Lawrence Erlbaum.
+
+David C. Noelle, Garrison W. Cottrell (1996)
+Modeling Interference Effects in Instructed Category Learning.(92K)
+
+In
+Proceedings of the Eighteenth Annual Cognitive Science Conference
+,
+San Diego, CA, 475-483, Mahwah: Lawrence Erlbaum.
+
+Curtis Padgett, Garrison W. Cottrell and Ralph Adolphs (1996)
+Categorical Perception in Facial Emotion Classification.(1.9Megs)
+
+In
+Proceedings of the Eighteenth Annual Cognitive Science Conference
+,
+San Diego, CA, pp. 249-253, Mahwah: Lawrence Erlbaum.
+
+Bartell, B., Cottrell, G.W. and Belew, R. (1995)
+Learning to Retrieve
+Information.(100K)
+
+In Niklasson, Lars and Mikael Boden (Eds.)
+Current trends in connectionism:
+Proceedings of the Swedish Conference on
+Connectionism - 1995,
+, LEA: Hillsdale.
+
+Cottrell, G.W., & Plunkett, K. (1995)
+
+Acquiring the mapping from meanings to sounds.(982K)
+
+Connection Science
+6, 4:379-412.
+
+Bartell, Brian T., Cottrell Garrison W., and Richard K. Belew (1994)
+Automatic combination of multiple ranked retrieval systems.(168K)
+
+In
+Proceedings of Special Interest Group on Information Retrieval
+,
+Dublin, Ireland, ACM Press.
+
+Bartell, Brian T., Cottrell Garrison W., and Richard K. Belew (1994)
+Learning the optimal parameters in a ranked
+retrieval system using multi-query relevance feedback.(244K)
+
+In the proceedings of the
+Symposium on Document Analysis and Information Retrieval
+,
+Las Vegas.
+
+DeMers, D. and Cottrell, G.W. (1993)
+Nonlinear dimensionality reduction. (1.4Megs)
+
+In:
+Advances in Neural  Information Processing Systems 5
+,
+(Hanson, Cowan and Giles, eds.), Morgan Kaufmann, San Mateo, CA, pp 580-587.
+
+Tsung, F.-S. and Cottrell, G.W. (1993)
+Phase-space learning in recurrent networks. (853K)
+
+Technical Report CS93-285, Dept. of Computer Sciences and
+Engineering, University of California, San Diego.
+
+
+Plutowski, M.E., Cottrell, G.W., and White, H. (1993)
+Learning Mackey Glass from 25 examples, plus or minus 2. (200K)
+
+In:
+Advances in Neural Information
+Processing Systems 6
+, (Hanson, Cowan, and Giles, eds.), Morgan Kaufmann,
+San Mateo, CA.
+
+

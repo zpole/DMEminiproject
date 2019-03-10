@@ -1,0 +1,166 @@
+Date: Mon, 02 Dec 1996 17:29:09 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+CSE 457 Calendar
+
+
+
+
+
+
+
+
+1996 Autumn Quarter
+
+
+
+
+
+Course Calendar
+
+Here is a rough estimate of how the class will proceed.  The
+final date and assignment deadlines are firm, but the
+lecture dates are a little more rough:
+Week 1:
+
+
+Mon, Sep 30: Introduction.
+Project #0 (
+Mandelbrot
+) assigned.
+Homework #0 assigned.
+Wed, Oct 2: Graphics hardware.
+Fri, Oct 4: Displaying images.
+
+Homework #0 due!
+
+
+Project #1 team assignments due!
+
+
+Week 2:
+
+
+Mon, Oct 7: Image morphing.
+Wed, Oct 9: Image morphing, cont.
+Fri, Oct 11: Texture mapping.
+
+Project #0 due!
+
+
+Home page due!
+
+Project #1 (
+Morph
+) assigned.
+Homework #1 assigned.
+
+Week 3:
+
+
+Mon, Oct 14: Image compositing.
+Wed, Oct 16: Image compositing, cont.
+Fri, Oct 18: Line drawing.
+
+Week 4:
+
+
+Mon, Oct 21: Line drawing, cont.
+
+Homework #1 due!
+
+Wed, Oct 23: Polygon scan conversion.
+
+Project #2 team assignments due!
+
+Fri, Oct 25: Curves.
+
+Week 5:
+
+
+Mon, Oct 28: Curves, cont.
+Wed, Oct 30: Curves, cont.
+
+Project #1 due!
+
+Project #2 (
+Sweeper
+) assigned.
+Homework #2 assigned.
+Fri, Nov 1: Surfaces.
+
+Week 6:
+
+
+Mon, Nov 4: Surfaces, cont.
+
+Project #1 artifact and writeup due!
+
+Wed, Nov 6: Surfaces, cont.
+Fri, Nov 8: Hidden surface.
+
+Homework #2 due!
+
+
+Week 7:
+
+
+Wed, Nov 13: Hidden surface, cont.
+
+Project #3 team assignments due!
+
+Fri, Nov 15: Local illumination.
+
+Week 8:
+
+
+Mon, Nov 18: Ray tracing.
+
+Project #2 due!
+
+Project #3 (
+Trace
+) assigned.
+Homework #3 assigned.
+Wed, Nov 20: Ray tracing, cont.
+Fri, Nov 22: Rendering tricks.
+
+Project #2 artifact due!
+
+
+Week 9:
+
+
+Mon, Nov 25: Rendering tricks, cont.
+Wed, Nov 27: Global illumination.
+
+Homework #3 due!
+
+
+Week 10:
+
+
+Mon, Dec 2: Global illumination, cont.
+Wed, Dec 4: Global illumination, cont.
+Fri, Dec 6: Wavelets and multiresolution analysis
+
+Week 11:
+
+
+Mon, Dec 9: Multiresolution analysis, cont.
+
+Project #3 due!
+
+Wed, Dec 11: Special topics.
+
+Project #3 artifact due!
+
+
+
+Mon, December 16, 2:30-4:20:
+Final!
+
+
+
+

@@ -1,0 +1,65 @@
+Date: Mon, 25 Nov 1996 23:32:01 GMT
+Server: NCSA/1.4.1
+Content-type: text/html
+Last-modified: Mon, 26 Aug 1996 14:04:51 GMT
+Content-length: 1099
+
+
+Weizhen Mao's Home Page
+
+
+
+Weizhen Mao
+
+
+Associate Professor of Computer Science
+
+Tercentenary Hall, 114
+Department of Computer Science
+The College of William and Mary
+Williamsburg, Virginia 23187-8795
+
+(757) 221-3472 (tel)
+(757) 221-1717 (fax)
+
+wm@cs.wm.edu (email)
+
+
+
+
+Courses for 1996-1997
+
+
+CS 653: Analysis of Algorithms (Fall 96)
+
+
+CS 313/513: Algorithms (Spring 97)
+
+
+CS 680: Special Topics in Computer Science (Spring 97)
+
+
+
+
+
+Research Interests and Activities
+
+
+Combinatorial Optimization
+
+
+Analysis of Algorithms
+
+
+Operations Research
+
+
+
+A list of publications
+
+
+
+
+
+Back to W&M Computer Science page
+

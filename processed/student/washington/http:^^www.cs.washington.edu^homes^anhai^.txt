@@ -1,0 +1,131 @@
+Date: Thu, 21 Nov 1996 23:02:12 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Thu, 03 Oct 1996 01:18:55 GMT
+Content-length: 2986
+AnHai Doan's HomePage
+
+AnHai Doan
+
+This page is being reconstructed. Please revisit soon.
+
+Hi, I was born and brought up in Vietnam.  After finishing high school in 1987, I
+went to Hungary to study Computer Science.  I graduated from
+Kossuth Lajos University of Arts and
+Sciences
+, Debrecen, Hungary, with a B.S. in 1993, and received a
+M.S. -- also in Computer Science -- from the
+University of Wisconsin-Milwaukee
+in
+1995. Starting Fall 1996, I am in the Ph.D.  program at the
+Department of Computer Science and
+Engineering
+,
+University of
+Washington-Seattle
+.
+My research interests are mostly in Artificial Intelligence.  I am
+currently investigating decision making under
+uncertainty, decision-theoretic planning, Markov decision processes,
+and qualitative decision theory. Non-academic interests include reading, traveling,
+and listening to music (mostly jazz and blues).
+An interesting thing about my first name, AnHai (meaning "calm sea" in
+Vietnamese): It is made by combining the last syllable of the name of
+my mother's birthplace, NgheAn, and the first syllable of the name of
+my father's birthplace, HaiPhong. This shows how creative my folks
+were. Or so I thought up to the birth of my younger brother, when they
+simply switched the two syllables and gave him the name
+HaiAn. Hmm...
+
+Contents
+
+
+
+Research Interests
+
+
+
+Probabilistic Planning
+
+
+Knowledge Representation
+
+
+Recent Papers
+
+
+
+
+Research Library
+
+
+
+Curriculum Vitae
+
+
+
+Research Interests
+
+
+Education
+
+
+Employment History
+
+
+Awards and Honors
+
+
+Publications
+
+
+
+
+Teaching
+
+
+
+CSE 373 Data Structures and
+Algorithms
+If you are taking this course, you should check out
+TA Information
+(TA's office hours, locations, etc).
+
+
+
+Personal Interests
+
+
+
+Comtemporary Vietnamese Affairs
+
+
+Literature
+
+
+Writing
+
+
+Music
+
+
+Paintings
+
+
+Foreign Languages
+
+
+Traveling
+
+
+
+
+General Purpose Library
+
+
+
+Life Snapshots
+
+
+
+anhai@cs.washington.edu

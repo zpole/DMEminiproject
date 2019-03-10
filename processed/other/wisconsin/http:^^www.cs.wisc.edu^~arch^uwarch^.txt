@@ -1,0 +1,538 @@
+Date: Tue, 05 Nov 1996 20:45:13 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Mon, 04 Nov 1996 16:01:58 GMT
+Content-length: 19903
+
+
+Architecture Home Page
+
+
+
+Univ. of Wisconsin CS Computer Architecture Group
+
+
+
+This is the World Wide Web home page for the Computer Architecture Group at the
+University of Wisconsin-Madison
+Department of Computer Sciences
+.  For more information about computer architecture, visit the
+WWW Computer Architecture Page
+.
+
+Table of Contents:
+
+
+
+Research Impact
+
+
+Projects
+
+
+Faculty
+
+
+Courses
+
+
+Industrial Affiliates Program
+
+
+Tech Reports, Exams, Seminars, Mailing List
+
+
+Graduate Students
+
+
+Graduating Students
+
+
+Architecture Alumni
+
+
+
+
+Industrial
+Impact of Computer Architecture Research
+at the University of Wisconsin-Madison (updated June 1994)
+
+This document highlights the industrial impact of
+research in Computer Architecture at the
+University of Wisconsin since 1980.
+There are four broad areas of contributions:
+(i) processor design, with an emphasis of instruction-level
+parallel processor technology, (ii) cache memory systems,
+(iii) multiprocessor systems, and (iv) enabling technologies.
+
+Processor Technologies
+One of the early contributions in instruction level parallel (also
+called ILP) processor technology was the development
+of the decoupled architecture concept.
+Developed before the term ``superscalar'' was coined,
+a decoupled architecture is,
+in fact, a superscalar architecture that supports
+issuing multiple instructions per cycle from a sequential instruction stream.
+What is now commonly regarded as the first commercially-available superscalar
+processor, the Astronautics ZS-1, appeared in 1988 and was developed
+as a direct spin-off of the University of Wisconsin research efforts.
+Since the ZS-1, many superscalar processors have used the decoupled architecture
+principles to separate addressing activity from computation activity,
+thereby increasing the amount of instruction level parallelism
+that can be exploited.  Recent processors which follow the decoupled
+architecture principles include the IBM Power series of processors,
+and the Silicon Graphics R8000 (previously called the Silicon Graphics TFP).
+Another major contribution was the development of precise interrupt
+and register renaming techniques for out-of-order instruction execution.
+Smith and Pleszkun provided the first published work directed specifically
+at implementation of precise interrupts.  This paper laid out the
+fundamental problems and proposed a number of solutions and techniques.
+Sohi extended the precise interrupt maintenance mechanisms to carry out
+register renaming, and articulated the organization of a dynamically-scheduled
+superscalar processor using register renaming and having precise interrupts.
+This body of research has been fundamental to
+the emergence of superscalar processors in the 1990s.
+The mechanisms proposed by UW researchers are
+at the core of many modern superscalar processors, including the Motorola 88110,
+the recently-announced PowerPC 604, and the upcoming PowerPC 620.
+Several other soon-to-be-announced superscalar processors
+also have the above mechanisms at their core.
+Industrially-relevant work in ILP processors is continuing at UW.
+Recent research contributions include novel ways of integrating
+guarded execution into existing instruction sets and a new
+paradigm for exploiting instruction level parallelism.
+This new paradigm, called Multiscalar,
+has several inherent properties that make it more promising than the
+existing superscalar and VLIW paradigms for a turn-of-the-century processor.
+
+Cache Memory Systems
+Wisconsin researchers have also had a long history of
+contributions in the design of memory systems, particularly caches.
+Anticipating the era when memory bandwidth would severely restrict
+system performance,
+Goodman showed that caches can be used not only to reduce
+average memory latency but also to limit peak memory bandwidth requirements
+by focusing on temporal, rather than spatial, locality.
+Wisconsin researchers provided much of the motivation for the
+recent shift from set-associative to direct-mapped caches.
+Smith and Goodman showed circumstances under which
+direct-mapped caches obtain better hit ratios than fully associative caches.
+Hill demonstrated that direct-mapped caches can yield better
+performance than set-associative ones despite having larger
+miss ratios, and provided insight into cache design with
+the 3C model which separates the compulsory, capacity,
+and conflict components of the miss ratio.
+In the area of cache design,
+Goodman showed how Static-Column DRAMs (SCRAMs)
+can be used as a "poor man's"
+cache, providing some of the benefits of cache memory without using SRAM.
+Hill and Wood participated in the first studies of
+multi-megabyte cache design (which some contemporaries
+criticized as never to become practical).
+Sohi showed why processors would have to change from using (then prevalent)
+blocking caches to non-blocking caches as they became more
+aggressive in exploiting ILP.
+Each one of these contributions can be found, to varying extents,
+in modern computer systems.
+For example, both Sun Microsystems and Compaq have built
+computers containing SCRAM caches,
+direct-mapped caches are now at least as common as set-associative ones,
+multi-megabyte second level caches are widely used,
+and most recently-announced superscalar microprocessors
+use non-blocking caches.
+Multiprocessor Systems
+
+In multiprocessor systems, Goodman published the first paper
+describing a snooping cache coherence protocol.
+Snooping cache protocols enabled
+the construction of shared-bus multiprocessors,
+also called symmetric multiprocessors, in the marketplace.
+Such multiprocessors were one of the earliest
+available general-purpose multiprocessor systems and
+have become the most common form of multiprocessing available today.
+Among the earliest snooping-cache systems were the
+Sequent Balance and the Encore Multimax,
+both of which were directly influenced by the Wisconsin work.
+Some microprocessors, such as the Motorola 88000,
+have implemented almost exactly the write-once protocol as
+described by Goodman.  Recent multiprocessor workstations
+and servers, such as those manufactured by Sun Microsystems,
+also use snooping cache protocols.
+Goodman and Sohi contributed to the IEEE standard 1596
+Scalable Coherent Interface,
+the first commercial-grade directory-based coherence scheme.
+Goodman contributed extensively to the basic cache coherence protocol,
+and to the development of options for achieving higher performance.
+Goodman and Sohi were primary contributors to the development of
+protocols for large numbers of caches (kiloprocessor extensions).
+The Convex Exemplar system is the first commercial system
+to use the Scalable Coherent Interface,
+but many other systems are currently under development,
+including at Unisys and IBM.
+Goodman and Vernon developed the first synchronizing prefetch primitive,
+which was incorporated in the SCI standard.
+This technique, known as QOLB,
+for synchronizing shared memory accesses,
+also inspired software implementations for implementing
+efficient locks that minimize network traffic during contention.
+In particular, the QOLB-inspired MCS lock has become the standard
+locking mechanism for shared-memory multiprocessors.
+Another synchronization mechanism invented by UW researchers is a
+novel technique to combine Fetch&Increment operations.
+The applicability of this technique is likely to grow
+as more powerful multiprocessors, with more aggressive synchronization
+requirements, are built.
+Another area of contributions is
+memory consistency models which specify the semantics of shared memory.
+Wisconsin researchers were among the first to recognize that memory
+consistency was not synonymous with cache coherence.  Goodman defined
+processor consistency that codified the general effect of buffering
+writes.  Hill showed how weak ordering could be viewed as sequential
+consistency (the strongest model) by data-race-free programs.  This
+formalization and subsequent generalizations allow more sophisticated
+compiler and hardware optimizations than were previously possible.  The
+full industrial impact of memory consistency models has yet to be felt,
+however, and probably must await the wide deployment of out-of-order
+issue processors, non-blocking caches, and software/hardware hybrid
+coherence solutions.
+Practical research in multiprocessors is continuing at Wisconsin.
+Recent research includes
+contributions in the ``middle interface'': below languages and
+compilers and above system software and hardware.
+For example, UW researchers are developing Tempest,
+a novel approach to provide support for shared-memory,
+message-passing, and hybrid combinations of the two.
+
+Enabling Technologies
+The design of a computer system requires quantitative assessments
+of various design criteria.  Wisconsin researchers have advanced both
+theory and practice of these important enabling technologies.
+Hill developed new algorithms, and software tools that use these algorithms,
+for simultaneously simulating multiple alternative cache organizations.
+Larus developed new techniques, and software tools using these techniques,
+for rewriting executables to profile programs.
+Wood and Hill advanced the state-of-the-art of
+trace sampling techniques, which are important techniques in the
+study of very large caches.
+Equally important, Wisconsin researchers have transferred
+their new techniques and software tools to industry and academia so that
+others can synergistically build on the work.
+Tools such as
+ae
+,
+cprof
+,
+dinero
+,
+tycho
+,
+qpt
+, have
+been used at more than one thousand other
+(academic and industrial) sites.
+UW researchers have also provided data that industry uses to design
+computers.  For example, designers can download SPEC miss ratio
+data from our ftp site, which would otherwise require four machine years
+to regenerate.
+More recently, UW researchers developed the Wisconsin Wind
+Tunnel, the first effective parallel simulator of parallel computers.
+Running on a Thinking Machines CM-5, the Wisconsin Wind
+Tunnel permits efficient evaluation of real application performance on
+proposed hardware.
+
+Current projects:
+
+
+
+Multiscalar
+
+
+Galileo
+
+
+Wisconsin Wind Tunnel
+
+
+
+Faculty:
+
+
+
+James R. Goodman
+
+Mark D. Hill
+
+Gurindar Sohi
+
+David A. Wood
+
+
+Visiting/adjunct faculty:
+
+
+
+James E. Smith
+- Department of Electrical and Computer Engineering
+
+
+Architecture courses:
+
+
+
+CS/ECE 352 -
+Digital System Fundamentals
+
+CS/ECE 354 -
+Machine Organization and Programming
+
+CS/ECE 552 -
+Introduction to Computer Architecture
+
+CS/ECE 752 -
+Advanced Computer Architecture I
+
+CS/ECE 755 -
+VLSI Systems Design
+
+CS/ECE 756 -
+Computer-Aided Design for VLSI
+
+CS/ECE 757 -
+Advanced Computer Architecture II
+
+
+Other recommended courses:
+
+
+CS 536 - Introduction to Compilers
+CS 537 - Operating Systems
+CS 547 - Introduction to Performance Modeling
+CS 701 - Compilers
+CS 736 - Advanced Operating Systems
+CS 747 - Advanced Performance Modeling
+
+Statistics 424 - Experimental Design for Engineers
+
+
+Industrial Affiliates Program
+The Computer Architecture Group has set up a program for industrial affiliates.
+For more information, please read the
+public affiliates page
+.
+
+Computer Architecture
+Industrial Affiliates Page
+(access restricted to current affiliates only)
+
+
+Other
+useful
+information:
+
+
+Recent Architecture
+Tech Reports
+
+
+Architecture Qualifying Exams
+
+
+Computer Architecture Seminar
+
+To join the architecture mailing list, mail
+listproc@cs.wisc.edu
+with the
+single-line body:
+
+subscribe architecture Jane Doe
+
+
+Graduate Students:
+
+(Note that student home page content is not restricted or endorsed by the
+Univ. of Wisconsin.)
+
+
+
+Scott Breach
+
+
+Doug Burger
+
+
+Babak Falsafi
+
+
+Alain Kägi
+
+
+Stefanos Kaxiras
+
+
+Andreas Moshovos
+
+
+Shubu Mukherjee
+
+
+Subbarao Palacharla
+
+
+Steve Reinhardt
+
+
+Yannis Schoinas
+
+
+Avinash Sodani
+
+
+T.N. Vijaykumar
+
+
+(sohi)
+(goodman)
+(wood)
+(goodman)
+(goodman)
+(sohi)
+(hill)
+(smith)
+(wood)
+(hill)
+(sohi)
+
+
+
+Architecture Ph.D. Alumni
+
+
+
+Todd M. Austin
+- April 1996
+Advisor:
+Guri Sohi
+Thesis:
+
+Hardware and Software Mechanisms for Reducing Load Latency
+
+
+Dionisios Pnevmatikatos
+- December 1995
+Advisor:
+Guri Sohi
+Thesis:
+
+Incorporating Guarded Execution in Existing Instruction Sets
+
+
+Alvin R. Lebeck
+- November 1995
+Advisor:
+David Wood
+Thesis:
+
+Tools and Techniques for Memory System Design and Analysis
+
+Madhusudhan Talluri
+- August 1995
+Advisor:
+Mark Hill
+Thesis:
+
+Use of Superpages and Subblocking in the Address Translation Hierarchy
+
+Manoj Franklin - December 1993
+Advisor:
+Guri Sohi
+Thesis:
+
+The Multiscalar Architecture
+
+Sarita V. Adve
+- November 1993
+Advisor:
+Mark Hill
+Thesis:
+
+Designing Memory Consistency Models for Shared-Memory Multiprocessors
+
+Ross Johnson
+- June 1993
+Advisor:
+Jim Goodman
+Thesis:
+
+Extending the Scalable Coherent Interface for Large-Scale Shared-Memory
+
+Steve Scott
+- August 1992
+Advisor:
+Jim Goodman
+Thesis:
+Toward the Design of Large-Scale, Shared-Memory Multiprocessors
+
+Mark Friedman - January 1992
+Advisor:
+Guri Sohi
+Thesis:
+
+An Architectural Characterization of Prolog Execution
+
+Sriram Vajapeyam - December 1991
+Advisor:
+Guri Sohi
+Thesis:
+
+Instruction Level Characterization of the Cray Y-MP Processor
+
+Men-Chow Chiang -  September 1991
+Advisor:
+Guri Sohi
+Thesis:
+
+Memory System Design for Bus Based Multiprocessors
+
+Richard E. Kessler
+- July 1991
+Advisor:
+Mark Hill
+Thesis:
+
+Analysis of Multi-Megabyte Secondary CPU Cache Memories
+
+Wei-Chung Hsu - August 1987
+Advisor:
+Jim Goodman
+Thesis:
+Register Allocation and Code Scheduling for Load/Store Architectures
+
+William Cox - August 1986
+Advisor:
+Jim Goodman
+Thesis:
+The Performance of Disk Servers
+
+Koujuch Liou - August 1985
+Advisor:
+Jim Goodman
+Thesis:
+Design of Pipelined Memory Systems for Decoupled Architectures
+
+Honesty C. Young - June 1985
+Advisor:
+Jim Goodman
+Thesis:
+Evaluation of a Decoupled Computer Architecture and
+the Design of a Vector Extension
+
+
+
+
+Last modified by
+dburger@cs.wisc.edu
+Tue Apr 30 15:16:00 CDT 1996
+
+
+
+

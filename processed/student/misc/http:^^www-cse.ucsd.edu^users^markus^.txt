@@ -1,0 +1,93 @@
+Date: Thu, 21 Nov 1996 23:07:37 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Wed, 20 Nov 1996 19:25:16 GMT
+Content-length: 3229
+Homepage of Markus Jakobsson
+
+
+Markus Jakobsson
+I believe that anonymity is good, but that it must be revokable in
+order to avoid dangerous abuse.
+
+Office: AP&M 4414.
+Email:
+markus@cs.ucsd.edu
+Phone: home (619) 558-9429; office (619) 534-8847
+
+
+Vitae
+After earning a Masters degree of Computer Engineering from
+Lund Institute of Technology
+,
+Sweden
+,
+I entered the
+PhD program in Computer Science
+at
+University of California, San Diego
+.
+My research interest is cryptography; more specifically,
+digital cash and related issues like identification, signatures,
+distributed systems, zero-knowledge protocols and efficient protocols.
+Click
+here
+for a more detailed vitae.
+Papers
+
+
+PhD Thesis
+(Defending Dec 9 '96)
+Distributed Magic Ink DSS Signatures
+(Under revision, available soon.)
+Proactive Public Key and Signature Systems
+(To appear in ACM Security, preliminary version)
+Proving Without Knowing
+(Crypto '96)
+Applying Anti-Trust Policies to Increase Trust in a Versatile E-Money System
+(Under revision, available soon.)
+Designated Verifier Proofs and Their Applications
+(Eurocrypt '96)
+Revokable and Versatile Electronic Money
+(3rd ACM Conf. on Computer and Communications Security, '96)
+Ripping Coins for a Fair Exchange
+(Eurocrypt '95)
+Blackmailing using Undeniable Signatures
+(Eurocrypt '94)
+Reducing costs in identification protocols
+(Rump session, Crypto '92)
+
+Links of interest
+
+
+My Department
+(We're all here cause we're not all there.)
+My Advisor, Russell Impagliazzo (CSE, UCSD)
+
+Mihir Bellare (CSE, UCSD)
+
+Bennett Yee (CSE, UCSD)
+
+Giovanni Di Crescenzo (CSE, UCSD)
+
+Kevin McCurley's list of cryptographers
+
+IACR
+
+The World-Wide Web Virtual Library: Cryptography, PGP, and Your Privacy
+
+Servas
+
+
+
+Markus Jakobsson
+
+Department of Computer Science and Engineering
+University of California, San Diego
+La Jolla, CA 92093-0114 U.S.A.
+
+To learn more about http-tennis, please click
+here
+
+
+

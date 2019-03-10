@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Thursday, 21-Nov-96 22:40:28 GMT
+Content-Type: text/html
+Content-Length: 1051
+Last-Modified: Monday, 07-Oct-96 19:06:42 GMT
+Michael Cleary's web page
+
+Mike Cleary
+Hi.  I'm a Ph.D. candidate in the
+College
+of Computer Science
+(CCS) at
+Northeastern University
+.
+My advisor is
+Prof. Jill Crisman
+.
+These days I'm normally in the
+Robotic and Vision Systems Lab.
+Visit
+my home page there.
+
+
+Mike Cleary
+
+College of Computer Science
+(161CN) -or-
+Robotic and Vision Systems Lab
+(225 Egan)
+
+Northeastern University
+360 Huntington Ave., Boston,
+Ma
+. 02115 USA
+
+email: cleary@ccs.neu.edu
+phone: (617) 373-5242
+fax:   (617) 373-8970
+
+

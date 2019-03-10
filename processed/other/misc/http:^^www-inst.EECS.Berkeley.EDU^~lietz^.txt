@@ -1,0 +1,47 @@
+Date: Tue, 14 Jan 1997 18:50:13 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+
+
+tempelaar.lietz
+
+
+
+c h r i s t i n a . t e m p e l a a r . l i e t z
+
+
+vrml samples
+The following models are elements from the Soda Hall model created by the
+Berkeley WALKTHRU Project
+led by
+Professor Carlo Sequin
+.  This 3-dimensional building model is used as the basis for various research projects, many of which focus on the issues of real-time interactive environments.  In conjunction with the Walkthrough group, I converted the Soda Hall model from its original format, Unigrafix, to VRML.
+Note: a VRML browser is required to see the following images in their full glory.  Otherwise, you will have to simply revel in the splendid code.
+
+
+hilboct
+
+
+
+tangle4
+
+
+
+my classes, my life
+(....oy....)
+
+
+cs164
+-  programming languages and compilers
+
+
+cs184
+-  computer graphics
+
+
+nyc
+, i miss you....
+
+lietz@cory.eecs.berkeley.edu
+
+

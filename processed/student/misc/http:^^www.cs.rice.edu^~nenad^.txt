@@ -1,0 +1,48 @@
+Date: Tue, 26 Nov 1996 00:14:10 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Mon, 29 Jul 1996 16:30:42 GMT
+Content-length: 1273
+
+Nenad Nedeljkovic's Home Page
+
+
+
+Nenad Nedeljkovic
+
+
+I am a graduate student in the
+
+Department of Computer Science
+, at
+
+Rice University
+. My research interests include different aspects of
+compiling data-parallel (
+
+HPF
+-like) languages for distributed-memory machines. My advisor is
+
+Ken Kennedy
+, the director of
+The Center for Research in Parallel Computation
+(
+CRPC
+).
+How to reach me
+
+My research papers
+
+Where I come from
+
+Pictures of Nikola
+
+
+
+This page has been accessed
+times since September 3, 1995.
+
+nenad@cs.rice.edu, http://www.cs.rice.edu/~nenad
+
+
+

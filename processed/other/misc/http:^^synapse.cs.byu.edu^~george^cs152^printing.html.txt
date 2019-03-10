@@ -1,0 +1,8 @@
+Date: Tue, 14 Jan 1997 22:51:51 GMT
+Server: NCSA/1.5.1
+Last-modified: Wed, 19 Oct 1994 21:12:47 GMT
+Content-type: text/html
+Content-length: 2492
+
+CS 152 - How to Print
+

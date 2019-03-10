@@ -1,0 +1,139 @@
+Date: Thu, 21 Nov 1996 19:45:45 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3835
+Last-modified: Fri, 01 Sep 1995 19:52:19 GMT
+Rohini Srihari
+
+
+
+
+Rohini K. Srihari
+
+Research Assistant Professor of Computer Science
+State University of New York at Buffalo
+
+
+Rohini Srihari is a Research Scientist at
+CEDAR
+.
+She is concurrently a Research Assistant Professor in
+the
+Department of Computer Science
+,
+State University of New York
+at Buffalo.
+Her research centers on the use of linguistic
+information in the interpretation of spatial (visual) data.
+This research spans several sub-disciplines within AI including
+computer vision, natural language understanding, spatial reasoning
+and knowledge representation.
+She heads three research efforts:
+Language Models for Recognizing Handwritten Text
+,
+Use of Collateral Text in Understanding Photos in Documents
+, and
+Show&Tell: a Multimedia System for
+Automatic Image Annotation and Content-Based Retrieval
+.
+She is the chair of a
+AAAI symposium on
+Computational Methods
+for Integrating Language and Vision
+
+to be held at MIT in November '95.
+Rohini Srihari received a B. Math. In Computer Science
+from the University of Waterloo, Canada.
+She received a Ph.D. in Computer Science
+from SUNY at Buffalo in 1992.
+Her dissertation addressed the use of collateral text
+in interpreting photographs.
+
+List of recent publications
+
+
+Rohini K. Srihari,
+Use of Multimedia Input in Automated Image Annotation and
+Content-Based Retrieval
+,
+Presented at
+Conference on Storage and Retrieval Techniques for
+Image Databases, SPIE '95
+, San Jose, CA, February 1995.
+[
+Postscript version is
+available
+; 2.6MByte
+]
+
+Rohini K. Srihari,
+Use of Collateral Text in Understanding Photos
+,
+Artificial Intelligence Review
+,
+special issue on
+Integrating Language and Vision
+,
+in press
+.
+
+Rohini K. Srihari,
+Computational Models for Integrating Linguistic and Visual
+Information: A Survey
+,
+Artificial Intelligence Review
+,
+special issue on
+Integrating Language and Vision
+,
+in press
+.
+
+Rohini K. Srihari and Debra T. Burhans,
+Visual Semantics: Extracting Visual Information from Text
+Accompanying Pictures
+,
+in
+Proceedings of AAAI-94
+, Seattle, WA, 1994, pp 793--798.
+[
+Postscript version is
+available
+; 199KBytes
+]
+
+Rohini K. Srihari and Charlotte M. Baltus,
+Incorporating Syntactic Constraints in Recognizing Handwritten Sentences
+,
+in
+Proceedings of the International Joint Conference on
+Artificial Intelligence
+(IJCAI-93)
+, Chambery, France, August 1993, pp. 1262--1267.
+[
+Postscript version is
+available
+; 87KBytes
+]
+
+Rohini K. Srihari, Rajiv Chopra, Debra Burhans, Mahesh Venkataraman, and
+Venugopal Govindaraju,
+
+Use of Collateral Text in Image Interpretation
+
+, in
+Proceedings of the ARPA workshop on Image Understanding
+,
+November 1994, Monterey, CA, pp. 897--908.
+[
+Workshop
+proceedings
+also accessible via WWW
+]
+
+Email:
+rohini@cedar.Buffalo.EDU
+Phone: +1 (716) 645-6164 ext. 102
+
+rohini@cedar.Buffalo.EDU
+

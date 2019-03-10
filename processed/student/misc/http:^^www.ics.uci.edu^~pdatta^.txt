@@ -1,0 +1,90 @@
+Date: Thu, 21 Nov 1996 22:53:46 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 2982
+Last-modified: Thu, 24 Oct 1996 18:50:56 GMT
+
+Piew Datta
+
+
+
+
+
+Piew Datta
+
+
+Position: Graduate Student
+Area: Artificial Intelligence (AI)
+Advisor: Dennis Kibler
+Office: CS/E 322
+Office Tel: 714 824-7210
+Office Fax: +1(714)824-4056
+E-mail:
+pdatta@ics.uci.edu
+
+
+Academic Interests
+
+I am interested in Machine Learning
+techiniques especially inductive learning, using prototypes to represent
+concepts, classification, and clustering.
+
+Currently I am applying machine learning systems to medical
+databases, more specifically an Alzheimer's database.  We want to use
+machine learning to increase the accuracy of patient screening tests.
+
+Papers
+
+
+Improving Dementia Screening Tests with Machine Learning Methods
+with William Rodman Shankle, Michael Pazzani, and Michael Dillencourt, in
+Alzheimer's Research, June 1996, vol. 2 no. 3.
+
+Applying
+Machine Learning to an Alzheimer's Database
+, with William Rodman
+Shankle and Michael Pazzani, in the technical notes for AAAI-96
+Spring Symposium AI in Medicine: Applications of Current Technologies.
+
+Learning
+Prototypical Concept Descriptions
+with Dennis Kibler in the
+Proceedings of the 12th International Conference on Machine Learning
+(1995).
+
+Concept
+Sharing: A Means to Improve Multi-Concept Learning
+, with Dennis Kibler,
+in the Proceedings of the 10th International Conference on Machine
+Learning (1993).
+
+Utilizing Prior Concepts for Learning
+, with Dennis Kibler, in the
+Proceedings of the International Conference on Machine Learning 1992
+workshop on Biases in Inductive Learning.
+Other Interests
+Some activities I enjoy: hiking, backpacking, aerobics, vollyball,
+cooking. I like cats too.
+I am always looking for new ideas for lowfat recipes. Check out
+the fatfree vegetarian archive
+or
+Julie's Low and
+Fat-free Resource list
+.  If you are looking for places to eat
+around town,
+Dining out
+of the web
+has some interesting suggestions.
+
+
+Use the talents you posses -- if only the best birds sang, the woods would be silent. -unknown
+
+
+
+
+Information and Computer Science
+
+University of California, Irvine
+CA 92717-3425
+Last modified: 25 Apr 1996
+

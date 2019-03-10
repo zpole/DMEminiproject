@@ -1,0 +1,50 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Wednesday, 20-Nov-96 22:06:30 GMT
+Content-Type: text/html
+Content-Length: 843
+Last-Modified: Monday, 14-Oct-96 20:43:43 GMT
+
+
+1996-97 CS 181
+
+
+1996-97 CS 181 VLSI Design Laboratory
+
+
+
+
+
+CS 181
+is the Digital VLSI Design class taught by the
+Computer Science Department
+at
+Caltech
+
+.
+
+
+181a
+
+
+181b
+
+
+181c
+
+
+
+
+1994-95 Web materials
+
+
+Documentation for VLSI Tools
+
+
+
+
+
+
+cs181@cs.caltech.edu, Monday 7th October 1996
+
+

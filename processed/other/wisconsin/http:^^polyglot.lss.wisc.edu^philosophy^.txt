@@ -1,0 +1,82 @@
+Date: Fri, 13 Dec 1996 16:21:27 GMT
+Server: NCSA/1.4
+Content-type: text/html
+Last-modified: Mon, 01 Jul 1996 06:26:21 GMT
+Content-length: 2445
+
+
+Philosophy Wisconsin Style
+
+
+
+
+
+
+Philosophy Wisconsin Style
+
+
+
+
+
+About the Department
+
+
+Information About the Department
+
+Departmental News and Events
+
+People in the Department
+
+Course Offerings
+
+
+
+Local Madison Links
+
+
+WiscInfo
+
+The Graduate School
+
+Letters and Science
+
+Madison Online
+
+
+
+Other Philosophy Links
+
+
+American Philosophical Association
+
+The Ultimate Philosophy Page
+
+Philosophical Preprint Exchange (IPPE)
+
+Research Institute for the Humanities
+
+
+
+Department of Philosophy
+University of Wisconsin - Madison
+5185 Helen C. White Hall
+600 North Park Street
+Madison, WI 53706
+(608) 263-3700
+
+
+Click here to email the webmaster.
+
+
+Click here to email the chairperson.
+
+
+
+
+
+
+
+document.write("This page was last updated: "+document.lastModified+".");
+
+
+

@@ -1,0 +1,94 @@
+Date: Thu, 21 Nov 1996 22:53:09 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Fri, 01 Nov 1996 01:16:17 GMT
+Content-length: 2892
+
+
+Xiaohan Qin
+
+
+
+Xiaohan Qin
+
+
+
+xqin@cs.washington.edu
+
+
+Computer Science & Engineering Department
+
+
+University of Washington,
+Box 352350
+
+Seattle, WA
+98195
+Office: Sieg 223
+Phone: (206)685-4087
+Fax: (206)543-2969
+
+I am a 5th year graduate student working with
+Jean-Loup Baer
+.
+My research interests include computer architectures,
+parallel and distributed systems,
+performance evaluation methods such as modeling and simulation.
+My short term goal is to get out of school as soon as possible.
+Papers:
+
+A Performance Evaluation of Cluster-based Architectures,
+Qin and Baer, submitted to a conference.
+
+
+On the Use and Performance of Explicit Communication
+Primitives in Cache-coherent Multiprocessor Systems,
+Qin and Baer, To appear in the Proceedings of HPCA-3.
+
+
+A Comparative Study of Conservative and
+Optimistic Trace-driven Simulations,
+Qin and Baer,
+An award paper in 1995 Simulation Symposium
+, page 42-50.
+
+
+Optimistic Trace-driven Simulation,
+Qin and Baer, Tech Report 94-10-03, Dept of Computer Science and Engineering,
+Univ. of Washington.
+
+
+A Parallel Trace-driven  Simulator: Implementation and Performance,
+Qin and Baer,
+in Proceedings of 1994 International Conference
+of Parallel Processing
+, page 314-318.
+
+
+MIN-Graph: A tool
+for Monitoring and Visualizing MIN-based
+Multiprocessor Performance,
+Zhang, Nalluri, and Qin,
+in Journal of Parallel and Distributed Computing
+,
+June 93, page 231-241.
+
+
+Performance Prediction and Evaluation of Parallel Processing
+on a NUMA Multiprocessor,
+Zhang and Qin,
+in IEEE Trans. on Software Engineering
+,
+Oct 91, page 1059-68.
+
+
+Other interesting stuff:
+
+Photos from China
+
+
+Readings in Chinese
+
+Search Engine
+
+

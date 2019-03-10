@@ -1,0 +1,67 @@
+
+
+UAB-CIS Web Services
+
+
+
+
+UAB-CIS Web Services
+
+
+This Web page in HTML format designed for posting as hypertext on
+USENET News provides an
+advertisment
+of some of the
+information services available through the Web server in the
+Department of Computer and Information Sciences at the University
+of Alabama at Birmingham.  These services are provided in
+conjunction with current research being performed by the members
+of the SIFTER Group at UAB.  This ongoing research is in the area
+of Internet information filtering, presentation, and management.
+
+The Hyperdex
+
+This collection of pages is an evolving hyperindex of documents
+and other resources located on the UAB-CIS and selected other
+Web/Gopher servers.
+
+The OS/2 SoftStore
+
+This page provides links to OS/2 software packages developed by
+members of UAB-CIS for general availability.
+
+The OS/2 Web/Gopher Server Showcase
+
+This page links to and describes many OS/2-based Web/Gopher servers
+located throughout the Internet.
+
+webNews -- "URL-Anchorized" USENET News Web Article Archive
+
+This collection of pages is an archive of USENET News articles
+about the Web (WWW) in which most URLs have been "anchorized"
+(that is, converted to active hypertext links).
+
+The Alabama Blue Cross and Blue Shield Medical Information Server
+
+This Web/Gopher service provides access to free medical information
+resources located throughout the Internet.
+
+For further information about these resources or related research,
+please contact
+Dr. Warren Jones
+or
+R L Samuell
+or click on the [HOME] button below to browse our Web home page.
+
+
+
+[HOME]
+
+[HYPERINDEX]
+
+
+AdPage.80 / 1994.9.10 / rl3s / samuell@cis.uab.edu
+
+
+
+

@@ -1,0 +1,65 @@
+Server: Dienst v4-1-6
+MIME-version: 1.0
+Content-type: text/html
+Operating System Support for Mobile Agents
+
+Operating System Support for Mobile Agents
+Dag Johansen,  Robbert Van Renesse and  Fred B. Schneider
+TR94-1468
+December 05, 1994
+
+An "agent" is a process that may migrate through a computer network in order to satisfy requests made by its clients. Agents implement a computational metaphor that is analogous to how most people conduct business in their daily lives: visit a place, use a service (perhaps after some negotiation), and then move on. Thus, for the computer illiterate, agents are an attractive way to describe network-wide computations. Agents are also useful abstractions for programmers who must implement distributed applications. This is because in the agent metaphor, the processor or "place" the computation is performed is not hidden from the programmer, but the communications channels are. Most current research on agents has focused on language design and application issues. The TACOMA project (Tromso And COrnell Moving Agents) has, instead, focused on operating system support for agents and how agents can be used to solve problems traditionally addressed by operating systems. We have implemented prototype systems to support agents using UNIX and using Tcl/Tk on top of Horus. This paper outlines insights and questions based on that experience. We discuss abstractions needed by an operating system to support agents, and discuss some problems that arise in connection with electronic commerce involving agents.
+
+
+How to view this document
+
+
+Display an
+overview
+of the document in one of the following formats.
+
+Overview of thumbnail pages
+
+
+Display a
+selected page
+in one of the following formats (document has 6 pages).
+
+
+raw OCR output
+inline gif image
+
+
+
+
+Display the
+whole
+document in one of the following formats.
+
+PostScript
+55099 bytes.
+
+
+
+Print or download all or selected pages.
+
+
+
+You are granted permission for the non-commercial reproduction, distribution,
+display, and performance of this technical report in any format, BUT this
+permission is only for a period of 45 (forty-five) days from the most recent
+time that you verified that this technical report is still available from
+the Computer Science Department of Cornell University under terms that
+include this permission.  All other rights are reserved by the author(s).
+[
+Search
+|
+Home page
+]
+
+NCSTRL
+This server operates at Cornell University.
+
+Send email to
+tech-reports@cs.cornell.edu
+

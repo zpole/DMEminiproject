@@ -1,0 +1,161 @@
+Date: Tue, 26 Nov 1996 02:59:02 GMT
+Server: Apache/1.0.0
+Content-type: text/html
+Content-length: 5232
+Last-modified: Fri, 26 Apr 1996 21:28:21 GMT
+
+
+Bernard's Home Page
+
+
+
+
+
+Bernard Desruisseaux
+
+
+
+Welcome to my home page!
+I'm currently a graduate student at the
+School of Computer Science
+at
+McGill University
+in
+Montréal
+,
+Québec
+,
+Canada
+.
+
+As you'll see most pages are still under construction...
+
+
+General Information
+
+
+E-mail:
+
+
+bernard@cs.mcgill.ca
+
+
+Office:
+McENG 322 (Desk #10)
+
+Office Phone:
+(514) 398-7086
+
+Office FAX:
+(514) 398-3883
+
+
+
+
+Research Interests
+
+
+Random Dynamic Fonts
+
+Typeface Design
+Data Structures and Algorithms
+Computer Security
+
+
+
+The Game of Go
+
+
+WWW Go Pages Index
+
+
+
+Human Rights on the Internet
+
+
+Amnistie Internationale, section canadienne francophone
+
+Amnistie Internationale, bureau central
+
+Human Rights Resources
+
+Project Diana
+
+Artistes contre le racisme
+
+
+
+
+University Libraries' Catalogs
+
+
+
+
+``Cryptography: Theory and Practice''
+
+
+
+
+Comprehensive TeX Archive Network
+
+
+
+
+HTML Links
+
+
+HTML Documentation Table of Contents
+
+Mostly complete HTML dictionary
+
+HyperText Markup Language (HTML): Working and Background Materials
+
+How to write HTML files
+
+A Beginner's Guide to HTML
+
+Guides to Writing HTML Documents
+
+Technical: Setting Properly your Web reader
+
+MIME - RFC1521,1522
+
+
+
+
+Other Favorite Links
+
+
+Linux Documentation Project Home Page
+
+Shareware Search Engines at FAGG
+
+WWW Acronym Server
+
+Métro de Montréal
+
+Hypertext Webster Interface
+
+Internet Chess Library
+
+The Guide To The Game of Othello
+
+Game Programming
+
+Gutenberg EText Home Page
+
+The Rolling Stones Web Site
+
+Led Zeppelin Home Page
+
+Progressive Rock Home Page
+
+
+
+Last modified: Thu Feb 22 09:53:16 EST 1996
+Maintainer:
+bernard@cs.mcgill.ca
+
+
+
+

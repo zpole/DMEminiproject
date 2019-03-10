@@ -1,0 +1,78 @@
+Date: Tue, 14 Jan 1997 22:01:36 GMT
+Server: NCSA/1.5.1
+Last-modified: Tue, 14 Jan 1997 01:33:56 GMT
+Content-type: text/html
+Content-length: 1906
+
+
+Mechanical Gaze
+
+
+
+
+
+Mechanical Gaze
+
+
+Explore Real Remote Spaces via Tele-Robotics
+
+Continuous Operation Since March 1995
+
+Eric Paulos
+and
+John Canny
+
+
+New Botanical Exhibit coming soon...
+
+
+I am looking for new exhibits.
+Please contact me if you have any
+ideas or would like to show something.
+
+
+
+[
+Enter
+]
+
+Institutions, museums, curators, scientists, artists,
+and individual users are all invited to exhibit objects
+in the browser.
+
+
+
+
+
+
+[
+About
+|
+Upcoming
+|
+Previous
+|
+Help
+]
+
+
+Live video feed (DOWN):
+
+CuSeeMe
+at 128.32.34.90
+
+MBone
+(within UCB only) use nv 224.2.140.1 6001
+
+
+
+New project:
+Space Browsers: A tool for Ubiquitous
+Tele-embodiment
+
+Is this real? See:
+Legal Tender
+
+
+
+

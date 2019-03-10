@@ -1,0 +1,131 @@
+Date: Thu, 21 Nov 1996 22:20:42 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+
+CSE501 Home page
+
+
+CSE 501: Implementation of Programming Languages
+
+Winter Quarter, 1996
+
+Important Course Information
+
+
+
+Meeting times
+M, W, F from 1:30 to 2:20 in MEB 235
+
+Instructor
+
+Craig
+Chambers
+(
+chambers@cs
+), office hours: T, Th 11-12
+(starting second week), Sieg 309.
+
+TA
+Vass Litvinov (
+vass@cs
+), office hours: We 11:00-12:00,
+Fr 11:30-12:30, Sieg 423 / a cubicle on the 4th floor.
+
+Archives
+
+
+Slides from lecture are available
+here
+.
+
+Handouts are available
+here
+.
+
+Reading assignments are available
+here
+.
+The full reading list for the class is available
+here
+.
+
+Homework assignments are available
+here
+.
+
+Messages sent to the
+cs501@cs
+mailing list are archived
+here
+.
+
+Last year's midterm exam & answers are available
+here
+.
+Last year's final exam & answers are available
+here
+.  (Note that this test was closed
+book & 2 hrs, which affected the kind of questions that were
+asked.)
+This year's midterm exam is available
+here
+.
+Sample solutions are
+here
+.
+This year's final exam & answers are available
+here
+.
+
+
+Cecil and Vortex Information
+
+Handouts from tutorials
+
+
+the Cecil language tutorial
+
+the Vortex compiler tutorial
+
+How to Use the Vortex C/C++ Front-end
+
+a list of compiler files of
+interest
+
+dead-assign-elim.cecil
+-- a simple example of an IDFA
+cfg-traversal-interface.cecil
+-- the CFG traversal framework
+Vortex RTL Textual Description
+Grammar
+
+
+Cecil reference documentation
+Documentation is available both in HTML and PostScript formats:
+
+The Cecil language reference manual
+(
+postscript
+version)
+How to Use the Vortex Compiler
+(
+postscript
+version)
+The Cecil Standard Library reference manual
+(
+postscript
+version)
+
+Other Resources
+The previous quarter's Web page, including all the old slides, etc.,
+is available
+here
+.
+More information about compiler and language research can be found on
+Mark Leone's
+programming language research page
+.
+
+chambers@cs.washington.edu
+
+

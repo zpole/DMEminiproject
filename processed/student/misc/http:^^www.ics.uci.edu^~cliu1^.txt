@@ -1,0 +1,220 @@
+Date: Thu, 21 Nov 1996 22:51:58 GMT
+Server: Apache/1.0.5
+Content-type: text/html
+Content-length: 5498
+Last-modified: Mon, 28 Oct 1996 05:59:45 GMT
+
+LIU, Chang
+
+
+
+
+
+
+
+
+
+
+
+
+
+Liu, Chang (Charles)
+
+
+
+Information and Computer Science
+
+University of California, Irvine
+CA 92697-3425, USA
+
+Last modified: 18 Aug 1996
+
+
+
+
+
+
+Position     : Graduate Student
+E-mail       :
+cliu1@ics.uci.edu
+
+Mail         : 6260 Adobe Circle Drive, Irvine, CA 92612, USA
+
+Office       : ICS2 (Bldg 304) Room 100
+Office Phone : +1(714)UCI-1326
+Home Phone   : +1(714)856-0310
+
+Fax          : +1(714)UCI-4056
+
+
+
+
+
+
+Current Project
+
+Modula-3
+
+
+
+Trestle By Example
+
+
+
+
+Information
+
+
+Search
+
+
+
+
+Current Research : Graphical Interval Logic (GIL)
+
+
+GIL Checker
+
+Specification and
+Testing of Temporal Properties of Concurrent System Designs
+
+A Graphical Interval Logic for Specifying Concurrent Systems
+
+Taos
+
+Efficient Specification-Based Test Oracles
+
+
+
+
+
+
+
+
+
+
+
+Previous Projects : Jadebird Software Development Environment
+
+
+
+Structured Analysis Tool
+
+
+Picture1
+
+Picture2
+
+
+Structured Design Tool
+
+
+Picture1
+
+Picture2
+
+
+Document Analysis Tool/Module Structure Diagram
+
+
+Picture1
+
+Picture2
+
+
+Document Analysis Tool/Procedure Description Language
+
+
+Picture1
+
+Picture2
+
+
+Document Tracing Tool
+
+
+Picture1
+
+Picture2
+
+
+Detailed Design Tool
+
+
+Picture1
+
+Picture2
+
+
+C Coding Tool
+
+
+Picture1
+
+Picture2
+
+
+
+
+What's New @ UCI & Fudan
+
+
+Fudan University
+
+
+Campus Recreation
+
+
+
+
+Useful Web Resources
+
+Selected Links
+including
+weather
+
+
+Misc
+
+
+
+
+
+
+
+8724 of Fudan University
+
+9124G of Fudan University
+
+UCI Chinese
+
+Academic Siblings
+
+
+
+
+
+Download
+
+Resume
+
+Personal Interests
+
+USA Today
+,
+Webster Dictionary
+
+
+
+
+
+
+
+
+
+
+
+Please send comments to:
+cliu1@ics.uci.edu
+
+

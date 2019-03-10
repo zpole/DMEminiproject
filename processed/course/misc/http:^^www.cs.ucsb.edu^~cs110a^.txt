@@ -1,0 +1,194 @@
+Date: Wed, 20 Nov 1996 23:06:12 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 5061
+Last-modified: Tue, 19 Nov 1996 19:51:52 GMT
+
+
+
+Foundations of Scientific Computing
+
+
+
+
+Foundations of Scientific Computing-CS110A
+
+Fall 1996
+
+
+Instructor
+:
+
+Tao Yang
+
+Department of Computer Science
+,
+UCSB
+
+Phone: (805)893-4384 (office), (805)893-4321 (CS office)
+Email:
+tyang@cs.ucsb.edu
+
+Office hours: TR 10:50-11:50, or by appointment
+
+Topics
+:
+
+
+Error analysis.
+
+Solving linear/nonlinear equations.
+
+Directed methods and iterative methods.
+
+Approximation of functions, interpolation.
+
+Numerical differentiation and integration.
+
+Finite-difference methods for ODE/PDEs.
+
+C/Fortran and MATLAB programming for scientific computing.
+
+
+Schedule
+:
+
+
+Lecture:
+TR 9:30-10:45, ENGR 1132
+
+Discussion: M 11:00-11:50 PHELP 1408, F 10:00-10:50 PHELP 3519
+
+
+Course
+materials and lecture notes
+:
+
+
+Richard L. Burden, J. Douglas Faires.
+Numerical Analysis
+, Fifth
+Edition, PWS Publishing Company, Boston, 1993.
+
+Lecture notes
+are availabla in RBR.
+
+
+TA
+:
+
+Xiangmin Jiao
+
+Phone: (805)893-8217(lab)
+Email:
+jiao@cs.ucsb.edu
+
+Office hours: M 10:00-10:50 F 11:00-11:50 Trailer 380-101C, or by appointment
+
+Reader
+:
+
+Dianyuan Xiong
+
+Phone: (805)893-8217(lab)
+Email:
+xiong@cs.ucsb.edu
+
+Office hours:
+F 11:00-11:50 Trailer 380-101C, or by appointment
+
+Announcement:
+
+
+Nov. 12:
+Sample solutions to the midterm and hw#3 have already been posted
+in
+the solution page
+, and homework assignment #4 is
+available in
+the assignment page
+.
+
+Nov. 18:
+In the problem 4 of homework 4, it should be "Test if it is
+correct for Problem 2 in approximation f(0.3) using P(0.3)".
+.
+
+
+Handouts
+:
+
+
+Course Syllabus
+(Click
+here
+for postscript file).
+
+Homework and prorgamming assignments
+.
+
+Sample solutions.
+(Also available in RBS)
+
+Elements of MATLAB
+
+
+On-line
+documents for CS110A:
+
+
+New
+UNIX user tutorial for CS students
+.
+Technical
+Support FAQ
+. HTML.
+
+MATLAB command list.
+
+MATLAB
+Online Reference Documentation.
+
+ECE
+Matlab Resources.
+
+Slides for the lecture
+on Oct. 24(Post Script).
+
+
+Other
+interesting WWW sites:
+
+
+Numerical
+Linear Algebra on Parallel Processors
+
+by
+James Demmel, 1995. An on-line reference book on parallel scientific computing.
+HTML.
+
+Computational
+science resources on the Internet.
+
+
+Newsgroup
+:
+
+Click here to read/post
+news
+in the newsgroup "
+ucsb.engr.compsci.cs110a
+" on
+this course.
+
+
+Xiangmin Jiao
+
+Last
+Modified: Oct. 28, 1996 19:28:30 PRT
+
+You are the visitor
+.
+
+
+

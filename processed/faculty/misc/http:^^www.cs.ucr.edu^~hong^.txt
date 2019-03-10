@@ -1,0 +1,34 @@
+Date: Thu, 21 Nov 1996 20:03:17 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1266
+Last-modified: Wed, 15 Mar 1995 22:34:23 GMT
+Yang-Chang Hong's Home Page
+
+Yang-Chang Hong's Home Page
+
+
+EDUCATION AND WORK
+
+
+B.S. degree in Electrical and Computer Engineering, Taiwan.
+Ph.D. in Computer Engineering, University of Florida, Gainsville.
+Member of the Institute of Information Science of Academia Sinica.
+Taught at Taiwan University, Taipei.
+Taught at University of Santa Clara, Santa Clara, California.
+
+
+RESEARCH TOPICS
+Dr. Hong's research focuses on a dataflow/von Neumann hybrid
+architecture for efficient pipelined execution of dataflow program
+graphs.  This includes the study of mechanisms for reducing the
+scheduling gap between a dataflow instruction and its consumer
+instruction(s), and the issues of partitioning and compilation
+of the program graph to maximize the use of the normal "IP+1"
+instruction scheduling of a von Neumann processor, where the IP
+stands for instructional pointer.  Other research interests
+include incorporation of dataflow ideas into RISC processors
+for parallel execution, and study of the architecture of each node
+in a general purpose, massively parallel architectures.
+
+Return to Faculty Home Page

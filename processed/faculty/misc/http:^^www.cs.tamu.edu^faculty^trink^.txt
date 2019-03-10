@@ -1,0 +1,66 @@
+Date: Mon, 25 Nov 1996 22:45:36 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1276
+Last-modified: Wed, 16 Oct 1996 18:56:40 GMT
+
+Jeff Trinkle
+
+Jeff Trinkle
+
+
+
+Associate Professor
+Department of Computer Science
+Texas A&M Univeristy
+College Station, TX  77843-3112
+
+
+Office:
+328b  H. R. Bright Building
+Phone:
+(409)
+845-5009
+Fax:
+(409) 847-8578
+
+Email:
+trink@cs.tamu.edu
+
+I am on faculty development leave (a.k.a. sabbatical leave)
+at Rice University through 8/97.
+
+
+
+Education and Experience
+
+Selected Publications
+
+Course information:
+
+
+CPSC 452
+- Robotics and Spatial Intelligence.
+Rice University's
+Elec 436
+-
+Control Systems I.
+
+Other interesting stuff:
+
+Rice University's
+Elec 201
+-
+a robot-building course for students at any level in any department.
+
+
+
+To
+Robotics Lab home page
+.
+
+
+trink@cs.tamu.edu   16 October 1996
+
+
+

@@ -1,0 +1,44 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Tuesday, 14-Jan-97 19:49:58 GMT
+Content-Type: text/html
+Content-Length: 1236
+Last-Modified: Thursday, 17-Oct-96 15:33:11 GMT
+CCS Computing Resources
+
+
+CCS Computing Resources
+
+
+
+Computer Labs
+
+The College of Computer Science maintains four different labs for
+its students.
+
+
+
+Lab Hours
+
+
+
+Hardware Resources.
+
+
+Software Resources.
+
+
+Technical Reference Library
+
+We have a collection of technical books oriented towards the needs
+of our students.  These books are available in the 201 CN Lab for
+College of Computer Science students.
+
+
+
+College of Computer Science,
+Webmasters.
+
+
+
+

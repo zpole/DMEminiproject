@@ -1,0 +1,853 @@
+Date: Tue, 14 Jan 1997 22:55:28 GMT
+Server: Stronghold/1.3 Ben-SSL/1.3 Apache/1.1.1
+Content-type: text/html
+Content-length: 14849
+Last-modified: Tue, 17 Dec 1996 00:30:50 GMT
+
+
+CS161 Class Page
+
+
+
+
+CS161 Class Page
+Data Structures and Algorithms
+
+(Autumn Quarter 1996)
+
+
+
+
+Message of the Day
+
+16 December: The final exams have been graded and final grades are posted
+outside Serge's office (472) and Mark's office (112).  A message regarding
+the details of the final will be sent today and a copy will appear on the
+newsgroup.  Merry Christmas.
+
+
+Table of Contents
+
+
+
+Course Overview
+
+
+Prerequisites
+
+
+Course Staff
+
+
+Course Venues and Times
+
+
+Textbook Information
+
+
+Relevant Course Links
+
+
+Syllabus
+
+
+Handouts
+
+
+
+
+Course Overview
+This is a basic course on the design and analysis of algorithms.
+The course will focus on both general classes of
+algorithms, such as dynamic programming, divide
+and conquer, and greedy methods; and advanced data
+structures, such as balanced trees, graphs, and heaps.  In addition, we
+will compare different algorithms formally by analyzing their complexity
+(i.e. running time).  The problems we will study involve sorting,
+searching, graph algorithms, computational geometry, and a sprinkling
+of other topics which vary from year to year.
+
+
+
+Prerequisites
+
+The official prerequisite for this course is CS109AB (Introduction to
+Computer Science) or equivalent.  Although this course will be
+entirely a ``pen-and-paper'' course, (i.e. no programming),
+familiarity with programming concepts such as pointers, arrays,
+records, procedures, and recursion will be assumed.
+
+In addition, a solid background in mathematics will prove invaluable
+for this course, in that we will argue formally about the correctness
+and performance of almost every algorithm and data structure
+introduced.  The ability to write clear, formal, and BRIEF proofs will be
+relied upon (especially by the TA).
+
+
+
+Course Staff
+
+
+
+Professor:
+Serge Plotkin
+
+
+
+E-mail:
+plotkin@cs.stanford.edu
+
+Office Hours: Thursday, 2:30-4:30pm
+Office Location: Gates 472
+Office Phone: 723-0540
+FAX: 725-4671 [Attn: Plotkin]
+
+Teaching Assistant:
+Mark A. Ruzon
+
+
+
+E-mail:
+ruzon@cs.stanford.edu
+
+During pre-scheduled office hours:
+
+Office Hours: Tuesday, 2:00-4:00pm; Thursday, end of section to 12:00pm
+Office Hours Location: Gates 193B
+Office Phone: 723-6077
+
+Otherwise:
+
+Office Location: Gates 112
+Office Phone: 723-4310
+FAX: 725-1449 [Attn: Ruzon]
+
+
+Secretary: Phyllis Winkler
+
+
+E-mail:
+winkler@cs.stanford.edu
+
+Office Location: Gates 495
+Office Phone: 723-4377
+
+
+
+
+Course Venues and Times
+
+
+
+Class Lectures: Serge Plotkin
+
+
+Time: 12:50pm - 2:05pm, Mondays and Wednesdays
+Location: Building 550, Room 550A
+
+
+Recitation Section: Mark Ruzon
+
+
+Time: 10:00am - 10:50am, Thursdays
+Location: Gates Building, Room B12
+
+
+
+
+
+Textbook Information
+
+
+Introduction to Algorithms
+by Cormen, Leiserson, and Rivest.
+(McGraw Hill)
+
+The current list of known bugs can be found
+here
+.
+
+
+
+
+Relevant Course Links
+
+
+Web Page:
+http://www-leland.stanford.edu/class/cs161
+
+FTP Site:
+ftp://ftp.stanford.edu/class/cs161/
+
+Handouts:
+/usr/class/cs161/handouts
+
+Newsgroup:
+su.class.cs161
+
+
+
+
+Syllabus
+
+
+[Please note: Topics of future lectures are subject to change.]
+
+
+
+Date
+
+Topic
+
+Reading
+
+Due
+
+Out
+
+
+
+Wednesday
+25 Sep
+
+Administrivia, Sorting,
+O-notation
+
+Ch. 1
+
+---
+
+---
+
+
+
+Monday
+30 Sep
+
+More asymptotics
+
+Ch. 2
+
+---
+
+HW 1
+
+
+
+Wednesday
+2 Oct
+
+Final asymptotics,
+Recurrence relations I
+
+Ch. 6
+(and 3 and 4)
+
+---
+
+---
+
+
+
+Monday
+7 Oct
+
+Recurrence Relations II,
+Master Theorem
+
+Ch. 5
+
+HW 1
+
+---
+
+
+
+Wednesday
+9 Oct
+
+Randomized Algorithms,
+Quicksort
+
+Ch. 8
+
+---
+
+HW 2
+
+
+
+Monday
+14 Oct
+
+Quicksort Analysis,
+Order Statistics
+
+Ch. 7 and 10
+
+---
+
+---
+
+
+
+Wednesday
+16 Oct
+
+Median finding,
+Heaps and Queues
+
+Ch. 9
+
+HW 2
+
+HW 3
+
+
+
+Monday
+21 Oct
+
+Non-comparison sorting,
+Hashing I
+
+Ch. 12
+
+---
+
+---
+
+
+
+Wednesday
+23 Oct
+
+Hashing II
+Ch. 11 and 13
+
+HW 3
+
+HW 4
+
+
+
+Monday
+28 Oct
+
+Binary trees I
+
+Ch. 14
+
+---
+
+---
+
+
+
+Wednesday
+30 Oct
+
+Binary trees II,
+Red-black trees I
+
+Ch. 15
+
+HW 4
+
+HW 5
+
+
+
+Monday
+4 Nov
+
+Midterm
+
+
+
+---
+
+---
+
+
+
+Wednesday
+6 Nov
+
+Red-black trees II,
+Augmenting data structures
+
+
+
+---
+
+HW 6
+
+
+
+Monday
+11 Nov
+
+Interval trees,
+Greedy algorithms I
+
+Ch. 17 and 24
+
+---
+
+---
+
+
+
+Wednesday
+13 Nov
+
+Greedy algorithms II,
+Spanning Trees I
+
+Ch. 16
+
+HW 6
+
+---
+
+
+
+Monday
+18 Nov
+
+Spanning Trees II
+
+Ch. 23
+
+---
+
+---
+
+
+
+Wednesday
+20 Nov
+
+Spanning Trees III,
+Dynamic Programming I
+
+Ch. 25
+
+---
+
+HW 7
+
+
+
+Monday
+25 Nov
+
+Dynamic Programming II
+
+Ch. 26
+
+
+
+
+
+
+
+Wednesday
+27 Nov
+
+Basics of
+Graph Algorithms
+
+
+
+
+
+
+
+
+
+Monday
+2 Dec
+
+Single Source Shortest Paths
+End Quarter Week
+
+
+
+
+
+
+
+
+
+Wednesday
+4 Dec
+
+All Pairs Shortest Paths
+End Quarter Week
+
+
+
+
+
+Final
+
+
+
+Wednesday
+11 Dec
+
+
+
+
+
+Final
+
+
+
+
+
+
+
+
+Handouts:
+
+
+
+Online:  /usr/class/cs161/handouts
+Hard copies may be obtained on the 4th floor of Gates, to the left
+as you exit from the elevator, by the white boards.
+
+
+
+#
+
+Date
+
+Title
+
+Format
+
+
+
+1
+
+Wed, 25 Sep
+
+Basic Course Information
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+2
+
+Wed, 25 Sep
+
+Approximate Course Outline
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+3
+
+Wed, 25 Sep
+
+Sign-up Questionnaire
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+4
+
+Mon, 30 Sep
+
+Homework 1
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+5
+
+Wed, 9 Oct
+
+Homework 1 Solutions
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+6
+
+Wed, 9 Oct
+
+Homework 2
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+7
+
+Wed, 16 Oct
+
+Homework 3
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+8
+
+Mon, 20 Oct
+
+Homework 2 Solutions
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+9
+
+Wed, 23 Oct
+
+Homework 4
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+10
+
+Mon, 28 Oct
+
+Homework 3 Solutions
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+11
+
+Wed, 30 Oct
+
+Homework 5
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+12
+
+Mon, 4 Nov
+
+Homework 4 Solutions
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+13
+
+Wed, 6 Nov
+
+Homework 6
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+14
+
+Mon, 18 Nov
+
+Homework 6 Solutions
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+15
+
+Wed, 20 Nov
+
+Homework 7
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+16
+
+Wed, 27 Nov
+
+Homework 8
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+17
+
+Mon, 2 Dec
+
+Homework 7 Solutions
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+18
+
+Thu, 5 Dec
+
+Homework 8 Solutions
+
+
+postscript
+,
+dvi
+,
+latex
+
+
+
+
+
+
+
+
+This class is offered by
+
+Stanford University
+
+
+Department of Computer Science
+
+
+Theory Division
+
+
+
+
+Previous quarters offered:
+
+Spring 95-96
+
+
+Summer 95-96
+
+
+CS161 Class Page
+
+ruzon@cs.stanford.edu
+
+
+
+

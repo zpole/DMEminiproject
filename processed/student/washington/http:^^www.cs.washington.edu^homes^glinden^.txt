@@ -1,0 +1,306 @@
+Date: Thu, 21 Nov 1996 22:57:10 GMT
+Server: NCSA/1.4.2
+Content-type: text/html
+Last-modified: Tue, 05 Nov 1996 19:22:43 GMT
+Content-length: 9437
+
+
+Greg Linden's Home Page
+
+
+
+
+Greg Linden
+
+
+
+My lovely wife
+Corina
+is
+currently in her third year of the graduate program in the
+Political Science
+here at
+U of W
+.
+
+I'm in my third year in the graduate program at the
+Computer Science
+Department
+at the
+University of
+Washington,
+slaving away toward the lofty goal of my Ph.D.
+I completed his undergraduate
+degree at the
+University of California at San Diego
+with an
+odd double-major in Computer Science and Political Science.
+I'm going on leave from graduate school in mid-December and I'm
+actively looking for a position in software development.  If you're interested, you can check out my
+resume
+.
+
+
+
+Java Applets:
+
+
+
+WebView
+allows you to see the links to and from a page or
+set of pages.
+
+
+
+
+
+There are two new additions to the WebView family, AltaVistaWebView
+and MetaWebView.  Instead of entering a URL, you enter keywords for
+AltaVista or Metacrawler and WebView hits the search service,
+returning a graph displaying all the pages found by the search
+services with the links between those pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The
+Automated Travel Assistant
+emulates the dialog between a travel
+agent and client, gradually eliciting your flight preferences while
+allowing you to browse real flight data.  It's a research prototype,
+but it has quite a bit of functionality even at this early stage.
+
+
+
+
+
+ATA
+and
+WebView
+have been highly rated by
+Gamelan
+and
+JARS
+.
+ATA
+was
+rated "Top 1% of Java applets" by JARS, "What's Cool" by Gamelan, and
+was a Gamelan staff pick.
+WebView
+was
+rated "Top 5% of Java applets" by JARS, "What's Cool" by Gamelan, and
+was a Gamelan staff pick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...and a Gamelan Staff Pick!
+
+
+
+
+And
+AltaVistaWebView
+was one of the winners of the
+Java Repository
+Java Contest!
+
+
+
+
+
+My applets have also been published in two books:
+
+A. Walsh,
+Foundations of Java
+, IDG Books, 1996
+Le Meilleur de Java (The Best of Java)
+, 1996
+
+
+Here's my first Java applet, Linear Ballet.
+
+
+
+
+Oops!  You're not using a Java-capable browser.  Sorry.  No cool Java applets for you.
+
+
+
+
+
+The source
+demonstrates using double-buffering to avoid flicker and using threads to give time to other running applets.  The code certainly could be cleaner, though, so don't expect a work of art here.
+
+If you thought that was cool, you might have low enough standards
+to be impressed by my
+LGrammer
+or
+Particle Tree
+applets.
+Both draw trees.  The LGrammer trees look much more realistic than the
+ParticleTree trees, but both are interesting.
+
+
+
+I recently started a position as a
+JARS judge
+, evaluating the Java applets that are submitted to the
+JARS
+archive.  Very interesting work.
+In the summer of 1995, I developed Dawn of Civilization, a
+demonstration application showing that planning techniques can
+successfully be applied in entertainment software, for Myriad
+Software.
+At UCSD, I worked with Professor Rik Belew and Filippo Menzer on the
+Latent
+Energy Environments (LEE)
+project, a tool for developing
+artificial life models and experimenting with artificial neural
+network and evolutionary learning in software enviroments.
+
+
+
+Papers:
+
+
+S. Hanks, N. Lesh, G. Linden,
+Eliciting User Preferences:  The
+Automated Travel Assitant
+, Submitted to User Modeling 1996.
+S. Majeski, G. Linden, C. Linden, A. Spitzer,
+Modeling Localized
+Interaction:  Spatial Constraints in the Iterated Prisoner's Dilemma
+,
+Association of Economic Scientists 1996.
+A. Krishnamoorthy, R. Paturi, M. Blume, G. Linden, L. Liden,
+S. Esener,
+Hardware
+Tradeoffs for Boolean Concept Learning
+, World Congress on Neural
+Networks, 1994, pg 551-559
+G. Linden,
+Recurrent Neural Networks in the Iterated Prisoner's
+Dilemma
+, 1994  [Unpublished Honor's Thesis]
+
+
+
+
+Adam Carlson
+,
+Sujay Parekh
+, and I wrote a fun
+ray tracer
+as one of
+the projects in
+CS557
+(graduate computer graphics).  Here's some of the images...
+
+
+The Headless Horseman
+
+
+Closeup of the Headless Horseman
+
+
+Chess Duel
+
+
+Some Assembly Required
+
+
+Spheres
+, an image with
+reflection, transparency, shadows, distributed ray tracing, adaptive
+sampling, and a mess of other cool things.  The patterns on the
+spheres are because they're both transparent and reflective, causing
+the rays to reflect and refract multiple times both from the surface
+and internally.
+
+We also made a 90 second computer animation called "The Strike".  The
+animation was written using SGI Inventor and C code to manipulate the
+3D models.  The original SGI movie file was 70mb.  We have made a
+lower quality
+27.5mb QuickTime movie
+available and a
+very low quality 6.5mb
+QuickTime movie
+available.  Sorry, it just doesn't compress any
+further than this (at least with anything resembling reasonable quality).
+
+
+
+
+
+Mac Programming Stuff
+
+
+Dilbert
+
+
+Cognitive Science at UCSD
+
+
+CMU AI Repository
+
+
+Artificial Life Info
+
+
+
+
+
+I can be occasionally found at:
+
+
+
+Chateau
+(a.k.a. Guggenheim Annex)
+109A
+
+Box 352350
+
+Computer Science & Engineering
+
+
+University of Washington,
+FR-35
+
+Seattle, WA
+98195-2350
+(206) 616-1846
+(206) 543-2969 (fax)
+
+
+
+
+glinden@cs.washington.edu
+
+Last modified:
+5/27/96
+
+
+

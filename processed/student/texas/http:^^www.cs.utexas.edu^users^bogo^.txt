@@ -1,0 +1,132 @@
+MIME-Version: 1.0
+Server: CERN/3.0
+Date: Monday, 06-Jan-97 19:42:10 GMT
+Content-Type: text/html
+Content-Length: 5397
+Last-Modified: Monday, 25-Nov-96 01:52:52 GMT
+Michael Bogomolny
+
+Michael Bogomolny's CogSci Advert
+
+
+
+
+(although this is not a picture of me, sometimes it is how I feel
+after reading our articles)
+
+currently in first semester of Computer Science Ph.D. program,
+University of Texas at Austin
+B.A. in Physics and Computer Science, Amherst College, 1994
+
+
+Research Interests
+Note: I intend to work with
+Jenefer Husman
+on risk averse decisions for my final project.
+
+
+Risk averse decisions
+
+
+If I were to bet you a quarter on the outcome of a coin toss,
+you would probably accept the bet.
+If I were to bet you $1000 on the same coin toss,
+you would probably reject the bet. Why do people reject fair bets?
+Well, there's a sound economic theory involving maximizing utility
+and the law of diminishing returns that explains this one.
+However, this does not explain why people,
+when asked the same question formulated in both a risk taking
+and a risk preventing manner, will respond differently.
+
+Here's an example from our beloved Tversky and Kahneman, taken almost verbatim
+from "The Framing of Decisions and the Psychology of Choice" (Science, 1981):
+
+Imagine that the US is preparing for the outbreak of an unusual disease which
+is expected to kill 600 people. Two alternative programs to combat the disease have been
+proposed. Assume that the exact scientific estimate of the consequences of the programs
+are as follows:
+
+Problem 1: [N=152]
+If program A is adopted, 200 people will be saved. [72%]
+If program B is adopted, there is 1/3 probability that 600 people will be
+saved, and 2/3 probability that no people will be saved. [28%]
+
+Problem 2: [N=155]
+If program A is adopted 400 people will die. [22%]
+If program B is adopted there is a 1/3 probability that nobody will die, and 2/3
+probability that 600 people will die. [78%]
+
+Which one of the two programs would you favor?
+
+
+Analog vs digital
+If humans' brains are made of neurons and neurons fire or not
+depending on the level of electrochemical charge built up at
+their axons does that make a brain analog? (My biological
+foundation here is shaky, by the way, so go ahead and scream
+at me if my hypothesis is wrong.) If computers transfer
+information over a bus and a particular wire has either high
+or low voltage that is then interpreted as 0 or 1, does that
+make computers analog as well?
+
+Accurate processing with inaccurate outcomes
+Sometimes we simply come up with the "wrong" answer. We make
+mistakes in subtraction while balancing our checkbook, or "remember"
+an invalid telephone number. (Or maybe she gave me a number that
+wasn't her real telephone number? But that's another story...)
+Nevertheless, we would be hard pressed to point to a misfiring of a
+neuron to account for this error. Can correct processing lead to
+incorrect results? (Is human cognitive processing 'sound' or even
+'complete'?) (REMINDER: Make those quotes italicized.)
+
+
+Classes
+
+(append "Introduction to" to all these courses)
+
+Graduate Computer Science Research
+
+Cognitive Science
+
+Aritificial Intelligence
+
+Mathematical Logic
+Topology
+(Ghrist)
+
+Operating Systems
+
+(Add my 6 cogsci papers so far and the AI symbolic differentiator, 8-puzzle,
+and theorem prover.)
+
+
+
+Contact Information
+
+
+Email:
+bogo@cs.utexas.edu
+or, better yet, send me a
+postcard
+
+Phone: (512) 453-4955
+Postal address:
+4200 Wilshire Parkway
+Austin, TX  78722
+
+
+
+Update Information
+This page was written on 10/30/96 using the text editor "vi". It was last updated on 11/22/96.
+(Insert empty promises about "under construction" and "will be updated soon" here.)
+
+For this ad, we were supposed to list some
+hidden
+talents
+
+definition of
+quantum bogodynamics
+definition of
+bogo-sort
+While you're there, feel free to look up bogosity, bogometer, bogus, bogon, bogon filter, bogon flux, bogue out, bogotify, autobogotiphobia, blinkenlights, and Lasherism. I am pleased to say that I or my work are in not way connected with these stupidities.
+
