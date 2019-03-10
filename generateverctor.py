@@ -3,7 +3,7 @@ import numpy as np
 from os import path
 import glob
 
-def readfile(filepath):
+def readfile():
     contants = []
     labels = []
     uni = []
@@ -47,14 +47,14 @@ def readfile(filepath):
             uni.append("wisconsin")
     return contants, labels, uni
 
-def tfidf(filepath):
-    contants, labels, uni = readfile(filepath)
+def tfidf():
+    contants, labels, uni = readfile()
     tfidf = TfidfVectorizer(stop_words="english")
     vectors = tfidf.fit_transform(contants)
     return vectors, labels, uni, tfidf.get_feature_names() # uni = university
 
-def bow(filepath):
-    contants, labels, uni = readfile(filepath)
+def bow():
+    contants, labels, uni = readfile()
     bow = CountVectorizer(stop_words="english")
     vectors = bow.fit_transform(contants)
     return vectors, labels, uni, bow.get_feature_names()
@@ -63,5 +63,5 @@ def bow(filepath):
 if __name__ == '__main__':
     # contants, labels = readfile("testpath.txt")
     # print(contants[1], labels[1])
-    vectors, labels, uni, features = tfidf("allfiles.txt")
+    vectors, labels, uni, features = tfidf()
     print(vectors.shape, len(labels), len(uni))
