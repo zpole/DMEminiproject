@@ -1,6 +1,6 @@
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import numpy as np
-from os import path
+import os
 import glob
 
 def readfile():
@@ -13,13 +13,14 @@ def readfile():
         # line = "processed/" + line.strip() + ".txt"
         #read contants of each file
         try:
-            with open(path.abspath(line)) as file:
+            with open(os.path.abspath(line)) as file:
                 data = file.read().replace("\n", " ")
                 contants.append(data)
         except:
             continue
         # add label for each file
-        tags = line.split("/")
+        # tags = line.split("/")
+        tags = os.path.normpath(line).split(os.sep)
         if tags[1] == 'course':
             labels.append('0')
         elif tags[1] == 'department':
