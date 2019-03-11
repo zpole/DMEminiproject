@@ -1,3 +1,4 @@
 .DS_Store
 webkb/
 processed/
+__pycache__/
