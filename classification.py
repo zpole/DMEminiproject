@@ -39,10 +39,11 @@ if __name__ == '__main__':
     vectors, labels, uni, features = generateverctor.tfidf()
     vectors = svd(vectors)
     train_vector, train_label, test_vector, test_label = splitvector(vectors, labels, uni, "cornell")
-    predict = svmclassfier(train_vector, train_label, test_vector)
-    # predict = lrclassifier(train_vector, train_label, test_vector)
+    # predict = svmclassfier(train_vector, train_label, test_vector)
+    predict = lrclassifier(train_vector, train_label, test_vector)
     # print(vectors.shape, train_vector.shape, len(train_label), test_vector.shape, len(test_label))
     print(predict[0:10])
     print(test_label[0:10])
     print(metrics.precision_score(test_label, predict, average='weighted'))
+    print('Accuracy: {:.4f}'.format(metrics.accuracy_score(test_label, predict)))
 
