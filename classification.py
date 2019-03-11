@@ -26,7 +26,7 @@ if __name__ == '__main__':
     train_vector, train_label, test_vector, test_label = splitvector(vectors, labels, uni, "cornell")
     predict = svmclassfier(train_vector, train_label, test_vector)
     # print(vectors.shape, train_vector.shape, len(train_label), test_vector.shape, len(test_label))
-    #print(predict[0:10])
-    #print(test_label[0:10])
+    print(predict[0:10])
+    print(test_label[0:10])
     print(metrics.precision_score(test_label, predict, average='weighted'))
 
