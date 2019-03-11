@@ -17,6 +17,6 @@ def svmclassfier(vectors, labels, testuni):
     lin_clf.fit(vectors, labels)
 
 if __name__ == '__main__':
-    vectors, labels, uni, features = generateverctor.tfidf("allfiles.txt")
+    vectors, labels, uni, features = generateverctor.tfidf()
     train_vector, train_label, test_vector, test_label = splitvector(vectors, labels, uni, "cornell")
     print(vectors.shape, train_vector.shape, len(train_label), test_vector.shape, len(test_label))
