@@ -19,6 +19,20 @@ def readfile():
         tags = os.path.normpath(line).split(os.sep)
         # add label for each file
         labels.append(tags[1])
+        # if tags[1] == 'course':
+        #     labels.append(0)
+        # elif tags[1] == 'department':
+        #     labels.append(1)
+        # elif tags[1] == 'faculty':
+        #     labels.append(2)
+        # elif tags[1] == 'other':
+        #     labels.append(3)
+        # elif tags[1] == 'project':
+        #     labels.append(4)
+        # elif tags[1] == 'staff':
+        #     labels.append(5)
+        # elif tags[1] == 'student':
+        #     labels.append(6)
         # add university for each file
         uni.append(tags[2])
         filename.append(tags[3][:-4])
