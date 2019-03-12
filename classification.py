@@ -99,7 +99,7 @@ def lrclassifier(train_vector, train_label, test_vector):
 if __name__ == '__main__':
     classes = ["course", "department", "faculty", "other", "project", "staff", "student"]
     vectors, labels, uni, filename, features = generateverctor.tfidf()
-    vectors = svd(vectors)
+    # vectors = svd(vectors)
     train_vector, train_label, test_vector, test_label = splitvector(vectors, labels, uni, "cornell")
     # predict = svmclassfier(train_vector, train_label, test_vector)
     predict = lrclassifier(train_vector, train_label, test_vector)

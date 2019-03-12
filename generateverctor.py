@@ -1,6 +1,9 @@
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import os
 import glob
+import re
+from tqdm import tqdm
+import preprocess.textprepro as txtpp
 
 
 def readfile():
@@ -9,13 +12,19 @@ def readfile():
     uni = []  # university index
     filename = []
     allfiles = glob.glob('processed/**/*', recursive=True)
-    for line in allfiles:
+    for line in tqdm(allfiles):
         try:
-            with open(os.path.abspath(line)) as file:
-                data = file.read().replace("\n", " ")
-                contents.append(data)
-        except:
+            file = open(os.path.abspath(line))
+        except IsADirectoryError:
             continue
+        except:
+            raise
+
+        contents.append('')
+        for ln in file:
+            data = txtpp.pp(ln)
+            contents[-1] += ' ' + data
+
         tags = os.path.normpath(line).split(os.sep)
         # add label for each file
         labels.append(tags[1])
