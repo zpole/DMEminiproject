@@ -3,6 +3,7 @@ import glob
 import re
 import os
 from tqdm import tqdm
+import unidecode
 
 allfiles = glob.glob('webkb/**/*', recursive=True)
 
@@ -21,6 +22,7 @@ class MyHTMLParser(HTMLParser):
 
     def handle_data(self, data):
         data = re.sub(r'[\n\t ]+', ' ', data.strip())
+        data = unidecode.unidecode(data)
         if data is not '':
             print(data.strip(), file=self.txt)
 
@@ -69,11 +71,17 @@ class MyHTMLParser(HTMLParser):
 
 for file in tqdm(allfiles):
     try:
-        html = open(file)
-        label, uni, name = file.strip().split('/')[1:]
-        os.makedirs(os.path.join('processed', label, uni), exist_ok=True)
-        with open(os.path.join('processed', label, uni, name+'.txt'), 'a+') as txt:
-            parser = MyHTMLParser(txt)
-            parser.feed(html.read())
-    except:
+        html = open(file).read()
+    except UnicodeDecodeError:
+        html = open(file, encoding='iso-8859-1').read()
+    except IsADirectoryError:
         continue
+    except:
+        print(file)
+        raise
+
+    label, uni, name = file.strip().split('/')[1:]
+    os.makedirs(os.path.join('processed', label, uni), exist_ok=True)
+    with open(os.path.join('processed', label, uni, name+'.txt'), 'a+', encoding='utf-8') as txt:
+        parser = MyHTMLParser(txt)
+        parser.feed(html)
