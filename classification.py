@@ -1,20 +1,19 @@
-<<<<<<< HEAD
 from sklearn import svm
 from sklearn.metrics import confusion_matrix, precision_score, recall_score
 from sklearn.utils.multiclass import unique_labels
-=======
 from sklearn import svm, metrics
 from sklearn.linear_model import LogisticRegression
 from sklearn.decomposition import TruncatedSVD
->>>>>>> 7531bf2285fd14098af0309acf6893e937e9020e
 import scipy.sparse as sp
 import numpy as np
 import matplotlib.pyplot as plt
 import generateverctor
 
+
 def svd(vectors):
     svd = TruncatedSVD(n_components=90)
     return svd.fit_transform(vectors)
+
 
 def splitvector(vectors, labels, uni, testuni):
     # split vector and label to train and test
@@ -27,6 +26,7 @@ def splitvector(vectors, labels, uni, testuni):
         train_vector = sp.csr_matrix(np.delete(vectors, idx, 0))
     train_label = np.delete(labels, idx)
     return train_vector, train_label, test_vector, test_label
+
 
 def plot_confusion_matrix(y_true, y_pred, classes,
                           normalize=False,
@@ -81,11 +81,13 @@ def plot_confusion_matrix(y_true, y_pred, classes,
     fig.tight_layout()
     return ax
 
+
 def svmclassfier(train_vector, train_label, test_vector):
     lin_clf = svm.LinearSVC()
     lin_clf.fit(train_vector, train_label)
     predict = lin_clf.predict(test_vector)
     return predict
+
 
 def lrclassifier(train_vector, train_label, test_vector):
     lr_clf = LogisticRegression()
@@ -102,25 +104,19 @@ if __name__ == '__main__':
     # predict = svmclassfier(train_vector, train_label, test_vector)
     predict = lrclassifier(train_vector, train_label, test_vector)
     # print(vectors.shape, train_vector.shape, len(train_label), test_vector.shape, len(test_label))
-<<<<<<< HEAD
     # print(set(predict))
     # print(set(test_label))
+    print(predict[0:10])
+    print(test_label[0:10])
+    print('Accuracy: {:.4f}'.format(metrics.accuracy_score(test_label, predict)))
     print(precision_score(test_label, predict, average='weighted'))
     print(recall_score(test_label, predict, average='weighted'))
-    np.set_printoptions(precision=2)
 
+    np.set_printoptions(precision=2)
     # Plot non-normalized confusion matrix
     plot_confusion_matrix(test_label, predict, classes=classes,
                           title='Confusion matrix, without normalization')
-
     # Plot normalized confusion matrix
     plot_confusion_matrix(test_label, predict, classes=classes, normalize=True,
                           title='Normalized confusion matrix')
-=======
-    print(predict[0:10])
-    print(test_label[0:10])
-    print(metrics.precision_score(test_label, predict, average='weighted'))
-    print('Accuracy: {:.4f}'.format(metrics.accuracy_score(test_label, predict)))
->>>>>>> 7531bf2285fd14098af0309acf6893e937e9020e
-
     plt.show()
