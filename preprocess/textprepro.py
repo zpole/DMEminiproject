@@ -1,42 +1,62 @@
 import re
 from nltk import word_tokenize          
 from nltk.stem.porter import *
+from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-import string
+from tqdm import tqdm
 
 def create_vectoriser(vectoriser, stem=False, stop=False):
-    if stem:
-        tokeniser = PorterTokenizer()
-    else:
-        tokeniser = None
-
-    if stop:
-        stop_words = 'english'
-    else:
-        stop_words = None
-
     if vectoriser == 'count':
-        return CountVectorizer(
-            preprocessor = myPreprocesser,
-            tokenizer = tokeniser,
-            token_pattern = '\\b\\w+\\b',
-            stop_words = stop_words
-        )
+        return CustomCountVectoriser(stem, stop)
     elif vectoriser == 'tfidf':
-        return TfidfVectorizer(
-            preprocessor = myPreprocesser,
-            tokenizer = tokeniser,
-            token_pattern = '\\b\\w+\\b',
-            stop_words = stop_words
-        )
+        return CustomTfidfVectoriser(stem, stop)
+    else:
+        raise
+
 
 def myPreprocesser(doc):
     doc = doc.lower()
     doc = re.sub(r'\bph\.? ?d\.?\b', 'phd', doc)
     return doc
 
-class PorterTokenizer(object):
-    def __init__(self):
-        self.stemmer = PorterStemmer()
-    def __call__(self, doc):
-        return [self.stemmer.stem(t) for t in word_tokenize(doc) if t not in list(string.punctuation)]
+class CustomCountVectoriser(CountVectorizer):
+    def __init__(self, stem=False, stop=True):
+        CountVectorizer.__init__(self)
+        self.stem = stem
+        self.stop = stop
+    def build_preprocessor(self):
+        preprocessor = super(CustomCountVectoriser, self).build_preprocessor()
+        return lambda doc: myPreprocesser(doc)
+    def build_tokenizer(self):
+        tokeniser = super(CustomCountVectoriser, self).build_tokenizer()
+        if self.stem:
+            if self.stop:
+                return lambda doc: [PorterStemmer().stem(t) for t in tokeniser(doc) if t not in stopwords.words('english')]
+            else:
+                return lambda doc: [PorterStemmer().stem(t) for t in tokeniser(doc)]
+        else:
+            if self.stop:
+                return lambda doc: [t for t in tokeniser(doc) if t not in stopwords.words('english')]
+            else:
+                return lambda doc: list(tokeniser(doc))
+
+class CustomTfidfVectoriser(TfidfVectorizer):
+    def __init__(self, stem=False, stop=True):
+        TfidfVectorizer.__init__(self)
+        self.stem = stem
+        self.stop = stop
+    def build_preprocessor(self):
+        preprocessor = super(CustomTfidfVectoriser, self).build_preprocessor()
+        return lambda doc: myPreprocesser(doc)
+    def build_tokenizer(self):
+        tokeniser = super(CustomTfidfVectoriser, self).build_tokenizer()
+        if self.stem:
+            if self.stop:
+                return lambda doc: [PorterStemmer().stem(t) for t in tqdm(tokeniser(doc)) if t not in stopwords.words('english')]
+            else:
+                return lambda doc: [PorterStemmer().stem(t) for t in tqdm(tokeniser(doc))]
+        else:
+            if self.stop:
+                return lambda doc: [t for t in tqdm(tokeniser(doc)) if t not in stopwords.words('english')]
+            else:
+                return lambda doc: list(tokeniser(doc))
