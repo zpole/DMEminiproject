@@ -30,7 +30,7 @@ class MyHTMLParser(HTMLParser):
         self.txt = txt
         self.stem = stem
         self.stop = stop
-        self.tokeniser = CountVectorizer().build_tokenizer()
+        self.tokeniser = CountVectorizer(token_pattern=r'(?u)\b\w+\b').build_tokenizer()
 
     def handle_starttag(self, tag, attrs):
         pass
@@ -71,7 +71,6 @@ if __name__ == '__main__':
             vars(args)[arg] = False
         else:
             raise
-
     root_dir = getRootDir(stem=args.stem, stop=args.stop)
     os.makedirs(root_dir)
 
@@ -91,5 +90,5 @@ if __name__ == '__main__':
         label, uni, name = file.strip().split('/')[1:]
         os.makedirs(os.path.join(root_dir, label, uni), exist_ok=True)
         with open(os.path.join(root_dir, label, uni, name+'.txt'), 'a+', encoding='utf-8') as txt:
-            parser = MyHTMLParser(txt, stem=True, stop=True)
+            parser = MyHTMLParser(txt, stem=args.stem, stop=args.stop)
             parser.feed(html)
