@@ -41,8 +41,8 @@ class MyHTMLParser(HTMLParser):
         # print("Encountered an end tag :", tag)
 
     def handle_data(self, doc):
-        doc = re.sub(r'[\n\t ]+', ' ', doc.strip())
         doc = unidecode.unidecode(doc)
+        doc = doc.lower()
         doc = re.sub(r'\bph\.? ?d\.?\b', 'phd', doc)
         if self.stem:
             if self.stop:
