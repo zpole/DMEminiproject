@@ -5,7 +5,7 @@ import os
 import argparse
 from tqdm import tqdm
 import unidecode
-import preprocess.textprepro
+# import preprocess.textprepro
 from sklearn.feature_extraction.text import CountVectorizer
 from nltk.stem.porter import *
 from nltk.corpus import stopwords
@@ -59,7 +59,22 @@ class MyHTMLParser(HTMLParser):
 
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='some text here')
+    parser.add_argument('--stem', type=str, default='False', help='Stemming')
+    parser.add_argument('--stop', type=str, default='False', help='Stopping')
+
+    args = parser.parse_args()
+    for arg in vars(args):
+        if vars(args)[arg] == 'True':
+            vars(args)[arg] = True
+        elif vars(args)[arg] == 'False':
+            vars(args)[arg] = False
+
+    root_dir = getRootDir(stem=args.stem, stop=args.stop)
+    os.makedirs(root_dir)
+
     allfiles = glob.glob('webkb/**/*', recursive=True)
+    
     for file in tqdm(allfiles):
         try:
             html = open(file).read()
@@ -72,7 +87,7 @@ if __name__ == '__main__':
             raise
 
         label, uni, name = file.strip().split('/')[1:]
-        os.makedirs(os.path.join('tokenstemstop', label, uni), exist_ok=True)
-        with open(os.path.join('tokenstemstop', label, uni, name+'.txt'), 'a+', encoding='utf-8') as txt:
+        os.makedirs(os.path.join(root_dir, label, uni), exist_ok=True)
+        with open(os.path.join(root_dir, label, uni, name+'.txt'), 'a+', encoding='utf-8') as txt:
             parser = MyHTMLParser(txt, stem=True, stop=True)
             parser.feed(html)
