@@ -69,6 +69,8 @@ if __name__ == '__main__':
             vars(args)[arg] = True
         elif vars(args)[arg] == 'False':
             vars(args)[arg] = False
+        else:
+            raise
 
     root_dir = getRootDir(stem=args.stem, stop=args.stop)
     os.makedirs(root_dir)
