@@ -52,7 +52,7 @@ def readfile(stem, stop):
     return contents, labels, uni, filename
 
 
-def vectoriser(vec, stem=False, stop=True):
+def vectoriser(vec, stem, stop):
     contents, labels, uni, filename = readfile(stem=stem, stop=stop)
     V = create_vectoriser(vec)
     vectors = V.fit_transform(contents)
