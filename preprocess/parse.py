@@ -2,15 +2,35 @@ from html.parser import HTMLParser
 import glob
 import re
 import os
+import argparse
 from tqdm import tqdm
 import unidecode
+import preprocess.textprepro
+from sklearn.feature_extraction.text import CountVectorizer
+from nltk.stem.porter import *
+from nltk.corpus import stopwords
 
-allfiles = glob.glob('webkb/**/*', recursive=True)
+def getRootDir(stem, stop):
+    if stem:
+        if stop:
+            root_dir = 'tokenstemstop'
+        else:
+            root_dir = 'tokenstem'
+    else:
+        if stop:
+            root_dir = 'tokenstop'
+        else:
+            root_dir = 'tokens'
+    
+    return root_dir
 
 class MyHTMLParser(HTMLParser):
-    def __init__(self, txt):
+    def __init__(self, txt, stem=False, stop=False):
         HTMLParser.__init__(self)
         self.txt = txt
+        self.stem = stem
+        self.stop = stop
+        self.tokeniser = CountVectorizer().build_tokenizer()
 
     def handle_starttag(self, tag, attrs):
         pass
@@ -20,68 +40,39 @@ class MyHTMLParser(HTMLParser):
         pass
         # print("Encountered an end tag :", tag)
 
-    def handle_data(self, data):
-        data = re.sub(r'[\n\t ]+', ' ', data.strip())
-        data = unidecode.unidecode(data)
-        if data is not '':
-            print(data.strip(), file=self.txt)
+    def handle_data(self, doc):
+        doc = re.sub(r'[\n\t ]+', ' ', doc.strip())
+        doc = unidecode.unidecode(doc)
+        doc = re.sub(r'\bph\.? ?d\.?\b', 'phd', doc)
+        if self.stem:
+            if self.stop:
+                doc = [PorterStemmer().stem(t) for t in self.tokeniser(doc) if t not in stopwords.words('english')]
+            else:
+                doc = [PorterStemmer().stem(t) for t in self.tokeniser(doc)]
+        else:
+            if self.stop:
+                doc = [t for t in self.tokeniser(doc) if t not in stopwords.words('english')]
+            else:
+                doc = list(self.tokeniser(doc))
+        if len(doc):
+            print(' '.join(doc), file=self.txt, end=' ')
 
 
-# class MyHTMLParser(HTMLParser):
-#     def __init__(self):
-#         HTMLParser.__init__(self)
-#         self.level = ['root']
-#         self.d = dict()
-#         self.d['root'] = {'TextContent':''}
-        
-#     def handle_starttag(self, tag, attrs):
-#         i = 0
-#         tmp_d = self.d
-#         while i < len(self.level):
-#             tmp_d = tmp_d[self.level[i]]
-#             i += 1
-#         if tag not in tmp_d: 
-#             tmp_d[tag] = {'TextContent':''}
-#         self.level.append(tag)
-#         # print('\"{:s}\":{{'.format(tag))
-#         # print("Encountered a start tag:", tag)
+if __name__ == '__main__':
+    allfiles = glob.glob('webkb/**/*', recursive=True)
+    for file in tqdm(allfiles):
+        try:
+            html = open(file).read()
+        except UnicodeDecodeError:
+            html = open(file, encoding='iso-8859-1').read()
+        except IsADirectoryError:
+            continue
+        except:
+            print(file)
+            raise
 
-#     def handle_endtag(self, tag):
-#         while self.level[-1] != tag:
-#             self.level.pop(-1)
-#         if self.level[-1] == tag:
-#             self.level.pop(-1)
-#         else:
-#             raise()
-#         # print('}')
-#         # print("Encountered an end tag :", tag)
-
-#     def handle_data(self, data):
-#         i = 0
-#         tmp_d = self.d
-#         while i < len(self.level):
-#             tmp_d = tmp_d[self.level[i]]
-#             i += 1
-#         data = re.sub(r'[\n\t ]+', ' ', data.strip())
-#         tmp_d['TextContent'] += ' ' + data
-#         # if data is not '':
-#             # print('\"TextContent\":\"{:s}\"'.format(data))
-
-
-
-for file in tqdm(allfiles):
-    try:
-        html = open(file).read()
-    except UnicodeDecodeError:
-        html = open(file, encoding='iso-8859-1').read()
-    except IsADirectoryError:
-        continue
-    except:
-        print(file)
-        raise
-
-    label, uni, name = file.strip().split('/')[1:]
-    os.makedirs(os.path.join('processed', label, uni), exist_ok=True)
-    with open(os.path.join('processed', label, uni, name+'.txt'), 'a+', encoding='utf-8') as txt:
-        parser = MyHTMLParser(txt)
-        parser.feed(html)
+        label, uni, name = file.strip().split('/')[1:]
+        os.makedirs(os.path.join('tokenstemstop', label, uni), exist_ok=True)
+        with open(os.path.join('tokenstemstop', label, uni, name+'.txt'), 'a+', encoding='utf-8') as txt:
+            parser = MyHTMLParser(txt, stem=True, stop=True)
+            parser.feed(html)

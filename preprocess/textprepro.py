@@ -1,15 +1,22 @@
-import re
-from nltk import word_tokenize          
+import re     
 from nltk.stem.porter import *
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from tqdm import tqdm
 
-def create_vectoriser(vectoriser, stem=False, stop=False):
+# def create_vectoriser(vectoriser, stem=False, stop=False):
+#     if vectoriser == 'count':
+#         return CustomCountVectoriser(stem, stop)
+#     elif vectoriser == 'tfidf':
+#         return CustomTfidfVectoriser(stem, stop)
+#     else:
+#         raise
+
+def create_vectoriser(vectoriser):
     if vectoriser == 'count':
-        return CustomCountVectoriser(stem, stop)
+        return CountVectorizer(analyzer=str.split)
     elif vectoriser == 'tfidf':
-        return CustomTfidfVectoriser(stem, stop)
+        return TfidfVectorizer(analyzer=str.split)
     else:
         raise
 

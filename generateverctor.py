@@ -1,18 +1,20 @@
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import os
 import glob
-import re
-from tqdm import tqdm
 from preprocess.textprepro import create_vectoriser
+from preprocess.parse import getRootDir
 
 
-def readfile():
+def readfile(stem, stop):
     contents = []
     labels = []
     uni = []  # university index
     filename = []
-    allfiles = glob.glob('processed/**/*', recursive=True)
-    for line in tqdm(allfiles):
+
+    root_dir = getRootDir(stem=stem, stop=stop)
+
+    allfiles = glob.glob(root_dir + '/**/*', recursive=True)
+    for line in allfiles:
         try:
             file = open(os.path.abspath(line))
         except IsADirectoryError:
@@ -51,8 +53,8 @@ def readfile():
 
 
 def vectoriser(vec, stem=False, stop=True):
-    contents, labels, uni, filename = readfile()
-    V = create_vectoriser(vec, stem=False, stop=True)
+    contents, labels, uni, filename = readfile(stem=stem, stop=stop)
+    V = create_vectoriser(vec)
     vectors = V.fit_transform(contents)
     return vectors, labels, uni, filename, V.get_feature_names()  # uni = university
 

@@ -98,7 +98,7 @@ def lrclassifier(train_vector, train_label, test_vector):
 
 if __name__ == '__main__':
     # classes = ["course", "department", "faculty", "other", "project", "staff", "student"]
-    vectors, labels, uni, filename, features = generateverctor.vectoriser('tfidf', stem=False, stop=True)
+    vectors, labels, uni, filename, features = generateverctor.vectoriser('tfidf', stem=True, stop=True)
     classes = set(labels)
     # vectors = svd(vectors)
     train_vector, train_label, test_vector, test_label = splitvector(vectors, labels, uni, "cornell")
