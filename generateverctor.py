@@ -3,7 +3,7 @@ import os
 import glob
 import re
 from tqdm import tqdm
-import preprocess.textprepro as txtpp
+from preprocess.textprepro import create_vectoriser
 
 
 def readfile():
@@ -20,10 +20,12 @@ def readfile():
         except:
             raise
 
-        contents.append('')
-        for ln in file:
-            data = txtpp.pp(ln)
-            contents[-1] += ' ' + data
+        # contents.append('')
+        # for ln in file:
+        #     data = txtpp.pp(ln)
+        #     contents[-1] += ' ' + data
+
+        contents.append(file.read())
 
         tags = os.path.normpath(line).split(os.sep)
         # add label for each file
@@ -48,23 +50,30 @@ def readfile():
     return contents, labels, uni, filename
 
 
-def tfidf():
+def vectoriser(vec, stem=False, stop=True):
     contents, labels, uni, filename = readfile()
-    tfidf = TfidfVectorizer(stop_words="english")
-    vectors = tfidf.fit_transform(contents)
-    return vectors, labels, uni, filename, tfidf.get_feature_names()  # uni = university
+    V = create_vectoriser(vec, stem=False, stop=True)
+    vectors = V.fit_transform(contents)
+    return vectors, labels, uni, filename, V.get_feature_names()  # uni = university
 
 
-def bow():
-    contents, labels, uni = readfile()
-    bow = CountVectorizer(stop_words="english")
-    vectors = bow.fit_transform(contents)
-    return vectors, labels, uni, filename, bow.get_feature_names()
+# def tfidf():
+#     contents, labels, uni, filename = readfile()
+#     V = create_vectoriser('tfidf', stem=False, stop=True)
+#     vectors = V.fit_transform(contents)
+#     return vectors, labels, uni, filename, V.get_feature_names()  # uni = university
+
+
+# def bow():
+#     contents, labels, uni, filename = readfile()
+#     V = create_vectoriser('count', stem=False, stop=True)
+#     vectors = V.fit_transform(contents)
+#     return vectors, labels, uni, filename, V.get_feature_names()
 
 
 # test
 if __name__ == '__main__':
     # contents, labels = readfile()
     # print(contents[1], labels[1])
-    vectors, labels, uni, filename, features = tfidf()
+    vectors, labels, uni, filename, features = vectoriser('tfidf', stem=False, stop=True)
     print(vectors.shape, len(labels), len(uni))
