@@ -1,5 +1,5 @@
 from sklearn import svm
-from sklearn.metrics import confusion_matrix, precision_score, recall_score
+from sklearn.metrics import confusion_matrix, precision_score, recall_score, f1_score
 from sklearn.utils.multiclass import unique_labels
 from sklearn import svm, metrics
 from sklearn.linear_model import LogisticRegression
@@ -43,7 +43,7 @@ def plot_confusion_matrix(y_true, y_pred, classes,
             title = 'Confusion matrix, without normalization'
 
     # Compute confusion matrix
-    cm = confusion_matrix(y_true, y_pred)
+    cm = confusion_matrix(y_true, y_pred, labels=np.array(classes))
     # Only use the labels that appear in the data
     # classes = classes[unique_labels(y_true, y_pred)]
     if normalize:
@@ -82,7 +82,7 @@ def plot_confusion_matrix(y_true, y_pred, classes,
     return ax
 
 
-def svmclassfier(train_vector, train_label, test_vector):
+def svmclassifier(train_vector, train_label, test_vector):
     lin_clf = svm.LinearSVC()
     lin_clf.fit(train_vector, train_label)
     predict = lin_clf.predict(test_vector)
@@ -97,12 +97,11 @@ def lrclassifier(train_vector, train_label, test_vector):
 
 
 if __name__ == '__main__':
-    # classes = ["course", "department", "faculty", "other", "project", "staff", "student"]
+    classes = ["course", "department", "faculty", "other", "project", "staff", "student"]
     vectors, labels, uni, filename, features = generateverctor.vectoriser('tfidf', stem=True, stop=True)
-    classes = set(labels)
     # vectors = svd(vectors)
     train_vector, train_label, test_vector, test_label = splitvector(vectors, labels, uni, "cornell")
-    # predict = svmclassfier(train_vector, train_label, test_vector)
+    # predict = svmclassifier(train_vector, train_label, test_vector)
     predict = lrclassifier(train_vector, train_label, test_vector)
     # print(vectors.shape, train_vector.shape, len(train_label), test_vector.shape, len(test_label))
     # print(set(predict))
@@ -110,8 +109,9 @@ if __name__ == '__main__':
     print(predict[0:10])
     print(test_label[0:10])
     print('Accuracy: {:.4f}'.format(metrics.accuracy_score(test_label, predict)))
-    print(precision_score(test_label, predict, average='weighted'))
-    print(recall_score(test_label, predict, average='weighted'))
+    print('Precision: {:.4f}'.format(precision_score(test_label, predict, average='weighted')))
+    print('Recall: {:.4f}'.format(recall_score(test_label, predict, average='weighted')))
+    print('F1: {:.4f}'.format(f1_score(test_label, predict, average='weighted')))
 
     np.set_printoptions(precision=2)
     # Plot non-normalized confusion matrix

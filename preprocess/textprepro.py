@@ -49,7 +49,7 @@ class CustomCountVectoriser(CountVectorizer):
 
 class CustomTfidfVectoriser(TfidfVectorizer):
     def __init__(self, stem=False, stop=True):
-        TfidfVectorizer.__init__(self)
+        super(TfidfVectorizer, self).__init__()
         self.stem = stem
         self.stop = stop
     def build_preprocessor(self):
