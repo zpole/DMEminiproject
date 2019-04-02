@@ -71,7 +71,8 @@ class MyHTMLParser(HTMLParser):
                 doc = re.sub(r'(?!\D\D)\d{3}\D\D\d{3}\-\d{4}(?=\D)', ' PlHolderPhoneNum ', doc)
                 
                 doc = re.sub(r'(?!\D)\d{5}-\d{4}(?=\D)', ' PlHolderZipPlusFour ', doc)
-
+                
+                doc = re.sub(r'(?!\D)\d{2,}x\d{2,}x\d{2,}(?=\D)', ' PlHolderResolution ', doc)
                 doc = re.sub(r'(?!\D)\d{2,}x\d{2,}(?=\D)', ' PlHolderResolution ', doc)
 
             if self.args.stem:

@@ -2,16 +2,18 @@ from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import os
 import glob
 from preprocess.textprepro import create_vectoriser
-from preprocess.parse import getRootDir
+from preprocess.parse import getRootSuffix
+from argparse import Namespace
 
 
-def readfile(stem, stop):
+def readfile(args):
     contents = []
     labels = []
     uni = []  # university index
     filename = []
 
-    root_dir = getRootDir(stem=stem, stop=stop)
+    # root_dir = getRootDir(stem=stem, stop=stop)
+    root_dir = 'tokens' + getRootSuffix(args)
 
     allfiles = glob.glob(root_dir + '/**/*', recursive=True)
     for line in allfiles:
@@ -52,8 +54,8 @@ def readfile(stem, stop):
     return contents, labels, uni, filename
 
 
-def vectoriser(vec, stem, stop):
-    contents, labels, uni, filename = readfile(stem=stem, stop=stop)
+def vectoriser(vec, args):
+    contents, labels, uni, filename = readfile(args)
     V = create_vectoriser(vec)
     vectors = V.fit_transform(contents)
     return vectors, labels, uni, filename, V.get_feature_names()  # uni = university
@@ -77,5 +79,12 @@ def vectoriser(vec, stem, stop):
 if __name__ == '__main__':
     # contents, labels = readfile()
     # print(contents[1], labels[1])
-    vectors, labels, uni, filename, features = vectoriser('tfidf', stem=False, stop=True)
+    args = Namespace(
+        stop = True, 
+        stem = True, 
+        mime = False, 
+        digit = True, 
+        other = True
+    )
+    vectors, labels, uni, filename, features = vectoriser('tfidf', args)
     print(vectors.shape, len(labels), len(uni))
