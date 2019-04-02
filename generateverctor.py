@@ -17,7 +17,7 @@ def readfile(stem, stop):
     for line in allfiles:
         try:
             file = open(os.path.abspath(line))
-        except IsADirectoryError:
+        except PermissionError:
             continue
         except:
             raise
