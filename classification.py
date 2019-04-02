@@ -7,7 +7,8 @@ from sklearn.decomposition import TruncatedSVD
 import scipy.sparse as sp
 import numpy as np
 import matplotlib.pyplot as plt
-import generateverctor
+import generatevector
+from argparse import Namespace
 
 
 def svd(vectors):
@@ -98,7 +99,14 @@ def lrclassifier(train_vector, train_label, test_vector):
 
 if __name__ == '__main__':
     classes = ["course", "department", "faculty", "other", "project", "staff", "student"]
-    vectors, labels, uni, filename, features = generateverctor.vectoriser('tfidf', stem=True, stop=True)
+    args = Namespace(
+        stop = True, 
+        stem = True, 
+        mime = False, 
+        digit = True, 
+        other = True
+    )
+    vectors, labels, uni, filename, features = generatevector.vectoriser('tfidf', args)
     # vectors = svd(vectors)
     train_vector, train_label, test_vector, test_label = splitvector(vectors, labels, uni, "cornell")
     # predict = svmclassifier(train_vector, train_label, test_vector)
