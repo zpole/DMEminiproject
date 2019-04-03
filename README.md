@@ -1,9 +1,7 @@
 # DMEminiproject
 ## [THE 4 UNIVERSITIES DATASET](http://www-2.cs.cmu.edu/afs/cs.cmu.edu/project/theo-20/www/data/)
 
-```
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-```
 
 - **Description:** This data set contains WWW-pages collected from computer science departments of various universities in January 1997 by the World Wide Knowledge Base (WebKb) project of the CMU text learning group. The 8,282 pages were manually classified into 7 classes: 1) student, 2) faculty, 3) staff, 4) department, 5) course, 6) project and 7) other. For each class the data set contains pages from the four universities: Cornell, Texas, Washington, Wisconsin and 4,120 miscellaneous pages from other universities. The files are organized into a directory structure, one directory for each class. Each of these seven directories contains 5 subdirectories, one for each of the 4 universities and one for the miscellaneous pages. These directories in turn contain the Web-pages.
 - Size:
