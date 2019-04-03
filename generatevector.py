@@ -1,7 +1,7 @@
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import os
 import glob
-from preprocess.textprepro import create_vectoriser
+# from preprocess.textprepro import create_vectoriser
 from preprocess.parse import getRootSuffix
 from argparse import Namespace
 
@@ -15,7 +15,7 @@ def readfile(args):
     # root_dir = getRootDir(stem=stem, stop=stop)
     root_dir = 'tokens' + getRootSuffix(args)
 
-    allfiles = glob.glob(root_dir + '/**/*', recursive=True)
+    allfiles = glob.glob(root_dir + '/train/**/*', recursive=True)
     if len(allfiles) == 0:
         print("dir is empty!")
         exit()
@@ -36,7 +36,7 @@ def readfile(args):
 
         tags = os.path.normpath(line).split(os.sep)
         # add label for each file
-        labels.append(tags[1])
+        labels.append(tags[2])
         # if tags[1] == 'course':
         #     labels.append(0)
         # elif tags[1] == 'department':
@@ -52,10 +52,17 @@ def readfile(args):
         # elif tags[1] == 'student':
         #     labels.append(6)
         # add university for each file
-        uni.append(tags[2])
-        filename.append(tags[3][:-4])
+        uni.append(tags[3])
+        filename.append(tags[4][:-4])
     return contents, labels, uni, filename
 
+def create_vectoriser(vectoriser):
+    if vectoriser == 'count':
+        return CountVectorizer(analyzer=str.split)
+    elif vectoriser == 'tfidf':
+        return TfidfVectorizer(analyzer=str.split)
+    else:
+        raise
 
 def vectoriser(vec, args):
     contents, labels, uni, filename = readfile(args)
