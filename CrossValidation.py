@@ -6,6 +6,8 @@ import generatevector
 from classification import splitvector
 import time
 import argparse
+from sklearn.linear_model import LogisticRegression
+
 
 def plot_confusion_matrix(y_true, y_pred, classes,
                           normalize=False,
@@ -121,4 +123,6 @@ if __name__ == '__main__':
     vectors, labels, uni, filename, features = generatevector.vectoriser('tfidf', args)
     classes = ["course", "department", "faculty", "other", "project", "staff", "student"]
 
+    lr_clf = LogisticRegression()
+    label_t, label_p = CrossValidation(lr_clf, vectors, labels, uni, classes)
     
