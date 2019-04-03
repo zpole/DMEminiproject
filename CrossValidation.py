@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import generatevector
 from classification import splitvector
 import time
+import argparse
 
 def plot_confusion_matrix(y_true, y_pred, classes,
                           normalize=False,
@@ -109,5 +110,15 @@ def CrossValidation(model, vectors, labels, uni, classes):
 
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Parse HTML')
+    parser.add_argument('-s', '--stop', action='store_true', required=False, help='Stop')
+    parser.add_argument('-e', '--stem', action='store_true', required=False, help='Stem')
+    parser.add_argument('-m', '--mime', action='store_true', required=False, help='Remove MIME Header')
+    parser.add_argument('-d', '--digit', action='store_true', required=False, help='Substitute Digits')
+    parser.add_argument('-o', '--other', action='store_true', required=False, help='Other preprocessing')
+    args = parser.parse_args()
+
     vectors, labels, uni, filename, features = generatevector.vectoriser('tfidf', args)
     classes = ["course", "department", "faculty", "other", "project", "staff", "student"]
+
+    

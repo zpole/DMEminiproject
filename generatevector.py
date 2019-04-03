@@ -24,6 +24,8 @@ def readfile(args):
             file = open(os.path.abspath(line))
         except PermissionError:
             continue
+        except IsADirectoryError:
+            continue
         except:
             raise
 
@@ -90,8 +92,8 @@ if __name__ == '__main__':
     # contents, labels = readfile()
     # print(contents[1], labels[1])
     args = Namespace(
-        stop = True, 
-        stem = True, 
+        stop = False, 
+        stem = False, 
         mime = False, 
         digit = True, 
         other = True

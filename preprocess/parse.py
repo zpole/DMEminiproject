@@ -88,10 +88,10 @@ class MyHTMLParser(HTMLParser):
                 doc = re.sub(r'(\D)[01]{8}(\D)', r'\1 PlHolderBinEightBit \2', doc)
                 
                 # 0000200 4865 6c6c 6f2c 2057 6f72 6c64 0a00 4865
-                doc = re.sub(r'(\D)[\da-f]{7}( [\da-f]{4})*(\D)', r'\1 PlHolderBinFile \2', doc)
+                doc = re.sub(r'(\D)[\da-f]{7}( [\da-f]{4})*(\D)', r'\1 PlHolderBinFile \3', doc)
 
                 # 0100 0010 1000 0000 0110 0110 0110 0110
-                doc = re.sub(r'(\D)[01]{4}( [01]{4}){7}(\D)', r'\1 PlHolderThirtyTwoBitHexInBin \2', doc)
+                doc = re.sub(r'(\D)[01]{4}( [01]{4}){7}(\D)', r'\1 PlHolderThirtyTwoBitHexInBin \3', doc)
 
                 # 0100 0010
                 doc = re.sub(r'(\D)[01]{4} [01]{4}(\D)', r'\1 PlHolderEightBitHexInBin \2', doc)
@@ -106,15 +106,15 @@ class MyHTMLParser(HTMLParser):
                 doc = re.sub(r'(\D)0x[\da-f]{2}(\D)', r'\1 PlHolderEightBitHex \2', doc)
                 doc = re.sub(r'(\D)0x[\da-f](\D)', r'\1 PlHolderFourBitHex \2', doc)
 
-                doc = re.sub(r'(\D)\d(\D)', r'\1 PlHolderOneDigit \2', doc)
-                doc = re.sub(r'(\D)\d{2}(\D)', r'\1 PlHolderTwoDigit \2', doc)
-                doc = re.sub(r'(\D)\d{3}(\D)', r'\1 PlHolderThreeDigit \2', doc)
-                doc = re.sub(r'(\D)\d{4}(\D)', r'\1 PlHolderFourDigit \2', doc)
-                doc = re.sub(r'(\D)\d{5}(\D)', r'\1 PlHolderFiveDigit \2', doc)
-                doc = re.sub(r'(\D)\d{6}(\D)', r'\1 PlHolderSixDigit \2', doc)
-                doc = re.sub(r'(\D)\d{7}(\D)', r'\1 PlHolderSevenDigit \2', doc)
-                doc = re.sub(r'(\D)\d{8}(\D)', r'\1 PlHolderEightDigit \2', doc)
-                doc = re.sub(r'(\D)\d+(\D)', r'\1 PlHolderDigits \2', doc)
+                doc = re.sub(r'(?!\D)\d(?=\D)', ' PlHolderOneDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{2}(?=\D)', ' PlHolderTwoDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{3}(?=\D)', ' PlHolderThreeDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{4}(?=\D)', ' PlHolderFourDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{5}(?=\D)', ' PlHolderFiveDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{6}(?=\D)', ' PlHolderSixDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{7}(?=\D)', ' PlHolderSevenDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{8}(?=\D)', ' PlHolderEightDigit ', doc)
+                doc = re.sub(r'(?!\D)\d+(?=\D)', ' PlHolderDigits ', doc)
                 
             doc = re.sub(r'_+', ' ', doc)
 
