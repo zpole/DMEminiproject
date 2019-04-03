@@ -16,6 +16,9 @@ def readfile(args):
     root_dir = 'tokens' + getRootSuffix(args)
 
     allfiles = glob.glob(root_dir + '/**/*', recursive=True)
+    if len(allfiles) == 0:
+        print("dir is empty!")
+        exit()
     for line in allfiles:
         try:
             file = open(os.path.abspath(line))

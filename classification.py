@@ -8,7 +8,7 @@ import scipy.sparse as sp
 import numpy as np
 import matplotlib.pyplot as plt
 import generatevector
-from argparse import Namespace
+import argparse
 
 
 def svd(vectors):
@@ -98,14 +98,14 @@ def lrclassifier(train_vector, train_label, test_vector):
 
 
 if __name__ == '__main__':
-    classes = ["course", "department", "faculty", "other", "project", "staff", "student"]
-    args = Namespace(
-        stop = True, 
-        stem = True, 
-        mime = False, 
-        digit = True, 
-        other = True
-    )
+    parser = argparse.ArgumentParser(description='Parse HTML')
+    parser.add_argument('-s', '--stop', action='store_true', required=False, help='Stop')
+    parser.add_argument('-e', '--stem', action='store_true', required=False, help='Stem')
+    parser.add_argument('-m', '--mime', action='store_true', required=False, help='Remove MIME Header')
+    parser.add_argument('-d', '--digit', action='store_true', required=False, help='Substitute Digits')
+    parser.add_argument('-o', '--other', action='store_true', required=False, help='Other preprocessing')
+    args = parser.parse_args()
+
     vectors, labels, uni, filename, features = generatevector.vectoriser('tfidf', args)
     # vectors = svd(vectors)
     train_vector, train_label, test_vector, test_label = splitvector(vectors, labels, uni, "cornell")
