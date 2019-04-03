@@ -38,7 +38,7 @@ class MyHTMLParser(HTMLParser):
         HTMLParser.__init__(self)
         self.txt = txt
         self.args = args
-        self.tokeniser = CountVectorizer(token_pattern=r'(?u)\b\w+\b').build_tokenizer()
+        self.tokeniser = CountVectorizer(token_pattern=r'(?u)\b\w\w+\b').build_tokenizer()
 
         if self.args.mime:
             self.root = True
@@ -58,6 +58,7 @@ class MyHTMLParser(HTMLParser):
         if not self.root:
             doc = unidecode.unidecode(doc)
             doc = doc.lower()
+            doc = ' ' + doc + ' '
 
             if self.args.other:
                 doc = re.sub(r'\bph\.? ?d\.?\b', 'phd', doc)
@@ -74,6 +75,48 @@ class MyHTMLParser(HTMLParser):
                 
                 doc = re.sub(r'(?!\D)\d{2,}x\d{2,}x\d{2,}(?=\D)', ' PlHolderResolution ', doc)
                 doc = re.sub(r'(?!\D)\d{2,}x\d{2,}(?=\D)', ' PlHolderResolution ', doc)
+
+                doc = re.sub(r'(?!\D)[\da-f]{8}-[\da-f]{4}-[\da-f]{4}-[\da-f]{4}-[\da-f]{12}(?=\D)', ' PlHolderUUID ', doc)
+                
+                # 0 10000101 00000000110011001100110
+                doc = re.sub(r'(?!\D)[01]  ?[01]{8}  ?[01]{23}(?=\D)', ' PlHolderBinaryThirtyTwo ', doc)
+
+                # 00000000000000000000000000011001
+                doc = re.sub(r'(?!\D)[01]{32}(?=\D)', ' PlHolderBinThirtyTwoBit ', doc)
+
+                # 10000101
+                doc = re.sub(r'(?!\D)[01]{8}(?=\D)', ' PlHolderBinEightBit ', doc)
+                
+                # 0000200 4865 6c6c 6f2c 2057 6f72 6c64 0a00 4865
+                doc = re.sub(r'(?!\D)[\da-f]{7}( [\da-f]{4})*(?=\D)', ' PlHolderBinFile ', doc)
+
+                # 0100 0010 1000 0000 0110 0110 0110 0110
+                doc = re.sub(r'(?!\D)[01]{4}( [01]{4}){7}(?=\D)', ' PlHolderThirtyTwoBitHexInBin ', doc)
+
+                # 0100 0010
+                doc = re.sub(r'(?!\D)[01]{4} [01]{4}(?=\D)', ' PlHolderEightBitHexInBin ', doc)
+
+                # 0x4288f873a
+                doc = re.sub(r'(?!\D)0x[\da-f]{8}(?=\D)', ' PlHolderThirtyTwoBitHex ', doc)
+                doc = re.sub(r'(?!\D)0x[\da-f]{8}(?=\D)', ' PlHolderTwentyEightBitHex ', doc)
+                doc = re.sub(r'(?!\D)0x[\da-f]{6}(?=\D)', ' PlHolderTwentyFourBitHex ', doc)
+                doc = re.sub(r'(?!\D)0x[\da-f]{6}(?=\D)', ' PlHolderTwentyBitHex ', doc)
+                doc = re.sub(r'(?!\D)0x[\da-f]{4}(?=\D)', ' PlHolderSixteenBitHex ', doc)
+                doc = re.sub(r'(?!\D)0x[\da-f]{3}(?=\D)', ' PlHolderTwelveBitHex ', doc)
+                doc = re.sub(r'(?!\D)0x[\da-f]{2}(?=\D)', ' PlHolderEightBitHex ', doc)
+                doc = re.sub(r'(?!\D)0x[\da-f](?=\D)', ' PlHolderFourBitHex ', doc)
+
+                doc = re.sub(r'(?!\D)\d(?=\D)', ' PlHolderOneDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{2}(?=\D)', ' PlHolderTwoDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{3}(?=\D)', ' PlHolderThreeDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{4}(?=\D)', ' PlHolderFourDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{5}(?=\D)', ' PlHolderFiveDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{6}(?=\D)', ' PlHolderSixDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{7}(?=\D)', ' PlHolderSevenDigit ', doc)
+                doc = re.sub(r'(?!\D)\d{8}(?=\D)', ' PlHolderEightDigit ', doc)
+                doc = re.sub(r'(?!\D)\d+(?=\D)', ' PlHolderDigits ', doc)
+                
+            doc = re.sub(r'_+', ' ', doc)
 
             if self.args.stem:
                 if self.args.stop:
@@ -107,7 +150,7 @@ if __name__ == '__main__':
     #     else:
     #         raise
     root_dir = 'tokens' + getRootSuffix(args)
-    print('Stored to {:s}'.format(root_dit))
+    print('Stored to {:s}'.format(root_dir))
     os.makedirs(root_dir)
 
     allfiles = glob.glob('webkb/**/*', recursive=True)
