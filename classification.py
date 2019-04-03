@@ -105,7 +105,7 @@ if __name__ == '__main__':
     parser.add_argument('-d', '--digit', action='store_true', required=False, help='Substitute Digits')
     parser.add_argument('-o', '--other', action='store_true', required=False, help='Other preprocessing')
     args = parser.parse_args()
-
+    
     classes = ["course", "department", "faculty", "other", "project", "staff", "student"]
     vectors, labels, uni, filename, features = generatevector.vectoriser('tfidf', args)
     # vectors = svd(vectors)
