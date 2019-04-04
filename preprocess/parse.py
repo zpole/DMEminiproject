@@ -38,7 +38,10 @@ class MyHTMLParser(HTMLParser):
         HTMLParser.__init__(self)
         self.txt = txt
         self.args = args
-        self.tokeniser = CountVectorizer(token_pattern=r'(?u)\b\w\w+\b').build_tokenizer()
+        if self.args.other:
+            self.tokeniser = CountVectorizer(token_pattern=r'(?u)\b\w\w+\b').build_tokenizer()
+        else:
+            self.tokeniser = CountVectorizer(token_pattern=r'(?u)\b\w+\b').build_tokenizer()
 
         if self.args.mime:
             self.root = True
@@ -58,7 +61,7 @@ class MyHTMLParser(HTMLParser):
         if not self.root:
             if self.args.other:
                 doc = unidecode.unidecode(doc)
-                
+
             doc = doc.lower()
             doc = ' ' + doc + ' '
 
