@@ -86,7 +86,7 @@ def exec_time(start, end):
     return s, m, h
 
 
-def CrossValidation(model, vectors, labels, uni, classes):
+def CrossValidation(model, vectors, labels, uni, classes, partial_p=False, cfsm=False):
     universities = ['cornell', 'texas', 'washington', 'wisconsin']
     label_t = []
     label_p = []
@@ -102,13 +102,13 @@ def CrossValidation(model, vectors, labels, uni, classes):
         s, m, h = exec_time(start,end)
         print('\nFinished model {} on {} validation set'.format(type(model).__name__, university))
         print('Execution Time: ' + '{0:02d}:{1:02d}:{2:02d}'.format(h, m, s))
-        print('Classification performance on {} set:'.format('university'))
-        EvaluationModel(test_label, predict, classes)
+        if partial_p:
+            print('Classification performance on {} set:'.format('university'))
+            EvaluationModel(test_label, predict, classes)
     print('='*30 + ' Report overall cross validation performance ' + '=' * 30)
-    EvaluationModel(label_t, label_p, classes, cfsm = True)
+    EvaluationModel(label_t, label_p, classes, cfsm = cfsm)
     return label_t, label_p
 
-    # print('CrossValidation Performance: ')
 
 
 if __name__ == '__main__':
