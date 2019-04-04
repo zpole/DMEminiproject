@@ -56,12 +56,15 @@ class MyHTMLParser(HTMLParser):
 
     def handle_data(self, doc):
         if not self.root:
-            doc = unidecode.unidecode(doc)
+            if self.args.other:
+                doc = unidecode.unidecode(doc)
+                
             doc = doc.lower()
             doc = ' ' + doc + ' '
 
             if self.args.other:
                 doc = re.sub(r'\bph\.? ?d\.?\b', 'phd', doc)
+                doc = re.sub(r'_+', ' ', doc)
             
             if self.args.digit:
                 doc = re.sub(r'(\D)\d{1,2}:\d\d:\d\d(\D)', r'\1 PlHolderTime \2', doc)
@@ -115,8 +118,6 @@ class MyHTMLParser(HTMLParser):
                 doc = re.sub(r'(?!\D)\d{7}(?=\D)', ' PlHolderSevenDigit ', doc)
                 doc = re.sub(r'(?!\D)\d{8}(?=\D)', ' PlHolderEightDigit ', doc)
                 doc = re.sub(r'(?!\D)\d+(?=\D)', ' PlHolderDigits ', doc)
-                
-            doc = re.sub(r'_+', ' ', doc)
 
             if self.args.stem:
                 if self.args.stop:
