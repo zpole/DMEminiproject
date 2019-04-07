@@ -3,7 +3,7 @@ from sklearn.metrics import confusion_matrix, precision_score, recall_score, f1_
 from sklearn.utils.multiclass import unique_labels
 from sklearn import svm, metrics
 from sklearn.linear_model import LogisticRegression
-from sklearn.decomposition import TruncatedSVD
+from sklearn.decomposition import TruncatedSVD, NMF
 import scipy.sparse as sp
 import numpy as np
 import matplotlib.pyplot as plt
@@ -11,8 +11,12 @@ import generatevector
 import argparse
 
 
+def nmf(vectors):
+    pca = NMF(n_components=90)
+    return pca.fit_transform(vectors)
+
 def svd(vectors):
-    svd = TruncatedSVD(n_components=90)
+    svd = TruncatedSVD(n_components=2560)
     return svd.fit_transform(vectors)
 
 
@@ -109,6 +113,7 @@ if __name__ == '__main__':
     classes = ["course", "department", "faculty", "other", "project", "staff", "student"]
     vectors, labels, uni, filename, features = generatevector.vectoriser('tfidf', args)
     # vectors = svd(vectors)
+    # vectors = nmf(vectors)
     train_vector, train_label, test_vector, test_label = splitvector(vectors, labels, uni, "cornell")
     # predict = svmclassifier(train_vector, train_label, test_vector)
     predict = lrclassifier(train_vector, train_label, test_vector)

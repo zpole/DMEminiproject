@@ -15,7 +15,7 @@ def readfile(args):
     # root_dir = getRootDir(stem=stem, stop=stop)
     root_dir = 'tokens' + getRootSuffix(args)
 
-    allfiles = glob.glob(root_dir + '/train/**/*', recursive=True)
+    allfiles = glob.glob(root_dir + '/test/**/*', recursive=True)
     if len(allfiles) == 0:
         print("dir is empty!")
         exit()

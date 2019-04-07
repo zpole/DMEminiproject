@@ -4,3 +4,10 @@
 webkb/
 processed/
 __pycache__/
+train/
+test/
+token*/
+
+*.iml
+*.xml
+*.txt

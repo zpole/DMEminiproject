@@ -32,7 +32,7 @@ def plot_confusion_matrix(y_true, y_pred, classes,
         print("Normalized confusion matrix")
     else:
         print('Confusion matrix, without normalization')
-
+    
     print(cm)
 
     fig, ax = plt.subplots()
@@ -71,11 +71,12 @@ def EvaluationModel(test_label, predict, classes, cfsm = False):
     if cfsm:
         np.set_printoptions(precision=2)
         # Plot non-normalized confusion matrix
-        plot_confusion_matrix(test_label, predict, classes=classes,
-                            title='Confusion matrix, without normalization')
+#         plot_confusion_matrix(test_label, predict, classes=classes,
+#                             title='Confusion matrix, without normalization')
         # Plot normalized confusion matrix
         plot_confusion_matrix(test_label, predict, classes=classes, normalize=True,
                             title='Normalized confusion matrix')
+        plt.savefig('figure.pdf', format='pdf', dpi=300)
         plt.show()
 
 def exec_time(start, end):
